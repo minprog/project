@@ -1,4 +1,4 @@
-# Final Project: Flask
+# Final Project: Django
 
 ## Requirements
 
@@ -26,9 +26,9 @@ Note: originality in this case doesn't mean that you must create a totally new i
 
 ## Implementation details<br><small>How it must be implemented</small>
 
-- Your web application must utilize Flask, JavaScript, and SQL.
+- Your web application must utilize Django, some JavaScript, and quite a bit of SQL.
 
-- Your web application must be sufficiently complex, as determined by the course's instructor.
+- Your web application, and especially your database design, must be sufficiently complex, as determined by the course's instructor.
 
 - Your web application's source code must include your name in a comment atop every source file in the project to indicate that you wrote it (unless re-using a source file from another project).
 

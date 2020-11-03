@@ -44,7 +44,7 @@ Voor het project zijn enkele milestones gedefiniëerd. Het is belangrijk deze bi
 | ------------- | -------------: | ----------: |
 | Proposal      |        3 dagen |  8 november |  
 | Design Doc    |        4 dagen | 10 november |  
-| Alpha Version |        2 weken | 17 november |  
+| Alpha Version |         1 week | 17 november |  
 | Beta Version  |        2 weken |  1 december |  
 
 In de **laatste week** (vanaf 7 mei) ga je je eindproject afronden middels een aantal verschillende stappen. Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór juni helemaal afgerond is, inclusief eindbeoordeling.

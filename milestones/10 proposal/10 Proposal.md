@@ -4,7 +4,7 @@ You'll kick off your project by handing in a proposal document. This document sh
 
 ## Getting started
 
-1. To start your project, you should accept a new assignment on GitHub classroom: [Final Project](https://classroom.github.com/a/rsHLtKs2). This will create a GitHub repository for your project.
+1. To start your project, you should accept a new assignment on GitHub classroom: [Final Project](https://classroom.github.com/a/dk61wpN2). This will create a GitHub repository for your project.
 
 2. Click on the link that follows "Your assignment has been created here", which will direct you to the GitHub repository page for your project. It may take a few seconds for GitHub to finish creating your repository.
 
@@ -44,7 +44,8 @@ In all cases, you should be able to define a specific target audience or a speci
 
 Describe your solution in moderate detail. You are sketching the "user experience": the situation that a user might be in and of which using your website is a part.
 
-> You should not use a formal sketching app (like a "wireframing" tool). This will be your next step. For now, draw by hand, doodle a little bit, throw away, start again and finally draw your basic sketch by hand.
+> You should not use a formal sketching app (like a "wireframing" tool). Doing that will be part of your next step. For now, draw by hand, doodle a little bit, throw away, start again and finally draw your basic sketch by hand. The idea is that you do not spend too much time on details in this phase, but just enough for someone to decide if your project is "enough".
+{:.bg-light}
 
 - **Summarize** your idea in one or two sentences, connecting it to the problem that you have defined. "This application will..."
 
@@ -69,7 +70,7 @@ Describe the things that you'll have to get in order before really starting your
 
 ## Sanity check
 
-Before continuing, compare your solution to the [project requirements](/projects/final) one last time. Also, is it still clear that your proposed project is indeed a solution to the stated problem?
+Before continuing, compare your solution to the project requirements one last time. Also, is it still clear that your proposed project is indeed a solution to the stated problem?
 
 The proposal document should be well-written and clearly formatted. Do not forget to include a
 title, your name, and a paragraph summary of the application goals at the top. Use Markdown to format your headers etc.
@@ -130,14 +131,13 @@ Below, you submit your GitHub repo URL. In addition, make sure you check off the
 <div class="form-check">
   <input required name="form[listofotherapps]" class="form-check-input" type="checkbox" value="yes" id="check6">
   <label class="form-check-label" for="check6">
-    README.md contains multiple examples of similar apps and describes what your app does differently
+    README.md contains multiple examples of similar apps and describes what my app does differently
   </label>
 </div>
 
 <div class="form-check">
   <input required name="form[listofhardtofigureout]" class="form-check-input" type="checkbox" value="yes" id="check7">
   <label class="form-check-label" for="check7">
-    README.md contains a small list of things that you think will take most time to figure out/implement
+    README.md contains a small list of things that I think will take most time to figure out/implement
   </label>
 </div>
-

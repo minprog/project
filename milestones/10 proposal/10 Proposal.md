@@ -79,7 +79,7 @@ Finally, make sure that your document is spell-checked, and that images are **no
 
 ## Submitting
 
-After you have pushed all changes to Github, copy the URL of the GitHub page for your project and submit it below. It will be in this format: `https://github.com/uva-webapps/project-username`.
+After you have pushed all changes to Github, copy the URL of the GitHub page for your project and submit it below. It will be in this format: `https://github.com/uva-webapps/final-username`.
 
 Don't commit any **code** yet, just your proposal. Your repository should be clean for us to read, containing the `README.md`, a `doc` folder, pictures in the `doc` folder, an empty `app` folder and nothing else.
 

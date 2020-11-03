@@ -12,7 +12,7 @@ Het vak Programmeerplatform of Web App Studio moet je helemaal gehaald hebben v�
 
 ## Docenten en contact
 
-Je docenten zijn Martijn Stegeman (coördinator), ....
+Je docent is Martijn Stegeman en je begeleidende assistent is Marijn Doeve.
 
 - Voor vragen over de stof, hulp met programmeren, technische ondersteuning, plaats je zoveel mogelijk een vraag op [Ed](https://us.edstem.org/courses/365).
 - Heb je een technische vraag waarvoor je met een assistent moet spreken? Dan kun je video-assistentie inplannen via [Calendly](http://calendly.com/app-studio/assistentie).
@@ -40,23 +40,20 @@ Let op dat je minimaal aan bovenstaande verwachtingen moet voldoen om een eindci
 
 Voor het project zijn enkele milestones gedefiniëerd. Het is belangrijk deze bij benadering te halen als je het vak tijdig wil afronden.
 
-| Onderdeel     | Tijdsbesteding | Deadline |  
-| ------------- | -------------: | -------: |
-| Proposal      |        2 dagen | 31 maart |  
-| Design Doc    |        4 dagen |  6 april |  
-| Alpha Version |        2 weken | 20 april |  
-| Beta Version  |        2 weken |   11 mei |  
+| Onderdeel     | Tijdsbesteding |    Deadline |  
+| ------------- | -------------: | ----------: |
+| Proposal      |        3 dagen |  8 november |  
+| Design Doc    |        4 dagen | 10 november |  
+| Alpha Version |        2 weken | 17 november |  
+| Beta Version  |        2 weken |  1 december |  
 
-Let op dat we vakantie hebben van 25 april t/m 5 mei - dit is meegenomen in de deadlines.
+In de **laatste week** (vanaf 7 mei) ga je je eindproject afronden middels een aantal verschillende stappen. Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór juni helemaal afgerond is, inclusief eindbeoordeling.
 
-In de **laatste week** (vanaf 18 mei) ga je je eindproject afronden middels een aantal verschillende stappen. Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór juni helemaal afgerond is, inclusief eindbeoordeling.
-
-| Onderdeel        | Deadline              |  
-| ---------------- | --------------------- |
-| Final Product    | 18 mei                |  
-| Code reviews     | 19 mei                |  
-| Screencast       | 20 mei                |  
-| Eindpresentaties | geen eindpresentaties |  
+| Onderdeel     |    Deadline |  
+| ------------- | ----------: |
+| Final Product |  8 december |  
+| Code reviews  |  9 december |  
+| Screencast    | 10 december |  
 
 
 ## Becijfering van het eindproject

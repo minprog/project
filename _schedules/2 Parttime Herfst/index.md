@@ -15,8 +15,8 @@ Het vak Programmeerplatform of Web App Studio moet je helemaal gehaald hebben v√
 Je docent is Martijn Stegeman en je begeleidende assistent is Marijn Doeve.
 
 - Voor vragen over de stof, hulp met programmeren, technische ondersteuning, plaats je zoveel mogelijk een vraag op [Ed](https://us.edstem.org/courses/365).
-- Heb je een technische vraag waarvoor je met een assistent moet spreken? Dan kun je video-assistentie inplannen via [Calendly](http://calendly.com/app-studio/assistentie).
-- Ben je je eindproject aan het doen en moet je je voortgang bespreken of anderszins overleggen? Maak dan een afspraak voor met je mentor via [Calendly](http://calendly.com/app-studio/assistentie-parttime).
+- Heb je een technische vraag waarvoor je met een assistent moet spreken? Dan kun je video-assistentie aanvragen door hierboven jezelf in de rij te zetten (?).
+- Is het tijd om je voortgang te bespreken of anderszins overleggen? Maak dan een afspraak via [Calendly](https://calendly.com/app-studio/project).
 - Voor vragen over regeltjes, het maken van persoonlijke afspraken en het op de hoogte houden van de docenten over het later inleveren stuur je een mail naar <help@mprog.nl>.
 
 

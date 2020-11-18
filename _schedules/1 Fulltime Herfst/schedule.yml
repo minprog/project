@@ -1,6 +1,7 @@
 Milestones:
     Voorbereidende milestones (20% van de tijd):
-        Flask project requirements: /flask
+        Django project requirements: /django
+        # Flask project requirements: /flask
         Proposal: /milestones/proposal
         Design document: /milestones/design
         Process book: /milestones/process

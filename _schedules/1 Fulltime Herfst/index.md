@@ -5,6 +5,35 @@
 Het eindproject wordt gedaan volgens een aantal milestones. Dit zijn momenten in het project waar we een expliciet contact inbouwen, zodat je feedback kunt krijgen. Maak daarom een afspraak met één van de begeleiders voor *elke* milestone die je af hebt. Zeker de eerste milestones zijn cruciale momenten voor feedback en moeten afgetekend worden.
 
 
+## Kalender
+
+Voor het project zijn enkele milestones gedefiniëerd. Het is belangrijk deze **bij benadering** te halen als je het vak tijdig wil afronden.
+
+| Onderdeel     | Tijdsbesteding |    Deadline |  
+| ------------- | -------------: | ----------: |
+| Proposal      |        2 dagen | 27 november |  
+| Design Doc    |        2 dagen |  1 december |  
+| Alpha Version |        3 dagen |  4 december |  
+| Beta Version  |         1 week | 11 december |  
+
+Wekelijks zijn er **werkgroepen** om feedback te geven en te ontvangen. Hierbij laat elke student de tussenstand zien en licht waar nodig de voortgang toe. Andere studenten geven advies of ideeën, niet alleen om het "beter" te doen maar bijvoorbeeld ook om juist te helpen dingen te schrappen.
+
+| Fase          |      Werkgroep |  
+| ------------- | -------------: |
+| Proposal      | 26-27 november |  
+| Alpha Version |   3-4 december |  
+| Beta Version  | 10-11 december |  
+
+In de **laatste week** (vanaf 14 december) ga je je eindproject afronden middels een aantal verschillende stappen. Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór juni helemaal afgerond is, inclusief eindbeoordeling.
+
+| Onderdeel        |       Deadline |  
+| ---------------- | -------------: |
+| Final Product    |    14 december |  
+| Code reviews     |    15 december |  
+| Screencast       |    16 december |  
+| Eindpresentaties | 17-18 december |  
+
+
 ## Voorkennis
 
 Het vak Programmeerplatform of Web App Studio moet je helemaal gehaald hebben vóór je deze cursus start.
@@ -12,10 +41,9 @@ Het vak Programmeerplatform of Web App Studio moet je helemaal gehaald hebben v�
 
 ## Docenten en contact
 
-Je docenten zijn Martijn Stegeman (coördinator), ....
+Je docenten zijn Martijn Stegeman en Jelle van Assema.
 
 - Voor vragen over de stof, hulp met programmeren, technische ondersteuning, plaats je zoveel mogelijk een vraag op [Ed](https://us.edstem.org/courses/365).
-- Heb je een technische vraag waarvoor je met een assistent moet spreken? Dan kun je video-assistentie inplannen via [Calendly](http://calendly.com/app-studio/assistentie).
 - Ben je je eindproject aan het doen en moet je je voortgang bespreken of anderszins overleggen? Maak dan een afspraak voor met je mentor via [Calendly](http://calendly.com/app-studio/assistentie-parttime).
 - Voor vragen over regeltjes, het maken van persoonlijke afspraken en het op de hoogte houden van de docenten over het later inleveren stuur je een mail naar <help@mprog.nl>.
 
@@ -34,29 +62,6 @@ Om de cursus tot een goed einde te brengen, verwachten we dat je:
 ## Eindcijfer
 
 Let op dat je minimaal aan bovenstaande verwachtingen moet voldoen om een eindcijfer te kunnen halen. Je krijgt dan een cijfer dat wordt opgebouwd uit diverse onderdelen: kwaliteit van de code, van het ontwerp, maar ook hoe systematisch je hebt gewerkt en documentatie hebt bijgehouden.
-
-
-## Kalender
-
-Voor het project zijn enkele milestones gedefiniëerd. Het is belangrijk deze bij benadering te halen als je het vak tijdig wil afronden.
-
-| Onderdeel     | Tijdsbesteding | Deadline |  
-| ------------- | -------------: | -------: |
-| Proposal      |        2 dagen | 31 maart |  
-| Design Doc    |        4 dagen |  6 april |  
-| Alpha Version |        2 weken | 20 april |  
-| Beta Version  |        2 weken |   11 mei |  
-
-Let op dat we vakantie hebben van 25 april t/m 5 mei - dit is meegenomen in de deadlines.
-
-In de **laatste week** (vanaf 18 mei) ga je je eindproject afronden middels een aantal verschillende stappen. Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór juni helemaal afgerond is, inclusief eindbeoordeling.
-
-| Onderdeel        | Deadline              |  
-| ---------------- | --------------------- |
-| Final Product    | 18 mei                |  
-| Code reviews     | 19 mei                |  
-| Screencast       | 20 mei                |  
-| Eindpresentaties | geen eindpresentaties |  
 
 
 ## Becijfering van het eindproject

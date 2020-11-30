@@ -59,7 +59,11 @@ Do make sure that you use realistic content in your sketches! Google a few image
 
 ## Database
 
-Draw a diagram of your database tables and fields (and their types). You can use a UML-like drawing for this (like you have seen before). A source that can help you draw your database in a clearly understandable way is the [Database Structure and Design Tutorial](https://www.lucidchart.com/pages/database-diagram/database-design).
+Draw a diagram of your database **tables**, **fields** (and their types), as well as the **relations** between tables.
+
+You can use a UML-like drawing for this (like you have seen before). A source that can help you draw your database in a clearly understandable way is the [Database Structure and Design Tutorial](https://www.lucidchart.com/pages/database-diagram/database-design).
+
+You could again use Keynote or another presentation tool to draw diagrams, or you could find a specialized tool. However, choose wisely as to what to invest your time in!
 
 
 ## Lists

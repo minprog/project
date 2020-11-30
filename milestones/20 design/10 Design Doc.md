@@ -59,11 +59,7 @@ Do make sure that you use realistic content in your sketches! Google a few image
 
 ## Database
 
-Draw a diagram of your database tables and fields (and their types). You can use a UML-like drawing for this.
-
-- Do it like this: [Class diagrams](https://openclassrooms.com/en/courses/4191736-design-a-database-with-uml/4191743-learn-about-class-diagrams)
-- And this to show relations between tables: [Domain diagrams](https://openclassrooms.com/en/courses/4191736-design-a-database-with-uml/4191781-describe-a-society-with-domain-diagrams)
-- And where needed, have a look at the other pages from that course
+Draw a diagram of your database tables and fields (and their types). You can use a UML-like drawing for this (like you have seen before). A source that can help you draw your database in a clearly understandable way is the [Database Structure and Design Tutorial](https://www.lucidchart.com/pages/database-diagram/database-design).
 
 
 ## Lists

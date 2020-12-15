@@ -1,4 +1,19 @@
+templates:
+    1: &besproken
+        type: pass
+        subgrades:
+            besproken: boolean
+        calculation: besproken.to_i
+        hide_calculated: true
+
 grades:
+    proposal: *besproken
+    design: *besproken
+    process: *besproken
+    alpha: *besproken
+    beta: *besproken
+    screencast: *besproken
+    
     final:
         type: float
         subgrades:

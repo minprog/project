@@ -7,14 +7,14 @@ Het eindproject wordt gedaan volgens een aantal milestones. Dit zijn momenten in
 
 ## Kalender
 
-Voor het project zijn enkele milestones gedefiniëerd. Het is belangrijk deze **bij benadering** te halen als je het vak tijdig wil afronden.
+Voor het project zijn enkele milestones gedefiniëerd. Het is belangrijk deze te halen als je het vak tijdig wil afronden.
 
 | Onderdeel     | Tijdsbesteding |    Deadline |  
 | ------------- | -------------: | ----------: |
-| Proposal      |        2 dagen | 27 november |  
-| Design Doc    |        2 dagen |  1 december |  
-| Alpha Version |        3 dagen |  4 december |  
-| Beta Version  |         1 week | 11 december |  
+| Pre-proposal  |                |    28 april |
+| Proposal      |          1 dag |      10 mei |  
+| Design Doc    |        2 dagen |      12 mei |  
+| Beta Version  |         1 week |      19 mei |  
 
 Wekelijks zijn er **werkgroepen** om feedback te geven en te ontvangen. Hierbij laat elke student de tussenstand zien en licht waar nodig de voortgang toe. Andere studenten geven advies of ideeën, niet alleen om het "beter" te doen maar bijvoorbeeld ook om juist te helpen dingen te schrappen.
 
@@ -24,14 +24,14 @@ Wekelijks zijn er **werkgroepen** om feedback te geven en te ontvangen. Hierbij 
 | Alpha Version |   3-4 december |  
 | Beta Version  | 10-11 december |  
 
-In de **laatste week** (vanaf 14 december) ga je je eindproject afronden middels een aantal verschillende stappen. Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór juni helemaal afgerond is, inclusief eindbeoordeling.
+In de **laatste week** (vanaf 25 mei) ga je je eindproject afronden middels een aantal verschillende stappen. Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór juni helemaal afgerond is, inclusief eindbeoordeling.
 
-| Onderdeel        |       Deadline |  
-| ---------------- | -------------: |
-| Final Product    |    14 december |  
-| Code reviews     |    15 december |  
-| Screencast       |    16 december |  
-| Eindpresentaties | 17-18 december |  
+| Onderdeel        |  Deadline |  
+| ---------------- | --------: |
+| Final Product    |    25 mei |  
+| Code reviews     |    26 mei |  
+| Screencast       |    27 mei |  
+| Eindpresentaties |    28 mei |  
 
 
 ## Voorkennis

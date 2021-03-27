@@ -5,6 +5,28 @@
 Het eindproject wordt gedaan volgens een aantal milestones. Dit zijn momenten in het project waar we een expliciet contact inbouwen, zodat je feedback kunt krijgen. Maak daarom een afspraak met één van de begeleiders voor *elke* milestone die je af hebt. Zeker de eerste milestones zijn cruciale momenten voor feedback en moeten afgetekend worden.
 
 
+## Kalender
+
+Voor het project zijn enkele **milestones** gedefiniëerd. Het is belangrijk deze te halen als je het vak tijdig wil afronden, en alleen bij hoge uitzondering kun je een milestone met een dagje uitstellen.
+
+| Onderdeel     | Tijdsbesteding | Deadline |  
+| ------------- | -------------: | -------: |
+| Proposal      |        3 dagen |  8 april |  
+| Design Doc    |        4 dagen | 14 april |  
+| Alpha Version (groot deel van het werk) |         1 week | 21 april |  
+| Beta Version (grootste deel werk)  |        2 weken |   12 mei |  
+
+Wekelijks zijn er **werkgroepen** om de voortgang door te nemen met de groep. De bedoeling is laagdrempelig laten zien waar je mee bezig bent zodat je groepsgenoten kunnen meedenken en jij je tunnelvisie een beetje kan doorbreken (want zo gaat het nu eenmaal in een eigen project!).
+
+In de **laatste week** (vanaf 17 mei) ga je je eindproject afronden middels een aantal verschillende stappen. Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór juni helemaal afgerond is, inclusief eindbeoordeling.
+
+| Onderdeel     |       Deadline |  
+| ------------- | -------------: |
+| Final Product | ma 17 mei      |  
+| Code reviews  | di 18 mei      |  
+| Screencast    | wo 19 mei      |  
+
+
 ## Voorkennis
 
 Het vak Programmeerplatform of Web App Studio moet je helemaal gehaald hebben vóór je deze cursus start.
@@ -12,7 +34,7 @@ Het vak Programmeerplatform of Web App Studio moet je helemaal gehaald hebben v�
 
 ## Docenten en contact
 
-Je docent is Martijn Stegeman en je begeleidende assistent is Björn Out.
+Je docenten zijn Martijn Stegeman en Jelle van Assema, assistenten Marijn Doeve en Wouter de Boer.
 
 - Voor vragen over de stof, hulp met programmeren, technische ondersteuning, plaats je zoveel mogelijk een vraag op [Ed](https://us.edstem.org/courses/365).
 - Heb je een technische vraag waarvoor je met een assistent moet spreken? Dan kun je video-assistentie aanvragen door hierboven jezelf in de rij te zetten (?).
@@ -34,28 +56,6 @@ Om de cursus tot een goed einde te brengen, verwachten we dat je:
 ## Eindcijfer
 
 Let op dat je minimaal aan bovenstaande verwachtingen moet voldoen om een eindcijfer te kunnen halen. Je krijgt dan een cijfer dat wordt opgebouwd uit diverse onderdelen: kwaliteit van de code, van het ontwerp, maar ook hoe systematisch je hebt gewerkt en documentatie hebt bijgehouden.
-
-
-## Kalender
-
-Start je dit vak in periode 4 (Februari--Maart) dan gelden andere deadlines, die in overleg zijn vastgesteld.
-
-Voor het project zijn enkele milestones gedefiniëerd. Het is belangrijk deze bij benadering te halen als je het vak tijdig wil afronden.
-
-| Onderdeel     | Tijdsbesteding | Deadline |  
-| ------------- | -------------: | -------: |
-| Proposal      |        3 dagen |  8 april |  
-| Design Doc    |        4 dagen | 10 april |  
-| Alpha Version |         1 week | 17 april |  
-| Beta Version  |        2 weken |    1 mei |  
-
-In de **laatste week** (vanaf 7 mei) ga je je eindproject afronden middels een aantal verschillende stappen. Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór juni helemaal afgerond is, inclusief eindbeoordeling.
-
-| Onderdeel     |    Deadline |  
-| ------------- | ----------: |
-| Final Product |  8 mei      |  
-| Code reviews  |  9 mei      |  
-| Screencast    | 10 mei      |  
 
 
 ## Becijfering van het eindproject

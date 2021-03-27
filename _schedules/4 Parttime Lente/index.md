@@ -18,6 +18,8 @@ Voor het project zijn enkele **milestones** gedefiniëerd. Het is belangrijk dez
 
 Wekelijks zijn er **werkgroepen** om de voortgang door te nemen met de groep. De bedoeling is laagdrempelig laten zien waar je mee bezig bent zodat je groepsgenoten kunnen meedenken en jij je tunnelvisie een beetje kan doorbreken (want zo gaat het nu eenmaal in een eigen project!).
 
+Daarnaast heb je elke week een persoonlijk **voortgangsgesprek** met je mentor. Hier ga je in detail naar je project kijken, je mentor geeft feedback als jij daarom vraagt en je kunt steeds het doel aanscherpen zodat er uiteindelijk een succesvol eindproduct staat. De verwachting is dus dat bij elk gesprek je plannen een klein beetje aangepast worden.
+
 In de **laatste week** (vanaf 17 mei) ga je je eindproject afronden middels een aantal verschillende stappen. Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór juni helemaal afgerond is, inclusief eindbeoordeling.
 
 | Onderdeel     |       Deadline |  

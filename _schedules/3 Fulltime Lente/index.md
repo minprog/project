@@ -9,20 +9,12 @@ Het eindproject wordt gedaan volgens een aantal milestones. Dit zijn momenten in
 
 Voor het project zijn enkele milestones gedefiniëerd. Het is belangrijk deze te halen als je het vak tijdig wil afronden.
 
-| Onderdeel     | Tijdsbesteding |    Deadline |  
+| Milestone     | Tijdsbesteding |    Deadline |  
 | ------------- | -------------: | ----------: |
-| Pre-proposal  |                |    28 april |
-| Proposal      |          1 dag |      10 mei |  
-| Design Doc    |        2 dagen |      12 mei |  
-| Beta Version  |         1 week |      19 mei |  
-
-Wekelijks zijn er **werkgroepen** om feedback te geven en te ontvangen. Hierbij laat elke student de tussenstand zien en licht waar nodig de voortgang toe. Andere studenten geven advies of ideeën, niet alleen om het "beter" te doen maar bijvoorbeeld ook om juist te helpen dingen te schrappen.
-
-| Fase          |      Werkgroep |  
-| ------------- | -------------: |
-| Proposal      | 26-27 november |  
-| Alpha Version |   3-4 december |  
-| Beta Version  | 10-11 december |  
+| Proposal      |      1 werkdag |    28 april |  
+| Design Doc    |    2 werkdagen |    30 april |  
+| Alpha Version |    3 werkdagen |      12 mei |  
+| Beta Version  |    5 werkdagen |      21 mei |  
 
 In de **laatste week** (vanaf 25 mei) ga je je eindproject afronden middels een aantal verschillende stappen. Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór juni helemaal afgerond is, inclusief eindbeoordeling.
 
@@ -36,15 +28,15 @@ In de **laatste week** (vanaf 25 mei) ga je je eindproject afronden middels een 
 
 ## Voorkennis
 
-Het vak Programmeerplatform of Web App Studio moet je helemaal gehaald hebben vóór je deze cursus start.
+Het vak Programmeerplatform moet je helemaal gehaald hebben vóór je deze cursus start.
 
 
 ## Docenten en contact
 
 Je docenten zijn Martijn Stegeman en Jelle van Assema.
 
-- Voor vragen over de stof, hulp met programmeren, technische ondersteuning, plaats je zoveel mogelijk een vraag op [Ed](https://us.edstem.org/courses/365).
-- Ben je je eindproject aan het doen en moet je je voortgang bespreken of anderszins overleggen? Maak dan een afspraak voor met je mentor via [Calendly](http://calendly.com/app-studio/assistentie-parttime).
+- Voor vragen over de stof, hulp met programmeren, technische ondersteuning, plaats je zoveel mogelijk een vraag op [Ed](https://edstem.org/us/courses/4551).
+- Heb je een technische vraag waarvoor je met een assistent moet spreken? Dan kun je video-assistentie aanvragen door hierboven jezelf in de rij te zetten (?).
 - Voor vragen over regeltjes, het maken van persoonlijke afspraken en het op de hoogte houden van de docenten over het later inleveren stuur je een mail naar <help@mprog.nl>.
 
 
@@ -117,7 +109,7 @@ Wat betreft fraude en plagiaat volgen we in deze cursus de richtlijnen van de Un
 
 ## Herkansen
 
-Het vak bestaat uit een hoeveelheid projecten die binnen de gestelde tijd afgemaakt moeten worden. Red je het niet binnen de tijd, dan kun je doorgaans het vak afmaken in een later semester. De projecten worden echter niet *standaard* overgezet. Je moet altijd zelf contact opnemen vóór de start van een nieuwe editie van het vak om afspraken te maken over het meenemen van de oude opdrachten en het verder afmaken van de resterende.
+Het vak bestaat uit een project dat binnen de gestelde tijd afgemaakt moeten worden. Red je het niet binnen de tijd, dan kun je het vak in een volgend semester opnieuw volgen. De invulling zal met ingang van het volgende studiejaar wel veranderen.
 
 
 ## Dankbetuiging/Acknowledgements

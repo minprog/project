@@ -26,7 +26,7 @@ Note: originality in this case doesn't mean that you must create a totally new i
 
 ## Implementation details<br><small>How it must be implemented</small>
 
-- Your web application must utilize Django, CSS for layout, and a fairly complex database schema.
+- Your web application must utilize Django, CSS for layout.
 
 - Your web application, and especially your database design, must be sufficiently complex, as determined by the course's instructor.
 
@@ -34,7 +34,7 @@ Note: originality in this case doesn't mean that you must create a totally new i
 
 - Your web application must be reproducible on another computer by cloning the repository and following instructions in the `README`.
 
-- jQuery may not be used except to use standard functionality from web frameworks like Bootstrap. If you don't know what jQuery is, that's fine!
+- jQuery may not be used except to use standard functionality from web frameworks like Bootstrap. If you don't know what jQuery is, that's fine! Any JS code should be standard ES6, like you've seen in lecture.
 
 ## Process requirements<br><small>What else you need to do</small>
 

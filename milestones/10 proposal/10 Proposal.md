@@ -55,10 +55,12 @@ Describe your solution in moderate detail. You are sketching the "user experienc
 
 - Use a good tool to photograph your sketch and convert to a good quality picture to embed into your proposal. You can also split up your sketch in multiple parts that you separately embed.
 
+- If your sketches are unreadable, or you've put them sideways, or is missing obviously needed screens, your proposal will not (yet) be looked at. This will delay your project and you will need to compensate for that. In other words: take the time to draw good sketches.
+
 
 ## Prerequisites
 
-Describe the things that you'll have to get in order before really starting your project.
+Describe the things that you'll have to get in order before really starting your project. You should do this based on what you know **now**. After submitting you proposal document, during feedback conversations with other students, or with teachers, additional stuff may come up. You may add those things to your proposal at that time.
 
 - List any **data sources** that you will use and whether you will need to transform the data before it is usable for your application. The list should include links to where the data sources can be found (downloaded or accessed via API). If you need to have an account to access the data, make the account now. Often it proves to be harder than expected to access good data.
 
@@ -87,7 +89,7 @@ Don't commit any **code** yet, just your proposal. Your repository should be cle
 
 The next step in your project is creating a design document. There, you'll describe how your project will be created according to the rules of the application framework that you're using.
 
-Meanwhile, keep an eye on the **GitHub Issues** for your project. This is where you will get feedback on whether your project is accepted as it is described, or you need to make some changes.
+Meanwhile, keep an eye on the **GitHub Issues** for your project (go to your repo webpage on the GitHub site and then go to Issues). This is where you will get feedback on whether your project is accepted as it is described, or you need to make some changes.
 
 ## Submit
 

@@ -27,9 +27,23 @@ First list the features that users will be able to use:
 
 ## User interface
 
-Draw a detailed walkthrough of the user interface of your app. You should draw multiple "screens" separately, in order to make very clear the things that happen on screen when navigating the app.
+Draw a detailed walkthrough of the user interface of your app. **For each task** that a user can accomplish, you will draw a series of screens that completely visualize how the user interface looks when performing such a task.
 
-You must create "professional" drawings using a software tool. Some examples of what we expect:
+A task can be something like:
+
+- adding something
+- logging in
+- searching by keyword
+- filtering a list by ...
+- sending a message to another user
+
+(These are just **examples** to make clear what a task is. No need to include any of those examples in your app.)
+
+You should draw many "screens" separately, in order to make very clear the things that happen on screen when navigating the app.
+
+### How to draw
+
+You **must** create "professional" drawings using a software tool. Some examples of what we expect:
 
 <div class="row">
 <div class="col-xs-6 col-md-3">
@@ -61,7 +75,14 @@ Do make sure that you use realistic content in your sketches! Google a few image
 
 Draw a diagram of your database **tables**, **fields** (and their types), as well as the **relations** between tables.
 
-In the SQL lecture you have seen how database designs are usually presented in diagrams. A source that can help you draw your database in a clearly understandable way is the [Database Structure and Design Tutorial](https://www.lucidchart.com/pages/database-diagram/database-design).
+In the [SQL lecture](https://platforms.mprog.nl/sql/lecture#imdb) you have seen how database designs are usually presented in diagrams (IMDb example). A source that can help you draw your database in a clearly understandable way is the [Database Structure and Design Tutorial](https://www.lucidchart.com/pages/database-diagram/database-design).
+
+What to include:
+
+- table names
+- column names
+- column IDs
+- relationships between tables
 
 You could again use Keynote or another presentation tool to draw diagrams, or you could find a specialized tool. However, choose wisely as to what to invest your time in!
 
@@ -92,10 +113,9 @@ incompatible decisions, and push that file, too!
   </label>
 </div>
 
-<!--div class="form-check">
+<div class="form-check">
   <input required name="form[appointment]" class="form-check-input" type="checkbox" value="yes" id="check2">
   <label class="form-check-label" for="check2">
-    I will make an appointment to walk through my document before I start coding
+    I updated the descriptions in my README.md to accommodate any changes to my application idea (no need to update the sketches)
   </label>
-</div-->
-
+</div>

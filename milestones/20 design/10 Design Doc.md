@@ -27,7 +27,9 @@ First list the features that users will be able to use:
 
 ## User interface
 
-Draw a detailed walkthrough of the user interface of your app. **For each task** that a user can accomplish, you will draw a series of screens that completely visualize how the user interface looks when performing such a task.
+Draw a detailed walkthrough of the user interface of your app.
+
+**For each task** that a user can accomplish, you will draw a series of screens that completely visualize how the user interface looks when performing such a task. All screens of this single task go into a single image where you can follow the steps from left to right.
 
 A task can be something like:
 
@@ -39,11 +41,35 @@ A task can be something like:
 
 (These are just **examples** to make clear what a task is. No need to include any of those examples in your app.)
 
-You should draw many "screens" separately, in order to make very clear the things that happen on screen when navigating the app.
+Create multiple task images for each task in your application. Embed the images into your design doc and clearly label them, grouping them by feature.
+
+You could imagine something like this:
+
+- Feature: Homepage
+    - Two versions: logged in and not logged in, what is on screen in each case
+    - Easy to compare the two
+    - Top-level navigation should be clearly visible, because it helps understanding the rest of the sketches
+    - There are no "steps" because the homepage can't be filtered, edited or changed in another way
+- Feature: Logging in and registration
+    - An image with the 2 steps taken to login:
+        - a screen with the form to enter username, password, link to registration
+        - a screen with login result, or some way to make clear that a redirect to the homepage is done
+    - An image with the 2 steps taken to register:
+        - a screen with the form to enter username, password (twice?)
+        - a screen with registration result
+- Feature: Chat
+    - Getting to an existing chat (from where?)
+        - ...
+    - Starting a new chat
+        - ...
+    - Sending/receiving messages
+        - ...
+- etc.
+
 
 ### How to draw
 
-You **must** create "professional" drawings using a software tool. Some examples of what we expect:
+You **must** create "professional" drawings using a software tool. Some examples of what we expect in terms of quality:
 
 <div class="row">
 <div class="col-xs-6 col-md-3">

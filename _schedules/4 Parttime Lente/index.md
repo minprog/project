@@ -25,8 +25,9 @@ In de **laatste week** (vanaf 17 mei) ga je je eindproject afronden middels een 
 | Onderdeel     |       Deadline |  
 | ------------- | -------------: |
 | Final Product | ma 17 mei      |  
-| Code reviews  | di 18 mei      |  
-| Screencast    | wo 19 mei      |  
+| Code reviews  | za 22 mei      |  
+| Cleanup       | za 22 mei      |  
+| Screencast    | za 22 mei      |  
 
 
 ## Voorkennis

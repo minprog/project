@@ -21,7 +21,7 @@ The reviewer must pay attention to:
 
 - Stylistic issues in the code. Make sure that you point out the weak spots.
 
-Het resultaat van de review plaats je in `REVIEW.md`. Naar verwachting zijn dit wel gemiddeld 5 flinke verbeterpunten die je uitgebreid kunt beschrijven, maar dat ligt natuurlijk helemaal aan de code!
+Het resultaat van de review plaats je in `REVIEW.md`. Naar verwachting zijn dit wel gemiddeld 5 flinke verbeterpunten die je uitgebreid kunt uitwerken, dus waarover je uitlegt wat het probleem is, hoe het beter zou moeten, en geillustreerde met enkele voorbeelden.
 
 Schrijf bovenaan de file de naam van de student die jouw geholpen heeft met de review.
 

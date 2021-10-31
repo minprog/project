@@ -1,4 +1,4 @@
-# Programmeerproject <br><small>Studiewijzer Parttime, Herfst 2020</small>
+# Programmeerproject <br><small>Studiewijzer Parttime, Herfst 2021</small>
 
 > Binnen enkele weken vorm je van begin tot eind een eigen idee tot een ontwerp en vervolgens implementeer je een eigen applicatie in een modern framework. Je doet ervaring op met systematisch werken en documenteren van zo'n project en het uitzoeken van de kennis die je nodig hebt om het tot een succes te maken. Hierbij beperkt de staf zich tot het geven van feedback op de ideeën en het helpen oplossen van technische blokkades.
 
@@ -13,6 +13,7 @@ Het vak Programmeerplatform moet je helemaal gehaald hebben vóór je deze cursu
 ## Docenten
 
 De docenten bij dit vak zijn Jelle van Assema en Martijn Stegeman. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <help@mprog.nl>.
+
 
 ## Contact
 
@@ -61,20 +62,20 @@ Let op dat je minimaal aan bovenstaande verwachtingen moet voldoen om een eindci
 
 Voor het project zijn enkele milestones gedefiniëerd. Het is belangrijk deze bij benadering te halen als je het vak tijdig wil afronden.
 
-| Onderdeel     | Tijdsbesteding |    Deadline |  
-| ------------- | -------------: | ----------: |
-| Proposal      |        3 dagen |  8 november |  
-| Design Doc    |        4 dagen | 10 november |  
-| Alpha Version |         1 week | 17 november |  
-| Beta Version  |        2 weken |  1 december |  
+| Onderdeel        | Tijdsbesteding |    Deadline |  
+| ---------------- | -------------: | ----------: |
+| JS Calculator    |        4 dagen | 10 november |  
+| React Calculator |        3 dagen | 19 november |  
+| Proposal         |        1 dag   | 23 november |  
+| Prototype        |        4 dagen |  3 december |  
+| Beta Version     |        3 dagen | 10 december |
 
-In de **laatste week** (vanaf 7 mei) ga je je eindproject afronden middels een aantal verschillende stappen. Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór juni helemaal afgerond is, inclusief eindbeoordeling.
+In de **laatste weken** (vanaf 10 december) ga je je eindproject afronden middels een aantal verschillende stappen. Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór de kerstvakantie helemaal afgerond is, inclusief eindbeoordeling.
 
 | Onderdeel     |    Deadline |  
 | ------------- | ----------: |
-| Final Product |  8 december |  
-| Code reviews  |  9 december |  
-| Screencast    | 10 december |  
+| Final Product | 17 december |
+| Screencast    | 21 december |
 
 
 ## Becijfering van het eindproject
@@ -87,9 +88,7 @@ Het cijfer voor dit project zal worden bepaald met behulp van de volgende criter
 
 *Interactieontwerp* --- In hoeverre is het product goed bruikbaar voor "anderen"? Er wordt gekeken naar een coherente uitwerking van een idee, maar vooral naar de wijze waarop de website een goede ervaring geeft voor nieuwe en bestaande gebruikers. Te denken valt aan eenvoudig kunnen "ontdekken" van functionaliteit, layout die eenvoudige bediening mogelijk maakt, goede bruikbaarheid voor mensen met een fysieke beperking.
 
-*Repository* --- In hoeverre is de repository compleet en netjes? We kijken naar het gebruik van de repository én van GitHub zoals dit bedoeld is. Te denken valt aan de indeling van de repository, de vindbaarheid van documentatie en onderdelen van de code, maar ook naar de regelmaat van committen en pushen, en het netjes afvinken van "issues" op GitHub. Een groot probleem is het "opnieuw beginnen" van een repository. Dit moet te allen tijde worden voorkomen.
-
-*Projectdocumentatie* --- In hoeverre is het project goed gedocumenteerd? We kijken naar de algemene beschrijving van het project in de `README.md`, de screencast, de technische beschrijving in `DESIGN.md` en de beschrijving van de voortgang in `PROCESS.md`. Te denken valt aan duidelijk geschreven teksten en nette diagrammen, expliciete links naar belangrijke onderdelen van de code en het up-to-date zijn met het daadwerkelijke eindproduct.
+*Repository en documentatie* --- In hoeverre is de repository compleet en netjes en in hoeverre is het project goed gedocumenteerd? We kijken naar het gebruik van de repository én van GitHub zoals dit bedoeld is. Te denken valt aan de indeling van de repository, de vindbaarheid van documentatie en onderdelen van de code, maar ook naar de regelmaat van committen en pushen, en het netjes afvinken van "issues" op GitHub. Een groot probleem is het "opnieuw beginnen" van een repository. Dit moet te allen tijde worden voorkomen. We kijken ook naar de algemene beschrijving van het project in de `README.md`, de screencast en de beschrijving van de voortgang in `PROCESS.md`. Te denken valt aan duidelijk geschreven teksten en nette diagrammen, expliciete links naar belangrijke onderdelen van de code en het up-to-date zijn met het daadwerkelijke eindproduct.
 
 > **Let op!** Het is jouw taak om in een file `ASSESSMENT.md` op bovenstaande punten aan te geven waar je extra aandacht aan hebt besteed en hoe je dat gedaan hebt. Dat betekent niet dat je helemaal geen aandacht hoeft te besteden aan punten die je niet noemt, maar het betekent wel dat we het zullen waarderen als je een duidelijke visie hebt op je uitwerking. Gezien het formaat van het project is het voor de beoordelaar niet mogelijk om jouw intenties te achterhalen als je ze niet vermeldt. Het project kan dus niet worden beoordeeld als dit korte verslag niet aanwezig is.
 
@@ -106,8 +105,6 @@ Op elk van de criteria kun je 1 tot 5 punten verdienen:
 ## Samenwerken
 
 Al het werk dat je doet om aan bovenstaande verwachtingen te voldoen moet je eigen werk zijn.
-
-- Je mag code van andere studenten lezen om aan de eisen van een code review te voldoen, maar niet vóór de deadline van het betreffende project en het officieel aftekenen van je inzending.
 
 - Ideeën en technieken die je kent uit de reviews van andermans code en uit de feedback die je krijgt van anderen mag je gerust gebruiken, als je maar duidelijk de ideeën toeschrijft via comments in je code.
 

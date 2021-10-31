@@ -1,7 +1,19 @@
-Milestones:
+React:
+    Voorbereidende milestones (40% van de tijd):
+        JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+        React: https://reactjs.org/tutorial/tutorial.html
+        Calculator: /react/calculator
+    Ontwikkel-milestones (40% van de tijd):
+        Proposal: /milestones/prototype
+        Prototype: /milestones/prototype
+        Beta version: /milestones/beta
+    Afrondende milestones (20% van de tijd):
+        Cleanup: /milestones/cleanup
+        Final product: /milestones/product
+        Screencast: /milestones/screencast
+Web:
     Voorbereidende milestones (20% van de tijd):
-        Django project requirements: /django
-        # Flask project requirements: /flask
+        Project requirements: /django
         Proposal: /milestones/proposal
         Design document: /milestones/design
         Process book: /milestones/process

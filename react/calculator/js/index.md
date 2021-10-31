@@ -31,10 +31,8 @@ Create a single page web application for a calculator using only HTML, CSS & Jav
 
 The design of the calculator is completely up to you. However, do just take a quick look as to what other calculators look like. Pay special attention as to where buttons are typically located and how each button behaves.  
 
-
-<img src="calculator_mac.png" alt="calculator_mac"/>
-<img src="calculator.png" alt="calculator_windows"/>
- 
+![](calculator_mac.png)
+![](calculator.png)
 
 
 ## Getting Started

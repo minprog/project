@@ -1,4 +1,4 @@
-## Calculator
+## JavaScript Calculator
 
 Create a single page web application for a calculator using only HTML, CSS & JavaScript.
 
@@ -35,7 +35,7 @@ The design of the calculator is completely up to you. However, do just take a qu
 ![](calculator.png)
 
 
-## Getting Started
+## Steps
 
 ### Create a frame using HTML/CSS
 

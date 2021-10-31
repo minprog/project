@@ -1,34 +1,55 @@
 # Programmeerproject <br><small>Studiewijzer Parttime, Herfst 2020</small>
 
-> "This course picks up where Harvard College’s CS50 leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Flask, Django, and Bootstrap. Topics include database design, scalability, security, and user experience. Through hands-on projects, students learn to write and use APIs, create interactive UIs, and leverage cloud services like GitHub and Heroku. By semester’s end, students emerge with knowledge and experience in principles, languages, and tools that empower them to design and deploy applications on the Internet." --- CSCI S-33a at Harvard.
+> Binnen enkele weken vorm je van begin tot eind een eigen idee tot een ontwerp en vervolgens implementeer je een eigen applicatie in een modern framework. Je doet ervaring op met systematisch werken en documenteren van zo'n project en het uitzoeken van de kennis die je nodig hebt om het tot een succes te maken. Hierbij beperkt de staf zich tot het geven van feedback op de ideeën en het helpen oplossen van technische blokkades.
 
-Het eindproject wordt gedaan volgens een aantal milestones. Dit zijn momenten in het project waar we een expliciet contact inbouwen, zodat je feedback kunt krijgen. Maak daarom een afspraak met één van de begeleiders voor *elke* milestone die je af hebt. Zeker de eerste milestones zijn cruciale momenten voor feedback en moeten afgetekend worden.
+Het eindproject wordt gedaan volgens een aantal milestones. Dit zijn momenten in het project waar we een expliciet contact inbouwen, zodat je feedback kunt krijgen. Maak daarom een afspraak met één van de begeleiders voor *elke* milestone die je af hebt. Zeker de eerste milestones zijn cruciale momenten en moeten afgetekend worden.
 
 
 ## Voorkennis
 
-Het vak Programmeerplatform of Web App Studio moet je helemaal gehaald hebben vóór je deze cursus start.
+Het vak Programmeerplatform moet je helemaal gehaald hebben vóór je deze cursus start.
 
 
-## Docenten en contact
+## Docenten
 
-Je docent is Martijn Stegeman en je begeleidende assistent is Marijn Doeve.
+De docenten bij dit vak zijn Jelle van Assema en Martijn Stegeman. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <help@mprog.nl>.
 
-- Voor vragen over de stof, hulp met programmeren, technische ondersteuning, plaats je zoveel mogelijk een vraag op [Ed](https://us.edstem.org/courses/365).
-- Heb je een technische vraag waarvoor je met een assistent moet spreken? Dan kun je video-assistentie aanvragen door hierboven jezelf in de rij te zetten (?).
-- Is het tijd om je voortgang te bespreken of anderszins overleggen? Maak dan een afspraak via [Calendly](https://calendly.com/app-studio/project).
-- Voor vragen over regeltjes, het maken van persoonlijke afspraken en het op de hoogte houden van de docenten over het later inleveren stuur je een mail naar <help@mprog.nl>.
+## Contact
+
+Tijdens dit vak zul je vaak de hulp inroepen van de docenten en medestudenten. Er zijn diverse opties voor het stellen van vragen. De beste optie hangt af van het soort vraag dat je wil stellen.
+
+**Programmeerbalie:** direct contact voor hulp bij programmeren.
+
+* hulp op locatie (lokaal A1.22) of via een videogesprek
+* je weet niet waar te beginnen of een onvindbare bug, of alles loopt vast
+* moeite met verzinnen oplossing
+* dagelijks beschikbaar, vooraf afspraak maken via afsprakensysteem
+* beperkt ruimte voor inloop bij urgente vragen
+
+**Slack:** direct contact.
+
+* onderlinge support
+* snelle vragen over deadlines, contact met samenwerkpartner
+* mededelingen en ziekmeldingen
+
+**Spreekuur en e-mail:** contact met de docenten.
+
+* maken van persoonlijke planningsafspraken
+* meedenken over grote problemen met het vak
+* andere officiële zaken
+* administratie na afloop van het vak
+* aanmelden via afsprakensysteem of mail <help@mprog.nl>
 
 
 ## Verwachtingen
 
 Om de cursus tot een goed einde te brengen, verwachten we dat je:
 
-1. regelmatig vragen stelt aan de assistenten en docenten,
-1. actief deelneemt aan onderlinge code reviews,
+1. regelmatig vragen stelt,
+1. actief deelneemt,
 1. een interessant en voor jou leerzaam eindproject implementeert en inlevert,
-1. flink werk steekt in de vier milestones voor je eindproject, en
-1. de eindpresentaties bijwoont via een videoverbinding.
+1. flink werk steekt in de milestones voor je eindproject,
+1. en de eindpresentaties bijwoont.
 
 
 ## Eindcijfer

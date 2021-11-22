@@ -27,7 +27,7 @@ Django:
         Final product: /milestones/product
         Screencast: /milestones/screencast
         Demo: /milestones/demo
-Agent-based Modelling:
+"Agent-based Modelling":
      Voorbereidende milestones (40% van de tijd):
         JavaScript: /react/javascript 
         JS Calculator: /react/calculator/js

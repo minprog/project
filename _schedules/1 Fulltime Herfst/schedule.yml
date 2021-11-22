@@ -42,3 +42,33 @@ Agent Based Modelling:
         Final product: /milestones/product
         Screencast: /milestones/screencast
         Demo: /milestones/demo
+iOS:
+    Voorbereidende milestones (20% van de tijd):
+        Project requirements: /django
+        Proposal: /milestones/proposal
+        Design document: /milestones/design
+        Process book: /milestones/process
+        Prototype: /milestones/prototype
+    Ontwikkel-milestones (60% van de tijd):
+        Alpha version: /milestones/alpha
+        Beta version: /milestones/beta
+    Afrondende milestones (20% van de tijd):
+        Cleanup: /milestones/cleanup
+        Final product: /milestones/product
+        Screencast: /milestones/screencast
+        Demo: /milestones/demo
+DevOps:
+    Voorbereidende milestones (20% van de tijd):
+        Project requirements: /django
+        Proposal: /milestones/proposal
+        Design document: /milestones/design
+        Process book: /milestones/process
+        Prototype: /milestones/prototype
+    Ontwikkel-milestones (60% van de tijd):
+        Alpha version: /milestones/alpha
+        Beta version: /milestones/beta
+    Afrondende milestones (20% van de tijd):
+        Cleanup: /milestones/cleanup
+        Final product: /milestones/product
+        Screencast: /milestones/screencast
+        Demo: /milestones/demo

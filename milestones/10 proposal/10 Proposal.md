@@ -4,7 +4,7 @@ You'll kick off your project by handing in a proposal document. This document sh
 
 ## Getting started
 
-1. To start your project, you should accept a new assignment on GitHub classroom: [Final Project](https://classroom.github.com/a/dk61wpN2). This will create a GitHub repository for your project.
+1. To start your project, you should accept a new assignment on GitHub classroom: [Final Project](https://classroom.github.com/a/xxwP7Upy). This will create a GitHub repository for your project.
 
 2. Click on the link that follows "Your assignment has been created here", which will direct you to the GitHub repository page for your project. It may take a few seconds for GitHub to finish creating your repository.
 

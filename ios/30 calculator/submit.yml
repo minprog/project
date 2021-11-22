@@ -1,0 +1,4 @@
+name: calculator_ios
+files:
+    required:
+        - calculator_ios.zip

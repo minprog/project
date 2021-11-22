@@ -43,9 +43,9 @@ Agent Based Modelling:
 iOS:
     Voorbereidende milestones (40% van de tijd):
         Install Xcode: /ios/xcode
-        Swift: /ios/javascript
-        SwiftUI: "#"
-        SwiftUI Rekenmachine: "#"
+        Swift: /ios/swift
+        SwiftUI: /ios/swiftui
+        SwiftUI Rekenmachine: /ios/calculator
     Ontwikkel-milestones (50% van de tijd):
         Proposal: /milestones/proposal
         Prototype: /milestones/prototype

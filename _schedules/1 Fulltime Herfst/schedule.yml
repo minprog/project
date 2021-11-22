@@ -1,6 +1,6 @@
 React:
     Voorbereidende milestones (40% van de tijd):
-        JavaScript: /react/javascript 
+        JavaScript: /react/javascript
         JS Calculator: /react/calculator/js
         React: https://reactjs.org/tutorial/tutorial.html
         React Calculator: /react/calculator/react
@@ -14,7 +14,7 @@ React:
         Screencast: /milestones/screencast
 Django:
     Voorbereidende milestones (40% van de tijd):
-        JavaScript: /react/javascript 
+        JavaScript: /react/javascript
         JS Calculator: /react/calculator/js
         React: https://reactjs.org/tutorial/tutorial.html
         React Calculator: /react/calculator/react
@@ -28,7 +28,7 @@ Django:
         Screencast: /milestones/screencast
 Agent Based Modelling:
     Voorbereidende milestones (40% van de tijd):
-        JavaScript: /react/javascript 
+        JavaScript: /react/javascript
         JS Calculator: /react/calculator/js
         React: https://reactjs.org/tutorial/tutorial.html
         React Calculator: /react/calculator/react
@@ -42,10 +42,10 @@ Agent Based Modelling:
         Screencast: /milestones/screencast
 iOS:
     Voorbereidende milestones (40% van de tijd):
-        JavaScript: /react/javascript 
-        JS Calculator: /react/calculator/js
-        React: https://reactjs.org/tutorial/tutorial.html
-        React Calculator: /react/calculator/react
+        Install Xcode: /ios/xcode
+        Swift: /ios/javascript
+        SwiftUI: "#"
+        SwiftUI Rekenmachine: "#"
     Ontwikkel-milestones (50% van de tijd):
         Proposal: /milestones/proposal
         Prototype: /milestones/prototype
@@ -56,7 +56,7 @@ iOS:
         Screencast: /milestones/screencast
 DevOps:
     Voorbereidende milestones (40% van de tijd):
-        JavaScript: /react/javascript 
+        JavaScript: /react/javascript
         JS Calculator: /react/calculator/js
         React: https://reactjs.org/tutorial/tutorial.html
         React Calculator: /react/calculator/react

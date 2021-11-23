@@ -45,7 +45,7 @@ iOS:
         Install Xcode: /ios/xcode
         Swift: /ios/swift
         SwiftUI: /ios/swiftui
-        SwiftUI Rekenmachine: /ios/calculator
+        SwiftUI Calculator: /ios/calculator
     Ontwikkel-milestones (50% van de tijd):
         Proposal: /milestones/proposal
         Prototype: /milestones/prototype

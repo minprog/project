@@ -41,6 +41,8 @@ Agent Based Modelling:
         Final product: /milestones/product
         Screencast: /milestones/screencast
 iOS:
+    Resources:
+        Overview: /ios/resources
     Voorbereidende milestones (40% van de tijd):
         Install Xcode: /ios/xcode
         Swift: /ios/swift

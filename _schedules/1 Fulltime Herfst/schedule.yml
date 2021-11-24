@@ -29,10 +29,11 @@ Django:
         Screencast: /milestones/screencast
 Agent Based Modelling:
     Voorbereidende milestones (40% van de tijd):
-        JavaScript: /react/javascript
-        JS Calculator: /react/calculator/js
-        React: https://reactjs.org/tutorial/tutorial.html
-        React Calculator: /react/calculator/react
+        ABM: /abm/abm_theory
+        Mesa: /abm/mesa
+        MoneyModel Experiment: /abm/moneymodel
+        Forest Fire Model: /abm/forest/forest1
+        Forest Fire Experiment: /abm/forest/forest2
     Ontwikkel-milestones (50% van de tijd):
         Proposal: /milestones/proposal
         Prototype: /milestones/prototype

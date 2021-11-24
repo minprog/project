@@ -1,4 +1,2 @@
 name: calculator_react
-files:
-    required:
-        - calculator_react.zip
+url: true

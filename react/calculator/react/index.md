@@ -2,6 +2,7 @@
 
 Re-create the single page web application of a calculator, but this time while using React.
 
+Accept [this GitHub Classroom invite](https://classroom.github.com/a/RPJQfvsQ)
 
 ### Minimal functional requirements
 
@@ -56,3 +57,8 @@ Now you can start thinking about interactions between components. Much like the 
 ### Add the remaining buttons and functionality
 
 Finally go ahead and add components for the remaining calculation buttons such as `+` and `=`.
+
+
+## How to Submit
+
+Submit your repository URL below. This should look something like: `https://github.com/minprog-platforms/your_repo_name`.

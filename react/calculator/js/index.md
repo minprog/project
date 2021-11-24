@@ -2,6 +2,8 @@
 
 Create a single page web application for a calculator using only HTML, CSS & JavaScript.
 
+Accept [this GitHub Classroom invite](https://classroom.github.com/a/edM-awM3)
+
 ### Minimal functional requirements
 
 * Support for all 10 digits
@@ -56,3 +58,6 @@ A calculator is a stateful machine. It keeps track of past operations (button pr
 Once a calculation needs to be done, because for instance the `=` button is pressed, start calculating. For this one time it is okay to use the [eval function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval) in JavaScript. If you do, do also read "Never use eval()!" header.
 
 
+## How to Submit
+
+Submit your repository URL below. This should look something like: `https://github.com/minprog-platforms/your_repo_name`.

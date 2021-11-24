@@ -63,26 +63,26 @@ Assisteren bij zoveel verschillende tracks en alle technische problemen die zich
 
 | Track          | Assistent   | Dag & Tijd  |
 | -------------- | ----------- | ----------- |
-| Django         | Pamela      | `Di 12 - 14`  |
-|                | Mayla       | Di 14 - 17  |
-|                | Emalisa     | Wo 13 - 16  |
-|                | Pamela      | Do 11 - 14  |
-|                | Mayla       | Do 13 - 16  |
-|                | Emalisa     | Vr 14 - 17  |
-| DevOps         | Quinten     | Wo 15 - 17  |
-|                | Quinten     | Vr 13 - 15  |
-| React          | Jelle       | Ma 14 - 16  |
-|                | Jelle       | Di 14 - 16  |
-|                | Jelle       | Wo 14 - 16  |
-|                | Jelle       | Do 14 - 16  |
-|                | Jelle       | Vr 14 - 16  |
-| iOS            | Marijn      | Ma 13 - 16  |
-|                | Marijn      | Do 13 - 16  |
-| Comp Sci (ABM) | Joos        | Ma 14 - 17  |
-|                | Alwan       | Di 15 - 17  |
-|                | Joos        | Do 14 - 17  |
-|                | Alwan       | Do 15 - 17  |
-|                | Alwan       | Vr 13 - 15  |
+| Django         | Pamela      | `Di 12-14`  |
+|                | Mayla       | `Di 14-17`  |
+|                | Emalisa     | `Wo 13-16`  |
+|                | Pamela      | `Do 11-14`  |
+|                | Mayla       | `Do 13-16`  |
+|                | Emalisa     | `Vr 14-17`  |
+| DevOps         | Quinten     | `Wo 15-17`  |
+|                | Quinten     | `Vr 13-15`  |
+| React          | Jelle       | `Ma 14-16`  |
+|                | Jelle       | `Di 14-16`  |
+|                | Jelle       | `Wo 14-16`  |
+|                | Jelle       | `Do 14-16`  |
+|                | Jelle       | `Vr 14-16`  |
+| iOS            | Marijn      | `Ma 13-16`  |
+|                | Marijn      | `Do 13-16`  |
+| Comp Sci (ABM) | Joos        | `Ma 14-17`  |
+|                | Alwan       | `Di 15-17`  |
+|                | Joos        | `Do 14-17`  |
+|                | Alwan       | `Do 15-17`  |
+|                | Alwan       | `Vr 13-15`  |
 
 > Let op, dit betekent niet dat andere assistenten je niet kunnen helpen. Zij kunnen heel goed met je meedenken. Ga dus ook zeker buiten deze tijden naar de assistentiebalie.
 

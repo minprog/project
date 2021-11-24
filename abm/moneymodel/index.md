@@ -60,6 +60,7 @@ Pas het model dat je uit de tutorial zo aan dat je het volgende kan doen:
 
 
 Run je model met de volgende parameters:
+
 - Elk model heeft 100 agenten.
 - Elke configuratie van het model wordt (minstens) 10 keer gerunt (dus voor elk type agent run je 10 keer).
 - Elke simulatie heeft minimaal 100 tijdsstappen.

@@ -10,4 +10,4 @@ A running gag on the internet on the origins of frameworks that allow you to eas
 
 The two main framework that are being used to manage containers are [Docker](https://www.docker.com/) and [Podman](https://podman.io/). 
 
-Be sure to at least attempt install either of these frameworks. This can be somewhat tricky when working on windows (you may have noticed Linux is the trending OS for deployment). Don't worry too much if you can't get it working at first, during our first tutorial Then we can work out the bugs together so you can start developing on your machine.
+Be sure to at least attempt install either of these frameworks(can't choose? Check [this](https://4sysops.com/archives/podman-vs-docker/) out). The installation process can be somewhat tricky when working on windows (you may have noticed Linux is the trending OS for deployment). Don't worry too much if you can't get it working at first, during our first tutorial Then we can work out the bugs together so you can start developing on your machine.

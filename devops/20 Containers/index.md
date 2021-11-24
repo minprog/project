@@ -4,7 +4,7 @@ Using containers is the bread and butter of deploying applications in most of th
 
 A running gag on the internet on the origins of frameworks that allow you to easily setup and manage containers is the following back and forth between a developer and a manager.
 
-![](works_on_my_machine.jpg =250x250)
+![](works_on_my_machine.jpg)
 
 ## Docker and Podman
 

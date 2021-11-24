@@ -9,5 +9,4 @@ The first version of Swift was announced at [WWDC 2014](https://www.youtube.com/
 
 Start learning Swift with the [Guided Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html) you can follow the tour on the website but we highly recommend you make
 use of the [Guided Tour Playground](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.playground.zip).
-You don't have to experiment with every piece of code, but make sure you've seen something
-from every page.
+You don't have to experiment with every piece of code, but make sure you've seen something from every page.

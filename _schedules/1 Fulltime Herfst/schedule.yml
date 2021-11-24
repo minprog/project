@@ -45,6 +45,7 @@ Agent Based Modelling:
 iOS:
     Resources:
         Overview: /ios/resources
+        Slack: https://join.slack.com/t/slack-vgg7059/shared_invite/zt-z4e0t13b-Av8yJWCLTjVGNlzjcarTSA
     Voorbereidende milestones (40% van de tijd):
         Install Xcode: /ios/xcode
         Swift: /ios/swift

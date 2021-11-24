@@ -1,67 +1,95 @@
-# Programmeerproject <br><small>Studiewijzer Fulltime, Herfst 2020</small>
+# Programmeerproject <br><small>Studiewijzer Fulltime, Herfst 2021</small>
 
-> "This course picks up where Harvard College’s CS50 leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Flask, Django, and Bootstrap. Topics include database design, scalability, security, and user experience. Through hands-on projects, students learn to write and use APIs, create interactive UIs, and leverage cloud services like GitHub and Heroku. By semester’s end, students emerge with knowledge and experience in principles, languages, and tools that empower them to design and deploy applications on the Internet." --- CSCI S-33a at Harvard.
+> Binnen enkele weken vorm je van begin tot eind een eigen idee tot een ontwerp en vervolgens implementeer je een eigen applicatie in een modern framework. Je doet ervaring op met systematisch werken en documenteren van zo'n project en het uitzoeken van de kennis die je nodig hebt om het tot een succes te maken. Hierbij beperkt de staf zich tot het geven van feedback op de ideeën en het helpen oplossen van technische blokkades.
 
-Het eindproject wordt gedaan volgens een aantal milestones. Dit zijn momenten in het project waar we een expliciet contact inbouwen, zodat je feedback kunt krijgen. Maak daarom een afspraak met één van de begeleiders voor *elke* milestone die je af hebt. Zeker de eerste milestones zijn cruciale momenten voor feedback en moeten afgetekend worden.
-
-
-## Kalender
-
-Voor het project zijn enkele milestones gedefinieerd. Het is belangrijk deze **bij benadering** te halen als je het vak tijdig wil afronden.
-
-| Onderdeel     | Tijdsbesteding |    Deadline |
-| ------------- | -------------: | ----------: |
-| Proposal      |        2 dagen | 27 november |
-| Design Doc    |        2 dagen |  1 december |
-| Alpha Version |        3 dagen |  4 december |
-| Beta Version  |         1 week | 11 december |
-
-Wekelijks zijn er **werkgroepen** om feedback te geven en te ontvangen. Hierbij laat elke student de tussenstand zien en licht waar nodig de voortgang toe. Andere studenten geven advies of ideeën, niet alleen om het "beter" te doen maar bijvoorbeeld ook om juist te helpen dingen te schrappen.
-
-| Fase          |      Werkgroep |
-| ------------- | -------------: |
-| Proposal      | 26-27 november |
-| Alpha Version |   3-4 december |
-| Beta Version  | 10-11 december |
-
-In de **laatste week** (vanaf 14 december) ga je je eindproject afronden middels een aantal verschillende stappen. Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór juni helemaal afgerond is, inclusief eindbeoordeling.
-
-| Onderdeel        |       Deadline |
-| ---------------- | -------------: |
-| Final Product    |    14 december |
-| Code reviews     |    15 december |
-| Screencast       |    16 december |
-| Eindpresentaties | 17-18 december |
+Het eindproject wordt gedaan volgens een aantal milestones. Dit zijn momenten in het project waar we een expliciet contact inbouwen, zodat je feedback kunt krijgen. Maak daarom een afspraak met één van de begeleiders voor *elke* milestone die je af hebt. Zeker de eerste milestones zijn cruciale momenten en moeten afgetekend worden.
 
 
 ## Voorkennis
 
-Het vak Programmeerplatform of Web App Studio moet je helemaal gehaald hebben vóór je deze cursus start.
+Het vak Programmeerplatform moet je helemaal gehaald hebben vóór je deze cursus start.
 
 
-## Docenten en contact
+## Docenten & Mentoren
 
-Je docenten zijn Martijn Stegeman en Jelle van Assema.
+De docenten bij dit vak zijn Jelle van Assema en Martijn Stegeman. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <help@mprog.nl>.
 
-- Voor vragen over de stof, hulp met programmeren, technische ondersteuning, plaats je zoveel mogelijk een vraag op [Ed](https://us.edstem.org/courses/365).
-- Ben je je eindproject aan het doen en moet je je voortgang bespreken of anderszins overleggen? Maak dan een afspraak voor met je mentor via [Calendly](http://calendly.com/app-studio/assistentie-parttime).
-- Voor vragen over regeltjes, het maken van persoonlijke afspraken en het op de hoogte houden van de docenten over het later inleveren stuur je een mail naar <help@mprog.nl>.
+De mentoren van dit vak zijn Emalisa, Jelle, Joos, Marijn, Mayla & Quinten. Zij begeleiden je bij het project en de track. Wekelijks is er een werkgroep en je mentor is je eerste contactpunt binnen het vak.
+
+
+## Tracks
+
+Deze iteratie van het vak bieden we vijf tracks aan:
+
+- Django, bouw je eigen webapplicatie op basis van een webserver in Python, database en frontend
+- DevOps, lanceer een containerized applicatie in de cloud op een linux server
+- React, ontwikkel een dynamische web-app met een modern JavaScript Framework
+- iOS*, maak een app voor de iPhone of iPad met het gloednieuwe SwiftUI
+- Computational Science, onderzoek een wetenschappelijk probleem door middel van Agent-Based Modeling
+
+Bij ieder van de tracks ga je eerst samen met een kleine club studenten het framework, de tools en technieken leren. Dat is ongeveer de eerste 40% / anderhalve week van het vak. Daarna stel je een eigen idee voor een project voor om dat in de overige 60% realiteit te maken.
+
+## Contact
+
+Tijdens dit vak zul je vaak de hulp inroepen van de docenten en medestudenten. Er zijn diverse opties voor het stellen van vragen. De beste optie hangt af van het soort vraag dat je wil stellen.
+
+**Programmeerbalie:** direct contact voor hulp bij programmeren.
+
+* hulp op locatie (lokaal A1.22) of via een videogesprek
+* je weet niet waar te beginnen of een onvindbare bug, of alles loopt vast
+* moeite met verzinnen oplossing
+* dagelijks beschikbaar, vooraf afspraak maken via afsprakensysteem
+* beperkt ruimte voor inloop bij urgente vragen
+
+**Slack:** direct contact.
+
+* een aparte Slack groep per track
+* onderlinge support
+* snelle vragen over deadlines, contact met samenwerkpartner
+* mededelingen en ziekmeldingen
+
+**Spreekuur en e-mail:** contact met de docenten.
+
+* maken van persoonlijke planningsafspraken
+* meedenken over grote problemen met het vak
+* andere officiële zaken
+* administratie na afloop van het vak
+* aanmelden via afsprakensysteem of mail <help@mprog.nl>
 
 
 ## Verwachtingen
 
 Om de cursus tot een goed einde te brengen, verwachten we dat je:
 
-1. regelmatig vragen stelt aan de assistenten en docenten,
-1. actief deelneemt aan onderlinge code reviews,
+1. regelmatig vragen stelt,
+1. actief deelneemt,
 1. een interessant en voor jou leerzaam eindproject implementeert en inlevert,
-1. flink werk steekt in de vier milestones voor je eindproject, en
-1. de eindpresentaties bijwoont via een videoverbinding.
+1. flink werk steekt in de milestones voor je eindproject,
+1. en de eindpresentaties bijwoont.
 
 
 ## Eindcijfer
 
 Let op dat je minimaal aan bovenstaande verwachtingen moet voldoen om een eindcijfer te kunnen halen. Je krijgt dan een cijfer dat wordt opgebouwd uit diverse onderdelen: kwaliteit van de code, van het ontwerp, maar ook hoe systematisch je hebt gewerkt en documentatie hebt bijgehouden.
+
+
+## Kalender
+
+Voor het project zijn enkele milestones gedefiniëerd. Het is belangrijk deze bij benadering te halen als je het vak tijdig wil afronden.
+
+| Onderdeel        | Tijdsbesteding |    Deadline |  
+| ---------------- | -------------: | ----------: |
+| Track            |        7 dagen |  3 december |  
+| Proposal         |        1 dag   |  6 december |  
+| Prototype        |        4 dagen | 10 december |  
+| Beta Version     |        5 dagen | 17 december |
+
+In de **laatste weken** (vanaf 10 december) ga je je eindproject afronden middels een aantal verschillende stappen. Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór de kerstvakantie helemaal afgerond is.
+
+| Onderdeel     |    Deadline |
+| ------------- | ----------: |
+| Final Product | 20 december |
+| Screencast    | 21 december |
 
 
 ## Becijfering van het eindproject
@@ -74,9 +102,7 @@ Het cijfer voor dit project zal worden bepaald met behulp van de volgende criter
 
 *Interactieontwerp* --- In hoeverre is het product goed bruikbaar voor "anderen"? Er wordt gekeken naar een coherente uitwerking van een idee, maar vooral naar de wijze waarop de website een goede ervaring geeft voor nieuwe en bestaande gebruikers. Te denken valt aan eenvoudig kunnen "ontdekken" van functionaliteit, layout die eenvoudige bediening mogelijk maakt, goede bruikbaarheid voor mensen met een fysieke beperking.
 
-*Repository* --- In hoeverre is de repository compleet en netjes? We kijken naar het gebruik van de repository én van GitHub zoals dit bedoeld is. Te denken valt aan de indeling van de repository, de vindbaarheid van documentatie en onderdelen van de code, maar ook naar de regelmaat van committen en pushen, en het netjes afvinken van "issues" op GitHub. Een groot probleem is het "opnieuw beginnen" van een repository. Dit moet te allen tijde worden voorkomen.
-
-*Projectdocumentatie* --- In hoeverre is het project goed gedocumenteerd? We kijken naar de algemene beschrijving van het project in de `README.md`, de screencast, de technische beschrijving in `DESIGN.md` en de beschrijving van de voortgang in `PROCESS.md`. Te denken valt aan duidelijk geschreven teksten en nette diagrammen, expliciete links naar belangrijke onderdelen van de code en het up-to-date zijn met het daadwerkelijke eindproduct.
+*Repository en documentatie* --- In hoeverre is de repository compleet en netjes en in hoeverre is het project goed gedocumenteerd? We kijken naar het gebruik van de repository én van GitHub zoals dit bedoeld is. Te denken valt aan de indeling van de repository, de vindbaarheid van documentatie en onderdelen van de code, maar ook naar de regelmaat van committen en pushen, en het netjes afvinken van "issues" op GitHub. Een groot probleem is het "opnieuw beginnen" van een repository. Dit moet te allen tijde worden voorkomen. We kijken ook naar de algemene beschrijving van het project in de `README.md`, de screencast en de beschrijving van de voortgang in `PROCESS.md`. Te denken valt aan duidelijk geschreven teksten en nette diagrammen, expliciete links naar belangrijke onderdelen van de code en het up-to-date zijn met het daadwerkelijke eindproduct.
 
 > **Let op!** Het is jouw taak om in een file `ASSESSMENT.md` op bovenstaande punten aan te geven waar je extra aandacht aan hebt besteed en hoe je dat gedaan hebt. Dat betekent niet dat je helemaal geen aandacht hoeft te besteden aan punten die je niet noemt, maar het betekent wel dat we het zullen waarderen als je een duidelijke visie hebt op je uitwerking. Gezien het formaat van het project is het voor de beoordelaar niet mogelijk om jouw intenties te achterhalen als je ze niet vermeldt. Het project kan dus niet worden beoordeeld als dit korte verslag niet aanwezig is.
 
@@ -93,8 +119,6 @@ Op elk van de criteria kun je 1 tot 5 punten verdienen:
 ## Samenwerken
 
 Al het werk dat je doet om aan bovenstaande verwachtingen te voldoen moet je eigen werk zijn.
-
-- Je mag code van andere studenten lezen om aan de eisen van een code review te voldoen, maar niet vóór de deadline van het betreffende project en het officieel aftekenen van je inzending.
 
 - Ideeën en technieken die je kent uit de reviews van andermans code en uit de feedback die je krijgt van anderen mag je gerust gebruiken, als je maar duidelijk de ideeën toeschrijft via comments in je code.
 

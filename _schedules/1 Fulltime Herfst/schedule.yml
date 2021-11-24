@@ -64,12 +64,14 @@ iOS:
         Final product: /milestones/product
         Screencast: /milestones/screencast
 DevOps:
-    Voorbereidende milestones (40% van de tijd):
-        JavaScript: /react/javascript
-        JS Calculator: /react/calculator/js
-        React: https://reactjs.org/tutorial/tutorial.html
-        React Calculator: /react/calculator/react
-    Ontwikkel-milestones (50% van de tijd):
+    Resources:
+        Slack: https://join.slack.com/t/slack-au81038/shared_invite/zt-z866wv6u-84ZxQnrUSeRg5SCIUS9QfQ
+    Voorbereidende milestones (30% van de tijd):
+        Intro: /devops/devops
+        Server Setup: /devops/cloud
+        Containerization: /devops/containers
+        First App: /devops/devtest
+    Ontwikkel-milestones (60% van de tijd):
         Proposal: /milestones/proposal
         Prototype: /milestones/prototype
         Beta version: /milestones/beta

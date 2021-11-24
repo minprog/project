@@ -63,7 +63,7 @@ Assisteren bij zoveel verschillende tracks en alle technische problemen die zich
 
 | Track          | Assistent   | Dag & Tijd  |
 | -------------- | ----------- | ----------- |
-| Django         | Pamela      | Di 12 - 14  |
+| Django         | Pamela      | `Di 12 - 14`  |
 |                | Mayla       | Di 14 - 17  |
 |                | Emalisa     | Wo 13 - 16  |
 |                | Pamela      | Do 11 - 14  |

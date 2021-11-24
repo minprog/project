@@ -13,11 +13,11 @@ Het model heeft telkens maar één soort agent, dus je hoeft geen model te maken
 
 We willen dat de kans dat een cellmate wordt gekozen wordt *proportioneel* is aan zijn relatieve welvaart. Voor de regressieve agent kunnen we dit makkelijk bepalen met de volgende formule:
 
-$\begin{equation}
+\\[
     P_{denivellerend}(\text{gekozen worden}) = \frac{welvaart_i + 0.5}{\sum^N_j (welvaart_j + 0.5)}
-\end{equation}$
+\\]
 
-Dus: de kans dat je gekozen wordt is gelijk aan jouw aandeel in de totale welvaart (onderin de breuk sommeren we over alle $N$ agenten). Zoals je ziet nemen we $welvaart_i + 0.5$, omdat anders agenten met $0$ welvaart nooit meer gekozen kunnen worden. De bovenstaande formule wordt duidelijker met een voorbeeld:
+Dus: de kans dat je gekozen wordt is gelijk aan jouw aandeel in de totale welvaart (onderin de breuk sommeren we over alle \\(N\\) agenten). Zoals je ziet nemen we \\($welvaart_i + 0.5\\), omdat anders agenten met  welvaart nooit meer gekozen kunnen worden. De bovenstaande formule wordt duidelijker met een voorbeeld:
 
     # retrieve the wealth of the neighbors
     wealth_neighbors = [0, 1, 2, 3]
@@ -32,9 +32,9 @@ Dus: de kans dat je gekozen wordt is gelijk aan jouw aandeel in de totale welvaa
 
 Twee dingen vallen hier op. Allereerst zie je dat de kansen groter worden naarmate de welvaart meer is, wat precies is wat we willen. Ten tweede zie je ook dat de kansen optellen tot 1, wat ook logisch is. Als we de kans voor de nivellerende agent willen hebben, kunnen we de bovenstaande kansen gebruiken en deze inverteren:
 
-$\begin{equation}
+\\[
     P_{nivellerend}(\text{gekozen worden}) = \frac{1}{P_{denivellerend}(\text{gekozen worden})}
-\end{equation}$
+\\]
 
 Als we het voorbeeld hierboven gebruiken kunnen we de geïnverteerde kansen als volgt krijgen:
 
@@ -53,10 +53,10 @@ Pas het model dat je uit de tutorial zo aan dat je het volgende kan doen:
 - Je kan een simulatie runnen die voor een model met standaard, denivellerende en nivellerende agenten de gemiddelde Gini-coefficient bepaald voor een aantal runs.
 - Je kan een bar chart plotten van de resulterende gini-coefficienten. Die moet er ongeveer als volgt uitzien:
 
-<!-- ![barchart_redist](gini_bars_redist.png = 100x) -->
-<p align="center">
+![barchart_redist](gini_bars_redist.png)
+<!-- <p align="center">
 <img src="gini_bars_redist.png" alt="drawing" width="400"/>
-</p>
+</p> -->
 
 
 Run je model met de volgende parameters:

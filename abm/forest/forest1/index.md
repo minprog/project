@@ -2,18 +2,20 @@
 
 Het eerste model dat jullie van de grond af gaan opbouwen is een model waarmee we bosbranden simuleren. Zo een model is een voorbeeld van een *cellular automata*. Dit betekent dat ons systeem bestaat uit een grid van cellen die een bepaalde staat hebben. Hun staat wordt veranderd door een stel gedragsregels die kijken naar hun omgeving. Bij ons is het grid een bos met bomen die in brand kunnen vliegen als een van de bomen ernaast in brand staat. Een punt in het grid kan dus drie staten hebben: er staat een boom, er staat een boom en die staat in brand, of er staat niets. Hieronder zie je een voorbeeld hoe dit er ongeveer uit ziet:
 
-<p align="center">
+<!-- <p align="center">
 <img src=forest_fire.gif width="300" height="300" />
-</p>
+</p> -->
+
+![Forest Fire](forest_fire.gif)
 
 
 ### Het Model
 
 Het model bestaat uit een grid met cellen die een boom, brandende boom of lege plek representeren. Elke tijdstap wordt voor elke cel met een boom bepaald of deze in brand zal vliegen. Dit doen we aan de hand van de volgende regel:
 
-$$\begin{equation}P(\text{in brand vliegen}) = \frac{N_{\text{brandende buren}}}{N_{\text{ buren}}}\end{equation}$$
+\\[ P(\text{in brand vliegen}) = \frac{N_{\text{brandende buren}}}{N_{\text{ buren}}} \\]
 
-De kans dat een boom wordt aangestoken is dus afhankelijk van de hoeveelheid buurbomen die in brand staan. Als de boom in brand staat blijft dit zo voor een aantal tijdstappen. Hierna is de cel waar de boom stond leeg. Als een boom op tijdsstap $t$ in brand vliegt kan hij niet in diezelfde tijdsstap een buurboom aansteken. Dit kan pas op tijdstap $t+1$.
+De kans dat een boom wordt aangestoken is dus afhankelijk van de hoeveelheid buurbomen die in brand staan. Als de boom in brand staat blijft dit zo voor een aantal tijdstappen. Hierna is de cel waar de boom stond leeg. Als een boom op tijdsstap \\(t\\) in brand vliegt kan hij niet in diezelfde tijdsstap een buurboom aansteken. Dit kan pas op tijdstap \\(t+1\\).
 
 Het model is dus eigenlijk heel simpel. Als je eenmaal aan het implementeren bent, zul je zien dat er nog best veel parameters zijn die hier niet worden gegeven. Deze mag je dus zelf bepalen. Experimenteer hier wat mee en kijk wat de beste resultaten geeft. 
 

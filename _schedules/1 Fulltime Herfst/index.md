@@ -63,10 +63,12 @@ Assisteren bij zoveel verschillende tracks en alle technische problemen die zich
 
 | Track          | Assistent   | Dag & Tijd  |
 | -------------- | ----------- | ----------- |
-| Django         | Pamela      | `Di 12-14`  |
+| Django         | Pamela      | `Ma 10-12`  |
+|                | Pamela      | `Di 10-12`  |
 |                | Mayla       | `Di 14-17`  |
+|                | Pamela      | `Wo 10-12`  |
 |                | Emalisa     | `Wo 13-16`  |
-|                | Pamela      | `Do 11-14`  |
+|                | Pamela      | `Do 10-12`  |
 |                | Mayla       | `Do 13-16`  |
 |                | Emalisa     | `Vr 14-17`  |
 | DevOps         | Quinten     | `Wo 15-17`  |

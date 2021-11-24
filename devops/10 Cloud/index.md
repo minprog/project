@@ -19,3 +19,5 @@ To expedite the process of setting up your VPS, make sure you account is setup b
 Of course, there is also the option of adding your own little cloud machine to the web. This can be done by setting up a Linux Server on one of your own devices that is connected to the internet. 
 
 It is a route that requires a lot more configuration and setup, but can be much more rewarding. You would need to provide your own device however (an old desktop or laptop) that you can have running all day. Contact me in case you wish to take on this challenge!
+
+The official [Ubuntu Server](https://ubuntu.com/tutorials/install-ubuntu-server#1-overview) documentation can help you get started, but guides such as [this](https://www.makeuseof.com/ubuntu-server-guide/) and [this](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04) may prove very useful.

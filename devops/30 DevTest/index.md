@@ -12,4 +12,4 @@ One place you can find images is on [Docker Hub](https://hub.docker.com/search?t
 
 After settling on an application that suits you, try and get it running on your local machine. Follow the localhost port and see if it works in your browser. Be sure to inspect the container as well! See what the logs look like and you might even want to browse the files inside of the container.
 
-After verifying that the image is functioning correctly in your development environment, it's time to see how it fares on your remote environment. 
+After verifying that the image is functioning correctly in your development environment, it's time to see how it fares on your remote environment. But before you can do so, you'll need to setup a webserver on your remote that can direct web-requests to your containerized applications.

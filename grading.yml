@@ -5,6 +5,12 @@ templates:
             besproken: boolean
         calculation: besproken.to_i
         hide_calculated: true
+    2: &punt1
+        type: float
+        subgrades:
+            done: boolean
+        calculation: -done * 9 + 1
+        hide_calculated: true
 
 grades:
     proposal: *besproken
@@ -26,7 +32,13 @@ grades:
 
 calculation:
     eindcijfer:
-        final: 1
+        punten: 0
+        final: 100
+
+punten:
+    show_progress: true
+    submits:
+        proposal: 0
 
 final:
     submits:

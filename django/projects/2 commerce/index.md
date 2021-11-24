@@ -9,7 +9,7 @@ Design an eBay-like e-commerce auction site that will allow users to post auctio
 
 ## Getting Started
 
-- Start your project by accepting the assignment on [GitHub Classroom](https://classroom.github.com/a/ZBMBwaa0)
+- Start your project by accepting the assignment on [GitHub Classroom](https://classroom.github.com/a/9eKbKMp3)
 
 - Then immediately submit your repository's URL at the bottom of this page.
 

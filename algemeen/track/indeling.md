@@ -23,6 +23,7 @@
 - tjibbe valkenburg
 - adrian ruesink
 - noud hover
+- lance van duin
 
 ### Django
 

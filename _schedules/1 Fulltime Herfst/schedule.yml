@@ -2,6 +2,7 @@ React:
     Voorbereidende milestones (40% van de tijd):
         JavaScript: /react/javascript
         JS Calculator: /react/calculator/js
+        CS50 React Lecture: /react/lecture
         React: https://reactjs.org/tutorial/tutorial.html
         React Calculator: /react/calculator/react
     Ontwikkel-milestones (50% van de tijd):
@@ -41,11 +42,13 @@ Agent Based Modelling:
         Final product: /milestones/product
         Screencast: /milestones/screencast
 iOS:
+    Resources:
+        Overview: /ios/resources
     Voorbereidende milestones (40% van de tijd):
         Install Xcode: /ios/xcode
-        Swift: /ios/javascript
-        SwiftUI: "#"
-        SwiftUI Rekenmachine: "#"
+        Swift: /ios/swift
+        SwiftUI: /ios/swiftui
+        SwiftUI Calculator: /ios/calculator
     Ontwikkel-milestones (50% van de tijd):
         Proposal: /milestones/proposal
         Prototype: /milestones/prototype

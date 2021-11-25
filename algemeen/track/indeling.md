@@ -23,6 +23,7 @@
 - tjibbe valkenburg
 - adrian ruesink
 - noud hover
+- lance van duin
 
 ### Django
 
@@ -48,6 +49,7 @@
 - zakaria bensellam
 - tjarda leppers
 - eva pots
+- mart marconi 
 
 ### React
 

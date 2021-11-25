@@ -1,4 +1,6 @@
 React:
+    Resources:
+        Slack: https://join.slack.com/t/uva-nlj8482/shared_invite/zt-zcdi0jxw-QPppkaVNe9e9m7~ZiP3VbA
     Voorbereidende milestones (40% van de tijd):
         JavaScript: /react/javascript
         JS Calculator: /react/calculator/js
@@ -15,10 +17,14 @@ React:
         Screencast: /milestones/screencast
 Django:
     Voorbereidende milestones (40% van de tijd):
-        JavaScript: /react/javascript
-        JS Calculator: /react/calculator/js
-        React: https://reactjs.org/tutorial/tutorial.html
-        React Calculator: /react/calculator/react
+        Django [Lecture]: /django/lectures/django
+        Getting Started [Wiki]: /django/projects/wiki
+        Design Document [Wiki]: /django/projects/wiki/design
+        Specification [Wiki]: /django/projects/wiki/specification
+        SQL [Lecture]: /django/lectures/sql
+        Getting Started [Commerce]: /django/projects/commerce
+        Design Document [Commerce]: /django/projects/commerce/design
+        Specification [Commerce]: /django/projects/commerce/specification
     Ontwikkel-milestones (50% van de tijd):
         Proposal: /milestones/proposal
         Prototype: /milestones/prototype
@@ -45,6 +51,7 @@ Agent Based Modelling:
 iOS:
     Resources:
         Overview: /ios/resources
+        Slack: https://join.slack.com/t/slack-vgg7059/shared_invite/zt-z4e0t13b-Av8yJWCLTjVGNlzjcarTSA
     Voorbereidende milestones (40% van de tijd):
         Install Xcode: /ios/xcode
         Swift: /ios/swift
@@ -59,12 +66,14 @@ iOS:
         Final product: /milestones/product
         Screencast: /milestones/screencast
 DevOps:
-    Voorbereidende milestones (40% van de tijd):
-        JavaScript: /react/javascript
-        JS Calculator: /react/calculator/js
-        React: https://reactjs.org/tutorial/tutorial.html
-        React Calculator: /react/calculator/react
-    Ontwikkel-milestones (50% van de tijd):
+    Resources:
+        Slack: https://join.slack.com/t/slack-au81038/shared_invite/zt-z866wv6u-84ZxQnrUSeRg5SCIUS9QfQ
+    Voorbereidende milestones (30% van de tijd):
+        Intro: /devops/devops
+        Server Setup: /devops/cloud
+        Containerization: /devops/containers
+        First App: /devops/devtest
+    Ontwikkel-milestones (60% van de tijd):
         Proposal: /milestones/proposal
         Prototype: /milestones/prototype
         Beta version: /milestones/beta

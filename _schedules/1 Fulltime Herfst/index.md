@@ -24,7 +24,7 @@ Deze iteratie van het vak bieden we vijf tracks aan:
 - Django, bouw je eigen webapplicatie op basis van een webserver in Python, database en frontend
 - DevOps, lanceer een containerized applicatie in de cloud op een linux server
 - React, ontwikkel een dynamische web-app met een modern JavaScript Framework
-- iOS*, maak een app voor de iPhone of iPad met het gloednieuwe SwiftUI
+- iOS, maak een app voor de iPhone of iPad met het gloednieuwe SwiftUI
 - Computational Science, onderzoek een wetenschappelijk probleem door middel van Agent-Based Modeling
 
 Bij ieder van de tracks ga je eerst samen met een kleine club studenten het framework, de tools en technieken leren. Dat is ongeveer de eerste 40% / anderhalve week van het vak. Daarna stel je een eigen idee voor een project voor om dat in de overige 60% realiteit te maken.
@@ -63,10 +63,12 @@ Assisteren bij zoveel verschillende tracks en alle technische problemen die zich
 
 | Track          | Assistent   | Dag & Tijd  |
 | -------------- | ----------- | ----------- |
-| Django         | Pamela      | `Di 12-14`  |
+| Django         | Pamela      | `Ma 10-12`  |
+|                | Pamela      | `Di 10-12`  |
 |                | Mayla       | `Di 14-17`  |
+|                | Pamela      | `Wo 10-12`  |
 |                | Emalisa     | `Wo 13-16`  |
-|                | Pamela      | `Do 11-14`  |
+|                | Pamela      | `Do 10-12`  |
 |                | Mayla       | `Do 13-16`  |
 |                | Emalisa     | `Vr 14-17`  |
 | DevOps         | Quinten     | `Wo 15-17`  |

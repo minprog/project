@@ -17,7 +17,7 @@ We willen dat de kans dat een cellmate wordt gekozen wordt *proportioneel* is aa
     P_{denivellerend}(\text{gekozen worden}) = \frac{welvaart_i + 0.5}{\sum^N_j (welvaart_j + 0.5)}
 \\]
 
-Dus: de kans dat je gekozen wordt is gelijk aan jouw aandeel in de totale welvaart (onderin de breuk sommeren we over alle \\(N\\) agenten). Zoals je ziet nemen we \\($welvaart_i + 0.5\\), omdat anders agenten met  welvaart nooit meer gekozen kunnen worden. De bovenstaande formule wordt duidelijker met een voorbeeld:
+Dus: de kans dat je gekozen wordt is gelijk aan jouw aandeel in de totale welvaart (onderin de breuk sommeren we over alle \\(N\\) agenten). Zoals je ziet nemen we \\($welvaart_i + 0.5\\), omdat anders agenten zonder welvaart nooit meer gekozen kunnen worden. De bovenstaande formule wordt duidelijker met een voorbeeld:
 
     # retrieve the wealth of the neighbors
     wealth_neighbors = [0, 1, 2, 3]
@@ -27,7 +27,7 @@ Dus: de kans dat je gekozen wordt is gelijk aan jouw aandeel in de totale welvaa
                                = [0.5, 1.5, 2.5, 3.5]
 
     sum_wealth_neighbors = 8
-    chance_chosen = wealth_neighbors / sum_wealth_neighbors
+    chance_chosen = augmented_wealth_neighbors / sum_wealth_neighbors
                   = [1/16, 3/16, 5/16. 7/16]
 
 Twee dingen vallen hier op. Allereerst zie je dat de kansen groter worden naarmate de welvaart meer is, wat precies is wat we willen. Ten tweede zie je ook dat de kansen optellen tot 1, wat ook logisch is. Als we de kans voor de nivellerende agent willen hebben, kunnen we de bovenstaande kansen gebruiken en deze inverteren:

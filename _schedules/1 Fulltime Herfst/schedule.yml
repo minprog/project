@@ -74,6 +74,8 @@ DevOps:
         Server Setup: /devops/cloud
         Containerization: /devops/containers
         First App: /devops/devtest
+        Reverse Proxies: /devops/webservers
+        First App (continued): /devops/prodtest
     Ontwikkel-milestones (60% van de tijd):
         Proposal: /milestones/proposal
         Prototype: /milestones/prototype

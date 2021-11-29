@@ -14,6 +14,8 @@
 - jasper timmer
 - victor van leuven
 - bram van meurs
+- julia smeets
+- vera duindam
 
 ### DevOps
 
@@ -41,11 +43,9 @@
 - jesse mastenbroek
 - thijmen cornelis
 - sven shevtzoff
-- julia smeets
 - melissa sam-sin
 - ariella hiele
 - emily (12149012)
-- vera duindam
 - zakaria bensellam
 - tjarda leppers
 - eva pots

@@ -16,6 +16,8 @@ React:
         Final product: /milestones/product
         Screencast: /milestones/screencast
 Django:
+    Resources:
+        Slack: https://join.slack.com/t/programmeerprojecthq/shared_invite/zt-z8yb153a-CN223uig~ltfQ8NP9O41Qg
     Voorbereidende milestones (40% van de tijd):
         Django [Lecture]: /django/lectures/django
         Getting Started [Wiki]: /django/projects/wiki

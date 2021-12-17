@@ -12,7 +12,6 @@ Make sure that you have a *working* product to submit. This means that every but
 Submit your final code by *push*ing it to GitHub and creating a pull request. Make sure you are not missing anything! Some files that you should probably have:
 
 - the **README.md**
-- the **PROCESS.md** and other files that you updated during the project
 - a **docs** folder for the images in your documents
 - a separate folder containing your project's code
 - any configuration files like **.gitignore**

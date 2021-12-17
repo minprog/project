@@ -34,25 +34,11 @@ Schrijf bovenaan de file de naam van de student die jouw geholpen heeft met de r
 Your GitHub repository should contain a complete `README.md` file that states the application name, one or two screen shots (**resized** to small width/height), a description of the app's purpose, and your name. The `README` should be easy to read and give a quick overview.
 
 
-### Updating your design document
-
-The `DESIGN.md` should still be in the root of your repository, next to the `README.md`. You should update it to provide a high-level technical overview of your app as it is now. Things we'll look for:
-
-- To understand a web app, it's nice to start at the routes/URLs. However, there may be many and the purpose may not immediately be clear. In your `DESIGN`, provide tiny screenshots of the main functions (screens/interactions) of the app, and for each:
-
-    - describe which file implements that functionality (if needed),
-    - provide a list of which routes/URLs are connected to what functionality,
-    - describing the task that each route performs.
-
-- List other parts that should be looked at.
-
-In general, do not present all info in one big list, but instead try to present the information clearly for someone who doesn't quite know your project.
-
 ### Adding ASSESSMENT.md
 
 Take a look at the [syllabus](/syllabus) to see how your project will be assessed. In `ASSESSMENT.md` you should make a simple list of thing that you do not want us to miss when grading! Clearly point us to things in your code that you particularly like, or describe how you cleaned up certain parts, or parts of the functionality of the app that you're particularly proud of. You should expect that we take all of your code and functionality into account for grading, not just what you list here, but we surely do not want to miss those best parts!
 
-Also, choose the biggest decisions you've taken during the project, from your `PROCESS.md` and write about those: why did you make the decision, what was bad about the previous design ideas, why is the new solution better (and is it still better, now that your project is finished?). A small paragraph, like this one, per big decision suffices.
+Also, choose the biggest decisions you've taken during the project and write about those: why did you make the decision, what was bad about the previous design ideas, why is the new solution better (and is it still better, now that your project is finished?). A small paragraph, like this one, per big decision suffices.
 
 ### Choosing a license for your work
 

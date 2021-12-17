@@ -16,6 +16,7 @@
 - bram van meurs
 - julia smeets
 - vera duindam
+- adrian ruesink
 
 ### DevOps
 
@@ -23,7 +24,6 @@
 - julia liem
 - max willers
 - tjibbe valkenburg
-- adrian ruesink
 - noud hover
 - lance van duin
 

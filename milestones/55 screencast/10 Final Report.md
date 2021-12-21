@@ -26,7 +26,7 @@ If your application supports something like logins, entering the login info may 
 
 ### Agent Based Modelling track
 
-For the ABM-track the requirements of the screencast differ: 
+For the ABM-track the requirements of the screencast differ:
 
 * Start with what you modelled, why you think it is relevant and what research questions you wanted to answer.
 
@@ -34,7 +34,7 @@ For the ABM-track the requirements of the screencast differ:
 
 * Show the visualisation of your model. Let it run for a bit and point out the dynamics you think are interesting and relevant. You can maybe also change some parameters and show the effect on the model's behavior.
 
-* Finally, show the result of your experiment, and thus answer your research question. The result will usually be a figure that you have generated from running the model over different parameters. You can quickly show the graph and discuss the conclusions you draw from it. 
+* Finally, show the result of your experiment, and thus answer your research question. The result will usually be a figure that you have generated from running the model over different parameters. You can quickly show the graph and discuss the conclusions you draw from it.
 
 ## Recording
 
@@ -58,12 +58,12 @@ You can use any tool you'd like if you already know how to record screen casts. 
 
 * Click on the icon with the three vertical dots in the right upper corner. Then choose More tools > Extensions > Get more extensions.
 
-* Using the search bar find "Screen Castify" > Add to Chrome.
+* Using the search bar find "Screencastify" > Add to Chrome.
 
-* Click on the Screen Castify icon, then choose Start recording desktop > Share. From now on everything on your screen will be recorded.
+* Click on the Screencastify icon, then choose Start recording desktop > Share. From now on everything on your screen will be recorded.
 
-* To end the recording, click the Screen Castify logo and choose Stop.
+* To end the recording, click the Screencastify logo and choose Stop.
 
 ## Uploading
 
-After recording your video, upload it to Youtube or another video streaming service. Include an embed of your video in the `README.md` on GitHub.
+After recording your video, upload it to [UvA Video](https://video.uva.nl/home), YouTube or another video streaming service. Include an embed of your video in the `README.md` on GitHub.

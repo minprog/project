@@ -5,22 +5,7 @@ templates:
             besproken: boolean
         calculation: besproken.to_i
         hide_calculated: true
-    2: &punt1
-        type: float
-        subgrades:
-            done: boolean
-        calculation: -done * 9 + 1
-        hide_calculated: true
-
-grades:
-    proposal: *besproken
-    design: *besproken
-    process: *besproken
-    alpha: *besproken
-    beta: *besproken
-    screencast: *besproken
-    
-    final:
+    2: &project
         type: float
         subgrades:
             code: integer
@@ -29,6 +14,16 @@ grades:
             docs: integer
         calculation: ((code.to_i+repo.to_i+design.to_i+docs.to_i).to_f/20*9+1).round(1)
         hide_calculated: true
+    
+
+grades:
+    proposal: *besproken
+    design: *besproken
+    process: *besproken
+    alpha: *besproken
+    beta: *besproken
+    screencast: *besproken
+    final: *project
 
 calculation:
     eindcijfer:

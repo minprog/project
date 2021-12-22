@@ -33,13 +33,13 @@ grades:
 calculation:
     eindcijfer:
         punten: 0
-        final: 100
+        final_: 100
 
 punten:
     show_progress: true
     submits:
         proposal: 0
 
-final:
+final_:
     submits:
         final: 1

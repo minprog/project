@@ -34,6 +34,7 @@ punten:
     show_progress: true
     submits:
         proposal: 0
+        final: 0
 
 final_:
     submits:

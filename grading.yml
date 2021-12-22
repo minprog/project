@@ -23,7 +23,7 @@ grades:
     alpha: *besproken
     beta: *besproken
     screencast: *besproken
-    final: *project
+    final: *besproken
 
 calculation:
     eindcijfer:

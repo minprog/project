@@ -23,7 +23,7 @@ grades:
     alpha: *besproken
     beta: *besproken
     screencast: *besproken
-    final: *besproken
+    final: *project
 
 calculation:
     eindcijfer:
@@ -34,8 +34,8 @@ punten:
     show_progress: true
     submits:
         proposal: 0
-        final: 0
 
 final_:
+    show_progress: true
     submits:
         final: 1

@@ -9,10 +9,9 @@ templates:
         type: float
         subgrades:
             code: integer
-            repo: integer
             design: integer
-            docs: integer
-        calculation: ((code.to_i+repo.to_i+design.to_i+docs.to_i).to_f/20*9+1).round(1)
+            repo: integer
+        calculation: ((code.to_i+design.to_i+repo.to_i).to_f/15*9+1).round(1)
         hide_calculated: true
     
 

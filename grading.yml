@@ -1,40 +1,38 @@
 templates:
-    1: &besproken
-        type: pass
-        subgrades:
-            besproken: boolean
-        calculation: besproken.to_i
-        hide_calculated: true
-    2: &project
-        type: float
-        subgrades:
-            code: integer
-            design: integer
-            repo: integer
-        calculation: ((code.to_i+design.to_i+repo.to_i).to_f/15*9+1).round(1)
-        hide_calculated: true
-    
+  1: &besproken
+    type: pass
+    subgrades:
+      besproken: boolean
+    calculation: besproken.to_i
+    hide_calculated: true
+  2: &project
+    type: float
+    subgrades:
+      code: integer
+      design: integer
+      repo: integer
+    calculation: ((code.to_i+design.to_i+repo.to_i).to_f/15*9+1).round(1)
+    hide_calculated: true
 
 grades:
-    proposal: *besproken
-    design: *besproken
-    process: *besproken
-    alpha: *besproken
-    beta: *besproken
-    screencast: *besproken
-    final: *project
+  proposal: *besproken
+  design: *besproken
+  process: *besproken
+  alpha: *besproken
+  beta: *besproken
+  screencast: *besproken
+  final: *project
 
 calculation:
-    eindcijfer:
-        punten: 0
-        final_: 100
+  eindcijfer:
+    final_: 100
 
 punten:
-    show_progress: true
-    submits:
-        proposal: 0
+  show_progress: true
+  submits:
+    proposal: 0
 
 final_:
-    show_progress: true
-    submits:
-        final: 1
+  show_progress: true
+  submits:
+    final: 1

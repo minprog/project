@@ -26,7 +26,7 @@ Het model is dus eigenlijk heel simpel. Als je eenmaal aan het implementeren ben
 We gaan dit model in `mesa` implementeren en vervolgens visualiseren. Voor de implementatie zijn hier een aantal handvatten:
 
 - Blijft dicht bij het voorbeeld uit de tutorial. Je zal hier nog best veel aan moeten veranderen, maar in de basis kom je al een eind met de structuur.
-- Lees goed de [documentatie](https://mesa.readthedocs.io/en/master/mesa.html) van de `mesa`-functies die je gebruikt. Probeer zelf geen functies te schrijven voor dingen die `mesa` al voor je kan doen.
+- Lees goed de [documentatie](https://mesa.readthedocs.io/en/main/mesa.html) van de `mesa`-functies die je gebruikt. Probeer zelf geen functies te schrijven voor dingen die `mesa` al voor je kan doen.
 - Het grid bestaat uit een hoogte x breedte hoeveelheid cellen. Elke cel moet je implementeren als een object, niet alleen de cellen die een boom zijn. Binnen de cel kan je dan een status geven ('niet afgebrand', 'brandend', 'leeg')
 
 

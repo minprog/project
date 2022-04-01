@@ -17,14 +17,14 @@ De mentoren van dit vak zijn Alwan, Jelle en Marijn. Zij begeleiden je bij het p
 
 ## Contact
 
-Tijdens dit vak zul je vaak de hulp inroepen van de staff en medestudenten. Er zijn diverse opties voor het stellen van vragen. De beste optie hangt af van het soort vraag dat je wil stellen.
+Tijdens dit vak zul je regelmatig de hulp inroepen van de staff en medestudenten. Er zijn diverse opties voor het stellen van vragen. De beste optie hangt af van het soort vraag dat je wil stellen.
 
-**Werkgroepen en assistentie:** direct contact voor hulp bij programmeren.
+**Werkcolleges en assistentie:** direct contact voor hulp bij programmeren.
 
 * hulp op locatie of via Wonder
 * je weet niet waar te beginnen of je zit met een onvindbare bug
 * je hebt moeite met het verzinnen van een oplossing
-* gewoon binnenlopen!
+* kwestie van binnenlopen!
 
 **Slack:** direct contact.
 
@@ -42,6 +42,8 @@ Tijdens dit vak zul je vaak de hulp inroepen van de staff en medestudenten. Er z
 
 
 ## Rooster
+
+Iedere track heeft zijn eigen rooster, maar er zijn altijd twee werkcolleges in de week en daarnaast is er een los moment voor verdere assistentie. Zo zijn er iedere week drie momenten om vragen te stellen en hulp in te schakelen.
 
 ### React
 

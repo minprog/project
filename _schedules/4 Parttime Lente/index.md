@@ -13,19 +13,18 @@ Het vak Programmeerplatform moet je helemaal gehaald hebben vóór je deze cursu
 
 Jelle van Assema is de docent bij het vak. Je kan hem via e-mail bereiken op <help@mprog.nl>.
 
-De mentoren van dit vak zijn Alwan, Jelle en Marijn. Zij begeleiden je bij het project en de track. Wekelijks is er een werkgroep en je mentor is je eerste contactpunt binnen het vak.
+De mentoren van dit vak zijn Alwan, Jelle en Marijn. Zij begeleiden je bij het project en de track. Wekelijks zijn er werkgroepen en je mentor is je eerste contactpunt binnen het vak.
 
 ## Contact
 
 Tijdens dit vak zul je vaak de hulp inroepen van de staff en medestudenten. Er zijn diverse opties voor het stellen van vragen. De beste optie hangt af van het soort vraag dat je wil stellen.
 
-**Programmeerbalie:** direct contact voor hulp bij programmeren.
+**Werkgroepen en assistentie:** direct contact voor hulp bij programmeren.
 
 * hulp op locatie of via Wonder
 * je weet niet waar te beginnen of je zit met een onvindbare bug
 * je hebt moeite met het verzinnen van een oplossing
-* vooraf afspraak maken via afsprakensysteem
-* beperkt ruimte voor inloop bij urgente vragen
+* gewoon binnenlopen!
 
 **Slack:** direct contact.
 
@@ -40,6 +39,27 @@ Tijdens dit vak zul je vaak de hulp inroepen van de staff en medestudenten. Er z
 * andere officiële zaken
 * administratie na afloop van het vak
 * mail naar <help@mprog.nl>
+
+
+## Rooster
+
+### React
+
+* Dinsdag 11-13 werkcollege in A1.22
+* Woensdag 11-13 assistentie in A1.16 of via Wonder
+* Donderdag 11-13 werkcollege in A1.22
+
+### Agent-Based Modelling (ABM)
+
+* Dinsdag 13-15 werkcollege in A1.22
+* Woensdag 13-15 assistentie in A1.16 of via Wonder
+* Donderdag 13-15 werkcollege in A1.22
+
+### iOS
+
+* Woensdag 13-15 werkcollege in A1.22
+* Donderdag 13-15 assistentie in A1.16 of via Wonder
+* Vrijdag 13-15 werkcollege in A1.22
 
 
 ## Verwachtingen

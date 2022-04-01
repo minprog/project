@@ -66,6 +66,7 @@ Tijdens dit vak zul je vaak de hulp inroepen van de staff en medestudenten. Er z
 
 Om de cursus tot een goed einde te brengen, verwachten we dat je:
 
+1. wekelijks tenminste één werkcollege bijwoont,
 1. regelmatig vragen stelt,
 1. actief deelneemt,
 1. een interessant en voor jou leerzaam eindproject implementeert en inlevert,
@@ -80,7 +81,7 @@ Let op dat je minimaal aan bovenstaande verwachtingen moet voldoen om een eindci
 
 ## Kalender
 
-Voor het project zijn enkele milestones gedefiniëerd. Het is belangrijk deze bij benadering te halen als je het vak tijdig wil afronden.
+Voor het project zijn er enkele milestones gedefiniëerd. Het is belangrijk deze bij benadering te halen als je het vak tijdig wil afronden.
 
 | Onderdeel        | Tijdsbesteding |    Deadline |  
 | ---------------- | -------------: | ----------: |
@@ -88,6 +89,8 @@ Voor het project zijn enkele milestones gedefiniëerd. Het is belangrijk deze bi
 | Proposal         |        1 dag   |  22 april   |  
 | Prototype        |        4 dagen |  11 mei     |  
 | Beta Version     |        5 dagen |  23 mei     |
+
+> Vergeet het niet, in de week van 2 mei is het vakantie. De hele week is onderwijsvrij.
 
 In de **laatste week** (vanaf 30 mei) ga je je eindproject afronden middels een aantal verschillende stappen. Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór de start van blok 6 helemaal afgerond is, inclusief eindbeoordeling.
 

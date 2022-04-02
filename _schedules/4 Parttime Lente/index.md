@@ -83,7 +83,7 @@ Let op dat je minimaal aan bovenstaande verwachtingen moet voldoen om een eindci
 
 ## Kalender
 
-Voor het project zijn er enkele milestones gedefiniëerd. Het is belangrijk deze bij benadering te halen als je het vak tijdig wil afronden.
+Voor het project zijn er enkele milestones gedefinieerd. Het is belangrijk deze bij benadering te halen als je het vak tijdig wil afronden.
 
 | Onderdeel        | Tijdsbesteding |    Deadline |  
 | ---------------- | -------------: | ----------: |
@@ -144,7 +144,7 @@ Je mag gerust op het web zoeken naar uitleg die verder gaat dan de colleges en a
 
 ### Officiële regels
 
-Wat betreft fraude en plagiaat volgen we in deze cursus de richtlijnen van de Universiteit van Amsterdam en de werkwijze van de bachelor Informatica. De richtlijnen kun je [hier vinden]: http://student.uva.nl/az/a-z-lijst/a-z-lijst/content/folder/fraude-plagiaat-en-bronvermelding/plagiaat-en-fraude.html
+Wat betreft fraude en plagiaat volgen we in deze cursus de richtlijnen van de Universiteit van Amsterdam en de werkwijze van de bachelor Informatica. De richtlijnen kun je [hier vinden](http://student.uva.nl/az/a-z-lijst/a-z-lijst/content/folder/fraude-plagiaat-en-bronvermelding/plagiaat-en-fraude.html).
 
 
 ## Herkansen

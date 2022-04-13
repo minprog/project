@@ -1,6 +1,6 @@
 # Resources
 
-## Complete websites wih examples and documentation
+#### Complete websites wih examples and documentation
 
 | [Google's Swift Style Guide](https://google.github.io/swift/) | An example of a style guide you can use. |
 | [Apple Developer](https://developer.apple.com/) | Use this to find out more about functions and classes you'll find in Xcode. |
@@ -10,7 +10,7 @@
 | [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/) | Use this to find best practices for app design 
 
 
-## Just some handy pages
+#### Just some handy pages
 
 - [Playing with SwiftUI Buttons](https://alejandromp.com/blog/playing-with-swiftui-buttons/) (`Modified` is now called `ModifiedContent`)
 - [View Communication Patterns in SwiftUI](https://www.vadimbulavin.com/passing-data-between-swiftui-views/)

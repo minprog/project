@@ -8,13 +8,13 @@ You'll kick off your project by handing in a proposal document. This document sh
 
 2. Click on the link that follows "Your assignment has been created here", which will direct you to the GitHub repository page for your project. It may take a few seconds for GitHub to finish creating your repository.
 
-Now, you should be looking at a GitHub repository titled `uva-webapps/project-username`, where `username` is your GitHub username. This will be the repository to which you will push all of your code while working on your project.
+Now, you should be looking at a GitHub repository titled `minprog-platforms/project-username`, where `username` is your GitHub username. This will be the repository to which you will push all of your code while working on your project.
 
-Inside your new repository you will find a mostly empty file called `README.md`. Your should write your proposal in that file using the **Markdown** language ([read a brief intro](https://guides.github.com/features/mastering-markdown/)).
+Inside your new repository you will create a new file called `README.md`. Your should write your proposal in that file using the **Markdown** language ([read a brief intro](https://guides.github.com/features/mastering-markdown/)).
 
 ## Adding pictures
 
-You will need to include some sketches into your proposal. Put these images inside the folder called **doc** inside your repository. Use exactly that name, for consistency with other projects! To use pictures from the `doc` folder in a Markdown document, use the following example.
+You will need to include some sketches into your proposal. Put these images inside a folder called `doc` inside your repository. Use exactly that name, for consistency with other projects! To use pictures from the `doc` folder in a Markdown document, use the following example.
 
     ![Alternative Text](doc/image.png)
 
@@ -81,7 +81,7 @@ Finally, make sure that your document is spell-checked, and that images are **no
 
 ## Submitting
 
-After you have pushed all changes to Github, copy the URL of the GitHub page for your project and submit it below. It will be in this format: `https://github.com/uva-webapps/final-username`.
+After you have pushed all changes to Github, copy the URL of the GitHub page for your project and submit it below. It will be in this format: `https://github.com/minprog-platforms/final-username`.
 
 Don't commit any **code** yet, just your proposal. Your repository should be clean for us to read, containing the `README.md`, a `doc` folder, pictures in the `doc` folder, an empty `app` folder and nothing else.
 

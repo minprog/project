@@ -8,7 +8,7 @@
 | [SwiftUI by Example](https://www.hackingwithswift.com/quick-start/swiftui) | Examples of SwiftUI code. |
 | [Swift Documentation](https://docs.swift.org/swift-book/) | Use this to find language specific features. (like [data structures](https://docs.swift.org/swift-book/LanguageGuide/CollectionTypes.html), [optionals](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html#ID330) and [structs](https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html)) |
 | [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/) | Use this to find best practices for app design 
-
+| [SF Symbols](https://developer.apple.com/sf-symbols/) | Icons for in you apps. |
 
 #### Just some handy pages
 

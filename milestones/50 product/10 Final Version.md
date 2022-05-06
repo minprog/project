@@ -9,7 +9,7 @@ Make sure that you have a *working* product to submit. This means that every but
 
 ## Submitting
 
-Submit your final code by *push*ing it to GitHub and creating a pull request. Make sure you are not missing anything! Some files that you should probably have:
+Submit your final code by *push*ing it to GitHub. Make sure you are not missing anything! Some files that you should probably have:
 
 - the **README.md**
 - a **docs** folder for the images in your documents

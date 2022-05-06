@@ -1,59 +1,79 @@
-# Programmeerproject <br><small>Studiewijzer Parttime, Lente 2021</small>
+# Programmeerproject <br><small>Studiewijzer Parttime, Lente 2022</small>
 
-> "This course picks up where Harvard College’s CS50 leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Flask, Django, and Bootstrap. Topics include database design, scalability, security, and user experience. Through hands-on projects, students learn to write and use APIs, create interactive UIs, and leverage cloud services like GitHub and Heroku. By semester’s end, students emerge with knowledge and experience in principles, languages, and tools that empower them to design and deploy applications on the Internet." --- CSCI S-33a at Harvard.
+> Binnen enkele weken vorm je van begin tot eind een eigen idee tot een ontwerp en vervolgens implementeer je een eigen applicatie in een modern framework. Je doet ervaring op met systematisch werken en documenteren van zo'n project en het uitzoeken van de kennis die je nodig hebt om het tot een succes te maken. Hierbij beperkt de staf zich tot het geven van feedback op de ideeën en het helpen oplossen van technische blokkades.
 
-Het eindproject wordt gedaan volgens een aantal milestones. Dit zijn momenten in het project waar we een expliciet contact inbouwen, zodat je feedback kunt krijgen. Maak daarom een afspraak met één van de begeleiders voor *elke* milestone die je af hebt. Zeker de eerste milestones zijn cruciale momenten voor feedback en moeten afgetekend worden.
-
-
-## Kalender
-
-Voor het project zijn enkele **milestones** gedefiniëerd. Het is belangrijk deze te halen als je het vak tijdig wil afronden, en alleen bij hoge uitzondering kun je een milestone met een dagje uitstellen.
-
-| Onderdeel     | Tijdsbesteding | Deadline |  
-| ------------- | -------------: | -------: |
-| Proposal      |        3 dagen |  8 april |  
-| Design Doc    |        4 dagen | 14 april |  
-| Alpha Version (groot deel van het werk) |         1 week | 21 april |  
-| Beta Version (grootste deel werk)  |        2 weken |   12 mei |  
-
-Wekelijks zijn er **werkgroepen** om de voortgang door te nemen met de groep. De bedoeling is laagdrempelig laten zien waar je mee bezig bent zodat je groepsgenoten kunnen meedenken en jij je tunnelvisie een beetje kan doorbreken (want zo gaat het nu eenmaal in een eigen project!).
-
-Daarnaast heb je elke week een persoonlijk **voortgangsgesprek** met je mentor. Hier ga je in detail naar je project kijken, je mentor geeft feedback als jij daarom vraagt en je kunt steeds het doel aanscherpen zodat er uiteindelijk een succesvol eindproduct staat. De verwachting is dus dat bij elk gesprek je plannen een klein beetje aangepast worden.
-
-In de **laatste week** (vanaf 17 mei) ga je je eindproject afronden middels een aantal verschillende stappen. Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór juni helemaal afgerond is, inclusief eindbeoordeling.
-
-| Onderdeel     |       Deadline |  
-| ------------- | -------------: |
-| Final Product | ma 17 mei      |  
-| Code reviews  | za 22 mei      |  
-| Cleanup       | za 22 mei      |  
-| Screencast    | za 22 mei      |  
-
+Het eindproject wordt gedaan volgens een aantal milestones. Dit zijn momenten in het project waar we een expliciet contactmoment inbouwen, zodat je feedback kunt krijgen.
 
 ## Voorkennis
 
-Het vak Programmeerplatform of Web App Studio moet je helemaal gehaald hebben vóór je deze cursus start.
+Het vak Programmeerplatform moet je helemaal gehaald hebben vóór je deze cursus start.
 
 
-## Docenten en contact
+## Staff
 
-Je docenten zijn Martijn Stegeman en Jelle van Assema, assistenten Marijn Doeve en Wouter de Boer.
+Jelle van Assema is de docent bij het vak. Je kan hem via e-mail bereiken op <help@mprog.nl>.
 
-- Voor vragen over de stof, hulp met programmeren, technische ondersteuning, plaats je zoveel mogelijk een vraag op [Ed](https://us.edstem.org/courses/365).
-- Heb je een technische vraag waarvoor je met een assistent moet spreken? Dan kun je video-assistentie aanvragen door hierboven jezelf in de rij te zetten (?).
-- Is het tijd om je voortgang te bespreken of anderszins overleggen? Maak dan een afspraak via [Calendly](https://calendly.com/app-studio/project).
-- Voor vragen over regeltjes, het maken van persoonlijke afspraken en het op de hoogte houden van de docenten over het later inleveren stuur je een mail naar <help@mprog.nl>.
+De mentoren van dit vak zijn Alwan, Jelle en Marijn. Zij begeleiden je bij het project en de track. Wekelijks zijn er werkgroepen en je mentor is je eerste contactpunt binnen het vak.
+
+## Contact
+
+Tijdens dit vak zul je regelmatig de hulp inroepen van de staff en medestudenten. Er zijn diverse opties voor het stellen van vragen. De beste optie hangt af van het soort vraag dat je wil stellen.
+
+**Werkcolleges en assistentie:** direct contact voor hulp bij programmeren.
+
+* hulp op locatie of via Wonder
+* je weet niet waar te beginnen of je zit met een onvindbare bug
+* je hebt moeite met het verzinnen van een oplossing
+* kwestie van binnenlopen!
+
+**Slack:** direct contact.
+
+* onderlinge support
+* snelle vragen over deadlines, contact met samenwerkpartner
+* mededelingen en ziekmeldingen
+
+**Spreekuur en e-mail:** contact met de docent.
+
+* maken van persoonlijke planningsafspraken
+* meedenken over grote problemen met het vak
+* andere officiële zaken
+* administratie na afloop van het vak
+* mail naar <help@mprog.nl>
+
+
+## Rooster
+
+Iedere track heeft zijn eigen rooster, maar er zijn altijd twee werkcolleges in de week en daarnaast is er een los moment voor verdere assistentie. Zo zijn er iedere week drie momenten om vragen te stellen en hulp in te schakelen.
+
+### React
+
+* Dinsdag 11-13 werkcollege in A1.22
+* Woensdag 11-13 assistentie in A1.16 of via Wonder
+* Donderdag 11-13 werkcollege in A1.22
+
+### Agent-Based Modelling (ABM)
+
+* Dinsdag 13-15 werkcollege in A1.22
+* Woensdag 13-15 assistentie in A1.16 of via Wonder
+* Donderdag 13-15 werkcollege in A1.22
+
+### iOS
+
+* Woensdag 13-15 werkcollege in A1.22
+* Donderdag 13-15 assistentie in A1.16 of via Wonder
+* Vrijdag 13-15 werkcollege in A1.22
 
 
 ## Verwachtingen
 
 Om de cursus tot een goed einde te brengen, verwachten we dat je:
 
-1. regelmatig vragen stelt aan de assistenten en docenten,
-1. actief deelneemt aan onderlinge code reviews,
+1. wekelijks tenminste één werkcollege bijwoont,
+1. regelmatig vragen stelt,
+1. actief deelneemt,
 1. een interessant en voor jou leerzaam eindproject implementeert en inlevert,
-1. flink werk steekt in de vier milestones voor je eindproject, en
-1. de eindpresentaties bijwoont via een videoverbinding.
+1. flink werk steekt in de milestones voor je eindproject,
+1. en de eindpresentaties bijwoont.
 
 
 ## Eindcijfer
@@ -61,9 +81,28 @@ Om de cursus tot een goed einde te brengen, verwachten we dat je:
 Let op dat je minimaal aan bovenstaande verwachtingen moet voldoen om een eindcijfer te kunnen halen. Je krijgt dan een cijfer dat wordt opgebouwd uit diverse onderdelen: kwaliteit van de code, van het ontwerp, maar ook hoe systematisch je hebt gewerkt en documentatie hebt bijgehouden.
 
 
-## Becijfering van het eindproject
+## Kalender
 
-**Deze becijfering is nog indicatief. De definitie manier van beoordelen wordt nog vastgesteld.**
+Voor het project zijn er enkele milestones gedefinieerd. Het is belangrijk deze bij benadering te halen als je het vak tijdig wil afronden.
+
+| Onderdeel        | Tijdsbesteding |    Deadline |  
+| ---------------- | -------------: | ----------: |
+| Track            |        7 dagen |  20 april   |  
+| Proposal         |        1 dag   |  22 april   |  
+| Prototype        |        4 dagen |  11 mei     |  
+| Beta Version     |        5 dagen |  23 mei     |
+
+> Vergeet het niet, in de week van 2 mei is het vakantie. De hele week is onderwijsvrij.
+
+In de **laatste week** (vanaf 30 mei) ga je je eindproject afronden middels een aantal verschillende stappen. Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór de start van blok 6 helemaal afgerond is, inclusief eindbeoordeling.
+
+| Onderdeel     |    Deadline |  
+| ------------- | ----------: |
+| Final Product | 31 mei      |
+| Screencast    | 1 juni      |
+
+
+## Becijfering van het eindproject
 
 Je project moet uiteindelijk op GitHub staan, met in de repository de code voor het project en de bijbehorende documentatie. Het project moet voldoen aan minimumeisen zoals gesteld in de instructies aldaar, en moet een zodanige hoeveelheid code en documentatie bevatten dat beoordeling goed mogelijk is (naar oordeel van de docent).
 
@@ -71,11 +110,9 @@ Het cijfer voor dit project zal worden bepaald met behulp van de volgende criter
 
 *Code* --- In hoeverre is de code zorgvuldig ontworpen en leesbaar? We kijken naar codekwaliteit en database-ontwerp. Te denken valt aan commentaar en naamgeving, organisatie van de code in classes en files, en voor de database duplicatie en de mate waarin zoekopdrachten efficiënt kunnen worden uitgevoerd.
 
-*Interactieontwerp* --- In hoeverre is het product goed bruikbaar voor "anderen"? Er wordt gekeken naar een coherente uitwerking van een idee, maar vooral naar de wijze waarop de website een goede ervaring geeft voor nieuwe en bestaande gebruikers. Te denken valt aan eenvoudig kunnen "ontdekken" van functionaliteit, layout die eenvoudige bediening mogelijk maakt, goede bruikbaarheid voor mensen met een fysieke beperking.
+*Interactieontwerp* --- In hoeverre is het product goed bruikbaar voor "anderen"? Er wordt gekeken naar een coherente uitwerking van een idee, maar vooral naar de wijze waarop de applicatie een goede ervaring geeft voor nieuwe en bestaande gebruikers. Te denken valt aan eenvoudig kunnen "ontdekken" van functionaliteit, layout die eenvoudige bediening mogelijk maakt, goede bruikbaarheid voor mensen met een fysieke beperking.
 
-*Repository* --- In hoeverre is de repository compleet en netjes? We kijken naar het gebruik van de repository én van GitHub zoals dit bedoeld is. Te denken valt aan de indeling van de repository, de vindbaarheid van documentatie en onderdelen van de code, maar ook naar de regelmaat van committen en pushen, en het netjes afvinken van "issues" op GitHub. Een groot probleem is het "opnieuw beginnen" van een repository. Dit moet te allen tijde worden voorkomen.
-
-*Projectdocumentatie* --- In hoeverre is het project goed gedocumenteerd? We kijken naar de algemene beschrijving van het project in de `README.md`, de screencast, de technische beschrijving in `DESIGN.md` en de beschrijving van de voortgang in `PROCESS.md`. Te denken valt aan duidelijk geschreven teksten en nette diagrammen, expliciete links naar belangrijke onderdelen van de code en het up-to-date zijn met het daadwerkelijke eindproduct.
+*Repository en documentatie* --- In hoeverre is de repository compleet en netjes en in hoeverre is het project goed gedocumenteerd? We kijken naar het gebruik van de repository én van GitHub zoals dit bedoeld is. Te denken valt aan de indeling van de repository, de vindbaarheid van documentatie en onderdelen van de code, maar ook naar de regelmaat van committen en pushen, en het netjes afvinken van "issues" op GitHub. Een groot probleem is het "opnieuw beginnen" van een repository. Dit moet ten allen tijde worden voorkomen. We kijken ook naar de algemene beschrijving van het project in de `README.md`, de screencast en de beschrijving van de voortgang in `PROCESS.md`. Te denken valt aan duidelijk geschreven teksten en nette diagrammen, expliciete links naar belangrijke onderdelen van de code en het up-to-date zijn met het daadwerkelijke eindproduct.
 
 > **Let op!** Het is jouw taak om in een file `ASSESSMENT.md` op bovenstaande punten aan te geven waar je extra aandacht aan hebt besteed en hoe je dat gedaan hebt. Dat betekent niet dat je helemaal geen aandacht hoeft te besteden aan punten die je niet noemt, maar het betekent wel dat we het zullen waarderen als je een duidelijke visie hebt op je uitwerking. Gezien het formaat van het project is het voor de beoordelaar niet mogelijk om jouw intenties te achterhalen als je ze niet vermeldt. Het project kan dus niet worden beoordeeld als dit korte verslag niet aanwezig is.
 
@@ -93,13 +130,11 @@ Op elk van de criteria kun je 1 tot 5 punten verdienen:
 
 Al het werk dat je doet om aan bovenstaande verwachtingen te voldoen moet je eigen werk zijn.
 
-- Je mag code van andere studenten lezen om aan de eisen van een code review te voldoen, maar niet vóór de deadline van het betreffende project en het officieel aftekenen van je inzending.
-
 - Ideeën en technieken die je kent uit de reviews van andermans code en uit de feedback die je krijgt van anderen mag je gerust gebruiken, als je maar duidelijk de ideeën toeschrijft via comments in je code.
 
 - Je mag ideeën voor projecten, inclusief designs, bespreken met anderen, om feedback te verkrijgen en te geven, maar je mag geen *code* delen met anderen.
 
-In andere woorden: je mag met je medestudenten (en anderen) communiceren in het Nederlands of Engels over je werk in deze cursus, maar niet in de vorm van meer dan een paar regels Python, JavaScript, HTML en dergelijke talen. Als je twijfelt of je manier van werken in deze correct is, neem gerust contact op met de hoofddocenten.
+In andere woorden: je mag met je medestudenten (en anderen) communiceren in het Nederlands of Engels over je werk in deze cursus, maar niet in de vorm van meer dan een paar regels Python, JavaScript, HTML en dergelijke talen. Als je twijfelt of je manier van werken in deze correct is, neem gerust contact op met de docent.
 
 
 ### Citeren en hulpbronnen
@@ -109,9 +144,7 @@ Je mag gerust op het web zoeken naar uitleg die verder gaat dan de colleges en a
 
 ### Officiële regels
 
-Wat betreft fraude en plagiaat volgen we in deze cursus de richtlijnen van de Universiteit van Amsterdam en de werkwijze van de bachelor Informatica. De richtlijnen kun je [hier vinden].
-
-[hier vinden]: http://student.uva.nl/az/a-z-lijst/a-z-lijst/content/folder/fraude-plagiaat-en-bronvermelding/plagiaat-en-fraude.html
+Wat betreft fraude en plagiaat volgen we in deze cursus de richtlijnen van de Universiteit van Amsterdam en de werkwijze van de bachelor Informatica. De richtlijnen kun je [hier vinden](http://student.uva.nl/az/a-z-lijst/a-z-lijst/content/folder/fraude-plagiaat-en-bronvermelding/plagiaat-en-fraude.html).
 
 
 ## Herkansen

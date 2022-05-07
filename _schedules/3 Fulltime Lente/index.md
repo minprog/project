@@ -89,7 +89,7 @@ Voor het project zijn er enkele milestones gedefinieerd. Het is belangrijk deze 
 | Prototype    |        3 dagen |   19 mei |
 | Beta Version |        4 dagen |   25 mei |
 
-> **Let op!** Donderdag 26 mei is het hemelvaart. Die donderdag en vrijdag (27 mei) is de universiteit gesloten. De deadlines zijn daaromheen geplant, maar toch hakken deze dagen flink in de eindfase van het project. Als je wat achterloopt, kan het zo zijn dat je die dagen door moet werken.
+> **Let op!** Donderdag 26 mei is het hemelvaart. Die donderdag en vrijdag (27 mei) is de universiteit gesloten. De deadlines zijn daaromheen gepland, maar toch hakken deze dagen flink in de eindfase van het project. Als je wat achterloopt, kan het zo zijn dat je die dagen door moet werken.
 
 In de **laatste week** (vanaf 30 mei) ga je je eindproject afronden middels een aantal verschillende stappen. Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór de start van blok 6 helemaal afgerond is, inclusief eindbeoordeling.
 

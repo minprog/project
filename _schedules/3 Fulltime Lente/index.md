@@ -10,9 +10,9 @@ Het vak Programmeerplatform moet je helemaal gehaald hebben vóór je deze cursu
 
 ## Staff
 
-Jelle van Assema is de docent bij het vak. Je kan hem via e-mail bereiken op <help@mprog.nl>.
+Jelle van Assema en Wouter Vrielink zijn de docenten bij het vak. Je kan ze via e-mail bereiken op <help@mprog.nl>.
 
-De mentoren van dit vak zijn Alwan, Jelle en Marijn. Zij begeleiden je bij het project en de track. Wekelijks zijn er werkgroepen en je mentor is je eerste contactpunt binnen het vak.
+De mentoren van dit vak zijn Joos, Mayla en Quinten. Zij begeleiden je bij het project en de track. Wekelijks zijn er werkgroepen en je mentor is je eerste contactpunt binnen het vak.
 
 ## Contact
 

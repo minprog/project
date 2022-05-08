@@ -41,27 +41,22 @@ Tijdens dit vak zul je regelmatig de hulp inroepen van de staff en medestudenten
 
 ## Rooster
 
-Iedere track heeft zijn eigen rooster, maar er zijn altijd twee werkcolleges in de week en daarnaast is er een los moment voor verdere assistentie. Zo zijn er iedere week drie momenten om vragen te stellen en hulp in te schakelen.
-
-Coming soon!
-
-<!-- ### React
-
-- Dinsdag 11-13 werkcollege in A1.22
-- Woensdag 11-13 assistentie in A1.16 of via Wonder
-- Donderdag 11-13 werkcollege in A1.22
+Iedere track heeft zo zijn eigen rooster en assistentiemomenten, maar er zijn altijd twee werkcolleges in de week:
 
 ### Agent-Based Modelling (ABM)
 
-- Dinsdag 13-15 werkcollege in A1.22
-- Woensdag 13-15 assistentie in A1.16 of via Wonder
-- Donderdag 13-15 werkcollege in A1.22
+- Dinsdag 13:00 werkcollege in A1.16
+- Vrijdag 14:00 werkcollege in A1.16
 
-### iOS
+### DevOps
 
-- Woensdag 13-15 werkcollege in A1.22
-- Donderdag 13-15 assistentie in A1.16 of via Wonder
-- Vrijdag 13-15 werkcollege in A1.22 -->
+- Maandag 13:00 werkcollege in A1.16
+- Donderdag 14:00 werkcollege in A1.16
+
+### Django
+
+- Maandag 13:00 werkcollege in A1.16
+- Woensdag 13:00 werkcollege in A1.16
 
 ## Verwachtingen
 

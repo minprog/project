@@ -1,15 +1,56 @@
-Milestones:
-    Voorbereidende milestones (20% van de tijd):
-        Requirements: /django
-        Proposal: /milestones/proposal
-        Design document: /milestones/design
-        Process book: /milestones/process
-        # Prototype: /milestones/prototype
-    Ontwikkel-milestones (60% van de tijd):
-        Alpha version: /milestones/alpha
-        Beta version: /milestones/beta
-    Afrondende milestones (20% van de tijd):
-        Final product: /milestones/product
-        Cleanup: /milestones/cleanup
-        Screencast: /milestones/screencast
-        Demo: /milestones/demo
+Agent Based Modelling:
+  Resources:
+    Slack (na eerste werkgroep): /
+  Voorbereidende milestones (40% van de tijd):
+    ABM: /abm/abm_theory
+    Forest Fire Model: /abm/forest/forest1
+    Forest Fire Experiment: /abm/forest/forest2
+    Mesa: /abm/mesa
+    MoneyModel Experiment: /abm/moneymodel
+    Animals: /abm/animals
+  Ontwikkel-milestones (50% van de tijd):
+    Proposal: /milestones/proposal
+    Prototype: /milestones/prototype
+    Beta version: /milestones/beta
+  Afrondende milestones (10% van de tijd):
+    Cleanup: /milestones/cleanup
+    Final product: /milestones/product
+    Screencast: /milestones/screencast
+DevOps:
+  Resources:
+    Slack (na eerste werkgroep): /
+  Voorbereidende milestones (30% van de tijd):
+    Intro: /devops/devops
+    Server Setup: /devops/cloud
+    Containerization: /devops/containers
+    First App: /devops/devtest
+    Reverse Proxies: /devops/webservers
+    First App (continued): /devops/prodtest
+  Ontwikkel-milestones (60% van de tijd):
+    Proposal: /milestones/proposal
+    Prototype: /milestones/prototype
+    Beta version: /milestones/beta
+  Afrondende milestones (10% van de tijd):
+    Cleanup: /milestones/cleanup
+    Final product: /milestones/product
+    Screencast: /milestones/screencast
+Django:
+  Resources:
+    Slack (na eerste werkgroep): /
+  Voorbereidende milestones (40% van de tijd):
+    Django [Lecture]: /django/lectures/django
+    Getting Started [Wiki]: /django/projects/wiki
+    Design Document [Wiki]: /django/projects/wiki/design
+    Specification [Wiki]: /django/projects/wiki/specification
+    SQL [Lecture]: /django/lectures/sql
+    Getting Started [Commerce]: /django/projects/commerce
+    Design Document [Commerce]: /django/projects/commerce/design
+    Specification [Commerce]: /django/projects/commerce/specification
+  Ontwikkel-milestones (50% van de tijd):
+    Proposal: /milestones/proposal
+    Prototype: /milestones/prototype
+    Beta version: /milestones/beta
+  Afrondende milestones (10% van de tijd):
+    Cleanup: /milestones/cleanup
+    Final product: /milestones/product
+    Screencast: /milestones/screencast

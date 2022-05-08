@@ -8,6 +8,7 @@ Agent Based Modelling:
     Mesa: /abm/mesa
     MoneyModel Experiment: /abm/moneymodel
     Animals: /abm/animals
+    Sensitivity Analysis: /abm/sensitivity
   Ontwikkel-milestones (50% van de tijd):
     Proposal: /milestones/proposal
     Prototype: /milestones/prototype

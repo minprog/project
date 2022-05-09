@@ -37,7 +37,7 @@ DevOps:
     Screencast: /milestones/screencast
 Django:
   Resources:
-    Slack (na eerste werkgroep): https://join.slack.com/t/projectdjango-group/shared_invite/zt-18xjy4bnk-HEhaTCv_HysAhSGL3k41yw
+    Slack: https://join.slack.com/t/projectdjango-group/shared_invite/zt-18xjy4bnk-HEhaTCv_HysAhSGL3k41yw
   Voorbereidende milestones (40% van de tijd):
     Django [Lecture]: /django/lectures/django
     Getting Started [Wiki]: /django/projects/wiki

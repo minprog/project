@@ -14,3 +14,4 @@
 
 - [Playing with SwiftUI Buttons](https://alejandromp.com/blog/playing-with-swiftui-buttons/) (`Modified` is now called `ModifiedContent`)
 - [View Communication Patterns in SwiftUI](https://www.vadimbulavin.com/passing-data-between-swiftui-views/)
+- [Persisting Data](https://developer.apple.com/tutorials/app-dev-training/persisting-data)

@@ -9,6 +9,7 @@ Agent Based Modelling:
     MoneyModel Experiment: /abm/moneymodel
     Animals: /abm/animals
     Sensitivity Analysis: /abm/sensitivity
+    Prosal ABM: /abm/proposal
   Ontwikkel-milestones (50% van de tijd):
     Proposal: /milestones/proposal
     Prototype: /milestones/prototype

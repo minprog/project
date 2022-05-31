@@ -10,6 +10,8 @@
 - Tanne Heemsbergen
 - Thomas Been
 - Wesley Korff
+- Dirk kuiper
+- Guido de Bruin
 
 ## Donderdag 2 juni 14-16
 
@@ -23,6 +25,8 @@
 - Anneloes van Schaik
 - Leon Schuijtvlot
 - Anouk van Valkengoed
+- Birgit Schouten
+- Stephen Adei
 
 ## Vrijdag 3 juni 11-13
 
@@ -34,6 +38,9 @@
 - Nienke Tan
 - Brechje Seegers
 - Dennis Vlegels
+- Brandon Chin-A-Lien
+- Mouad El Mehdi El Baghdadi
+- Sanae Azzouzi
 
 ## Vrijdag 3 juni 14-16
 
@@ -42,23 +49,10 @@
 - Ulas Demirtas
 - Ziggy Weesing
 - Tim Kok
+- Sunita Rijs
 - Simone Calf
-
-
-Eva Plas
-Jesse Fontaine
-Lotte Notenboom
-Sunita Rijs
-
-Brandon Chin-A-Lien
-Mouad El Mehdi El Baghdadi
-Sanae Azzouzi
-
-Dirk kuiper
-
-Guido de Bruin
-Birgit Schouten
-Stephen Adei
-Job Cerfontain
-
-Hanan Almoustafa
+- Eva Plas
+- Jesse Fontaine
+- Lotte Notenboom
+- Hanan Almoustafa
+- Job Cerfontain

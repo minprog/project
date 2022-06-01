@@ -44,6 +44,7 @@
 
 ## Vrijdag 3 juni 14-16
 
+- Fons van de Hare
 - Joost Bremmer
 - Paul Molenaar
 - Ulas Demirtas

@@ -12,7 +12,7 @@ templates:
       design: integer
       repo: integer
     calculation: ((code.to_i+design.to_i+repo.to_i).to_f/15*9+1).round(1)
-    hide_calculated: true
+    hide_calculated: false
 
 grades:
   proposal: *besproken

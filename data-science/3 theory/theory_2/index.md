@@ -21,7 +21,7 @@ Q2: Wat voor soort problemen is logistische regressie meer geschikt voor dan lin
 
 **Linear Discriminant Analysis (LDA) clearly explained.**
 
-[![Video](http://img.youtube.com/vi/azXCzI57Yfc/0.jpg)](http://www.youtube.com/watch?v=azXCzI57Yfc&list=PL1Jt9Mfqf6egxIC99vcbWeDWTvOVq-7Mf&index=6"What is a (mathematical) model?")
+[![Video](http://img.youtube.com/vi/azXCzI57Yfc/0.jpg)](http://www.youtube.com/watch?v=azXCzI57Yfc&list=PL1Jt9Mfqf6egxIC99vcbWeDWTvOVq-7Mf&index=6 "What is a (mathematical) model?")
 
 Q1: Hoe kan LDA tweedimensionale data omzetten naar eendimensionale data?
 

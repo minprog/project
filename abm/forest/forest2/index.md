@@ -1,9 +1,9 @@
-## Forest Fire 2: Experimenten
+## Forest Fire 2: The Model Revisited
 
-ABM modellen worden gebouwd om experimenten te doen die je niet in de echte wereld kan doen. Het is bijvoorbeeld niet heel ethisch om een bos in brand te steken en te kijken hoe snel het afbrand. Gelukkig hebben wij onze `forest fire` model. Met het simpele model dat we nu hebben kunnen we al best veel bestuderen:
+In this second week we are introduced to the central ideas of Object Oriented Programming (OOP). This way of building models is very useful for ABMs, as it gives us a natural way to capture our agents in classes and give them properties (in the form of `attributes`) and actions (in the form of `methods`). 
 
-- Je kan kijken hoe de dichtheid van de bomen invloed heeft op hoe snel (en óf) het bos afbrand. Wat je hier zal zien is dat er een *kritische* dichtheid is waarna het bos altijd afbrand.
-- Je kan ook heterogeniteit introduceren door verschillende 'soorten' bomen te introduceren, die een verschillende brandbaarheid hebben. Wat gebeurt er als je de proporties van de verschillende bomen veranderd.
-- Nog een ander experiment in het introduceren van 'obstakels'. Denk bijvoorbeeld aan een meer midden in je bos. Hoe beinvloed dit hoe je bos wordt afgebrand.
+For our forest fire model we did not need this yet, because each cell is simply described by a state. However, what happens if we want a burning tree to go empty in exactly three time steps? Then our tree cell will need a memory. An easy and intuitive way to do this is to make an `object` for each cell, and give this object an `attribute` that tracks for how long it has been burning. As such, using OOP allows us to give our agents much more complex behaviors!
 
-Je kan hier een van de experimenten hierboven kiezen, maar het is ook goed als je zelf een experiment bedenkt en implementeert. Bedenk welke aanpassingen je aan je code moet doen om het experiment te laten werken, en welke data je wil verzamelen om de resultaten te beoordelen.
+Therefore, in this exercise we will reimplement the forest fire model, but now do it in an object-oriented way! Because you have just been introduced to OOP, this may still be a bit overwhelming. This is why we provide you with [this]() skeleton code, which already contains some of the main components that we will use. Download the code file and put it in the same folder as your original model, then the visualization should work as well!
+
+**Please note** that starting with OOP can be quite challenging! Do not feel bogged down if you do not manage to get this simulation working immediately. In the coming weeks you will encounter it much more, so there will be enough time to get used to it!

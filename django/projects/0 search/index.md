@@ -1,5 +1,7 @@
 ## Search
 
+> Note, the Git and Python lectures are not required for this assignment. We do however recommend you alternate working between working on this assignment and watching those lectures. As to not overload yourself with lectures after this assignment.
+
 Design a front-end for Google Search, Google Image Search, and Google Advanced Search.
 
 ### Background

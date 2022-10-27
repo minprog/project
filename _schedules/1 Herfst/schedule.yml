@@ -16,6 +16,10 @@ Agent Based Modelling:
     Screencast: /milestones/screencast
 Django:
   Voorbereidende milestones (40% van de tijd):
+    HTML, CSS [Lecture]: /django/lectures/html
+    Search [Assignment]: /django/projects/search
+    Git [Lecture]: /django/lectures/git
+    Python recap [Lecture]: /django/lectures/python
     Django [Lecture]: /django/lectures/django
     Getting Started [Wiki]: /django/projects/wiki
     Design Document [Wiki]: /django/projects/wiki/design

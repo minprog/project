@@ -1,6 +1,6 @@
 # Theorie, deel 2
 
-**Multiple Regression**
+## Multiple Regression
 
 [![Video](http://img.youtube.com/vi/zITIFTsivN8/0.jpg)](http://www.youtube.com/watch?v=zITIFTsivN8&list=PL1Jt9Mfqf6egxIC99vcbWeDWTvOVq-7Mf&index=4 "What is a (mathematical) model?")
 
@@ -8,7 +8,7 @@ Q1: Wat is het verschil tussen lineaire regressie en meervoudige regressie?
 
 <textarea name="form[1_Q1]" rows="4" required></textarea>
 
-**Logistic Regression**
+## Logistic Regression
 
 [![Video](http://img.youtube.com/vi/yIYKR4sgzI8/0.jpg)](http://www.youtube.com/watch?v=yIYKR4sgzI8&list=PL1Jt9Mfqf6egxIC99vcbWeDWTvOVq-7Mf&index=5 "What is a (mathematical) model?")
 
@@ -20,7 +20,7 @@ Q2: Wat voor soort problemen is logistische regressie meer geschikt voor dan lin
 
 <textarea name="form[2_Q2]" rows="4" required></textarea>
 
-**Linear Discriminant Analysis (LDA) clearly explained.**
+## Linear Discriminant Analysis (LDA) clearly explained.
 
 [![Video](http://img.youtube.com/vi/azXCzI57Yfc/0.jpg)](http://www.youtube.com/watch?v=azXCzI57Yfc&list=PL1Jt9Mfqf6egxIC99vcbWeDWTvOVq-7Mf&index=6 "What is a (mathematical) model?")
 
@@ -32,7 +32,7 @@ Q2: Wat is het verschil tussen logistische regressie en LDA? Op wat voor verschi
 
 <textarea name="form[3_Q2]" rows="4" required></textarea>
 
-**Toepassings vragen**
+## Toepassings vragen
 
 Benoem voor elk van de volgende scenario's welk van de vier behandelde modellen het best bij het probleem past en leg uit waarom.
 

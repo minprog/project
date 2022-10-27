@@ -1,0 +1,4 @@
+name: search
+files:
+  required:
+    - search.zip

@@ -40,7 +40,7 @@ Start with a small grid to see if everything works well. After this, make a `100
 
 ### The Visualization
 
-We give you some simple code that you can use to produce the animation shown above. You can put [this]() file in the folder of your forest fire and import the `visualize` function. This function takes the following arguments:
+We give you some simple code that you can use to produce the animation shown above. You can put [this](https://raw.githubusercontent.com/minprog/project/2022/abm/forest/forest1/visualize.py) file in the folder of your forest fire and import the `visualize` function. This function takes the following arguments:
 
 * `grid_values: (List[np.ndarray])`: a `list` of the grids (`numpy 2d-arrays`) generated during the simulation.
 

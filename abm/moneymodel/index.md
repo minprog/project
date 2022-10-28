@@ -1,4 +1,4 @@
-## ModeyModel Experiment: Redistribution
+## MoneyModel Experiment: Redistribution
 
 In order to better understand the `mesa` tutorial, and practice experimenting, we will conduct an experiment with our `MoneyModel`. We now introduce three types of agents:
 

@@ -1,23 +1,25 @@
-## ModeyModel Experiment: Herverdeling
+## ModeyModel Experiment: Redistribution
 
-Om de stof uit de eerste `mesa` tutorial nog wat beter te begrijpen, gaan we een eerste experiment uitvoeren met het `MoneyModel` model dat ons gegeven is. We gaan het model aanpassen zodat we experimenten kunnen doen met drie verschillende soorten agenten:
+In order to better understand the `mesa` tutorial, and practice experimenting, we will conduct an experiment with our `MoneyModel`. We now introduce three types of agents:
 
-- De *nivellerende* agent: deze agent kiest een cellmate met een grotere kans als deze weinig geld heeft. Deze agent zal dus de ongelijkheid kleiner proberen te maken.
-- De *denivellerende* agent: deze agent kiest een cellmate met een grotere kans als deze veel geld heeft. Deze agent zal dus de ongelijkheid groter proberen te maken.
-- De standaard agent: deze agent is hetzelfde als in de tutorial, en kiest dus *uniform* random een cellmate (iedere cellmate heeft een gelijke kans).
+- The *equalizing* agent: this agent chooses a cellmate with a larger chance if he has a small amount of money.
 
-Het model heeft telkens maar één soort agent, dus je hoeft geen model te maken waar verschillende soorten agenten door elkaar zitten (maar dit mag je wel proberen als je snel klaar bent!). We runnen de simulatie 10 keer voor elk van de drie agenten, en kijken vervolgens wat het effect is van de verschillende agenten in het model op de gini-coefficient (die je model al berekent na de tutorial). Kan je bedenken wat de waarschijnlijke uitkomst gaat zijn?
+- The *unequalizing* agent: this agent chooses a cellmate with a larger chance if he has a large amount of money.
+
+- The *standard* agent: this is the same agent as in the tutorial. He gives money to agents in his cell with equal chance.
+
+The model is run with one type of agent, so you do not have to make a model with more than one type of agent. We run the simulation 10 times for each of the three agent types. Then, we look what the effect is on the *gini-coefficient*, which you were already computing in the `mesa` tutorial.
 
 
-### Gewogen keuzes
+### Weighted choice
 
-We willen dat de kans dat een cellmate wordt gekozen wordt *proportioneel* is aan zijn relatieve welvaart. Voor de regressieve agent kunnen we dit makkelijk bepalen met de volgende formule:
+We want the chance of choosing a cell mate to be *proportional* to his  wealth level, relative to the other cell mates. For the unequalizing agent, we can easily determine this as:
 
 \\[
-    P_{denivellerend}(\text{gekozen worden}) = \frac{welvaart_i + 0.5}{\sum^N_j (welvaart_j + 0.5)}
+    P_{unequalizing}(\text{getting chosen}) = \frac{wealth_i + 0.5}{\sum^N_j (wealth_j + 0.5)}
 \\]
 
-Dus: de kans dat je gekozen wordt is gelijk aan jouw aandeel in de totale welvaart (onderin de breuk sommeren we over alle \\(N\\) agenten). Zoals je ziet nemen we \\($welvaart_i + 0.5\\), omdat anders agenten zonder welvaart nooit meer gekozen kunnen worden. De bovenstaande formule wordt duidelijker met een voorbeeld:
+So, the chance of getting chosen is equal to your share in the total wealth (in the denumerator, we sum over all \\(N\\) agents). We take \\($wealth_i + 0.5\\) because otherwise agents with no wealth will never be chosen again.
 
     # retrieve the wealth of the neighbors
     wealth_neighbors = [0, 1, 2, 3]
@@ -26,17 +28,20 @@ Dus: de kans dat je gekozen wordt is gelijk aan jouw aandeel in de totale welvaa
     augmented_wealth_neighbors = wealth_neighbors + 0.5
                                = [0.5, 1.5, 2.5, 3.5]
 
-    sum_wealth_neighbors = 8
+    sum_augmented_wealth_neighbors = 8
     chance_chosen = augmented_wealth_neighbors / sum_wealth_neighbors
                   = [1/16, 3/16, 5/16. 7/16]
 
-Twee dingen vallen hier op. Allereerst zie je dat de kansen groter worden naarmate de welvaart meer is, wat precies is wat we willen. Ten tweede zie je ook dat de kansen optellen tot 1, wat ook logisch is. Als we de kans voor de nivellerende agent willen hebben, kunnen we de bovenstaande kansen gebruiken en deze inverteren:
+
+Note that the chance of getting money increases with the agent's wealth level. Furthermore, the chances add up to one, which is good!
+
+If we want a equalizing agent, we can invert the chances above:
 
 \\[
-    P_{nivellerend}(\text{gekozen worden}) = \frac{1}{P_{denivellerend}(\text{gekozen worden})}
+    P_{equalizing}(\text{getting chosen}) = \frac{1}{P_{unequalizing}(\text{getting chosen})}
 \\]
 
-Als we het voorbeeld hierboven gebruiken kunnen we de geïnverteerde kansen als volgt krijgen:
+This example illustrates this again:
 
     chance_chosen_equalize = 1 / chance_chosen_unequalize
                            = 1 / [1/16, 3/16, 5/16. 7/16]
@@ -47,21 +52,20 @@ Hier zijn de waarden opgeteld niet langer gelijk aan $1$, maar dit is geen probl
 
 ### Requirements
 
-Pas het model dat je uit de tutorial zo aan dat je het volgende kan doen:
+Adapt the model from the tutorial such that you can do the following:
 
-- Agents kunnen, naast uniforme random keuze, voorkeur geven aan rijke buren (denivellerend) of armere buren (nivellerend).
-- Je kan een simulatie runnen die voor een model met standaard, denivellerende en nivellerende agenten de gemiddelde Gini-coefficient bepaald voor een aantal runs.
-- Je kan een bar chart plotten van de resulterende gini-coefficienten. Die moet er ongeveer als volgt uitzien:
+- Agents can have a preference for richer (unequalizing) and poorer (equalizing) cellmates.
+
+- You can run the simulation for the three different types of agents, and compute the average gini-coefficient for a given number of runs. You gather your data using the `mesa` data collector.
+
+- You can plot a bar chart with the resulting gini-coefficients. This should look something like this (can you think of a way to plot that also shows the variability?):
 
 ![barchart_redist](gini_bars_redist.png)
-<!-- <p align="center">
-<img src="gini_bars_redist.png" alt="drawing" width="400"/>
-</p> -->
 
 
-Run je model met de volgende parameters:
+Run the model with the following parameters:
 
-- Elk model heeft 100 agenten.
-- Elke configuratie van het model wordt (minstens) 10 keer gerunt (dus voor elk type agent run je 10 keer).
-- Elke simulatie heeft minimaal 100 tijdsstappen.
-- De `width` en `height` van het model blijven op 10 bij 10.
+- Each model has 100 agents
+- You run each configuration of the model (at least) 10 times.
+- Each simulation has at least 100 time steps.
+- The `width` and `height` of the model remain `10x10`.

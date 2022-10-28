@@ -1,10 +1,14 @@
 Agent Based Modelling:
   Voorbereidende milestones (40% van de tijd):
     ABM: /abm/abm_theory
+    Forest Fire 1: /abm/forest/forest1
+    Models: /abm/model_theory/models
+    Forest Fire 2: /abm/forest/forest2
+    Experiments: /abm/model_theory/experiments
+    Forest Fire 3: /abm/forest/forest3
     Mesa: /abm/mesa
     MoneyModel Experiment: /abm/moneymodel
-    Forest Fire Model: /abm/forest/forest1
-    Forest Fire Experiment: /abm/forest/forest2
+    Calibration and Sensitivity: /abm/model_theory/sensitivity
     Animals: /abm/animals
   Ontwikkel-milestones (50% van de tijd):
     Proposal: /milestones/proposal

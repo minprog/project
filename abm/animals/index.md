@@ -1,17 +1,23 @@
 ## Animals
 
-De dynamica van het forest fire model zien er cool uit, maar de bomen bewegen niet, dus dat is nog een beetje saai. Laten we dus proberen de agents te laten bewegen door de ruimte. We kunnen de agents een 'eigen wil' geven die bepaald hoe ze bewegen. Ze kunnen bijvoorbeeld op zoek gaan eten, andere agents of juist proberen weg te blijven van andere agents. Met zulke complexere agenten kunnen we straks ook menselijk gedrag gaan simuleren. Óf het gedrag van dieren, wat we nu eerst gaan doen.
+The dynamics of the forest fire model look cool, but our trees do not move, so that is still a bit boring. Let us try to make agents that move in a space. With the tools you have learned until now, you can now make rules upon which agents base their decisions and movements. 
 
-De volgende opdrachten zijn een stuk uitgebreider dan de vorige, en je hoeft ze dus niet (allebei) af te krijgen. Je krijgt ook alle vrijheid om ze te implementeren hoe je wil. Dit betekent ook dat je maar weinig handvatten krijgt. Je zal zelf uit moeten zoeken hoe het model werkt en wat je erin moet stoppen.
+For this, we will now make a simulation with more complex agents: animals. You have a choice to either build a predator-prey model, or a boids model (or both if you have time!). We will describe them below.
+
+These next exercises will be more elaborate than the previous ones, and give you an opportunity to practice all the techniques you have learned before. You get more freedom in how you want to implement the exercises, but this also means you will have to figure our by yourself which components your model needs.
+
+Its also good to practice making your own visualization here. You may want to try `matplotlib` animation, or maybe you want to use the `mesa` visualizer.
 
 
 ### Predator-Prey
 
-In dit model hebben we twee soorten dieren: roofdieren en prooien. Beide dieren proberen te overleven, alleen doen prooien dit door weg te blijven bij roofdieren, en roofdieren juist door prooien te vangen. Beide soorten planten zich ook voort. Vanuit deze basis kan je dit model zo complex maken als je wilt. Je kan de meerdere soorten dieren introduceren, het terrein aanpassen, en zelfs evolutie toepassen. Probeer zelf dit model te implementeren, en probeer het complexer en interessanter te maken. Ga ook op onderzoek uit hoe de model parameters de dynamica in het model aanpassen. Wanneer sterven er dieren uit? Kan je de populaties stabiel krijgen?
+The predator-prey model is an ecological model where different animal species compete for food, and hunt each other. The agents will look for food, avoid predators and try to mate. You may have already seen an example in the introduction of this track, and there is a lot of information to find on these type of models. 
+
+It is best to start by making one predator and one prey animal, and see if you can get a stable equilibrium where both species can survive (this is harder than it sounds). After this, add more components and make your system more realistic!
 
 
 ### Boids
 
-De modellen tot nu toe waren nog in een discrete ruimte. Dit is het geval voor veel ABM's, en kan ook zeker goed werken voor jullie eigen project. Maar voor veel applicaties is het logischer om in een continue ruimte te simuleren. Om dit te oefenen, kan je het [boids-algoritme](http://www.red3d.com/cwr/boids/) implementeren. Dit model wordt gebruikt om zwermen vogels of scholen vissen te simuleren. Krijg je het voor elkaar om complexe patronen te reproduceren? (Begin in 2D, maar als je van een uitdaging houdt kan je het ook in 3D proberen!).
+Until now, our agents moved in a discrete space. This is the case for many ABMs, but sometimes we want to have our agents move in a more realistic continuous space. You can implement this through the [boids-algorithm](http://www.red3d.com/cwr/boids/). This model is used to simulate swarms of birds or schools of fish (in the introduction we showed an example.) Can you manage to reproduce the complex patterns?
 
-(Deze opdracht is moeilijker dan de andere opdrachten. Het is dus geen probleem als je hier niet uit komt.)
+Note that implementing this algorithm is quite a bit more challenging than the previous ones. Do not feel discouraged if you do not manage to get this to work!

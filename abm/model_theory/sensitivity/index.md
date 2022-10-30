@@ -1,6 +1,8 @@
-## Sensitivity Analysis
+## Model Theory 3: Calibration and Sensitivity Analysis
 
-Een van de belangrijkste testen die we met onze modellen uitvoeren is _sensitivity analysis_. We willen hiermee uitzoeken hoe gevoelig de output van ons model is voor veranderingen in de input parameters. Hiermee kan je een aantal zaken bestuderen:
+We have seen what a useful model should contain, and how to conduct an experiment. 
+
+<!-- Een van de belangrijkste testen die we met onze modellen uitvoeren is _sensitivity analysis_. We willen hiermee uitzoeken hoe gevoelig de output van ons model is voor veranderingen in de input parameters. Hiermee kan je een aantal zaken bestuderen:
 
 - Je kan kijken of het model goed is gedefinieerd. Misschien is het model niet gevoelig genoeg, of té gevoelig voor een bepaalde parameter. Daar kan je het model wellicht op aanpassen.
 
@@ -20,9 +22,9 @@ Uit dit figuur kunnen we al een heel aantal conclusies trekken over ons systeem.
 
 Dit figuur bevat de _geaggregeerde_ resultaten van het model, dus voor elke waarde voor density is het model meerdere keren gesimuleerd, en hebben we de gemiddelde waarde als lijn geplot. Om aan te geven hoe variabel het model is voor verschillende waarden, is ook de standaardafwijking als band rondom de lijn geplot. De resultaten lijken dus vooral te varieëren tussen dichtheden 0.5 en 0.8.
 
-![forestfire_SA](ff_SA.png)
+<!-- ![forestfire_SA](ff_SA.png) -->
 
-### Opdracht: Voer SA uit
+<!-- ### Opdracht: Voer SA uit
 
 Als laatste opdracht kies je één van de modellen die je hebt geïmplementeerd en voer je hier een sensitivity analysis op uit.
 
@@ -32,4 +34,4 @@ Als laatste opdracht kies je één van de modellen die je hebt geïmplementeerd 
 
 - Plot tenslotte de resultaten. Je plot moet _ten minste_ de gemiddelde waarden voor een aantal runs bevatten, maar liever ook de standaardafwijking of interkwartiel afstand. Dit is een oefening, dus als je model lang duurt om te runnen zijn een paar simulaties per parameter-waarde voldoende.
 
-Zijn de resultaten zoals je had verwacht? Heb je wat geleerd over je model, of over het systeem dat je hebt gemodelleerd? Maak bij de figuur ook een markdown-bestand aan waarin je je bevindingen kort beschrijft.
+Zijn de resultaten zoals je had verwacht? Heb je wat geleerd over je model, of over het systeem dat je hebt gemodelleerd? Maak bij de figuur ook een markdown-bestand aan waarin je je bevindingen kort beschrijft. --> 

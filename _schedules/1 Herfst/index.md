@@ -14,12 +14,12 @@ Jelle van Assema en Martijn Stegeman zijn de docenten bij het vak. Je kan ze via
 
 De mentoren van dit vak zijn:
 
-| Agent Based Modeling |  Data Science |          Django | Unity            |
-| -------------------- | ------------: | --------------: | ---------------- |
-| Joos Ackerman        | Mayla Kersten |   Julius Kempen | Kamiel de Visser |
-| Seda den Boer        |  Wesley Korff | Yvette Schröder |
-| Okke van Eck         |               |  Stephan Visser |
-| Eva Plas             |               |   Max Westerman |
+| Agent Based Modeling | Data Science  | Django          | Unity            |
+| -------------------- | ------------- | --------------- | ---------------- |
+| Joos Ackerman        | Mayla Kersten | Julius Kempen   | Kamiel de Visser |
+| Seda den Boer        | Wesley Korff  | Yvette Schröder |
+| Okke van Eck         |               | Stephan Visser  |
+| Eva Plas             |               | Max Westerman   |
 
 Zij begeleiden je bij het project en de track. Je mentor is ook je eerste contactpunt binnen het vak.
 
@@ -52,15 +52,15 @@ Tijdens dit vak zul je regelmatig de hulp inroepen van de staff en medestudenten
 
 Iedere track heeft zo zijn eigen rooster en assistentiemomenten:
 
-| Agent Based Modeling |      Data Science |             Django | Unity           |
-| -------------------- | ----------------: | -----------------: | --------------- |
-| Ma 11 - 15 Okke      |  Ma 11 - 15 Mayla |  Ma 11 - 12 Julius |                 |
-|                      |                   |  Ma 12 - 13 Yvette |                 |
-|                      |                   |     Ma 13 - 15 Max |                 |
+| Agent Based Modeling | Data Science      | Django             | Unity           |
+| -------------------- | ----------------- | ------------------ | --------------- |
+| Ma 11 - 15 Okke      | Ma 11 - 15 Mayla  | Ma 11 - 12 Julius  |                 |
+|                      |                   | Ma 12 - 13 Yvette  |                 |
+|                      |                   | Ma 13 - 15 Max     |                 |
 | Di 12 - 15 Eva       |                   | Di 11 - 15 Stephan | Di 14-17 Kamiel |
-| Wo 11 - 15 Seda      |  Wo 9 - 12 Wesley |     Wo 13 - 17 Max |                 |
-|                      |                   |  Do 11 - 14 Julius | Do 14-17 Kamiel |
-| Vr 11 - 13 Eva       | Vr 11 - 14 Wesley |  Vr 13 - 17 Yvette |                 |
+| Wo 11 - 15 Seda      | Wo 9 - 12 Wesley  | Wo 13 - 17 Max     |                 |
+|                      |                   | Do 11 - 14 Julius  | Do 14-17 Kamiel |
+| Vr 11 - 13 Eva       | Vr 11 - 14 Wesley | Vr 13 - 17 Yvette  |                 |
 
 Wekelijks kom je bijeen bij een korte werkgroep, deze zijn tijdens deze uren met je mentor.
 

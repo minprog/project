@@ -76,15 +76,15 @@ Het project wordt gedaan volgens een aantal milestones. Dit zijn momenten in het
 | Prototype     |        ~20 uur | wo 30 nov |
 | Beta Version  |        ~40 uur | wo 14 dec |
 | Final Product |        ~10 uur | vr 16 dec |
+| Screencast    |         ~4 uur | vr 16 dec |
 
 In de laatste week ronden we af:
 
 | Onderdeel             | Datum             |
 | --------------------- | ----------------: |
 | Eindpresentaties      | di 20 + wo 21 dec |
-| Screencast (deadline) | vr 16 dec         |
 
-Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór de kerstvakantie helemaal afgerond is, inclusief eindbeoordeling.
+De deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór de kerstvakantie helemaal afgerond is, inclusief eindbeoordeling.
 
 ## Minimumeisen
 
@@ -99,7 +99,7 @@ Om de cursus tot een goed einde te brengen, verwachten we dat je:
 
 Let op dat je minimaal aan bovenstaande verwachtingen moet voldoen om een eindcijfer te kunnen halen.
 
-## Cijfers
+## Beoordeling
 
 Naast de minimumeisen hierboven moet je project moet uiteindelijk op GitHub staan, met in de repository de code voor het project en de bijbehorende documentatie, en er moet een zodanige hoeveelheid code en documentatie zijn dat beoordeling goed mogelijk is (naar oordeel van de docent).
 

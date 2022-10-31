@@ -105,7 +105,7 @@ Als je project voldoet aan de minimumeisen zal het cijfer worden bepaald met beh
 
 **Repository/documentatie.** De uiteindelijke versie van je project is een momentopname van je repository. Deze bevat de beste versies van jouw code en je documentatie. Hierbij zorg je voor een nette indeling in mapjes, vindbaarheid van de documentatie, vindbaarheid van de onderdelen van je code, het aanwezig zijn van een goede `README`. De documentatie is up-to-date, goed geschreven en bevat nette diagrammen, en expliciete links naar belangrijke onderdelen van de code.
 
-**Proces.** Tijdens het ontwikkelen van jouw software zul je een hoop beslissingen nemen over wat je wel en niet gaat maken, je zult leren over fundamentele ideeën en technieken, je zult beslissingen nemen over hoe je bepaalde onderdelen gaat implementeren (en hoe niet). Dit alles documenteer je in een dagelijks procesboek, al vanaf het moment dat je met oefenopdrachten aan de slag gaat.
+**Proces.** Tijdens het ontwikkelen van jouw software zul je een hoop beslissingen nemen over wat je wel en niet gaat maken, je zult leren over fundamentele ideeën en technieken, je zult beslissingen nemen over hoe je bepaalde onderdelen gaat implementeren (en hoe niet). Dit alles documenteer je in een procesboek, al vanaf het moment dat je met oefenopdrachten aan de slag gaat. Je houdt dit bij op elke dag dat je aan het project werkt.
 
 Op elk van de criteria kun je 1 tot 5 punten verdienen:
 

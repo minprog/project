@@ -1,18 +1,16 @@
 # Programmeerproject <br><small>Studiewijzer Fulltime, Lente 2022</small>
 
-> Binnen twee maanden vorm je van begin tot eind een eigen idee tot een ontwerp en vervolgens implementeer je een eigen applicatie in een modern framework. Je doet ervaring op met systematisch werken en documenteren van zo'n project en het uitzoeken van de kennis die je nodig hebt om het tot een succes te maken. Hierbij beperkt de staf zich tot het geven van feedback op de ideeën en het helpen oplossen van technische blokkades.
-
-Het eindproject wordt gedaan volgens een aantal milestones. Dit zijn momenten in het project waar we een expliciet contactmoment inbouwen, zodat je feedback kunt krijgen.
+> Binnen twee maanden vorm je van begin tot eind een eigen idee tot een ontwerp en vervolgens implementeer je een eigen applicatie in een modern software-framework. Je doet ervaring op met systematisch werken en documenteren van zo'n project en het uitzoeken van de kennis die je nodig hebt om het tot een succes te maken. Hierbij beperkt de staf zich tot het geven van feedback op de ideeën en het helpen oplossen van technische blokkades.
 
 ## Voorkennis
 
-Het vak programmeren 1 moet je helemaal gehaald hebben vóór je deze cursus start.
+De vakken Programmeren 1 en Datarepresentaties, of Programmeren 1 en 2, moet je helemaal gehaald hebben vóór je deze cursus start.
 
 ## Staff
 
 Jelle van Assema en Martijn Stegeman zijn de docenten bij het vak. Je kan ze via e-mail bereiken op <help@mprog.nl>.
 
-De mentoren van dit vak zijn:
+De mentoren bij dit vak begeleiden je bij het project en de voorbereidingen daarvoor. Je mentor is ook je eerste contactpunt binnen het vak.
 
 | Agent Based Modeling | Data Science  | Django          | Unity            |
 | -------------------- | ------------- | --------------- | ---------------- |
@@ -20,8 +18,6 @@ De mentoren van dit vak zijn:
 | Seda den Boer        | Wesley Korff  | Yvette Schröder |
 | Okke van Eck         |               | Stephan Visser  |
 | Eva Plas             |               | Max Westerman   |
-
-Zij begeleiden je bij het project en de track. Je mentor is ook je eerste contactpunt binnen het vak.
 
 ## Contact
 
@@ -62,63 +58,65 @@ Iedere track heeft zo zijn eigen rooster en assistentiemomenten:
 |                      |                   | Do 11 - 14 Julius  | Do 14-17 Kamiel |
 | Vr 11 - 13 Eva       | Vr 11 - 14 Wesley | Vr 13 - 17 Yvette  |                 |
 
-Wekelijks kom je bijeen bij een korte werkgroep, deze zijn tijdens deze uren met je mentor.
+Je gaat ook wekelijks bijeenkomen met je groepje en de mentor tijdens de bovengenoemde uren.
 
-## Verwachtingen
+## Kalender
+
+Het eindproject wordt gedaan volgens een aantal milestones. Dit zijn momenten in het project waar we een expliciet contactmoment inbouwen, zodat je feedback kunt krijgen.
+
+| Onderdeel     | Tijdsbesteding | Deadline  |
+| ------------- | -------------: | --------: |
+| Track         |        ~60 uur | vr 18 nov |
+| Proposal      |         ~8 uur | ma 21 nov |
+| Prototype     |        ~30 uur | vr  2 dec |
+| Beta Version  |        ~30 uur | wo 14 dec |
+| Final Product |        ~10 uur | vr 16 dec |
+
+In de **laatste week** (vanaf 19 dec) ga je je eindproject afronden middels een aantal verschillende stappen. Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór de kerstvakantie helemaal afgerond is, inclusief eindbeoordeling.
+
+| Onderdeel     | Deadline |
+| ------------- | -------: |
+| Screencast    |   21 dec |
+
+## Minimumeisen
 
 Om de cursus tot een goed einde te brengen, verwachten we dat je:
 
-1. wekelijks tenminste één werkgroep bijwoont,
+1. wekelijks contact hebt met je mentor en de werkgroep bijwoont,
 1. regelmatig vragen stelt,
 1. actief deelneemt,
 1. een interessant en voor jou leerzaam eindproject implementeert en inlevert,
 1. flink werk steekt in de milestones voor je eindproject,
 1. en de eindpresentaties bijwoont.
 
-## Eindcijfer
-
-Let op dat je minimaal aan bovenstaande verwachtingen moet voldoen om een eindcijfer te kunnen halen. Je krijgt dan een cijfer dat wordt opgebouwd uit diverse onderdelen: kwaliteit van de code, van het ontwerp, maar ook hoe systematisch je hebt gewerkt en documentatie hebt bijgehouden.
-
-## Kalender
-
-Voor het project zijn er enkele milestones gedefinieerd. Het is belangrijk deze bij benadering te halen als je het vak tijdig wil afronden.
-
-| Onderdeel    | Tijdsbesteding | Deadline |
-| ------------ | -------------: | -------: |
-| Track        |        ~60 uur |   19 nov |
-| Proposal     |         ~8 uur |   21 nov |
-| Prototype    |        ~30 uur |    3 dec |
-| Beta Version |        ~40 uur |   16 dec |
-
-In de **laatste week** (vanaf 19 dec) ga je je eindproject afronden middels een aantal verschillende stappen. Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór de kerstvakantie helemaal afgerond is, inclusief eindbeoordeling.
-
-| Onderdeel     | Deadline |
-| ------------- | -------: |
-| Final Product |   20 dec |
-| Screencast    |   21 dec |
+Let op dat je minimaal aan bovenstaande verwachtingen moet voldoen om een eindcijfer te kunnen halen.
 
 ## Becijfering van het eindproject
 
-Je project moet uiteindelijk op GitHub staan, met in de repository de code voor het project en de bijbehorende documentatie. Het project moet voldoen aan minimumeisen zoals gesteld in de instructies aldaar, en moet een zodanige hoeveelheid code en documentatie bevatten dat beoordeling goed mogelijk is (naar oordeel van de docent).
+Naast de minimumeisen hierboven moet je project moet uiteindelijk op GitHub staan, met in de repository de code voor het project en de bijbehorende documentatie, en er moet een zodanige hoeveelheid code en documentatie zijn dat beoordeling goed mogelijk is (naar oordeel van de docent).
 
-Het cijfer voor dit project zal worden bepaald met behulp van de volgende criteria, die allemaal ongeveer even zwaar tellen. Daarbij is het mogelijk voor elke student om zelf extra nadruk te leggen op bepaalde aspecten. Hiervan worden hieronder steeds voorbeelden gegeven.
+Als je project voldoet aan de minimumeisen zal het cijfer worden bepaald met behulp van de volgende criteria, die allemaal ongeveer even zwaar tellen.
 
-_Code_ --- In hoeverre is de code zorgvuldig ontworpen en leesbaar? We kijken naar codekwaliteit en database-ontwerp. Te denken valt aan commentaar en naamgeving, organisatie van de code in classes en files, en voor de database duplicatie en de mate waarin zoekopdrachten efficiënt kunnen worden uitgevoerd.
+**Scope.** Dit criterium staat enigszins in contrast met de andere. We kijken hier of je relatief veel of weinig hebt gedaan tijdens het project. Dit wordt voornamelijk gedaan aan de hand van de hoeveelheid geproduceerde code maar ook je zichtbare inzet kan hier een rol spelen. Als je meer doet wordt het ook iets lastiger om overzichtelijke code te schrijven en je project te documenteren. Hiervoor zit dus enige compensatie in dit criterium.
 
-_Interactieontwerp_ --- In hoeverre is het product goed bruikbaar voor "anderen"? Er wordt gekeken naar een coherente uitwerking van een idee, maar vooral naar de wijze waarop de applicatie een goede ervaring geeft voor nieuwe en bestaande gebruikers. Te denken valt aan eenvoudig kunnen "ontdekken" van functionaliteit, layout die eenvoudige bediening mogelijk maakt, goede bruikbaarheid voor mensen met een fysieke beperking.
+**Code.** In hoeverre is de code zorgvuldig ontworpen en leesbaar? We kijken naar codekwaliteit, eventueel database-ontwerp of andere onderdelen van het technisch ontwerp, aangepast aan het platform waarop je werkt. Te denken valt aan commentaar en naamgeving, organisatie van de code in classes en files, en voor de database duplicatie en de mate waarin zoekopdrachten efficiënt kunnen worden uitgevoerd.
 
-_Repository en documentatie_ --- In hoeverre is de repository compleet en netjes en in hoeverre is het project goed gedocumenteerd? We kijken naar het gebruik van de repository én van GitHub zoals dit bedoeld is. Te denken valt aan de indeling van de repository, de vindbaarheid van documentatie en onderdelen van de code, maar ook naar de regelmaat van committen en pushen, en het netjes afvinken van "issues" op GitHub. Een groot probleem is het "opnieuw beginnen" van een repository. Dit moet ten allen tijde worden voorkomen. We kijken ook naar de algemene beschrijving van het project in de `README.md`, de screencast en de beschrijving van de voortgang in `PROCESS.md`. Te denken valt aan duidelijk geschreven teksten en nette diagrammen, expliciete links naar belangrijke onderdelen van de code en het up-to-date zijn met het daadwerkelijke eindproduct.
+**Git.** Tijdens het project word je geacht gebruik te maken van Git voor het beheren van al je projectbestanden en -documentatie. Git is een systeem voor versiebeheer en je zult dus, vrijwel dagelijks, nieuwe versies van je projectbestanden naar je Git-"repository" committen. Een groot probleem is het "opnieuw beginnen" van een repository. Dit moet te allen tijde worden voorkomen. Loop je vast met Git, roep dan altijd hulp in van de docenten.
 
-> **Let op!** Het is jouw taak om in een file `ASSESSMENT.md` op bovenstaande punten aan te geven waar je extra aandacht aan hebt besteed en hoe je dat gedaan hebt. Dat betekent niet dat je helemaal geen aandacht hoeft te besteden aan punten die je niet noemt, maar het betekent wel dat we het zullen waarderen als je een duidelijke visie hebt op je uitwerking. Gezien het formaat van het project is het voor de beoordelaar niet mogelijk om jouw intenties te achterhalen als je ze niet vermeldt. Het project kan dus niet worden beoordeeld als dit korte verslag niet aanwezig is.
+**Repository/documentatie.** De uiteindelijke versie van je project is een momentopname van je repository. Deze bevat de beste versies van jouw code en je documentatie. Hierbij zorg je voor een nette indeling in mapjes, vindbaarheid van de documentatie, vindbaarheid van de onderdelen van je code, het aanwezig zijn van een goede `README`. De documentatie is up-to-date, goed geschreven en bevat nette diagrammen, en expliciete links naar belangrijke onderdelen van de code.
+
+**Proces.** Tijdens het ontwikkelen van jouw software zul je een hoop beslissingen nemen over wat je wel en niet gaat maken, je zult leren over fundamentele ideeën en technieken, je zult beslissingen nemen over hoe je bepaalde onderdelen gaat implementeren (en hoe niet). Dit alles documenteer je in een dagelijks procesboek, al vanaf het moment dat je met oefenopdrachten aan de slag gaat.
 
 Op elk van de criteria kun je 1 tot 5 punten verdienen:
 
-5. Uitstekend: vrijwel geen ruimte voor verbetering
-6. Zeer goed: aantal kleine dingen te verbeteren
-7. Goed: nog belangrijke dingen te verbeteren
-8. Redelijk: nog erg veel ruimte voor verbetering
-9. Niet goed
-   {: start="5" reversed="reversed"}
+1. Uitstekend: zichtbaar en systematisch aan gewerkt, duidelijke eigen insteek en bijzonder hoge kwaliteit
+1. Zeer goed: zichtbaar en systematisch aan gewerkt, met een aantal kleinere dingen te verbeteren
+1. Goed: zichtbaar en systematisch aan gewerkt, maar nog belangrijke dingen te verbeteren
+1. Redelijk: zichtbaar aan gewerkt, niet zo systematisch, en nog erg veel ruimte voor verbetering
+1. Niet goed genoeg
+{: start="5" reversed="reversed"}
+
+Voor sommige criteria zullen nog specifieke punten worden aangedragen waarmee duidelijker wordt hoe de beoordeling plaatsvindt. Toch zal een groot deel van de beoordeling plaats moeten vinden op basis van de concrete code die jij inlevert, omdat elke student een eigen insteek kiest.
 
 ## Samenwerken
 
@@ -140,7 +138,7 @@ Wat betreft fraude en plagiaat volgen we in deze cursus de richtlijnen van de Un
 
 ## Herkansen
 
-Het vak bestaat uit een hoeveelheid projecten die binnen de gestelde tijd afgemaakt moeten worden. Red je het niet binnen de tijd, dan kun je doorgaans het vak afmaken in een later semester. De projecten worden echter niet _standaard_ overgezet. Je moet altijd zelf contact opnemen vóór de start van een nieuwe editie van het vak om afspraken te maken over het meenemen van de oude opdrachten en het verder afmaken van de resterende.
+Het vak bestaat uit een hoeveelheid projecten die binnen de gestelde tijd afgemaakt moeten worden. Red je het niet binnen de tijd, dan kun je doorgaans het vak afmaken in een later semester. De projecten worden echter niet _standaard_ overgezet. Je moet altijd zelf contact opnemen vóór de start van een nieuwe editie van het vak om afspraken te maken over het meenemen van de oude opdrachten en het verder afmaken van de resterende. Het overzetten is afhankelijk van de beschikbaarheid van expertise en de mate waarin je project al was afgerond.
 
 ## Dankbetuiging/Acknowledgements
 

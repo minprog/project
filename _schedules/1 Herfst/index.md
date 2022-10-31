@@ -55,7 +55,7 @@ Iedere track heeft zo zijn eigen rooster en assistentiemomenten:
 |                      |                   | Ma 13 - 15 Max     |                 |
 | Di 12 - 15 Eva       |                   | Di 11 - 15 Stephan | Di 14-17 Kamiel |
 | Wo 11 - 15 Seda      | Wo 9 - 12 Wesley  | Wo 13 - 17 Max     |                 |
-|                      |                   | Do 11 - 14 Julius  | Do 14-17 Kamiel |
+| Do 12 - 15 Joos      |                   | Do 11 - 14 Julius  | Do 14-17 Kamiel |
 | Vr 11 - 13 Eva       | Vr 11 - 14 Wesley | Vr 13 - 17 Yvette  |                 |
 
 Je gaat ook wekelijks bijeenkomen met je groepje en de mentor tijdens de bovengenoemde uren.

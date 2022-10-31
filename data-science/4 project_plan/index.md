@@ -2,6 +2,7 @@
 
 Voordat je aan een eigen project kan beginnen lever je eerst een projectplan in. Hierin wordt beschreven waar je bezig mee gaat zijn na het doorlopen van de theorie vragen en de labs. Echter, probeer vanaf het begin van het vak al na te gaan denken over wat je wilt gaan doen voor je project en overleg dit regelmatig met je begeleider. Probeer jezelf ook echt uit te dagen hiermee! Dit betekend dus dat wanneer je al eerder wat meer statistiek vakken gehad hebt, je ook ingewikkeldere modellen gaat toepassen of met lastigere data gaat werken dan iemand voor wie dit alles echt helemaal nieuw is. 
 
+Je projectplan zal bestaan uit de volgende aspecten:
 
 * Een beschrijving van het doel van het project. Hier beschrijf je welke onderzoeksvraag je wilt gaan onderzoeken of wat voor voorspellingen je wilt gaan maken met je model.
 

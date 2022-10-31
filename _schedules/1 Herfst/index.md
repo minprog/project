@@ -62,7 +62,7 @@ Je gaat ook wekelijks bijeenkomen met je groepje en de mentor tijdens de bovenge
 
 ## Kalender
 
-Het eindproject wordt gedaan volgens een aantal milestones. Dit zijn momenten in het project waar we een expliciet contactmoment inbouwen, zodat je feedback kunt krijgen.
+Het project wordt gedaan volgens een aantal milestones. Dit zijn momenten in het project waar we een expliciet contactmoment inbouwen, zodat je feedback kunt krijgen.
 
 | Onderdeel     | Tijdsbesteding | Deadline  |
 | ------------- | -------------: | --------: |
@@ -72,7 +72,7 @@ Het eindproject wordt gedaan volgens een aantal milestones. Dit zijn momenten in
 | Beta Version  |        ~30 uur | wo 14 dec |
 | Final Product |        ~10 uur | vr 16 dec |
 
-In de **laatste week** (vanaf 19 dec) ga je je eindproject afronden middels een aantal verschillende stappen. Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór de kerstvakantie helemaal afgerond is, inclusief eindbeoordeling.
+In de **laatste week** (vanaf 19 dec) ga je je project afronden middels een aantal verschillende stappen. Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór de kerstvakantie helemaal afgerond is, inclusief eindbeoordeling.
 
 | Onderdeel     | Deadline |
 | ------------- | -------: |
@@ -85,13 +85,13 @@ Om de cursus tot een goed einde te brengen, verwachten we dat je:
 1. wekelijks contact hebt met je mentor en de werkgroep bijwoont,
 1. regelmatig vragen stelt,
 1. actief deelneemt,
-1. een interessant en voor jou leerzaam eindproject implementeert en inlevert,
-1. flink werk steekt in de milestones voor je eindproject,
+1. een interessant en voor jou leerzaam project implementeert en inlevert,
+1. flink werk steekt in de milestones voor je project,
 1. en de eindpresentaties bijwoont.
 
 Let op dat je minimaal aan bovenstaande verwachtingen moet voldoen om een eindcijfer te kunnen halen.
 
-## Becijfering van het eindproject
+## Cijfers
 
 Naast de minimumeisen hierboven moet je project moet uiteindelijk op GitHub staan, met in de repository de code voor het project en de bijbehorende documentatie, en er moet een zodanige hoeveelheid code en documentatie zijn dat beoordeling goed mogelijk is (naar oordeel van de docent).
 

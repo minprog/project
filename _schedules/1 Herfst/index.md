@@ -62,14 +62,19 @@ Je gaat ook wekelijks bijeenkomen met je groepje en de mentor tijdens de bovenge
 
 ## Kalender
 
-Het project wordt gedaan volgens een aantal milestones. Dit zijn momenten in het project waar we een expliciet contactmoment inbouwen, zodat je feedback kunt krijgen.
+Tijdens de eerste drie weken ga je aan de slag met de voorbereiding: het leren kennen van het platform waarmee je aan de slag gaat.
 
 | Onderdeel     | Tijdsbesteding | Deadline  |
 | ------------- | -------------: | --------: |
 | Track         |        ~60 uur | vr 18 nov |
+
+Het project wordt gedaan volgens een aantal milestones. Dit zijn momenten in het project waarbij we ook een expliciet contactmoment inbouwen, zodat je feedback kunt krijgen.
+
+| Onderdeel     | Tijdsbesteding | Deadline  |
+| ------------- | -------------: | --------: |
 | Proposal      |         ~8 uur | ma 21 nov |
-| Prototype     |        ~30 uur | vr  2 dec |
-| Beta Version  |        ~30 uur | wo 14 dec |
+| Prototype     |        ~20 uur | wo 30 nov |
+| Beta Version  |        ~40 uur | wo 14 dec |
 | Final Product |        ~10 uur | vr 16 dec |
 
 In de laatste week ronden we af:

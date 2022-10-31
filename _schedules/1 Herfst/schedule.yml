@@ -40,7 +40,12 @@ Django:
     Final product: /milestones/product
     Screencast: /milestones/screencast
 Data Science:
-  Intro: /data-science/intro
+  Voorbereidende milestones (40% van de tijd):
+    Intro: /data-science/intro
+    Installatie: /data-science/installation
+    Jupyter Notebook: /data-science/labs/intro
+    Theorie (models): /data-science/theory/theory_1
+    Theorie (regressie): /data-science/theory/theory_2
   Ontwikkel-milestones (50% van de tijd):
     Proposal: /milestones/proposal
     Prototype: /milestones/prototype

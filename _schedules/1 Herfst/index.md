@@ -55,28 +55,36 @@ Iedere track heeft zo zijn eigen rooster en assistentiemomenten:
 |                      |                   | Ma 13 - 15 Max     |                 |
 | Di 12 - 15 Eva       |                   | Di 11 - 15 Stephan | Di 14-17 Kamiel |
 | Wo 11 - 15 Seda      | Wo 9 - 12 Wesley  | Wo 13 - 17 Max     |                 |
-|                      |                   | Do 11 - 14 Julius  | Do 14-17 Kamiel |
+| Do 12 - 15 Joos      |                   | Do 11 - 14 Julius  | Do 14-17 Kamiel |
 | Vr 11 - 13 Eva       | Vr 11 - 14 Wesley | Vr 13 - 17 Yvette  |                 |
 
 Je gaat ook wekelijks bijeenkomen met je groepje en de mentor tijdens de bovengenoemde uren.
 
 ## Kalender
 
-Het project wordt gedaan volgens een aantal milestones. Dit zijn momenten in het project waar we een expliciet contactmoment inbouwen, zodat je feedback kunt krijgen.
+Tijdens de eerste drie weken ga je aan de slag met de voorbereiding: het leren kennen van het platform waarmee je aan de slag gaat.
 
 | Onderdeel     | Tijdsbesteding | Deadline  |
 | ------------- | -------------: | --------: |
 | Track         |        ~60 uur | vr 18 nov |
+
+Het project wordt gedaan volgens een aantal milestones. Dit zijn momenten in het project waarbij we ook een expliciet contactmoment inbouwen, zodat je feedback kunt krijgen.
+
+| Onderdeel     | Tijdsbesteding | Deadline  |
+| ------------- | -------------: | --------: |
 | Proposal      |         ~8 uur | ma 21 nov |
-| Prototype     |        ~30 uur | vr  2 dec |
-| Beta Version  |        ~30 uur | wo 14 dec |
+| Prototype     |        ~20 uur | wo 30 nov |
+| Beta Version  |        ~40 uur | wo 14 dec |
 | Final Product |        ~10 uur | vr 16 dec |
+| Screencast    |         ~4 uur | vr 16 dec |
 
-In de **laatste week** (vanaf 19 dec) ga je je project afronden middels een aantal verschillende stappen. Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór de kerstvakantie helemaal afgerond is, inclusief eindbeoordeling.
+In de laatste week ronden we af:
 
-| Onderdeel     | Deadline |
-| ------------- | -------: |
-| Screencast    |   21 dec |
+| Onderdeel             | Datum             |
+| --------------------- | ----------------: |
+| Eindpresentaties      | di 20 + wo 21 dec |
+
+De deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór de kerstvakantie helemaal afgerond is, inclusief eindbeoordeling.
 
 ## Minimumeisen
 
@@ -91,7 +99,7 @@ Om de cursus tot een goed einde te brengen, verwachten we dat je:
 
 Let op dat je minimaal aan bovenstaande verwachtingen moet voldoen om een eindcijfer te kunnen halen.
 
-## Cijfers
+## Beoordeling
 
 Naast de minimumeisen hierboven moet je project moet uiteindelijk op GitHub staan, met in de repository de code voor het project en de bijbehorende documentatie, en er moet een zodanige hoeveelheid code en documentatie zijn dat beoordeling goed mogelijk is (naar oordeel van de docent).
 

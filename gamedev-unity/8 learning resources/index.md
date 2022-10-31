@@ -1,5 +1,7 @@
 # Learning Resources
+
 Hier volgt een lijst van bronnen die je kunt gebruiken om Unity te leren en je game te ontwikkelen.
+
 - [Unity Learn](https://learn.unity.com/)
 	- Bomvol informatie voor nieuwe gebruikers
 - [Unity Manual](https://docs.unity3d.com/Manual/index.html)
@@ -12,5 +14,5 @@ Hier volgt een lijst van bronnen die je kunt gebruiken om Unity te leren en je g
 	- Over elk onderwerp wel een tutorial te vinden
 - [Learn Unity game engine](https://vionixstudio.com/learn-unity-game-engine/) 
 	- Een lijst van veelgevraagde onderwerpen uitgelegd.
-- Het interne discord kanaal (zie Zakelijkheden > Communicatie)
+- Het interne discord kanaal (zie Overzicht > Communicatie)
 	- Voor wanneer bovenstaande bronnen niet voldoen.

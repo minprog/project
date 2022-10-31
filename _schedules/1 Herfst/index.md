@@ -72,11 +72,14 @@ Het project wordt gedaan volgens een aantal milestones. Dit zijn momenten in het
 | Beta Version  |        ~30 uur | wo 14 dec |
 | Final Product |        ~10 uur | vr 16 dec |
 
-In de **laatste week** (vanaf 19 dec) ga je je project afronden middels een aantal verschillende stappen. Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór de kerstvakantie helemaal afgerond is, inclusief eindbeoordeling.
+In de laatste week ronden we af:
 
-| Onderdeel     | Deadline |
-| ------------- | -------: |
-| Screencast    |   21 dec |
+| Onderdeel             | Datum             |
+| --------------------- | ----------------: |
+| Eindpresentaties      | di 20 + wo 21 dec |
+| Screencast (deadline) | do 22 dec         |
+
+Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór de kerstvakantie helemaal afgerond is, inclusief eindbeoordeling.
 
 ## Minimumeisen
 

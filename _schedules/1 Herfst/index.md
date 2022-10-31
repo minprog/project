@@ -107,6 +107,7 @@ Als je project voldoet aan de minimumeisen zal het cijfer worden bepaald met beh
 
 **Proces.** Tijdens het ontwikkelen van jouw software zul je een hoop beslissingen nemen over wat je wel en niet gaat maken, je zult leren over fundamentele ideeën en technieken, je zult beslissingen nemen over hoe je bepaalde onderdelen gaat implementeren (en hoe niet). Dit alles documenteer je in een procesboek, al vanaf het moment dat je met oefenopdrachten aan de slag gaat. Je houdt dit bij op elke dag dat je aan het project werkt.
 
+<!-- 
 Op elk van de criteria kun je 1 tot 5 punten verdienen:
 
 1. Uitstekend: zichtbaar en systematisch aan gewerkt, duidelijke eigen insteek en bijzonder hoge kwaliteit
@@ -115,6 +116,7 @@ Op elk van de criteria kun je 1 tot 5 punten verdienen:
 1. Redelijk: zichtbaar aan gewerkt, niet zo systematisch, en nog erg veel ruimte voor verbetering
 1. Niet goed genoeg
 {: start="5" reversed="reversed"}
+-->
 
 Voor sommige criteria zullen nog specifieke punten worden aangedragen waarmee duidelijker wordt hoe de beoordeling plaatsvindt. Toch zal een groot deel van de beoordeling plaats moeten vinden op basis van de concrete code die jij inlevert, omdat elke student een eigen insteek kiest.
 

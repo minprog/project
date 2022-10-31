@@ -18,15 +18,17 @@ Agent Based Modelling:
     Final product: /milestones/product
     Screencast: /milestones/screencast
 Django:
-  Voorbereidende milestones (40% van de tijd):
+  HTML, CSS, git & Python (10% van de tijd):
     HTML, CSS [Lecture]: /django/lectures/html
     Search [Assignment]: /django/projects/search
     Git [Lecture]: /django/lectures/git
     Python recap [Lecture]: /django/lectures/python
+  Django (15% van de tijd):
     Django [Lecture]: /django/lectures/django
     Getting Started [Wiki]: /django/projects/wiki
     Design Document [Wiki]: /django/projects/wiki/design
     Specification [Wiki]: /django/projects/wiki/specification
+  "Als het lukt, Databases & Django (15% van de tijd)":
     SQL [Lecture]: /django/lectures/sql
     Getting Started [Commerce]: /django/projects/commerce
     Design Document [Commerce]: /django/projects/commerce/design

@@ -82,7 +82,7 @@ In de laatste week ronden we af:
 | Onderdeel             | Datum             |
 | --------------------- | ----------------: |
 | Eindpresentaties      | di 20 + wo 21 dec |
-| Screencast (deadline) | do 22 dec         |
+| Screencast (deadline) | vr 16 dec         |
 
 Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór de kerstvakantie helemaal afgerond is, inclusief eindbeoordeling.
 

@@ -28,4 +28,3 @@ Aan het einde van dit project heb je een game gemaakt die beschikbaar is om te s
 - Om deel te nemen aan dit project moet je Unity kunnen draaien op je computer. Kijk [hier](https://docs.unity3d.com/Manual/system-requirements.html) naar de minimum systeem vereisten. 
 - Het heeft de voorkeur om mee te doen op een systeem dat Windows draait, maar Mac wordt ook door Unity ondersteund. Soms zal je dan wel tegen wat problemen aan kunnen lopen die Mac-specifiek zijn.
 - Je hebt geen eerdere kennis van C# nodig. De kennis van Prog1 zou al een goede basis moeten zijn om aan dit project mee te kunnen doen.
-

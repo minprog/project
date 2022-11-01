@@ -1,9 +1,11 @@
 # Game Engines
- [**Unity**](https://unity.com/) is een van de meest populaire game engines van het moment. Een game engine is een software framework dat gebouwd is met als hoofddoel om het ontwikkelen van games te vermakkelijken. Er zijn veel verschillende game engines beschikbaar, een paar andere bekende engines zijn bijvoorbeeld [Unreal Engine](https://www.unrealengine.com/en-US), [GoDot](https://godotengine.org/) en [GameMaker](https://gamemaker.io/en/gamemaker). Deze zijn allen beschikbaar om als developer je eigen games op te gaan bouwen. Sommige developers bouwen hun eigen game engines die niet beschikbaar worden gemaakt voor het publiek, daar moet je dan speciale toestemming voor hebben om gebruik van te maken. Een voorbeeld hiervan is bijvoorbeeld het [Frostbite Engine](https://www.ea.com/frostbite/engine). Deze engines zijn vaak specifiek gebouwd voor het developen van een specifiek type games.
+
+ [**Unity**](https://unity.com/) is een van de meest populaire game engines van het moment. Een game engine is een software framework dat gebouwd is met als hoofddoel om het ontwikkelen van games te vermakkelijken. Er zijn veel verschillende game engines beschikbaar, een paar andere bekende engines zijn bijvoorbeeld [Unreal Engine](https://www.unrealengine.com/en-US), [GoDot](https://godotengine.org/) en [GameMaker](https://gamemaker.io/en/gamemaker). Deze zijn allen beschikbaar om als developer je eigen games op te gaan bouwen. Sommige developers bouwen hun eigen game engines die niet beschikbaar worden gemaakt voor het publiek, daar moet je dan speciale toestemming voor hebben om gebruik van te maken. Een voorbeeld hiervan is bijvoorbeeld de [Frostbite Engine](https://www.ea.com/frostbite/engine). Deze engines zijn vaak specifiek gebouwd voor het developen van een specifiek type games.
  
- ![[Pasted image 20221027142156.png]]
+ ![engine_overview.png]
  
 ## Waarom Unity?
+
 Als er zo veel game engines beschikbaar zijn, waarom kiezen we dan voor Unity? Hier een paar redenen:
 - Unity is gratis om je games op te bouwen. Pas wanneer jij of je bedrijf [meer dan dan  100,000 USD verdient](https://unity3d.com/unity/activation/personal) met je studio moet je gaan betalen voor je licentie.
 - Unity is één van de meest gebruikte engines, en heeft daarom een grote community om de engine heen - wat voor ons betekent dat we makkelijker hulp kunnen vinden bij het gebruiken van de engine.

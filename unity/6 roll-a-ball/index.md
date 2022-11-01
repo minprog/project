@@ -4,7 +4,7 @@ In dit klassikale project maken we kennis met de Unity Editor door een simpel 3D
 
 In het eindresultaat hebben we een project met een bal die je met de WASD of pijltjestoetesen kan laten rollen op een vlak.
 
-![[ball.png]]
+![](ball.png)
 
 We gaan gedurende deze sessie kennis maken met:
 

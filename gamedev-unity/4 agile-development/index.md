@@ -13,10 +13,10 @@ Een handige tool om te gebruiken bij Agile Development is [Trello](https://trell
 `Backlog`, `Doing`, `Testing`, `Done`, en `Icebox`.
 
 In de `Backlog` lijst plaats je alle taken die je deze sprint wilt uitvoeren. Bijvoorbeeld:
-![[Pasted image 20221027162408.png]]
+![[backlog.png]]
 
 Wanneer je een taak gaat oppakken, sleep je deze naar je `Breakdown` en onderverdeel je de taak in alle subtaken:
-![[Pasted image 20221027162441.png]]
+![[breakdown.png]]
 
 Als je aan de slag gaat, sleep je de taak naar `Doing`. Heb je alles af, dan gaat de taak naar `Testing`  en loop je na of alles werkt zoals het zou horen. Vervolgens sleep je de taak naar `Done`, tenzij de taak óf weer terug moet naar `Breakdown`, in het geval dat er nog iets gefixt moet worden, óf naar de `Icebox`, wanneer duidelijk is geworden dat deze taak te veel tijd gaat kosten om te implementeren. De `Icebox` is namelijk een plek waar je alle taken bewaart die je misschien later nog wilt oppakken, maar geen onderdeel gaan uitmaken van je MVP deze sprint.
 

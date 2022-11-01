@@ -14,7 +14,7 @@ De mentoren bij dit vak begeleiden je bij het project en de voorbereidingen daar
 
 | Agent Based Modeling | Data Science  | Django          | Unity            |
 | -------------------- | ------------- | --------------- | ---------------- |
-| Joos Ackerman        | Mayla Kersten | Julius Kempen   | Kamiel de Visser |
+| Joos Akkerman        | Mayla Kersten | Julius Kempen   | Kamiel de Visser |
 | Seda den Boer        | Wesley Korff  | Yvette Schröder |
 | Okke van Eck         |               | Stephan Visser  |
 | Eva Plas             |               | Max Westerman   |

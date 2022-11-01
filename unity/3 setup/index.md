@@ -28,9 +28,9 @@ Laat het project inladen (dit kan even duren!). Wanneer het project geladen is, 
 
 ## Checklist
 
-- [ ] Unity Hub geinstalleerd
-- [ ] {//TODO: juiste LTS versie} versie van Unity geinstalleerd
-- [ ] 3D Core project aangemaakt
-- [ ] 3D Core project geopend
-- [ ] Learn>MicroGame project aangemaakt
-- [ ] Learn>MicroGame project geopend
+- Unity Hub geinstalleerd
+- Laatste LTS versie van Unity geinstalleerd
+- 3D Core project aangemaakt
+- 3D Core project geopend
+- Learn>MicroGame project aangemaakt
+- Learn>MicroGame project geopend

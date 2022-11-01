@@ -5,6 +5,7 @@ Games! Een van de snelst groeiende industrieën van het moment. Inmiddels al in 
 Iedereen heeft tegenwoordig wel een game gespeeld, of je nou in de metro soms wel eens een potje *[Angry Birds](https://www.angrybirds.com/)* of *[Candy Crush](https://en.wikipedia.org/wiki/Candy_Crush_Saga)* speelt of thuis als fanatieke gamer *indie* titels speelt als *[Celeste](https://store.steampowered.com/app/504230/Celeste/)* of [*Stardew Valley*](https://www.stardewvalley.net/). De kans is in beiden gevallen groot dat je ooit een game hebt gespeeld die is gebouwd op de *game engine* '**Unity**'.
 
 In dit project ga je aan de slag met Unity om een game te bouwen. Gedurende het project leer je over een aantal dingen:
+
 - Agile werken: Wat is dat?
 - Wat is game development precies?
 - Wat zijn game engines?
@@ -23,6 +24,7 @@ In dit project ga je aan de slag met Unity om een game te bouwen. Gedurende het 
 Aan het einde van dit project heb je een game gemaakt die beschikbaar is om te spelen op de computer of op je telefoon.
 
 ## Vereisten
+
 - Om deel te nemen aan dit project moet je Unity kunnen draaien op je computer. Kijk [hier](https://docs.unity3d.com/Manual/system-requirements.html) naar de minimum systeem vereisten. 
 - Het heeft de voorkeur om mee te doen op een systeem dat Windows draait, maar Mac wordt ook door Unity ondersteund. Soms zal je dan wel tegen wat problemen aan kunnen lopen die Mac-specifiek zijn.
 - Je hebt geen eerdere kennis van C# nodig. De kennis van Prog1 zou al een goede basis moeten zijn om aan dit project mee te kunnen doen.

@@ -57,7 +57,15 @@ Data Science:
     Final product: /milestones/product
     Screencast: /milestones/screencast
 Unity:
-  Intro: /data-science/intro
+  Voorbereidende milestones (40% van de tijd):
+    Intro: /unity/intro
+    Overzicht: /unity/overzicht
+    Game Engines: "/unity/game engines"
+    Setup: /unity/setup
+    Agile: /unity/agile
+    Roll a ball: "/unity/roll-a-ball"
+    Unity Learn: "/unity/unity-learn"
+    Verder studiemateriaal: "/unity/learning resources"
   Ontwikkel-milestones (50% van de tijd):
     Proposal: /milestones/proposal
     Prototype: /milestones/prototype

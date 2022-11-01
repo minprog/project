@@ -14,7 +14,7 @@ De mentoren bij dit vak begeleiden je bij het project en de voorbereidingen daar
 
 | Agent Based Modeling | Data Science  | Django          | Unity            |
 | -------------------- | ------------- | --------------- | ---------------- |
-| Joos Ackerman        | Mayla Kersten | Julius Kempen   | Kamiel de Visser |
+| Joos Akkerman        | Mayla Kersten | Julius Kempen   | Kamiel de Visser |
 | Seda den Boer        | Wesley Korff  | Yvette Schröder |
 | Okke van Eck         |               | Stephan Visser  |
 | Eva Plas             |               | Max Westerman   |
@@ -105,7 +105,7 @@ Naast de minimumeisen hierboven moet je project moet uiteindelijk op GitHub staa
 
 Als je project voldoet aan de minimumeisen zal het cijfer worden bepaald met behulp van de volgende criteria, die allemaal ongeveer even zwaar tellen.
 
-**Scope.** Dit criterium staat enigszins in contrast met de andere. We kijken hier of je relatief veel of weinig hebt gedaan tijdens het project. Dit wordt voornamelijk gedaan aan de hand van de hoeveelheid geproduceerde code maar ook je zichtbare inzet kan hier een rol spelen. Als je meer doet wordt het ook iets lastiger om overzichtelijke code te schrijven en je project te documenteren. Hiervoor zit dus enige compensatie in dit criterium.
+**Scope.** Dit criterium staat enigszins in contrast met de anderen. We kijken hier of je relatief veel of weinig hebt gedaan tijdens het project. Dit wordt voornamelijk gedaan aan de hand van de hoeveelheid geproduceerde code maar ook je zichtbare inzet kan hier een rol spelen. Als je meer doet wordt het ook iets lastiger om overzichtelijke code te schrijven en je project te documenteren. Hiervoor zit dus enige compensatie in dit criterium.
 
 **Code.** In hoeverre is de code zorgvuldig ontworpen en leesbaar? We kijken naar codekwaliteit, eventueel database-ontwerp of andere onderdelen van het technisch ontwerp, aangepast aan het platform waarop je werkt. Te denken valt aan commentaar en naamgeving, organisatie van de code in classes en files, en voor de database duplicatie en de mate waarin zoekopdrachten efficiënt kunnen worden uitgevoerd.
 

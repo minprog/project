@@ -2,7 +2,7 @@
 
  [**Unity**](https://unity.com/) is een van de meest populaire game engines van het moment. Een game engine is een software framework dat gebouwd is met als hoofddoel om het ontwikkelen van games te vermakkelijken. Er zijn veel verschillende game engines beschikbaar, een paar andere bekende engines zijn bijvoorbeeld [Unreal Engine](https://www.unrealengine.com/en-US), [GoDot](https://godotengine.org/) en [GameMaker](https://gamemaker.io/en/gamemaker). Deze zijn allen beschikbaar om als developer je eigen games op te gaan bouwen. Sommige developers bouwen hun eigen game engines die niet beschikbaar worden gemaakt voor het publiek, daar moet je dan speciale toestemming voor hebben om gebruik van te maken. Een voorbeeld hiervan is bijvoorbeeld de [Frostbite Engine](https://www.ea.com/frostbite/engine). Deze engines zijn vaak specifiek gebouwd voor het developen van een specifiek type games.
  
- ![engine_overview.png]
+ ![](engine_overview.png)
  
 ## Waarom Unity?
 

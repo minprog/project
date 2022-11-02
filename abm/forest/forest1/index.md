@@ -6,7 +6,7 @@ Let's make this a bit more concrete. In our model consists of a 2D grid of cells
 
 $$ P(1 \rightarrow 2) = \frac{N_{\text{burning neighbors}}}{N_{\text{neighbors}}}. $$
 
-Where we use a [Moore neighborhood](https://en.wikipedia.org/wiki/Moore_neighborhood) to establish our neighbors. So, more burning neighbors means a higher chance of catching fire yourself. To establish whether $1\rightarrow2$ happens, compute $P(1 \rightarrow 2)$, and then draw a random value between 0 and 1 (for instance using `np.random.rand()`) and see if this value is smaller than $P(1 \rightarrow 2)$. If this is true, set the tree on fire.
+Where we use a [Moore neighborhood](https://en.wikipedia.org/wiki/Moore_neighborhood) to establish our neighbors. So, more burning neighbors means a higher chance of catching fire yourself. To establish whether $1\rightarrow2$ happens, compute `\(P(1 \rightarrow 2)\)`, and then draw a random value between 0 and 1 (for instance using `np.random.rand()`) and see if this value is smaller than $P(1 \rightarrow 2)$. If this is true, set the tree on fire.
 
 Some further rules:
 

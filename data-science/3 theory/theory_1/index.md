@@ -34,7 +34,7 @@ Q3: Waarom pak je de ‘square’ (het kwadraat) van de residuals in plaats van 
 
 <textarea name="form[2_Q3]" rows="4" required></textarea>
 
-Q4: Beschrijf de verschillende onderdelen van de ‘Generic line equation’ y = a \* x + b.
+Q4: Beschrijf de verschillende onderdelen van de ‘Generic line equation’ $y = ax + b$.
 
 <textarea name="form[2_Q4]" rows="4" required></textarea>
 
@@ -50,11 +50,11 @@ Q2: Het gewicht/pizza model van eerder blijkt een SS(mean) van 75 en een SS(fit)
 
 <textarea name="form[3_Q2]" rows="4" required></textarea>
 
-Q3: Wat zegt de R^2 van een model over dat model?
+Q3: Wat zegt de $R^2$ van een model over dat model?
 
 <textarea name="form[3_Q3]" rows="4" required></textarea>
 
-Q4: Waarom maakt het toevoegen van willekeurige variabelen de R^2 van een model niet slechter?
+Q4: Waarom maakt het toevoegen van willekeurige variabelen de $R^2$ van een model niet slechter?
 
 <textarea name="form[3_Q4]" rows="4" required></textarea>
 

@@ -18,15 +18,17 @@ Agent Based Modelling:
     Final product: /milestones/product
     Screencast: /milestones/screencast
 Django:
-  Voorbereidende milestones (40% van de tijd):
+  HTML, CSS, git & Python (10% van de tijd):
     HTML, CSS [Lecture]: /django/lectures/html
     Search [Assignment]: /django/projects/search
     Git [Lecture]: /django/lectures/git
     Python recap [Lecture]: /django/lectures/python
+  Django (15% van de tijd):
     Django [Lecture]: /django/lectures/django
     Getting Started [Wiki]: /django/projects/wiki
     Design Document [Wiki]: /django/projects/wiki/design
     Specification [Wiki]: /django/projects/wiki/specification
+  "Als het lukt, Databases & Django (15% van de tijd)":
     SQL [Lecture]: /django/lectures/sql
     Getting Started [Commerce]: /django/projects/commerce
     Design Document [Commerce]: /django/projects/commerce/design
@@ -40,7 +42,12 @@ Django:
     Final product: /milestones/product
     Screencast: /milestones/screencast
 Data Science:
-  Intro: /data-science/intro
+  Voorbereidende milestones (40% van de tijd):
+    Intro: /data-science/intro
+    Installatie: /data-science/installation
+    Jupyter Notebook: /data-science/labs/intro
+    Theorie (models): /data-science/theory/theory_1
+    Theorie (regressie): /data-science/theory/theory_2
   Ontwikkel-milestones (50% van de tijd):
     Proposal: /milestones/proposal
     Prototype: /milestones/prototype
@@ -50,7 +57,15 @@ Data Science:
     Final product: /milestones/product
     Screencast: /milestones/screencast
 Unity:
-  Intro: /data-science/intro
+  Voorbereidende milestones (40% van de tijd):
+    Intro: /unity/intro
+    Overzicht: /unity/overzicht
+    Game Engines: /unity/game-engines
+    Setup: /unity/setup
+    Agile: /unity/agile-development
+    Roll a ball: "/unity/roll-a-ball"
+    Unity Learn: "/unity/unity-learn"
+    Verder studiemateriaal: /unity/learning-resources
   Ontwikkel-milestones (50% van de tijd):
     Proposal: /milestones/proposal
     Prototype: /milestones/prototype

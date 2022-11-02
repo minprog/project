@@ -4,7 +4,7 @@ Je hebt vast wel eens gehoord over onderwerpen als (Big) Data Analytics, Machine
 
 ## Wat is Data Science?
 
-Data Science gaat om het creëren van waarde uit data. Dit wordt veelal gedaan door het toepassen van wiskundige modellen op data. Dat klinkt misschien wat... wiskundig. Maar niet gevreesd. Je zal erachter komen dat je zelfs met simpele modellen al een heel eind kan komen. Deze modellen kunnen vervolgens gebruikt worden om (onderzoeks-) vragen te beantwoorden of om voorspellingen te maken. En dat is precies wat je gaat doen tijdens je eigen project!
+Data Science gaat om het creëren van waarde uit data. Dit wordt veelal gedaan door het toepassen van wiskundige modellen op data. Dat klinkt misschien wat... wiskundig. Maar niet gevreesd. Je zal erachter komen dat je met goede dosis programmeerkennis en relatief eenvoudige modellen al een heel eind kan komen. Deze modellen kunnen vervolgens gebruikt worden om (onderzoeks-) vragen te beantwoorden of om voorspellingen te maken. En dat is precies wat je gaat doen tijdens je eigen project!
 
 ## Eigen project
 
@@ -20,4 +20,4 @@ Als laatste, deze track komt vers van pers. Dus mocht je opmerkingen, vragen of 
 
 ## Bijdragen
 
-Grote dank aan Fernando Pascoal Dos Santos voor het samenstellen van de labs voor het vak Fundamentals of Data Science.
+Grote dank aan Fernando Pascoal Dos Santos voor het mogen gebruiken van voor het vak Fundamentals of Data Science samengestelde labs.

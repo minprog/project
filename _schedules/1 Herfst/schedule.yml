@@ -45,14 +45,14 @@ Data Science:
   Voorbereidende milestones (40% van de tijd):
     Intro: /data-science/intro
     Installatie: /data-science/installation
-    Lab 1: /data-science/labs/lab1
+    Lab 1 (Python): /data-science/labs/lab1
+    Lab 2 (NumPy): /data-science/labs/lab2
+    Lab 3 (Pandas): /data-science/labs/lab3
+    Lab 4 (Matplotlib): /data-science/labs/lab4
+    Lab 5 (Working with a real dataset): /data-science/labs/lab5
     Theorie (models): /data-science/theory/theory_1
     Theorie (regressie): /data-science/theory/theory_2
-    Lab 2: /data-science/labs/lab2
-    Lab 3: /data-science/labs/lab3
-    Lab 4: /data-science/labs/lab4
-    Lab 5: /data-science/labs/lab5
-    Lab 6: /data-science/labs/lab6
+    Lab 6 (Scikit-Learn): /data-science/labs/lab6
     Git (lecture): /django/lectures/git
   Ontwikkel-milestones (50% van de tijd):
     Proposal: /milestones/proposal

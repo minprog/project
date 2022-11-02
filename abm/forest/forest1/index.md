@@ -2,17 +2,13 @@
 
 The first model we will build from the ground up is used to simulate forest fires. Such a model is an example of an *cellular automata*. This means the systems consists of a grid of **cells**, which each have a certain **state**. This state is changed based on the states of a cell's neighbors. Typically, this happens based on a simple updating rule.
 
-Let's make this a bit more concrete. In our model consists of a 2D grid of cells, where each cell has three states:
+Let's make this a bit more concrete. In our model consists of a 2D grid of cells, where each cell has three states: **burning** (state 0), **tree** (state 1) and **burning** (state 2). The evolution of a cell is $0 \rightarrow 1 \rightarrow 2$. (Some versions also have that a tree can grow back in the empty cell, but we will ignore this for now). Given a tree-node, we decide whether it will catch fire based on the following equation:
 
-0. Empty.
-1. Tree.
-2. Burning.
-
-The evolution of a cell is $0 \rightarrow 1 \rightarrow 2$. (Some versions also have that a tree can grow back in the empty cell, but we will ignore this for now). Given a tree-node, we decide whether it will catch fire based on the following equation:
+<!-- ![ff_equation](ff_eq.png) -->
 
 $$ P(1 \rightarrow 2) = \frac{N_{\text{burning neighbors}}}{N_{\text{neighbors}}}. $$
 
-Where we use a [Moore neighborhood](https://en.wikipedia.org/wiki/Moore_neighborhood) to establish our neighbors. So, more burning neighbors means a higher chance of catching fire yourself. To establish whether $1\rightarrow2$ happens, compute $P(1 \rightarrow 2)$, and then draw a random value between 0 and 1 (for instance using `np.random.rand()`) and see if this value is smaller than $P(1 \rightarrow 2)$. If this is true, set the tree on fire.
+Here, we use a [Moore neighborhood](https://en.wikipedia.org/wiki/Moore_neighborhood) to establish our neighbors. So, more burning neighbors means a higher chance of catching fire yourself. To establish whether $1\rightarrow2$ happens, compute `\(P(1 \rightarrow 2)\)`, and then draw a random value between 0 and 1 (for instance using `np.random.rand()`) and see if this value is smaller than $P(1 \rightarrow 2)$. If this is true, set the tree on fire.
 
 Some further rules:
 

@@ -45,9 +45,14 @@ Data Science:
   Voorbereidende milestones (40% van de tijd):
     Intro: /data-science/intro
     Installatie: /data-science/installation
-    Jupyter Notebook: /data-science/labs/intro
+    Lab 1: /data-science/labs/lab1
     Theorie (models): /data-science/theory/theory_1
     Theorie (regressie): /data-science/theory/theory_2
+    Lab 2: /data-science/labs/lab2
+    Lab 3: /data-science/labs/lab3
+    Lab 4: /data-science/labs/lab4
+    Lab 5: /data-science/labs/lab5
+    Lab 6: /data-science/labs/lab6
     Git (lecture): /django/lectures/git
   Ontwikkel-milestones (50% van de tijd):
     Proposal: /milestones/proposal

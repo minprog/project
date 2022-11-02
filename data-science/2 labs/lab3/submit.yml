@@ -1,0 +1,4 @@
+name: ds_lab3
+files:
+    required:
+        - lab3.ipynb

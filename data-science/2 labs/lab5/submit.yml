@@ -1,0 +1,4 @@
+name: ds_lab5
+files:
+    required:
+        - lab5.ipynb

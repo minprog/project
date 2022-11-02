@@ -1,0 +1,4 @@
+name: ds_lab6
+files:
+    required:
+        - lab6.ipynb

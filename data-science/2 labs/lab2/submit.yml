@@ -1,0 +1,4 @@
+name: ds_lab2
+files:
+    required:
+        - lab2.ipynb

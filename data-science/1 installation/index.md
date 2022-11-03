@@ -23,4 +23,4 @@ You can open Jupyter Notebook by typing the command:
 
 
 ### Step 2: Lab 0: Jupyter Notebook introduction
-If all went well, download the following Notebook file [here]([here](https://raw.githubusercontent.com/minprog/project/2022/data-science/2%20labs/installation.ipynb)) (right-click and save) and see if are able to open and run it.
+If all went well, download the following Notebook file [here](https://raw.githubusercontent.com/minprog/project/2022/data-science/2%20labs/installation.ipynb) (right-click and save) and see if are able to open and run it.

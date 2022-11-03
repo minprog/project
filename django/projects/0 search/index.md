@@ -6,7 +6,7 @@ Design a front-end for Google Search, Google Image Search, and Google Advanced S
 
 ### Background
 
-Recall from lecture that we can create an HTML form using a <form> tag and can add <input> tags to create input fields for that form. Later in the course, we’ll see how to write web applications that can accept form data as input. For this project, we’ll write forms that send data to an existing web server: in this case, Google’s.
+Recall from lecture that we can create an HTML form using a `<form>` tag and can add `<input> tags to create input fields for that form. Later in the course, we’ll see how to write web applications that can accept form data as input. For this project, we’ll write forms that send data to an existing web server: in this case, Google’s.
 
 When you perform a Google search, as by typing in a query into Google’s homepage and clicking the “Google Search” button, how does that query work? Let’s try to find out.
 
@@ -26,7 +26,7 @@ If you look through the URL, you should see that one of the GET parameters in th
 
 It turns out that, while the other parameters provide useful data to Google, only the q parameter is required to perform a search. You can test this for yourself by visiting https://www.google.com/search?q=Harvard, deleting all the other parameters. You should see the same Google results!
 
-Using this information, we can actually re-implement a front end for Google’s homepage. Paste the below into an HTML file called `index.html`, and open it in a browser. You can alternatively download the index.html file directly from the “Getting Started” section below.
+Using this information, we can actually re-implement a front end for Google’s homepage. Paste the below into an HTML file called `index.html`, and open it in a browser. You can alternatively download the `index.html file directly from the “Getting Started” section below.
 
     <!DOCTYPE html>
     <html lang="en">
@@ -75,7 +75,7 @@ Your website must meet the following requirements:
 ### Hints
 
 - To determine what the parameter names should be, you’re welcome to experiment with making Google searches, and looking at the resulting URL. It may also be helpful to open the “Network” inspector (accessible in Google Chrome by choosing View -> Developer -> Developer Tools) to view details about requests your browser makes to Google.
-  - Any <input> element (whether its `type` is `text`, `submit`, `number`, or something else entirely) can have `name` and `value` attributes that will become GET parameters when a form is submitted.
+  - Any `<input>` element (whether its `type` is `text`, `submit`, `number`, or something else entirely) can have `name` and `value` attributes that will become GET parameters when a form is submitted.
   - You may also find it helpful to look at Google’s own HTML to answer these questions. In most browsers, you can control-click or right-click on a page and choose “View Page Source” to view the page’s underlying HTML.
 - To include an input field in a form that users cannot see or modify, you can use a “hidden” input field.
 

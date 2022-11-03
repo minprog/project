@@ -2,7 +2,7 @@
 
 The first model we will build from the ground up is used to simulate forest fires. Such a model is an example of an *cellular automata*. This means the systems consists of a grid of **cells**, which each have a certain **state**. This state is changed based on the states of a cell's neighbors. Typically, this happens based on a simple updating rule.
 
-Let's make this a bit more concrete. In our model consists of a 2D grid of cells, where each cell has three states: **empty** (state 0), **tree** (state 1) and **burning** (state 2). The evolution of a cell is $1 \rightarrow 2 \rightarrow 0$. (Some versions also have that a tree can grow back in the empty cell, but we will ignore this for now). Given a tree-node, we decide whether it will catch fire based on the following equation:
+Let's make this a bit more concrete. In our model consists of a 2D grid of cells, where each cell has three states: **empty** (state $0$), **tree** (state $1$) and **burning** (state $2$). The evolution of a cell is $1 \rightarrow 2 \rightarrow 0$. (Some versions also have that a tree can grow back in the empty cell, but we will ignore this for now). Given a tree-node, we decide whether it will catch fire based on the following equation:
 
 <!-- ![ff_equation](ff_eq.png) -->
 
@@ -16,7 +16,7 @@ Some further rules:
 
 * Once a tree is on fire (state $2$), it has a 20% chance of burning up each time step it is on fire. If it burns up, the cell becomes empty ($2 \rightarrow 0$).
 
-* For the initialization we introduce a density parameter $D$. This takes values between $0$ and $1$, and determines the density of trees at the start. If $D=0.8$, This means $80\%$ of the grid at the start should be filled with trees. You will thus have to find a way to randomly assign values $1$ and $3$ to the initial grid points.
+* For the initialization we introduce a density parameter $D$. This takes values between $0$ and $1$, and determines the density of trees at the start. If $D=0.8$, This means $80\%$ of the grid at the start should be filled with trees. You will thus have to find a way to randomly assign values $0$ and $1$ to the initial grid points.
 
 Putting this all together will give us something like this:
 

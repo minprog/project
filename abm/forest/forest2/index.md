@@ -14,6 +14,6 @@ Most of the same rules apply as in the first forest fire model. However, the fol
 
 * Use `setters` and `getters` methods, make sure objects can only access and change attributes that they are allowed to (so for instance, a burning cell cannot directly change the state of one of its neighbors!).
 
-* Trees now do not 'burn out' (i.e. $2\rightarrow 0$) with a 20\% chance, but after exactly three time steps.
+* Trees now do not 'burn out' (i.e. $2\rightarrow 0$) with a $20\%$ chance, but after exactly $3$ time steps.
 
 You can still make use of the same visualization code!

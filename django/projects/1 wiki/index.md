@@ -18,6 +18,6 @@ By having one Markdown file represent each encyclopedia entry, we can make our e
 
 ## Getting Started
 
-* Start your project by accepting the assignment on [GitHub Classroom](https://classroom.github.com/a/gahWaCWD).
+* Start your project by accepting the assignment on [GitHub Classroom](https://classroom.github.com/a/kTGJqDAB).
 
 * Then immediately submit your repository's URL at the bottom of this page.

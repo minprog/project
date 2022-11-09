@@ -2,7 +2,7 @@
 
 ### Downloading
 
-`$ curl -LO https://github.com/minprog/project/2022/data-science/2%20labs/lab5.zip`
+`$ curl -LO https://github.com/minprog/project/raw/2022/data-science/2%20labs/lab5.zip`
 
 `$ unzip lab5.zip`
 

@@ -1,6 +1,6 @@
 ## Animals
 
-The dynamics of the forest fire model look cool, but our trees are stationary. Let us make things more interesting by making agents move in space. With the tools you have learned up to this point, you can now make rules upon which agents base their decisions **and** movements. 
+The dynamics of the forest fire model look cool, but our trees are stationary. Let us make things more interesting by making agents move. With the tools you have learned up to this point, you can now make rules upon which agents base their decisions **and** movements. 
 
 For this, we will now make a simulation with more complex agents: animals. You have a choice to either build a predator-prey model, or a boids model (or both if you have time!). We will describe them below.
 

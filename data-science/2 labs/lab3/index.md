@@ -1,4 +1,15 @@
 ## Lab 3
 
-Download the notebook [here](https://raw.githubusercontent.com/minprog/project/2022/data-science/2%20labs/lab3.ipynb) (right-click and hit save) the answers file can be downloaded by entering:
-`curl -LO https://raw.githubusercontent.com/minprog/project/2022/data-science/2%20labs/answers3.py`
+### Downloading
+
+`$` `curl -LO https://github.com/minprog/project/2022/data-science/2%20labs/lab3/lab3.zip`
+
+`$` `unzip lab3.zip`
+
+`$` `rm lab3.zip`
+
+`$` `cd lab3`
+
+`$` `ls`
+
+`answers3.py data/ lab3.ipynb`

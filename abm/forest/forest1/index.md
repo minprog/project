@@ -50,6 +50,8 @@ We give you some simple code that you can use to produce the animation shown abo
 
 So, in order to visualize you will need to save all the grids over time in one list. A useful function to create new grids may be `copy.deepcopy`. All arguments that have `optional` after their type do not need to be filled in. So if you run the function by only passing it the array of `numpy` arrays, it will simply show you the visualization and not save it. Also note that you will need to install `matplotlib`.
 
+**Note:** the visualization will likely not show if you are using WSL in Windows 10. Then it is best to just save the visualization and work with the saved `gif`. This is done by setting `saveplot` to `True` (and you can set `showplot` to `False`).
+
 <!-- Je mag zelf bepalen hoe je de visualisatie wil vormgeven, al moet het wel een bewegend resultaat geven (`.gif`, `.mp4`, of een webpagina waar je het op kan runnen) zoals in het voorbeeld hierboven. Hieronder twee suggesties:
 
 - `matplotlib` ondersteunt animaties, en dit is vrij gemakkelijk te implementeren (zoals je in deze [tutorial](https://matplotlib.org/stable/gallery/animation/dynamic_image.html) kan zien). Als je `matplotlib` gebruikt, is het goed om het grid te visualiseren door middel van een heatmap (`imshow`).

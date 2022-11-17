@@ -10,6 +10,8 @@ Agent Based Modelling:
     Mesa: /abm/mesa/mesa_tutorial
     MoneyModel Experiment: /abm/mesa/moneymodel
     Animals: /abm/animals
+    Calibration and Sensitivity: /abm/model_theory/sensitivity
+    ABM Proposal: /abm/proposal
   Ontwikkel-milestones (50% van de tijd):
     Proposal: /milestones/proposal
     Prototype: /milestones/prototype

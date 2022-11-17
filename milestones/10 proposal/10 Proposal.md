@@ -2,6 +2,8 @@
 
 You'll kick off your project by handing in a proposal document. This document should connect the functional design of your project (what does it do?) to a problem in the real world. Below, we list all required aspects of your proposal document.
 
+<!--
+
 ## Getting started
 
 1. To start your project, you should accept a new assignment on GitHub classroom: [Final Project](https://classroom.github.com/a/xxwP7Upy). This will create a GitHub repository for your project.
@@ -19,6 +21,8 @@ You will need to include some sketches into your proposal. Put these images insi
     ![Alternative Text](doc/image.png)
 
 Make sure that you provide an alternative (descriptive!) text inside the square brackets as well, as this will greatly help visually impaired people in understanding the contents of your proposal, as well as guarantee that the content of the image is clear, even if it fails to load. 
+
+-->
 
 ## Goal of the document
 
@@ -42,31 +46,37 @@ In all cases, you should be able to define a specific target audience or a speci
 
 ## Solution sketch
 
-Describe your solution in moderate detail. You are sketching the "user experience": the situation that a user might be in and of which using your website is a part.
+Describe your solution in moderate detail. You will be combining text descriptions with visual aids likes sketches or diagrams.
 
-> You should not use a formal sketching app (like a "wireframing" tool). Doing that will be part of your next step. For now, draw by hand, doodle a little bit, throw away, start again and finally draw your basic sketch by hand. The idea is that you do not spend too much time on details in this phase, but just enough for someone to decide if your project is "enough".
-{:.bg-light}
+There are two options:
+
+- If you are creating a user-facing program using Django or Unity, you will be sketching the "user experience": the situation that a user might be in and of which using your website is a part.
+
+    - Include a **visual sketch** of what the final product will look like for the user; if you envision the application to have multiple screens, sketch these all out separately. Clearly specify the possible user interactions (click on button, move to next page), and include concrete examples of contents.
+
+        ![embed](https://www.youtube.com/embed/j0vP77s_bXc)
+
+    - Your sketches need to provide a complete overview of what you will be making.
+
+- If you are creating tools and algorithms to do data analysis or predication using ABM or Data Science, you will be sketching the various components that your solution consists of, maybe the parts that the model will consist of or the steps in data processing that need to be taken.
+
+In all cases:
 
 - **Summarize** your idea in one or two sentences, connecting it to the problem that you have defined. "This application will..."
 
-- Include a **visual sketch** of what the final product will look like for the user; if you envision the application to have multiple screens, sketch these all out separately. Clearly specify the possible user interactions (click on button, move to next page), and include concrete examples of contents. Your sketches have to be complete and neat!
+- Use a good tool to photograph your sketches or diagrams and convert to a good quality picture to embed into your proposal. You can also split up your sketch in multiple parts that you separately embed. You may also sketch using a computer program.
 
-	![embed](https://www.youtube.com/embed/j0vP77s_bXc)
-
-- Use a good tool to photograph your sketch and convert to a good quality picture to embed into your proposal. You can also split up your sketch in multiple parts that you separately embed.
-
-- If your sketches are unreadable, or you've put them sideways, or is missing obviously needed screens, your proposal will not (yet) be looked at. This will delay your project and you will need to compensate for that. In other words: take the time to draw good sketches.
-
+- If your sketches are unreadable, or you've put them sideways, or is missing obviously needed screens, your proposal will not (yet) be looked at. This will delay your project and you will need to compensate for that. In other words: take the time to draw good diagrams.
 
 ## Prerequisites
 
-Describe the things that you'll have to get in order before really starting your project. You should do this based on what you know **now**. After submitting you proposal document, during feedback conversations with other students, or with teachers, additional stuff may come up. You may add those things to your proposal at that time.
+Also describe the things that you'll have to get in order before really starting your project. You should do this based on what you know **now**. After submitting you proposal document, during feedback conversations with other students, or with teachers, additional stuff may come up. You may add those things to your proposal at that time.
 
 - List any **data sources** that you will use and whether you will need to transform the data before it is usable for your application. The list should include links to where the data sources can be found (downloaded or accessed via API). If you need to have an account to access the data, make the account now. Often it proves to be harder than expected to access good data.
 
 - List the **external components** (libraries like `sqlalchemy` or `bootstrap`) that you need to implement certain features. Include the names, and if the component is not very standard, include a link to its website. Specify what part you need and what for.
 
-- Include a review of **similar** web apps, in terms of features and technical aspects: what do they do? how have they implemented it? can you do it in the same way? (Spend a few lines per "competitor".)
+- Include a review of **similar** web apps or pipelines or applicatoins, in terms of features and technical aspects: what do they do? how have they implemented it? can you do it in the same way? (Spend a few lines per "competitor".)
 
 - Identify the **hardest parts** of implementing your application: think of technical problems or limitations that could arise during development and what possibilities you have to overcome these.
 
@@ -75,21 +85,12 @@ Describe the things that you'll have to get in order before really starting your
 Before continuing, compare your solution to the project requirements one last time. Also, is it still clear that your proposed project is indeed a solution to the stated problem?
 
 The proposal document should be well-written and clearly formatted. Do not forget to include a
-title, your name, and a paragraph summary of the application goals at the top. Use Markdown to format your headers etc.
+title, your name, and a paragraph summary of the application goals at the top.
 
-Finally, make sure that your document is spell-checked, and that images are **not too large** or too small (your document will be read in a normal browser via GitHub).
+Finally, make sure that your document is spell-checked, and that images are **not too large** or too small.
 
-## Submitting
 
-After you have pushed all changes to Github, copy the URL of the GitHub page for your project and submit it below. It will be in this format: `https://github.com/minprog-platforms/final-username`.
-
-Don't commit any **code** yet, just your proposal. Your repository should be clean for us to read, containing the `README.md`, a `doc` folder, pictures in the `doc` folder, an empty `app` folder and nothing else.
-
-## What's next
-
-The next step in your project is creating a design document. There, you'll describe how your project will be created according to the rules of the application framework that you're using.
-
-Meanwhile, keep an eye on the **GitHub Issues** for your project (go to your repo webpage on the GitHub site and then go to Issues). This is where you will get feedback on whether your project is accepted as it is described, or you need to make some changes.
+<!--
 
 ## Submit
 
@@ -143,3 +144,5 @@ Below, you submit your GitHub repo URL. In addition, make sure you check off the
     README.md contains a small list of things that I think will take most time to figure out/implement
   </label>
 </div>
+
+-->

@@ -1,2 +1,4 @@
 name: proposal
-url: true
+files:
+    required:
+        - proposal.pdf

@@ -1,4 +1,4 @@
-# Minimum viable product (deadline: Wednesday)
+# Beta version
 
 This week, you'll work towards presenting the beta of your project. Make sure that you have a fully *working* product, even though it need not be finished in terms of small bugs and code quality. You cannot add new functionality after this deadline!
 

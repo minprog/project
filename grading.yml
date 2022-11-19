@@ -15,24 +15,24 @@ templates:
     hide_calculated: false
 
 grades:
-  proposal: *besproken
-  design: *besproken
-  process: *besproken
-  alpha: *besproken
-  beta: *besproken
-  screencast: *besproken
-  final: *project
+    proposal: *besproken
+    design: *besproken
+    process: *besproken
+    alpha: *besproken
+    beta: *besproken
+    screencast: *besproken
+    final: *project
 
 calculation:
-  eindcijfer:
-    final_: 100
+    eindcijfer:
+        project_milestones: 0
+        project_uitwerking: 100
 
-punten:
-  show_progress: true
-  submits:
-    proposal: 0
+project_milestones:
+    show_progress: true
+    submits:
+        proposal: 1
 
-final_:
-  show_progress: true
-  submits:
-    final: 1
+project_uitwerking:
+    submits:
+        final: 1

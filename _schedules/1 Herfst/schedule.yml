@@ -1,5 +1,5 @@
 Agent Based Modelling:
-  Voorbereidende milestones (40% van de tijd):
+  Voorbereiding (40-65% van de tijd):
     ABM: /abm/model_theory/abm_theory
     Forest Fire 1: /abm/forest/forest1
     Models: /abm/model_theory/models
@@ -11,12 +11,12 @@ Agent Based Modelling:
     MoneyModel Experiment: /abm/mesa/moneymodel
     Animals: /abm/animals
     Calibration and Sensitivity: /abm/model_theory/sensitivity
-  Ontwikkel-milestones (50% van de tijd):
+  Project (25-50% van de tijd):
     Project Requirements: /abm/requirements
     Proposal: /milestones/proposal
     Prototype: /milestones/prototype
     Beta version: /milestones/beta
-  Afrondende milestones (10% van de tijd):
+  Afronding (10% van de tijd):
     Cleanup: /milestones/cleanup
     Final product: /milestones/product
     Screencast: /milestones/screencast
@@ -36,16 +36,16 @@ Django:
     Getting Started [Commerce]: /django/projects/commerce
     Design Document [Commerce]: /django/projects/commerce/design
     Specification [Commerce]: /django/projects/commerce/specification
-  Ontwikkel-milestones (50% van de tijd):
+  Project (25-50% van de tijd):
     Proposal: /milestones/proposal
     Prototype: /milestones/prototype
     Beta version: /milestones/beta
-  Afrondende milestones (10% van de tijd):
+  Afronding (10% van de tijd):
     Cleanup: /milestones/cleanup
     Final product: /milestones/product
     Screencast: /milestones/screencast
 Data Science:
-  Voorbereidende milestones (40% van de tijd):
+  Voorbereiding (40% van de tijd):
     Intro: /data-science/intro
     Installatie: /data-science/installation
     Lab 1 (Python): /data-science/labs/lab1
@@ -57,16 +57,17 @@ Data Science:
     Theorie (regressie): /data-science/theory/theory_2
     Lab 6 (Scikit-Learn): /data-science/labs/lab6
     Git (lecture): /django/lectures/git
-  Ontwikkel-milestones (50% van de tijd):
+  Project (25-50% van de tijd):
+    Unity Project Requirements: /data-science/requirements
     Proposal: /milestones/proposal
     Prototype: /milestones/prototype
     Beta version: /milestones/beta
-  Afrondende milestones (10% van de tijd):
+  Afronding (10% van de tijd):
     Cleanup: /milestones/cleanup
     Final product: /milestones/product
     Screencast: /milestones/screencast
 Unity:
-  Voorbereidende milestones (40% van de tijd):
+  Voorbereiding (40% van de tijd):
     Intro: /unity/intro
     Overzicht: /unity/overzicht
     Game Engines: /unity/game-engines
@@ -75,12 +76,12 @@ Unity:
     Roll a ball: "/unity/roll-a-ball"
     Unity Learn: "/unity/unity-learn"
     Verder studiemateriaal: /unity/learning-resources
-  Ontwikkel-milestones (50% van de tijd):
-    Proposal: /milestones/proposal
+  Project (25-50% van de tijd):
     Unity Project Requirements: /unity/requirements
+    Proposal: /milestones/proposal
     Prototype: /milestones/prototype
     Beta version: /milestones/beta
-  Afrondende milestones (10% van de tijd):
+  Afronding (10% van de tijd):
     Cleanup: /milestones/cleanup
     Final product: /milestones/product
     Screencast: /milestones/screencast

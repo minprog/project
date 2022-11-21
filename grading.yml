@@ -15,6 +15,17 @@ templates:
     hide_calculated: false
 
 grades:
+    ds_lab1: *besproken
+    ds_lab2: *besproken
+    ds_lab3: *besproken
+    ds_lab4: *besproken
+    ds_lab5: *besproken
+    ds_lab6: *besproken
+
+    search: *besproken
+    wiki: *besproken
+    commerce: *besproken
+
     proposal: *besproken
     design: *besproken
     process: *besproken
@@ -36,3 +47,20 @@ project_milestones:
 project_uitwerking:
     submits:
         final: 1
+
+data_science:
+    show_progress: true
+    submits:
+        ds_lab1: 1
+        ds_lab2: 1
+        ds_lab3: 1
+        ds_lab4: 1
+        ds_lab5: 1
+        ds_lab6: 1
+
+django:
+    show_progress: true
+    submits:
+        search: 1
+        wiki: 1
+        commerce: 1

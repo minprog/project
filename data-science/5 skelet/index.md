@@ -1,4 +1,4 @@
-## Skelet
+# Skelet
 
 Nu je voorstel met je mentoren is besproken ga je daadwerkelijk beginnen aan de realisatie van je project.
 

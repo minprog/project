@@ -1,6 +1,6 @@
-# Project Proposal
+# Projectvoorstel
 
-You'll kick off your project by handing in a proposal document. This document should connect the functional design of your project (what does it do?) to a problem in the real world. Below, we list all required aspects of your proposal document.
+Je start je project met het inleveren van een projectvoorstel. Dit document moet het functionele ontwerp van het project (wat doet het?) verbinden met een probleem in de echte wereld. Hieronder sommen we alle vereiste aspecten van het projectvoorstel op.
 
 <!--
 
@@ -24,70 +24,68 @@ Make sure that you provide an alternative (descriptive!) text inside the square 
 
 -->
 
-## Goal of the document
+## Doel van het document
 
-You and others can use this document to estimate the effort required to implement the project. Your project has a high risk of failure if:
+Jijzelf en anderen kunnen dit document gebruiken om een inschatting te maken van de inspanning die nodig is om het project uit te voeren. Het project heeft een hoog risico op mislukking als:
 
-- the envisioned product tries to do too much
-- the envisioned product doesn't do enough
-- the purpose of the product is not well-defined (too vague)
+- het beoogde project te veel probeert te doen
+- het beoogde project niet genoeg probeert te doen
+- het doel van het project niet goed is gedefinieerd (te vaag)
 
-By writing a clear proposal document and getting feedback on it from multiple students and teachers, you can better avoid these risks!
+Door een duidelijk projectvoorstel te schrijven en hierop feedback te krijgen van meerdere studenten en docenten, maak je deze risico's een stuk lager!
 
-## Problem statement
+## Probleemstelling
 
-Write a brief statement, four lines of text, about the **problem** (not the solution) that your finished product will solve or the idea that it is based on. The problem has to be clearly described and very specific. We see a few possibilities:
+Schrijf een korte uitleg, vier regels tekst, over het **probleem** (niet de oplossing) dat het project zal oplossen of het idee waarop het is gebaseerd. Het probleem moet duidelijk omschreven en zeer specifiek zijn. Voorbeelden:
 
-- There is a clearly defined problem that a reasonable group of people have, which a web application is particularly suited to solve.
-- There is a widespread lack of knowledge or understanding that an interactive visualization or story is particularly suited to remedy.
-- There is an interesting game concept that is particularly suited to implementing in a server-side or client-side web application.
+- Er is een duidelijk omschreven probleem dat een redelijke groep mensen heeft, waarvoor een webapplicatie bij uitstek geschikt is om op te lossen.
+- Er is een wijdverbreid gebrek aan kennis of begrip dat een interactieve visualisatie of verhaal bij uitstek geschikt is om te verhelpen.
+- Er is een interessant spelconcept dat bijzonder geschikt is om te implementeren in een server-side of client-side webapplicatie.
 
-In all cases, you should be able to define a specific target audience or a specific categorization of your proposed web application. Include that, too.
+## Schets van een oplossing
 
-## Solution sketch
+Beschrijf de oplossing in enig detail. Je combineert tekstbeschrijvingen met visuele hulpmiddelen zoals schetsen of diagrammen.
 
-Describe your solution in moderate detail. You will be combining text descriptions with visual aids likes sketches or diagrams.
+We zien twee opties voor de uitwerking:
 
-There are two options:
+-   Als je een gebruikersgericht programma maakt met Django of Unity, schets je de "gebruikerservaring": de situatie waarin een gebruiker zich zou kunnen bevinden en waarvan het gebruik van de website of visualisatie deel uitmaakt.
 
-- If you are creating a user-facing program using Django or Unity, you will be sketching the "user experience": the situation that a user might be in and of which using your website is a part.
-
-    - Include a **visual sketch** of what the final product will look like for the user; if you envision the application to have multiple screens, sketch these all out separately. Clearly specify the possible user interactions (click on button, move to next page), and include concrete examples of contents.
+    -   Voeg een **visuele schets** toe van hoe het uiteindelijke product eruit zal zien voor de gebruiker; als je je voorstelt dat de toepassing meerdere schermen heeft, schets deze dan allemaal afzonderlijk. Geef duidelijk de mogelijke gebruikersinteracties aan (klik op de knop, ga naar de volgende pagina) en voeg concrete voorbeelden van inhoud toe.
 
         ![embed](https://www.youtube.com/embed/j0vP77s_bXc)
 
-    - Your sketches need to provide a complete overview of what you will be making.
+     - Je schetsen moeten een compleet overzicht geven van wat je gaat maken.
 
-- If you are creating tools and algorithms to do data analysis or predication using ABM or Data Science, you will be sketching the various components that your solution consists of, maybe the parts that the model will consist of or the steps in data processing that need to be taken.
+-   Als je tools en algoritmen maakt om data-analyse of voorspelling uit te voeren met behulp van ABM of Data Science, schets je de verschillende componenten waaruit je oplossing bestaat, misschien de onderdelen waaruit het model zal bestaan of de stappen in de dataverwerking die nodig zijn.
 
-In all cases:
+In alle gevallen:
 
-- **Summarize** your idea in one or two sentences, connecting it to the problem that you have defined. "This application will..."
+-   Vat je idee in één of twee zinnen samen en verbind het met het probleem dat je hebt gedefinieerd. "Deze toepassing zal..."
 
-- Use a good tool to photograph your sketches or diagrams and convert to a good quality picture to embed into your proposal. You can also split up your sketch in multiple parts that you separately embed. You may also sketch using a computer program.
+-   Gebruik een goed hulpmiddel om je schetsen of diagrammen te fotograferen en deze om te zetten in een afbeelding van goede kwaliteit om in het voorstel in te voegen. Je kunt je schets ook opsplitsen in meerdere delen die je afzonderlijk in het document plaatst. Je kunt ook schetsen met een computerprogramma.
 
-- If your sketches are unreadable, or you've put them sideways, or is missing obviously needed screens, your proposal will not (yet) be looked at. This will delay your project and you will need to compensate for that. In other words: take the time to draw good diagrams.
+-   Als je schetsen onleesbaar zijn, of je hebt niet rechtop ingevoegd, of er ontbreken duidelijk noodzakelijke schermen, dan wordt je voorstel (nog) niet bekeken. Dit vertraagt je project en dat moet je compenseren. Met andere woorden: neem de tijd om goede diagrammen te tekenen.
 
-## Prerequisites
+## Vereisten
 
-Also describe the things that you'll have to get in order before really starting your project. You should do this based on what you know **now**. After submitting you proposal document, during feedback conversations with other students, or with teachers, additional stuff may come up. You may add those things to your proposal at that time.
+Beschrijf ook de dingen die je op orde moet krijgen voordat je echt aan je project begint. Je moet dit doen op basis van wat je **nu** weet. Na het indienen van je projectvoorstel, tijdens feedbackgesprekken met andere studenten of met docenten, kunnen er extra dingen naar voren komen. Je kunt die zaken dan aan je voorstel toevoegen.
 
-- List any **data sources** that you will use and whether you will need to transform the data before it is usable for your application. The list should include links to where the data sources can be found (downloaded or accessed via API). If you need to have an account to access the data, make the account now. Often it proves to be harder than expected to access good data.
+- Maak een lijst van alle **gegevensbronnen** die je gaat gebruiken en of je de gegevens moet transformeren voordat ze bruikbaar zijn voor de toepassing. De lijst moet links bevatten naar waar de gegevensbronnen te vinden zijn (gedownload of toegankelijk via een API). Als je een account nodig hebt om toegang te krijgen tot de gegevens, maak je het account nu aan. Vaak blijkt het moeilijker dan verwacht om toegang te krijgen tot goede data.
 
-- List the **external components** (libraries like `sqlalchemy` or `bootstrap`) that you need to implement certain features. Include the names, and if the component is not very standard, include a link to its website. Specify what part you need and what for.
+- Maak een lijst van de **externe componenten** (denk aan bibliotheken zoals `sqlalchemy` of `bootstrap`) die je nodig hebt om bepaalde functies te implementeren. Voeg de namen toe en als het onderdeel niet erg standaard is, voeg dan een link naar de website toe. Geef aan welk onderdeel je nodig hebt en waarvoor.
 
-- Include a review of **similar** web apps or pipelines or applicatoins, in terms of features and technical aspects: what do they do? how have they implemented it? can you do it in the same way? (Spend a few lines per "competitor".)
+- Voeg een overzicht toe van **vergelijkbare** web-apps of data-pipelines of applicaties, in termen van functies en technische aspecten: wat doen ze? hoe hebben ze het geïmplementeerd? kun je het op dezelfde manier doen? (Besteed een paar regels per "concurrent".)
 
-- Identify the **hardest parts** of implementing your application: think of technical problems or limitations that could arise during development and what possibilities you have to overcome these.
+- Identificeer de **moeilijkste delen** van het implementeren van uw applicatie: denk aan technische problemen of beperkingen die tijdens de ontwikkeling kunnen ontstaan ​​en welke mogelijkheden je hebt om deze te verhelpen.
 
-## Sanity check
+## Check
 
-Before continuing, compare your solution to the project requirements one last time. Also, is it still clear that your proposed project is indeed a solution to the stated problem?
+Vergelijk voordat je verder gaat je oplossing nog een laatste keer met de projectvereisten. Is het ook nog steeds duidelijk dat je voorgestelde project inderdaad een oplossing is voor het genoemde probleem?
 
-The proposal document should be well-written and clearly formatted. Do not forget to include a
-title, your name, and a paragraph summary of the application goals at the top.
+Het projectvoorstel moet goed geschreven en duidelijk opgemaakt zijn. Vergeet niet om een
+titel, je naam, en een korte samenvatting van je voorstel op te nemen.
 
-Finally, make sure that your document is spell-checked, and that images are **not too large** or too small.
+Zorg er ten slotte voor dat je document op spelling is gecontroleerd en dat afbeeldingen **niet te groot** of te klein zijn.
 
 
 <!--

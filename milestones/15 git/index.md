@@ -14,6 +14,8 @@ Hiermee is goed te zien welke voortgang je maakt en aan het eind van het project
 
     - Dit is **niet** de link die eindigt op `.git` maar de URL van de webpagina die verschijnt als jij je project hebt aangemaakt.
 
+4. Zet je proposal-document niet in je git-repository.
+
 ## Tips
 
 - Zorg dat je in de regel **nooit** bestanden wijzigt via de pagina op github.com. Gebruik `git` op je eigen computer en `push` de wijzigingen naar github.
@@ -27,6 +29,8 @@ Je hebt eerder een college over `git` gekeken. Zorg dat je de basiscommando's be
 De terminal-commando's die je nodig hebt om git te gebruiken:
 
 - `git clone https://github.com/...` om de aangemaakte repository op jouw computer te krijgen en aan de Github-repository te linken
+
+    - daarna kun je met `cd` naar de directory van je project gaan
 
 - `git status` om te kijken welke bestanden veranderd zijn
 

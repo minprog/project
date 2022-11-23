@@ -1,5 +1,7 @@
 # Git
 
+> Heb je al een repository, maak deze dan toch aan. Zie de opmerking hieronder bij stap 2.
+
 Om je project te beheren ga je `git` gebruiken. Met deze tool kun je dagelijks je werk committen (vastleggen) aan het eind van de dag en pushen (doorzetten) naar de website Github.
 
 Hiermee is goed te zien welke voortgang je maakt en aan het eind van het project is er een historie van het project beschikbaar waarmee wordt aangetoond dat je regelmatig en zelfstandig aan je project hebt gewerkt.

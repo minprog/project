@@ -90,12 +90,11 @@ De deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of
 
 Om de cursus tot een goed einde te brengen, verwachten we dat je:
 
-1. wekelijks contact hebt met je mentor en de werkgroep bijwoont,
-1. regelmatig vragen stelt,
-1. actief deelneemt,
+1. wekelijks contact hebt met je projectmentor,
 1. een interessant en voor jou leerzaam project implementeert en inlevert,
 1. goed werk steekt in de milestones voor je project,
 1. gebruik maakt van git en dagelijks je voortgang pusht naar github,
+1. regelmatig vragen stelt,
 1. en de eindpresentaties bijwoont.
 
 Let op dat je minimaal aan bovenstaande verwachtingen moet voldoen om een eindcijfer te kunnen halen.

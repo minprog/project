@@ -29,6 +29,7 @@ grades:
     proposal: *besproken
     design: *besproken
     process: *besproken
+    git: *besproken
     alpha: *besproken
     beta: *besproken
     screencast: *besproken
@@ -43,6 +44,8 @@ project_milestones:
     show_progress: true
     submits:
         proposal: 1
+        process: 1
+        git: 1
 
 project_uitwerking:
     submits:

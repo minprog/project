@@ -16,7 +16,7 @@ Agent Based Modelling:
     Proposal: /milestones/proposal
     Git: /milestones/git
     Prototype: /milestones/prototype
-    Beta version: /milestones/beta
+    Betaversie: /milestones/beta
   Afronding (10% van de tijd):
     Cleanup: /milestones/cleanup
     Final product: /milestones/product
@@ -41,7 +41,7 @@ Django:
     Proposal: /milestones/proposal
     Git: /milestones/git
     Prototype: /milestones/prototype
-    Beta version: /milestones/beta
+    Betaversie: /milestones/beta
   Afronding (10% van de tijd):
     Cleanup: /milestones/cleanup
     Final product: /milestones/product
@@ -64,8 +64,7 @@ Data Science:
     Proposal: /milestones/proposal
     Git: /milestones/git
     Skelet: /data-science/skelet
-    Prototype: /milestones/prototype
-    Beta version: /milestones/beta
+    Betaversie: /milestones/beta
   Afronding (10% van de tijd):
     Cleanup: /milestones/cleanup
     Final product: /milestones/product
@@ -85,7 +84,7 @@ Unity:
     Proposal: /milestones/proposal
     Git: /milestones/git
     Prototype: /milestones/prototype
-    Beta version: /milestones/beta
+    Betaversie: /milestones/beta
   Afronding (10% van de tijd):
     Cleanup: /milestones/cleanup
     Final product: /milestones/product

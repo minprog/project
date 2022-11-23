@@ -15,6 +15,7 @@ Agent Based Modelling:
     Project Requirements: /abm/requirements
     Proposal: /milestones/proposal
     Git: /milestones/git
+    Procesboek: /milestones/process
     Prototype: /milestones/prototype
     Betaversie: /milestones/beta
   Afronding (10% van de tijd):
@@ -40,6 +41,7 @@ Django:
   Project (25-50% van de tijd):
     Proposal: /milestones/proposal
     Git: /milestones/git
+    Procesboek: /milestones/process
     Prototype: /milestones/prototype
     Betaversie: /milestones/beta
   Afronding (10% van de tijd):
@@ -63,6 +65,7 @@ Data Science:
     DS Project Requirements: /data-science/requirements
     Proposal: /milestones/proposal
     Git: /milestones/git
+    Procesboek: /milestones/process
     Skelet: /data-science/skelet
     Betaversie: /milestones/beta
   Afronding (10% van de tijd):
@@ -83,6 +86,7 @@ Unity:
     Unity Project Requirements: /unity/requirements
     Proposal: /milestones/proposal
     Git: /milestones/git
+    Procesboek: /milestones/process
     Prototype: /milestones/prototype
     Betaversie: /milestones/beta
   Afronding (10% van de tijd):

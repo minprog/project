@@ -44,8 +44,8 @@ project_milestones:
     show_progress: true
     submits:
         proposal: 1
-        process: 1
         git: 1
+        process: 1
 
 project_uitwerking:
     submits:

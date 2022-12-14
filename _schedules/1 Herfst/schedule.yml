@@ -11,6 +11,7 @@ Agent Based Modelling:
     MoneyModel Experiment: /abm/mesa/moneymodel
     Animals: /abm/animals
     Calibration and Sensitivity: /abm/model_theory/sensitivity
+    Git (lecture): /django/lectures/git
   Project (25-50% van de tijd):
     Project Requirements: /abm/requirements
     Proposal: /milestones/proposal

@@ -6,21 +6,21 @@ Je **code** staat al vast, maar je **repository** is nog niet netjes en volledig
 
 > De review wordt meegenomen in de beoordeling van het **code**-deel van je projectcijfer. Je mag je code niet meer aanpassen, maar in de review kun je laten zien dat je het wel beter had kunnen doen als je nog veel meer tijd had (en hoe je dat dan zou moeten doen!).
 
-Doel van de code reviews is niet om je code nog te verbeteren, maar om te reflecteren op de kwaliteit van je eigen code. Je krijgt hierbij hulp van een andere student.
+Doel van de code reviews is niet om je code nog te uit te breiden of zelfs maar te verbeteren, maar om te reflecteren op de kwaliteit van je eigen code. Je krijgt hierbij hulp van een andere student.
 
 1. Kies een partner.
 
-2. Open je project op je computer en zet je partner ervoor. Uw partner moet door de code navigeren, niet u!
+2. Open je project op je computer en zet je review-partner ervoor. Je partner moet door de code navigeren, niet jij!
 
-3. Je partner zal nu (hardop!) commentaar geven op je code. Je zult luisteren. Als er vragen zijn, beantwoord deze dan. Noteer die vragen: dit kan zijn waar uw project beter kan worden gedocumenteerd, of waar uw code duidelijker kan zijn!
+3. Je partner zal nu (hardop) commentaar geven op de code en jij gaat zorgvuldig luisteren. Als er vragen zijn, beantwoord deze dan. Noteer die vragen: dit kan zijn waar je project beter kan worden gedocumenteerd, of waar je code duidelijker kan zijn!
 
-De reviewer moet letten op:
+De reviewer moet speciaal letten op:
 
-- Hoe gemakkelijk het is om de volledige projectcode te begrijpen (begrijp je waar je dingen moet vinden en waarom ze staan waar ze staan?). Denk daarbij hardop na, zodat de programmeur van het project aantekeningen kan maken en hun code kan verbeteren.
+- Hoe gemakkelijk het is om de volledige projectcode te begrijpen (begrijp je waar je dingen moet vinden en waarom ze staan waar ze staan?). Denk daarbij hardop na, zodat de programmeur van het project aantekeningen kan maken.
 
-- Stilistische problemen in de code. Zorg ervoor dat je de zwakke plekken aanwijst.
+- Stilistische problemen in de code. Zorg ervoor dat je de zwakke plekken aanwijst, waar het rommelig, onduidelijk of onleesbaar wordt.
 
-Het resultaat van de review plaats je in `REVIEW.md`. Naar verwachting zijn dit wel gemiddeld 5 flinke verbeterpunten die je uitgebreid kunt uitwerken, dus waarover je uitlegt wat het probleem is, hoe het beter zou moeten, en geillustreerde met enkele voorbeelden.
+Het resultaat van de review plaats je in `REVIEW.md`. Naar verwachting zijn dit wel gemiddeld 5 flinke verbeterpunten die je uitgebreid kunt uitwerken, dus waarover je uitlegt wat het probleem is, hoe het beter zou moeten, en geillustreerd met enkele voorbeelden.
 
 Schrijf bovenaan de file de naam van de student die jouw geholpen heeft met de review.
 

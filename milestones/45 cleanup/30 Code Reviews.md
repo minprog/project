@@ -8,18 +8,17 @@ Je **code** staat al vast, maar je **repository** is nog niet netjes en volledig
 
 Doel van de code reviews is niet om je code nog te verbeteren, maar om te reflecteren op de kwaliteit van je eigen code. Je krijgt hierbij hulp van een andere student.
 
+1. Kies een partner.
 
-1. Pick a partner.
+2. Open je project op je computer en zet je partner ervoor. Uw partner moet door de code navigeren, niet u!
 
-2. Open your project on your computer and put your partner in front of it. Your partner should navigate the code, not you!
+3. Je partner zal nu (hardop!) commentaar geven op je code. Je zult luisteren. Als er vragen zijn, beantwoord deze dan. Noteer die vragen: dit kan zijn waar uw project beter kan worden gedocumenteerd, of waar uw code duidelijker kan zijn!
 
-3. Your partner will now comment (aloud!) on your code. You will listen. If there are questions, answer them. Make note of those questions: this may be where your project could be better documented, or where your code could be more clear!
+De reviewer moet letten op:
 
-The reviewer must pay attention to:
+- Hoe gemakkelijk het is om de volledige projectcode te begrijpen (begrijp je waar je dingen moet vinden en waarom ze staan waar ze staan?). Denk daarbij hardop na, zodat de programmeur van het project aantekeningen kan maken en hun code kan verbeteren.
 
-- How easy it is to make sense of the complete code base (can you understand what goes where and why?). Think aloud when doing this, so the coder under review can take notes and make their code better.
-
-- Stylistic issues in the code. Make sure that you point out the weak spots.
+- Stilistische problemen in de code. Zorg ervoor dat je de zwakke plekken aanwijst.
 
 Het resultaat van de review plaats je in `REVIEW.md`. Naar verwachting zijn dit wel gemiddeld 5 flinke verbeterpunten die je uitgebreid kunt uitwerken, dus waarover je uitlegt wat het probleem is, hoe het beter zou moeten, en geillustreerde met enkele voorbeelden.
 
@@ -29,16 +28,19 @@ Schrijf bovenaan de file de naam van de student die jouw geholpen heeft met de r
 
 > De "netheid" van je repository wordt meegenomen in de beoordeling van het **repository**-deel van je eindcijfer.
 
-### Updating the README
+### README.md helemaal bijwerken
 
-Your GitHub repository should contain a complete `README.md` file that states the application name, one or two screen shots (**resized** to small width/height), a description of the app's purpose, and your name. The `README` should be easy to read and give a quick overview.
+Je GitHub-repository zou een volledig `README.md`-bestand moeten bevatten met de naam van de applicatie, een of twee schermafbeeldingen (**verkleind** naar kleine breedte/hoogte zodat het er goed uitziet als je dit op Github bekijkt), een beschrijving van het doel van het project, en je naam. De `README` moet gemakkelijk te lezen zijn en een snel overzicht geven.
 
 
-### Adding ASSESSMENT.md
+### Toevoegen van ASSESSMENT.md
 
-Take a look at the [syllabus](/syllabus) to see how your project will be assessed. In `ASSESSMENT.md` you should make a simple list of thing that you do not want us to miss when grading! Clearly point us to things in your code that you particularly like, or describe how you cleaned up certain parts, or parts of the functionality of the app that you're particularly proud of. You should expect that we take all of your code and functionality into account for grading, not just what you list here, but we surely do not want to miss those best parts!
+Bekijk de [studiewijzer](/syllabus) om te zien hoe je project beoordeeld zal worden. In `ASSESSMENT.md` moet je een eenvoudige lijst maken van dingen die je niet wilt dat we missen bij het beoordelen! Wijs ons duidelijk op dingen in de code die je bijzonder aanspreken, of beschrijf functionaliteit van de app waar je bijzonder trots op bent. Normaal nemen we al je code en functionaliteit in aanmerking voor de beoordeling, niet alleen wat je hier opsomt, maar we willen de beste delen natuurlijk niet missen!
 
-Also, choose the biggest decisions you've taken during the project and write about those: why did you make the decision, what was bad about the previous design ideas, why is the new solution better (and is it still better, now that your project is finished?). A small paragraph, like this one, per big decision suffices.
+Kies ook de grootste beslissingen die je tijdens het project hebt genomen (uit je procesboek!) en schrijf daarover: waarom heb je de beslissing genomen, wat was er niet zo handig aan de vorige ontwerpideeën, waarom is de nieuwe oplossing beter (en is het nog steeds beter, nu je project is afgelopen?). Een kleine alinea, zoals deze, per grote beslissing volstaat.
+
+
+<!--
 
 ### Choosing a license for your work
 
@@ -56,10 +58,12 @@ Even if you claim "All rights reserved," you can add a more liberal license to t
 
 Follow directions at [GitHub help](https://help.github.com/articles/adding-a-license-to-a-repository/) to add a `LICENSE` file and choose a license that you like, unless you retain all rights for yourself.
 
-### Adding acknowledgements
+-->
 
-The `README` should also acknowledge sources of external code, images and other materials that are in the repository but not created by yourself. Make sure that it is clear which directories are copyrighted by different creators.
+### Toevoegen van bronvermelding en dankbetuiging
 
-You do not have to credit authors of small code snippets (for example, from Stack Overflow) in your `README`. Instead, you should have added a small comment near the snippet, right in your code. You do not have to credit the teachers, who are happy to have helped you, but do not claim copyright for their contributions :-)
+De `README` moet ook bronnen vermelden van code die je niet zelf hebt geschreven, en afbeeldingen en andere materialen die je niet zelf hebt gemaakt, die onderdeel zijn geworden van je project. Zorg ervoor dat duidelijk is op welke delen/code copyright rust van de verschillende makers. (Bijvoorbeeld: "de code in de map contributions/plotly is copyright 2022 by Plotly.com".)
 
-**Don't forget to push all changes!**
+Voor kleine codefragmenten (bijvoorbeeld van Stack Overflow) hoef je de auteurs niet te vermelden in de `README`. In plaats daarvan schrijf je een kleine opmerking bij de code zelf. Je hoeft de docenten ook niet te vermelden. Zij hebben je graag geholpen, maar claimen geen copyright voor hun bijdragen :-)
+
+**Vergeet niet om alle wijzigingen te pushen naar GitHub!**

@@ -1,6 +1,8 @@
-# Project Proposal
+# Projectvoorstel
 
-You'll kick off your project by handing in a proposal document. This document should connect the functional design of your project (what does it do?) to a problem in the real world. Below, we list all required aspects of your proposal document.
+Je start je project met het inleveren van een projectvoorstel. Dit document moet het functionele ontwerp van het project (wat doet het?) verbinden met een probleem in de echte wereld. Hieronder sommen we alle vereiste aspecten van het projectvoorstel op.
+
+<!--
 
 ## Getting started
 
@@ -20,76 +22,73 @@ You will need to include some sketches into your proposal. Put these images insi
 
 Make sure that you provide an alternative (descriptive!) text inside the square brackets as well, as this will greatly help visually impaired people in understanding the contents of your proposal, as well as guarantee that the content of the image is clear, even if it fails to load. 
 
-## Goal of the document
+-->
 
-You and others can use this document to estimate the effort required to implement the project. Your project has a high risk of failure if:
+## Doel van het document
 
-- the envisioned product tries to do too much
-- the envisioned product doesn't do enough
-- the purpose of the product is not well-defined (too vague)
+Jijzelf en anderen kunnen dit document gebruiken om een inschatting te maken van de inspanning die nodig is om het project uit te voeren. Het project heeft een hoog risico op mislukking als:
 
-By writing a clear proposal document and getting feedback on it from multiple students and teachers, you can better avoid these risks!
+- het beoogde project te veel probeert te doen
+- het beoogde project niet genoeg probeert te doen
+- het doel van het project niet goed is gedefinieerd (te vaag)
 
-## Problem statement
+Door een duidelijk projectvoorstel te schrijven en hierop feedback te krijgen van meerdere studenten en docenten, maak je deze risico's een stuk lager!
 
-Write a brief statement, four lines of text, about the **problem** (not the solution) that your finished product will solve or the idea that it is based on. The problem has to be clearly described and very specific. We see a few possibilities:
+## Probleemstelling
 
-- There is a clearly defined problem that a reasonable group of people have, which a web application is particularly suited to solve.
-- There is a widespread lack of knowledge or understanding that an interactive visualization or story is particularly suited to remedy.
-- There is an interesting game concept that is particularly suited to implementing in a server-side or client-side web application.
+Schrijf een korte uitleg, vier regels tekst, over het **probleem** (niet de oplossing) dat het project zal oplossen of het idee waarop het is gebaseerd. Het probleem moet duidelijk omschreven en zeer specifiek zijn. Voorbeelden:
 
-In all cases, you should be able to define a specific target audience or a specific categorization of your proposed web application. Include that, too.
+- Er is een duidelijk omschreven probleem dat een redelijke groep mensen heeft, waarvoor een webapplicatie bij uitstek geschikt is om op te lossen.
+- Er is een wijdverbreid gebrek aan kennis of begrip dat een interactieve visualisatie of verhaal bij uitstek geschikt is om te verhelpen.
+- Er is een interessant spelconcept dat bijzonder geschikt is om te implementeren in een server-side of client-side webapplicatie.
 
-## Solution sketch
+## Schets van een oplossing
 
-Describe your solution in moderate detail. You are sketching the "user experience": the situation that a user might be in and of which using your website is a part.
+Beschrijf de oplossing in enig detail. Je combineert tekstbeschrijvingen met visuele hulpmiddelen zoals schetsen of diagrammen.
 
-> You should not use a formal sketching app (like a "wireframing" tool). Doing that will be part of your next step. For now, draw by hand, doodle a little bit, throw away, start again and finally draw your basic sketch by hand. The idea is that you do not spend too much time on details in this phase, but just enough for someone to decide if your project is "enough".
-{:.bg-light}
+We zien twee opties voor de uitwerking:
 
-- **Summarize** your idea in one or two sentences, connecting it to the problem that you have defined. "This application will..."
+-   Als je een gebruikersgericht programma maakt met Django of Unity, schets je de "gebruikerservaring": de situatie waarin een gebruiker zich zou kunnen bevinden en waarvan het gebruik van de website of visualisatie deel uitmaakt.
 
-- Include a **visual sketch** of what the final product will look like for the user; if you envision the application to have multiple screens, sketch these all out separately. Clearly specify the possible user interactions (click on button, move to next page), and include concrete examples of contents. Your sketches have to be complete and neat!
+    -   Voeg een **visuele schets** toe van hoe het uiteindelijke product eruit zal zien voor de gebruiker; als je je voorstelt dat de toepassing meerdere schermen heeft, schets deze dan allemaal afzonderlijk. Geef duidelijk de mogelijke gebruikersinteracties aan (klik op de knop, ga naar de volgende pagina) en voeg concrete voorbeelden van inhoud toe.
 
-	![embed](https://www.youtube.com/embed/j0vP77s_bXc)
+        ![embed](https://www.youtube.com/embed/j0vP77s_bXc)
 
-- Use a good tool to photograph your sketch and convert to a good quality picture to embed into your proposal. You can also split up your sketch in multiple parts that you separately embed.
+     - Je schetsen moeten een compleet overzicht geven van wat je gaat maken.
 
-- If your sketches are unreadable, or you've put them sideways, or is missing obviously needed screens, your proposal will not (yet) be looked at. This will delay your project and you will need to compensate for that. In other words: take the time to draw good sketches.
+-   Als je tools en algoritmen maakt om data-analyse of voorspelling uit te voeren met behulp van ABM of Data Science, schets je de verschillende componenten waaruit je oplossing bestaat, misschien de onderdelen waaruit het model zal bestaan of de stappen in de dataverwerking die nodig zijn.
+
+In alle gevallen:
+
+-   Vat je idee in één of twee zinnen samen en verbind het met het probleem dat je hebt gedefinieerd. "Deze toepassing zal..."
+
+-   Gebruik een goed hulpmiddel om je schetsen of diagrammen te fotograferen en deze om te zetten in een afbeelding van goede kwaliteit om in het voorstel in te voegen. Je kunt je schets ook opsplitsen in meerdere delen die je afzonderlijk in het document plaatst. Je kunt ook schetsen met een computerprogramma.
+
+-   Als je schetsen onleesbaar zijn, of je hebt niet rechtop ingevoegd, of er ontbreken duidelijk noodzakelijke schermen, dan wordt je voorstel (nog) niet bekeken. Dit vertraagt je project en dat moet je compenseren. Met andere woorden: neem de tijd om goede diagrammen te tekenen.
+
+## Vereisten
+
+Beschrijf ook de dingen die je op orde moet krijgen voordat je echt aan je project begint. Je moet dit doen op basis van wat je **nu** weet. Na het indienen van je projectvoorstel, tijdens feedbackgesprekken met andere studenten of met docenten, kunnen er extra dingen naar voren komen. Je kunt die zaken dan aan je voorstel toevoegen.
+
+- Maak een lijst van alle **gegevensbronnen** die je gaat gebruiken en of je de gegevens moet transformeren voordat ze bruikbaar zijn voor de toepassing. De lijst moet links bevatten naar waar de gegevensbronnen te vinden zijn (gedownload of toegankelijk via een API). Als je een account nodig hebt om toegang te krijgen tot de gegevens, maak je het account nu aan. Vaak blijkt het moeilijker dan verwacht om toegang te krijgen tot goede data.
+
+- Maak een lijst van de **externe componenten** (denk aan bibliotheken zoals `sqlalchemy` of `bootstrap`) die je nodig hebt om bepaalde functies te implementeren. Voeg de namen toe en als het onderdeel niet erg standaard is, voeg dan een link naar de website toe. Geef aan welk onderdeel je nodig hebt en waarvoor.
+
+- Voeg een overzicht toe van **vergelijkbare** web-apps of data-pipelines of applicaties, in termen van functies en technische aspecten: wat doen ze? hoe hebben ze het geïmplementeerd? kun je het op dezelfde manier doen? (Besteed een paar regels per "concurrent".)
+
+- Identificeer de **moeilijkste delen** van het implementeren van uw applicatie: denk aan technische problemen of beperkingen die tijdens de ontwikkeling kunnen ontstaan ​​en welke mogelijkheden je hebt om deze te verhelpen.
+
+## Check
+
+Vergelijk voordat je verder gaat je oplossing nog een laatste keer met de projectvereisten. Is het ook nog steeds duidelijk dat je voorgestelde project inderdaad een oplossing is voor het genoemde probleem?
+
+Het projectvoorstel moet goed geschreven en duidelijk opgemaakt zijn. Vergeet niet om een
+titel, je naam, en een korte samenvatting van je voorstel op te nemen.
+
+Zorg er ten slotte voor dat je document op spelling is gecontroleerd en dat afbeeldingen **niet te groot** of te klein zijn.
 
 
-## Prerequisites
-
-Describe the things that you'll have to get in order before really starting your project. You should do this based on what you know **now**. After submitting you proposal document, during feedback conversations with other students, or with teachers, additional stuff may come up. You may add those things to your proposal at that time.
-
-- List any **data sources** that you will use and whether you will need to transform the data before it is usable for your application. The list should include links to where the data sources can be found (downloaded or accessed via API). If you need to have an account to access the data, make the account now. Often it proves to be harder than expected to access good data.
-
-- List the **external components** (libraries like `sqlalchemy` or `bootstrap`) that you need to implement certain features. Include the names, and if the component is not very standard, include a link to its website. Specify what part you need and what for.
-
-- Include a review of **similar** web apps, in terms of features and technical aspects: what do they do? how have they implemented it? can you do it in the same way? (Spend a few lines per "competitor".)
-
-- Identify the **hardest parts** of implementing your application: think of technical problems or limitations that could arise during development and what possibilities you have to overcome these.
-
-## Sanity check
-
-Before continuing, compare your solution to the project requirements one last time. Also, is it still clear that your proposed project is indeed a solution to the stated problem?
-
-The proposal document should be well-written and clearly formatted. Do not forget to include a
-title, your name, and a paragraph summary of the application goals at the top. Use Markdown to format your headers etc.
-
-Finally, make sure that your document is spell-checked, and that images are **not too large** or too small (your document will be read in a normal browser via GitHub).
-
-## Submitting
-
-After you have pushed all changes to Github, copy the URL of the GitHub page for your project and submit it below. It will be in this format: `https://github.com/minprog-platforms/final-username`.
-
-Don't commit any **code** yet, just your proposal. Your repository should be clean for us to read, containing the `README.md`, a `doc` folder, pictures in the `doc` folder, an empty `app` folder and nothing else.
-
-## What's next
-
-The next step in your project is creating a design document. There, you'll describe how your project will be created according to the rules of the application framework that you're using.
-
-Meanwhile, keep an eye on the **GitHub Issues** for your project (go to your repo webpage on the GitHub site and then go to Issues). This is where you will get feedback on whether your project is accepted as it is described, or you need to make some changes.
+<!--
 
 ## Submit
 
@@ -143,3 +142,5 @@ Below, you submit your GitHub repo URL. In addition, make sure you check off the
     README.md contains a small list of things that I think will take most time to figure out/implement
   </label>
 </div>
+
+-->

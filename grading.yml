@@ -15,24 +15,55 @@ templates:
     hide_calculated: false
 
 grades:
-  proposal: *besproken
-  design: *besproken
-  process: *besproken
-  alpha: *besproken
-  beta: *besproken
-  screencast: *besproken
-  final: *project
+    ds_lab1: *besproken
+    ds_lab2: *besproken
+    ds_lab3: *besproken
+    ds_lab4: *besproken
+    ds_lab5: *besproken
+    ds_lab6: *besproken
+
+    search: *besproken
+    wiki: *besproken
+    commerce: *besproken
+
+    proposal: *besproken
+    design: *besproken
+    process: *besproken
+    git: *besproken
+    alpha: *besproken
+    beta: *besproken
+    screencast: *besproken
+    final: *project
 
 calculation:
-  eindcijfer:
-    final_: 100
+    eindcijfer:
+        project_milestones: 0
+        project_uitwerking: 100
 
-punten:
-  show_progress: true
-  submits:
-    proposal: 0
+project_milestones:
+    show_progress: true
+    submits:
+        proposal: 1
+        git: 1
+        process: 1
 
-final_:
-  show_progress: true
-  submits:
-    final: 1
+project_uitwerking:
+    submits:
+        final: 1
+
+data_science:
+    show_progress: true
+    submits:
+        ds_lab1: 1
+        ds_lab2: 1
+        ds_lab3: 1
+        ds_lab4: 1
+        ds_lab5: 1
+        ds_lab6: 1
+
+django:
+    show_progress: true
+    submits:
+        search: 1
+        wiki: 1
+        commerce: 1

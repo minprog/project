@@ -1,25 +1,24 @@
-# Process book
+# Procesboek
 
-As soon as you finish your design and start coding, you need to create a process book in which you keep track of your progress during the project. Note that it is not necessary to describe in detail what you have been working on every day. You do need to describe your **most important findings and challenges** during the project. At the end of the project this process book gives an insight in the progression of the project from beginning to end, and it will help you write your report.
+Zodra je klaar bent met het vastleggen van je idee, en je begint met programmeren, moet je een procesboek maken waarin je je voortgang tijdens het project bijhoudt.
 
-In your process book, you chronicle your big decisions. When faced with a decision during the day, document it like this:
+Merk op dat het niet nodig is om elk detail te beschrijven van waar je die dag aan hebt gewerkt. Je moet wel je **belangrijkste bevindingen, uitdagingen en ontwikkelingen** tijdens het project beschrijven. Aan het einde van het project geeft dit procesboek inzicht in de voortgang van het project van begin tot eind en helpt het je bij het schrijven van je verslag.
 
-* The choice you've made
-* What you expect to happen as a result of that choice (at this moment in time)
-* Why you expect things to pan out that way
+In je procesboek leg je ook je grote beslissingen vast. Als je gedurende de dag een beslissing moet nemen, documenteer deze dan als volgt:
 
-By doing so, you can use your process book for reflection. By documenting and periodically reviewing your decisions, you'll get a better grasp on the overall project and you might be able to identify trends or common traps you find yourself falling into.
+* De keuze die je hebt gemaakt
+* Wat je verwacht dat er zal gebeuren als gevolg van die keuze (op dit moment)
+* Waarom je verwacht dat de dingen zo zullen verlopen
 
-To put it simply, a process book helps to refine your decision-making process as you move forward, rather than being something that helps you actually make a choice in the moment.
+Zo kun je je procesboek gebruiken voor reflectie. Door je beslissingen te documenteren en periodiek te herzien, krijg je een beter inzicht in het totale project en kun je partronen of valkuilen identificeren waar je vaak mee te maken hebt.
 
-Start your process book now by creating a file called `PROCESS.md` in the root folder of your repository. **Make sure to update it every day and push it to GitHub!**
+Start nu je procesboek door een bestand met de naam `PROCESS.md` aan te maken in de hoofdmap van je git-repository. **Zorg ervoor dat je het elke dag bijwerkt en pusht naar GitHub!**
 
 ## Submit
 
 <div class="form-check">
   <input required name="form[designdoc]" class="form-check-input" type="checkbox" value="yes" id="check1">
   <label class="form-check-label" for="check1">
-    I pushed PROCESS.md to GitHub and have checked that it looks good on GitHub
+    Ik heb een eerste PROCESS.md naar GitHub gepusht en gecontroleerd dat het er ook netjes uitziet op Github als ik het daar lees
   </label>
 </div>
-

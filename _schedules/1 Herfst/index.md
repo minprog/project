@@ -90,11 +90,11 @@ De deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of
 
 Om de cursus tot een goed einde te brengen, verwachten we dat je:
 
-1. wekelijks contact hebt met je mentor en de werkgroep bijwoont,
-1. regelmatig vragen stelt,
-1. actief deelneemt,
+1. wekelijks contact hebt met je projectmentor,
 1. een interessant en voor jou leerzaam project implementeert en inlevert,
-1. flink werk steekt in de milestones voor je project,
+1. goed werk steekt in de milestones voor je project,
+1. gebruik maakt van git en dagelijks je voortgang pusht naar github,
+1. regelmatig vragen stelt,
 1. en de eindpresentaties bijwoont.
 
 Let op dat je minimaal aan bovenstaande verwachtingen moet voldoen om een eindcijfer te kunnen halen.
@@ -109,7 +109,7 @@ Als je project voldoet aan de minimumeisen zal het cijfer worden bepaald met beh
 
 **Code.** In hoeverre is de code zorgvuldig ontworpen en leesbaar? We kijken naar codekwaliteit, eventueel database-ontwerp of andere onderdelen van het technisch ontwerp, aangepast aan het platform waarop je werkt. Te denken valt aan commentaar en naamgeving, organisatie van de code in classes en files, en voor de database duplicatie en de mate waarin zoekopdrachten efficiënt kunnen worden uitgevoerd.
 
-**Git.** Tijdens het project word je geacht gebruik te maken van Git voor het beheren van al je projectbestanden en -documentatie. Git is een systeem voor versiebeheer en je zult dus, vrijwel dagelijks, nieuwe versies van je projectbestanden naar je Git-"repository" committen. Een groot probleem is het "opnieuw beginnen" van een repository. Dit moet te allen tijde worden voorkomen. Loop je vast met Git, roep dan altijd hulp in van de docenten.
+<!-- **Git.** Tijdens het project word je geacht gebruik te maken van Git voor het beheren van al je projectbestanden en -documentatie. Git is een systeem voor versiebeheer en je zult dus, vrijwel dagelijks, nieuwe versies van je projectbestanden naar je Git-"repository" committen. Een groot probleem is het "opnieuw beginnen" van een repository. Dit moet te allen tijde worden voorkomen. Loop je vast met Git, roep dan altijd hulp in van de docenten. -->
 
 **Repository/documentatie.** De uiteindelijke versie van je project is een momentopname van je repository. Deze bevat de beste versies van jouw code en je documentatie. Hierbij zorg je voor een nette indeling in mapjes, vindbaarheid van de documentatie, vindbaarheid van de onderdelen van je code, het aanwezig zijn van een goede `README`. De documentatie is up-to-date, goed geschreven en bevat nette diagrammen, en expliciete links naar belangrijke onderdelen van de code.
 

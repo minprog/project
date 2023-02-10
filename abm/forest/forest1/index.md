@@ -1,22 +1,22 @@
 ## Forest Fire 1: The Model
 
-The first model we will build from the ground up is used to simulate forest fires. Such a model is an example of an *cellular automata*. This means the systems consists of a grid of **cells**, which each have a certain **state**. This state is changed based on the states of a cell's neighbors. Typically, this happens based on a simple updating rule.
+The first model we will build from the ground up is used to simulate forest fires. Such a model is an example of a *cellular automata*. This means the systems consists of a grid of **cells** that each have a certain **state**. This state is changed based on the states of a cell's neighbors. Typically this happens based on a simple updating rule.
 
-Let's make this a bit more concrete. In our model consists of a 2D grid of cells, where each cell has three states: **empty** (state $0$), **tree** (state $1$) and **burning** (state $2$). The evolution of a cell is $1 \rightarrow 2 \rightarrow 0$. (Some versions also have that a tree can grow back in the empty cell, but we will ignore this for now). Given a tree-node, we decide whether it will catch fire based on the following equation:
+Let's make this a bit more concrete. Our model consists of a 2D grid of cells, where each cell has three states: **empty** (state $0$), **tree** (state $1$) and **burning** (state $2$). The evolution of a cell is $1 \rightarrow 2 \rightarrow 0$. (Some versions also have trees that can grow back in the empty cell, but we will ignore this for now). Given a tree-node, we decide whether it will catch fire based on the following equation:
 
 <!-- ![ff_equation](ff_eq.png) -->
 
 $$ P(1 \rightarrow 2) = \frac{N_{\text{burning neighbors}}}{N_{\text{neighbors}}}. $$
 
-Here, we use a [Moore neighborhood](https://en.wikipedia.org/wiki/Moore_neighborhood) to establish our neighbors. So, more burning neighbors means a higher chance of catching fire yourself. To establish whether $1\rightarrow2$ happens, compute $P(1 \rightarrow 2)$, and then draw a random value between 0 and 1 (for instance using `np.random.rand()`) and see if this value is smaller than $P(1 \rightarrow 2)$. If this is true, set the tree on fire.
+Here, we use a [Moore neighborhood](https://en.wikipedia.org/wiki/Moore_neighborhood) to establish our neighbors. So, more burning neighbors means a higher chance of catching fire yourself. To establish whether $1\rightarrow2$ happens, compute $P(1 \rightarrow 2)$, and then draw a random value between 0 and 1 (for instance using `np.random.rand()`). Then check see if this value is smaller than $P(1 \rightarrow 2)$. If this is the case, set the tree on fire.
 
 Some further rules:
 
-* A tree that catches fire at time $t$ can only start setting other trees on fire at time $t+1$, otherwise the fire would spread way too fast. You should thus find a way to take this into account when updating.
+* A tree that catches fire at time $t$ can only start setting other trees on fire at time $t+1$, otherwise the fire would spread way too fast. You should find a way to take this into account when updating.
 
 * Once a tree is on fire (state $2$), it has a 20% chance of burning up each time step it is on fire. If it burns up, the cell becomes empty ($2 \rightarrow 0$).
 
-* For the initialization we introduce a density parameter $D$. This takes values between $0$ and $1$, and determines the density of trees at the start. If $D=0.8$, This means $80\%$ of the grid at the start should be filled with trees. You will thus have to find a way to randomly assign values $0$ and $1$ to the initial grid points.
+* For the initialization we introduce a density parameter $D$. This takes values between $0$ and $1$, and determines the density of trees at the start. If $D=0.8$, This means $80\%$ of the grid at the start should be filled with trees. This means you will have to find a way to randomly assign values $0$ and $1$ to the initial grid points.
 
 Putting this all together will give us something like this:
 
@@ -36,7 +36,7 @@ Start with a small grid to see if everything works well. After this, make a `100
 
 ### The Visualization
 
-We give you some simple code that you can use to produce the animation shown above. You can put [this](https://raw.githubusercontent.com/minprog/project/2022/abm/forest/forest1/visualize.py) file in the folder of your forest fire and import the `visualize` function. This function takes the following arguments:
+Below you will find some starter code that you can use to produce the animation shown above. Put [this](https://raw.githubusercontent.com/minprog/project/2022/abm/forest/forest1/visualize.py) file in the folder of your forest fire and import the `visualize` function. This function takes the following arguments:
 
 * `grid_values: (List[np.ndarray])`: a `list` of the grids (`numpy 2d-arrays`) generated during the simulation.
 
@@ -48,7 +48,9 @@ We give you some simple code that you can use to produce the animation shown abo
 
 * `colors (List[str], optional)`, colors used in animation. Length of list must correspond with number of unique values in grid (i.e. the number of unique states) (default=`['black', 'green', 'red']`).
 
-So, in order to visualize you will need to save all the grids over time in one list. A useful function to create new grids may be `copy.deepcopy`. All arguments that have `optional` after their type do not need to be filled in. So if you run the function by only passing it the array of `numpy` arrays, it will simply show you the visualization and not save it. Also note that you will need to install `matplotlib`.
+In order to visualize you will need to save all the grids over time in one list. A useful function to create new grids is `copy.deepcopy`. All arguments that have `optional` after their type do not need to be filled in. For instance, if you run the function `visualize` by only passing it the array of `numpy` arrays, it will simply show you the visualization and not save it. Do note that you will need to install `matplotlib` in order to run the visualization.
+
+**Note:** the visualization will likely not show if you are using WSL in Windows 10. Then it is best to just save the visualization and work with the saved `gif`. This is done by setting `saveplot` to `True` (and you can set `showplot` to `False`).
 
 <!-- Je mag zelf bepalen hoe je de visualisatie wil vormgeven, al moet het wel een bewegend resultaat geven (`.gif`, `.mp4`, of een webpagina waar je het op kan runnen) zoals in het voorbeeld hierboven. Hieronder twee suggesties:
 

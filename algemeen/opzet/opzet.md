@@ -23,7 +23,7 @@ Dit project kan veel verschillende dingen zijn, maar bijvoorbeeld:
 3. Wie gaat er straks mee volleyballen, na borrelen of koffiehalen? Een beetje spontane organisatie in het lokaal. Laat gebruikers inschrijven, activiteiten aanmaken en beheren. Hoe zorg je ervoor dat je onderling tijden kan afspreken?
 4. We zijn allemaal groot voorstander van meer planten in het lokaal, maar dan moet je ze wel onderhouden (lees: in leven houden). Dat is best lastig als er verschillende planten zijn en verschillende mensen. Los dit probleem zo goed mogelijk op met een website om het onderhoud op bij te houden. Wanneer en hoe vaak moet iedere plant water hebben? Wie heeft dat het laatst gedaan en wanneer? Welke plant groeit uit zijn pot? Hoe voeg je nieuwe planten toe en haal je oude planten weg?
 
-#### Bankhangen
+#### Bankhangen (webprogrammeren in Flask)
 
 Er zijn veel plekken om te zitten in Amsterdam, maar je moet ze wel even kennen en weten te vinden. Maak een website om je naar de beste bankjes in Amsterdam (alternatieve plaatsen zijn ook zeker mogelijk) te leiden. Zie ook [deze Reddit thread](https://www.reddit.com/r/Amsterdam/comments/x4x19o/waar_is_je_chillste_bankje/) voor inspiratie. Hoe zorg je ervoor dat er bankjes kunnen worden toegevoegd? Hoe neem je gebruikers mee naar een dichtsbijzijnde bank? De ene zitplek is de ander niet, hoe kom je erachter welke beter is? Is het vandaag een beetje bankjesweer?
 

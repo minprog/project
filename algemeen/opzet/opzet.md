@@ -16,18 +16,16 @@ In het begin van de derde week bespreek je je voorstel met ons. Wij geven feedba
 
 Het belangrijkste, in deze week stop je met tutorials en is het tijd om aan de slag te gaan met het project. Programmeren dus!
 
-#### Week 4 (alpha)
+#### Week 4 (versie 1)
 
-Nu is het tijd om de eerste versie op te leveren, de zogenaamde alpha release. Dit is een versie die waarschijnlijk volzit met bugs en waar functionaliteit hier en daar ontbreekt, maar je ziet de kern van het project erdoorheen. Van ons krijg je feedback, maar dit is ook een goed punt om feedback van je medestudenten in te winnen. Want tegen deze tijd zit je er al diep in en is het soms lastig om uit te zoomen.
+Nu is het tijd om de eerste versie op te leveren. Dit is een versie die waarschijnlijk volzit met bugs en waar functionaliteit hier en daar ontbreekt, maar je ziet de kern van het project erdoorheen. Van ons krijg je feedback, maar dit is ook een goed punt om feedback van je medestudenten in te winnen. Want tegen deze tijd zit je er al diep in en is het soms lastig om uit te zoomen.
 
-#### Week 5 (MVP)
+#### Week 5 (versie 2)
 
 
 
-#### Week 6 (beta)
+#### Week 6 (versie 3)
 
-Beta
 
 #### Week 7 (final)
 
-Final

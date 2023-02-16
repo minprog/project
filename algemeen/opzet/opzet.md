@@ -4,7 +4,7 @@ Het doel van het programmeerproject is om de uitdaging aan te gaan om iets echts
 
 Natuurlijk gaan we je helpen, maar jij wordt uiteindelijk de expert. De assistentie beperkt zich voornamelijk tot procesmatige ondersteuning. We gaan je helpen bij het uitvinden van wat er nodig is om het project te maken, bij het vinden van tutorials en lesmateriaal, en natuurlijk bij het vormgeven en inperken van het project zelf. Dat laatste is wel zo belangrijk, want er zijn maar zoveel weken in het vak en aan het einde sta je niet met lege handen.
 
-Heb je een eigen idee voor een project, neem dan eerst even contact met ons op door middel van een kort mailtje naar help@mprog.nl. Dan spreken we binnenkort een keertje af om het idee door te praten. 
+Heb je een eigen idee voor een project, neem dan eerst even contact met ons op door middel van een kort mailtje naar help@mprog.nl. Dan spreken we snel een keer af om het idee door te praten. 
 
 
 ## Thema projecten

@@ -20,7 +20,7 @@ Dit project kan veel verschillende dingen zijn, maar bijvoorbeeld:
 
 1. Maak de lunch-opties op het Science Park inzichtelijk. Waar kan je heen? Wat is er, ennuh hoeveel kost dat dan? Is het eigenlijk een beetje te eten?
 2. Wat zijn de OV opties vanaf waar je zit. Is de trein zo op tijd? Moet je wel of niet gaan rennen? Gaat het zo regenen?
-3. Wie gaat er straks mee volleyballen, na borrelen of koffiehalen? Een beetje spontane organisatie in het lokaal. Laat gebruikers inschrijven, activiteiten aanmaken en beheren. Hoe zorg je ervoor dat je onderling tijden kan afspreken?
+3. Wie gaat er straks mee volleyballen, naborrelen of koffiehalen? Een beetje spontane organisatie in het lokaal. Laat gebruikers inschrijven, activiteiten aanmaken en beheren. Hoe zorg je ervoor dat je onderling tijden kan afspreken?
 4. We zijn allemaal groot voorstander van meer planten in het lokaal, maar dan moet je ze wel onderhouden (lees: in leven houden). Dat is best lastig als er verschillende planten zijn en verschillende mensen. Los dit probleem zo goed mogelijk op met een website om het onderhoud op bij te houden. Wanneer en hoe vaak moet iedere plant water hebben? Wie heeft dat het laatst gedaan en wanneer? Welke plant groeit uit zijn pot? Hoe voeg je nieuwe planten toe en haal je oude planten weg?
 
 #### Bankhangen (webprogrammeren in Flask)

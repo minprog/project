@@ -36,6 +36,6 @@ De laatste week van het vak focus je voornamelijk op bugfixes en polijsten van j
 
 Aan het einde van deze week lever je de final release op. Dit is de versie die we nakijken en waarvoor je een cijfer krijgt. Vanaf dit punt ga je niet meer verder programmeren (voor dit vak).
 
-### Week 8 (presentaties)
+#### Week 8 (presentaties)
 
 Week 8 is de tentamenweek van het blok. Dat betekent dat we ervoor willen zorgen dat je tijd hebt voor andere tentamens en niet bezig bent met je project. Vandaar dat we al het programmeren afronden in week 7. In de achtste week staan alleen nog de eindpresentaties van het programmeerproject gepland.

@@ -1,6 +1,6 @@
 # C$50 Finance
 
-> Voor deze opdracht raden we je aan samen te werken met één andere student. Zie voor de precieze instructies de [samenwerken pagina](/naslag/samenwerken). Werk je samen aan de opdracht, dan is het belangrijk dat jullie allebei elkaars naam en studentnummer melden bij het inleveren van de opdracht. Dat doe je onderaan deze pagina. Anders kan het voorkomen dat je opdracht onterecht uit de plagiaatscan komt rollen.
+> Voor deze opdracht raden we je aan samen te werken met één andere student, maar dit is niet noodzakelijk. Werk je samen aan de opdracht, dan is het belangrijk dat jullie allebei elkaars naam en studentnummer melden bij het inleveren van de opdracht. Dat doe je onderaan deze pagina. Anders kan het voorkomen dat je opdracht onterecht uit de plagiaatscan komt rollen.
 {:.bg-light}
 
 Implement a website via which users can "buy" and "sell" stocks, a la the below.
@@ -233,7 +233,7 @@ To test your code with `check50`, execute the below.
 
     $ check50 -l minprog/webprogrammeren/checks_2020/finance
 
-> 
+> Be aware that check50 will test your entire program as a whole. If you run it before completing all required functions, it may report errors on functions that are actually correct but depend on other functions.
 
 Be sure to test your web app manually too, as by
 
@@ -253,7 +253,7 @@ Execute the below to evaluate the style of your Python files using `style50`.
 
 You're welcome to stylize your own app differently, but here's what the staff's solution looks like!
 
-https://finance.cs50.net/
+<https://finance.cs50.net/>
 
 Feel free to register for an account and play around. Do **not** use a password that you use on other sites.
 

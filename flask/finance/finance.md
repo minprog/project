@@ -223,7 +223,7 @@ Complete the implementation of `history` in such a way that it displays an HTML 
 
 ## Walkthrough
 
-![embed](https://www.youtube.com/embed/kAvCTffbH04)
+![embed](https://www.youtube.com/embed/7wPTAwT-6bA)
 
 > Note that Finance has been slightly shortened for this course and does not require a history page, nor an additional "personal touch". Do just ignore these features in the video above.
 

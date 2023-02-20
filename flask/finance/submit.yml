@@ -1,0 +1,7 @@
+name: finance
+files:
+    required:
+        - finance.zip
+check:
+    tool: check50
+    slug: minprog/webprogrammeren/checks_2020/finance

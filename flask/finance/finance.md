@@ -275,10 +275,10 @@ It is **reasonable** to look at the staff's HTML and CSS.
 * Odds are you'll want to consult [Jinja's documentation](http://jinja.pocoo.org/docs/dev/) when implementing your templates.
 * It is **reasonable** to ask others to try out (and try to trigger errors in) your site.
 * You're welcome to alter the aesthetics of the sites, as via
-  * https://bootswatch.com/,
-  * https://getbootstrap.com/docs/4.1/content/,
-  * https://getbootstrap.com/docs/4.1/components/, and/or
-  * https://memegen.link/.
+  * <https://bootswatch.com/>,
+  * <https://getbootstrap.com/docs/4.1/content/>,
+  * <https://getbootstrap.com/docs/4.1/components/>, and/or
+  * <https://memegen.link/>.
 * You may find [Flask's documentation](https://flask.palletsprojects.com/en/1.1.x/quickstart/) and [Jinja's documentation](https://jinja.palletsprojects.com/en/2.11.x/templates/) helpful!
 
 ## FAQs

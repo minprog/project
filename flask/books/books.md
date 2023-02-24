@@ -2,9 +2,9 @@
 
 ## Objectives
 
-* Become more comfortable with Python.
-* Gain experience with Flask.
-* Learn to use SQL to interact with databases.
+* Become more comfortable with Python and Flask.
+* Learn to use SQL and ORMs to interact with databases.
+* Learn to interface and build upon public APIs.
 
 ## What you need to find out
 

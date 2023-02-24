@@ -57,7 +57,7 @@ application. PostgreSQL is designed to run as a stand-alone service (a seperate 
 * **On a Mac with [homebrew](https://brew.sh/)** simply run `brew install postgresql`. Just for reference: <https://wiki.postgresql.org/wiki/Homebrew>
 * **On WSL on Windows** follow these instructions: <https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-database#install-postgresql>
 
-Once installed, you need to run postgresql:
+Once installed, you need to run PostrgreSQL:
 
 * **On a Mac with homebrew** run: `brew services start postgresql`
 * **On WSL on Windows** run: `sudo service postgresql start`

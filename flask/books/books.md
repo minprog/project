@@ -68,7 +68,7 @@ If perhaps familiar, like SQLite, PostgreSQL comes with its own command-line int
 
 By default PostgreSQL will create a few empty databases to get you started called: `postgres`, `template0` and `template1`. By executing `psql postgres` we have opened `psql` in the `postgres` database. But instead, let's create our own database called `books`. To do this, inside `psql` execute:
 
-    CREATE DATABASE books
+    CREATE DATABASE books;
 
 Then **connect** to the new database with:
 

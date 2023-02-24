@@ -114,7 +114,7 @@ If you navigate to the URL provided by `flask`, you should see the text
 
 ### openlibrary.org API
 
-[`openlibrary.org`](https://openlibrary.org) is an open library catalog. It tries to keep track of every published book. Perhaps most importantly for us, it exposes a free to use API. Allowing us to build on top of their work. See <https://openlibrary.org/developers/api> for all what is available.
+[`openlibrary.org`](https://openlibrary.org) is an open library catalog. It tries to keep track of every published book. Perhaps most importantly for us, it exposes a free to use API. Allowing us to build on top of their work for free. See <https://openlibrary.org/developers/api> for all that is available to us.
 
 In particular you are going to use the `Covers API` to retrieve cover images for books. All the details are here: <https://openlibrary.org/dev/docs/api/covers>
 

@@ -106,7 +106,7 @@ to the environment variable `FLASK_APP` to be `application.py`. -->
 
 Set the environment variable `DATABASE_URL` to be the URI of your database. Here's how to that:
 
-* `export DATABASE_URL="postgresql://localhost/books"` 
+    export DATABASE_URL="postgresql://localhost/books"
 
 Run `flask run` to start up your Flask application.
 If you navigate to the URL provided by `flask`, you should see the text

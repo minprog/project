@@ -35,7 +35,7 @@ Before your do anything else, watch and understand these video lectures:
 
 If you have any questions about the lectures, please post a question! -->
 
-## Getting Started
+## Bootstrapping
 
 <!-- ### GitHub Classroom
 
@@ -51,50 +51,44 @@ We’ll again use GitHub Classroom to distribute projects and collect submission
 
 ### PostgreSQL
 
-For this project, you'll need to set up a PostgreSQL database to use with our
-application. PostgreSQL is designed to run as a stand-alone service that an app can interface with. 
+For this project, you will need to set up a PostgreSQL database to use with your
+application. PostgreSQL is designed to run as a stand-alone service (a seperate running program on your machine or perhaps on a server) that an app can interface with. First you will need to download and install PostgreSQL, here's how to do that:
+
+* **On a Mac with [homebrew](https://brew.sh/)** simply run `brew install postgresql`. Just for reference: <https://wiki.postgresql.org/wiki/Homebrew>
+* **On WSL on Windows** follow these instructions: <https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-database#install-postgresql>
+
+Once installed, you need to run postgresql:
+
+* **On a Mac with homebrew** run: `brew services start postgresql`
+* **On WSL on Windows** run: `sudo service postgresql start`
+
+These commands will launch PostgreSQL in the background. If you want to stop the program, just replace the word `start` with `stop` in the command above.
+
+If perhaps familiar, like SQLite, PostgreSQL comes with its own command-line interface: `psql`. Once PostgreSQL is up and running, simply type `psql postgres` and you should then see your prompt change to `postgres=#`. From here you can try out queries, look at various databases, tables and their structures. The `psql` specific commands are different from SQLite, but here's a useful list to get you started: <https://www.geeksforgeeks.org/postgresql-psql-commands/>.
+
+By default PostgreSQL will create a few empty databases to get you started called: `postgres`, `template0` and `template1`. By executing `psql postgres` we have opened `psql` in the `postgres` database. But instead, let's create our own database called `books`. To do this, inside `psql` execute:
+
+    CREATE DATABASE books
+
+Then **connect** to the new database with:
+
+    \c books
+
+All right, that is PostgreSQL all set up with a new fresh database called `books`.
+
+### Flask
+
+Let's get started with bootstrapping Flask. 
+
+First open a terminal, then `cd` to a directory where you want to put your project.
 
 
-It's possible to set up PostgreSQL locally on your own computer,
-but for this project, we'll use a database hosted by
-[Heroku](https://www.heroku.com/), an online web hosting service.
-
-1. Navigate to [https://www.heroku.com/](https://www.heroku.com/), and create
-   an account if you don't already have one.
-2. On Heroku's Dashboard, click "New" and choose "Create new app."
-3. Give your app a name, and click "Create app."
-4. On your app's "Overview" page, click the "Configure Add-ons" button.
-5. In the "Add-ons" section of the page, type in and select "Heroku Postgres."
-6. Choose the "Hobby Dev - Free" plan, which will give you access to a free
-   PostgreSQL database that will support up to 10,000 rows of data. Click
-   "Provision."
-7. Now, click the "Heroku Postgres :: Database" link.
-8. You should now be on your database's overview page. Click on "Settings", and
-   then "View Credentials." This is the information you'll need to log into your
-   database. You can access the database via
-   [Adminer](https://adminer.cs50.net/), filling in the server (the "Host" in
-   the credentials list), your username (the "User"), your password, and the
-   name of the database, all of which you can find on the Heroku credentials
-   page.
-   At Adminer you can use "SQL opdracht"/"SQL command" to try out a query.
-
-Alternatively, if you install
-[PostgreSQL](https://www.postgresql.org/download/) on your own computer, you
-should be able to run `psql URI` on the command line, where the `URI` is
-the link provided in the Heroku credentials list.
-
-### Python and Flask
-
-Make sure you installed Python (Instruction for [Windows](/install/windows) and [macOS](/install/macos)).
-
-To try running your first Flask
-application:
-
-Open "Git Bash" on Windows or the "Terminal" on macOS or Linux.
-
-`cd` to a directory where you want to put your project.
-
-Clone your `uva-webapps/books-username` repository from GitHub and navigate into this directory.
+    $ curl -LO https://github.com/minprog/project/raw/2022/flask/books/books.zip
+    $ unzip books.zip
+    $ rm books.zip
+    $ cd books
+    $ ls
+    app.py  books.csv requirements.txt
 
 Run
 
@@ -102,70 +96,43 @@ Run
 
 to make sure all of the necessary Python packages (Flask and SQLAlchemy, for instance) are installed.
 
-Run
+<!-- Run
 
-    $ export FLASK_APP=application.py
+    $ export FLASK_APP=app.py
 
-to the environment variable `FLASK_APP` to be `application.py`.
+to the environment variable `FLASK_APP` to be `application.py`. -->
 
+<!-- You may optionally want to set the environment variable `FLASK_DEBUG` to `1`, which will activate Flask's debugger and will automatically reload your web application whenever you save a change to a file. -->
 
-You may optionally want to set the environment variable `FLASK_DEBUG` to `1`, which will activate Flask's debugger and will automatically reload your web application whenever you save a change to a file.
+Set the environment variable `DATABASE_URL` to be the URI of your database. Here's how to that:
 
-Set the environment variable `DATABASE_URL` to be the URI of your database, which you should be able to see from the credentials page on Heroku.
+* `export DATABASE_URL="postgresql://localhost/books"` 
 
 Run `flask run` to start up your Flask application.
 If you navigate to the URL provided by `flask`, you should see the text
    `"Project 1: TODO"`!
 
-### Goodreads API
+### openlibrary.org API
 
-Goodreads is a popular book review website, and we'll be using their API in this project to get access to their review data for individual books.
+[`openlibrary.org`](https://openlibrary.org) is an open library catalog. It tries to keep track of every published book. Perhaps most importantly for us, it exposes a free to use API. Allowing us to build on top of their work. See <https://openlibrary.org/developers/api> for all what is available.
 
-1. Go to [https://www.goodreads.com/api](https://www.goodreads.com/api) and sign
-   up for a Goodreads account if you don't already have one.
-2. Navigate to
-   [https://www.goodreads.com/api/keys](https://www.goodreads.com/api/keys) and
-   apply for an API key. For "Application name" and "Company name" feel free to
-   just write "project1," and no need to include an application URL, callback
-   URL, or support URL.
-3. You should then see your API key. (For this project, we'll care only about the
-   "key", not the "secret".)
-4. You can now use that API key to make requests to the Goodreads API,
-   documented [here](https://www.goodreads.com/api/index). In particular, Python
-   code like the below
+In particular you are going to use the `Covers API` to retrieve cover images for books. All the details are here: <https://openlibrary.org/dev/docs/api/covers>
+
+And the `Books API` to retrieve detailed descriptions for each book. See <https://openlibrary.org/dev/docs/api/books> for the documentation. You can test endpoints for the API by either navigating to them in your browser or by using `curl`. Often the documentation will come with examples for you to run.
+
+Ultimately you will need to call endpoints for these API's from within `Flask`. Luckily there is a handy little library for that called: `requests`. If you have run `pip install -r requirements.txt` earlier, you should now have `requests` installed, and you can use it like so:
 
         import requests
-        res = requests.get("https://www.goodreads.com/book/review_counts.json", params={"key": "KEY", "isbns": "9781632168146"})
-        print(res.json())
+        res = requests.get("https://openlibrary.org/api/books?bibkeys=ISBN:9780980200447&jscmd=details&format=json")
+        json_data = res.json()
+        print(json_data)
 
+> Note that the above assumes the endpoint returns data in a `json` format.
 
-where `KEY` is your API key, will give you the review and rating data for the
-book with the provided ISBN number. In particular, you might see something like
-this dictionary:
-
-
-    {'books': [{
-            'id': 29207858,
-            'isbn': '1632168146',
-            'isbn13': '9781632168146',
-            'ratings_count': 0,
-            'reviews_count': 1,
-            'text_reviews_count': 0,
-            'work_ratings_count': 26,
-            'work_reviews_count': 113,
-            'work_text_reviews_count': 10,
-            'average_rating': '4.04'
-        }]
-    }
-
-
-Note that `work_ratings_count` here is the number of ratings that this
-particular book has received, and `average_rating` is the book's average score
-out of 5.
 
 ## Requirements
 
-Alright, it's time to actually build your web application! Here are the
+Boots are strapped, it's time to actually build your web application! Here are the
 requirements:
 
 * **Registration**: Users should be able to register for your website, providing

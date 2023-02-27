@@ -206,7 +206,7 @@ There is a lot to do, and you can work through it in a different order, but here
 
 1. Start with setting up the database by implementing `import.py` (and `models.py` and `create.py`). Ultimately `import.py` should fill the database with book data from `books.csv`. To do this, recall the flights example from lecture that posed a similar challenge albeit on a different topic. 
     1. First, Brian introduced `create.py` to create the database based on models from `models.py`. We suggest you start by copying these files from lecture.
-    2. Then change `models.py` to no longer have a `Flight` and `Passenger` model, but a `Book` model instead. No need to worry about users and reviews just yet. Take a closer look at `books.csv` to figure what a `Book` should consist of.
+    2. Then change `models.py` to no longer have a `Flight` and `Passenger` model, but a `Book` model instead. No need to worry about users and reviews just yet. Take a closer look at `books.csv` to figure out what a `Book` should consist of.
     3. Go ahead and run `create.py`. If all goes well, run `psql books` and then `\dt` to see the newly created table.
     4. For `import.py` copy over (and rename) `import1.py` from lecture. 
     5. Then modify `import.py` to read in `books.csv`, and write all books data to the database.

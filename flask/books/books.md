@@ -200,7 +200,7 @@ requirements:
 
 ## How to get started
 
-This assignment starts with relatively little starter code. This means you will have to put most of the puzzle pieces together yourself. Luckily the lecture arms you with quite a few working examples of similar challenges you will face while working on this assignment. So be sure to keep the lecture at hand, and to [TODO DOWNLOAD URL]() the examples.
+This assignment starts with relatively little starter code. This means you will have to put most of the puzzle pieces together yourself. Luckily the lecture arms you with working examples of similar challenges that you will face while working on this assignment. So be sure to keep the lecture at hand, and to [TODO DOWNLOAD URL]() the examples.
 
 There is a lot to do, and you can work through it in a different order, but here's our advice:
 

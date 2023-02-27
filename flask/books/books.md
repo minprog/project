@@ -204,12 +204,41 @@ This assignment starts with relatively little starter code. This means you will 
 
 There is a lot to do, and you can work through it in a different order, but here's our advice:
 
-1. Start with setting up the database by implementing `import.py` (and `models.py` and `create.py`). Ultimately `import.py` should fill the database with book data from `books.csv`. To do this, recall the flights example from lecture that posed a similar challenge albeit on a different topic. 
-    1. First, Brian introduced `create.py` to create the database based on models from `models.py`. We suggest you start by copying these files from lecture.
-    2. Then change `models.py` to no longer have a `Flight` and `Passenger` model, but a `Book` model instead. No need to worry about users and reviews just yet. Take a closer look at `books.csv` to figure out what a `Book` should consist of.
-    3. Go ahead and run `create.py`. If all goes well, run `psql books` and then `\dt` to see the newly created table.
-    4. For `import.py` copy and rename `import1.py` from lecture. 
-    5. Then modify `import.py` to read in `books.csv` instead of `flights.csv`, and write all books data to the database.
+#### Step 1: import.py
+
+Start with setting up the database by implementing `import.py` (and `models.py` and `create.py`). Ultimately `import.py` should fill the database with book data from `books.csv`. To do this, recall the flights example from lecture that posed a similar challenge albeit on a different topic. 
+
+1. First, Brian introduced `create.py` to create the database based on models from `models.py`. We suggest you start by copying these files from lecture.
+2. Then change `models.py` to no longer have a `Flight` and `Passenger` model, but a `Book` model instead. No need to worry about users and reviews just yet. Take a closer look at `books.csv` to figure out what a `Book` should consist of.
+3. Go ahead and run `create.py`. If all goes well, run `psql books` and then `\dt` to see the newly created table.
+4. For `import.py` copy and rename `import1.py` from lecture. 
+5. Then modify `import.py` to read in `books.csv` instead of `flights.csv`, and write all books data to the database.
+
+#### Step 2: books page
+
+With the books in the database, start by implementing a simple version of the **books page**. In the final version this page will render reviews and cover images, but for now let us focus on displaying just what is in our database.
+
+1. Head on over to `app.py` and add the following route:
+    
+        @app.route("/book/<isbn>", methods=["GET"])
+        def book(isbn):
+            # TODO
+
+    Notice how this is a parameterized route. The `<isbn>` part in the route signals to flask that a user should navigate to `/book/` followed by something else (presumably an isbn). Whatever follows `/book/` is then passed as an argument to the `book` function, conveniently named `isbn` also. The idea of this route being that navigating to say `/book/1632168146` gives you the page on the book with `1632168146` as its isbn.
+2. Create a `templates` directory and add a template for the books page. Then have the `/books/<isbn>` render it. Don't invest too much effort into styling and layout just yet. You can test this route by running your app with `python3 -m flask run --debug` and then navigate to `127.0.0.1:5000/book/1632168146` in your browser.
+3. Now add the necessary logic to the `/books/<isbn>` route to get the book with the right isbn from the database. Then pass on that book to the template and have the template render the title, isbn, etc. Take another look at the flights example from the lecture for this part.
+4. Finally, handle the "wrong path". What do you do if the book with that specific `isbn` is not in your database?
+
+#### Step 3: users
+
+Next up is registering and login for users. For this it is best to look back at the Finance assignment. You will find that most code of that assignment concerning users and login is reusable for this assignment, with a few caveats.
+
+1. In contrast to Finance, we are now working with an ORM. So the first task is to set up a `User` model in `models.py`. Then once you have done so, don't forget to rerun `create.py` to create the database table for users.
+2. Next, copy over the code for the `/login` and `/register` routes to `app.py`. Odds are you will want to reuse the `@login_required` decorater as well. To do this, copy `helpers.py` from Finance as well and import `login_required` in `app.py`.
+3. Copy over or create templates for the login and register page. Again, don't worry about aesthetics too much just yet. 
+4. The `/login` and `/register` routes from Finance work with raw SQL queries. It is up to you to transform these to work with the ORM instead. Tackle one route at a time, and remember to test your work by navigating to the routes yourself and by inspecting the database. For instance, you might want to run `psql users` and `SELECT * FROM users`. That is, assuming you have called your table `users`. 
+
+> Do not store passwords in plaintext! Instead, like in Finance, use `check_password_hash` and `generate_password_hash` from werkzeug.security. You can import these functions like so: `from werkzeug.security import check_password_hash, generate_password_hash`.
 
 
 ## Hints

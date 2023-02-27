@@ -135,11 +135,8 @@ Ultimately you will need to call endpoints for these API's from within `Flask`. 
 Boots are strapped, it's time to actually build your web application! Here are the
 requirements:
 
-* **Registration**: Users should be able to register for your website, providing
-  (at minimum) a username and password.
-* **Login**: Users, once registered, should be able to log in to your website
-  with their username and password.
-* **Logout**: Logged in users should be able to log out of the site.
+#### Features:
+
 * **Import**: Provided for you in this project is a file called `books.csv`,
   which is a spreadsheet in CSV format of 5000 different books.
   Each one has an ISBN number, a title, an author, and a publication year.
@@ -150,6 +147,11 @@ requirements:
   they should relate to one another. Run this program by running
   `python3 import.py` to import the books into
   your database, and submit this program with the rest of your project code.
+* **Registration**: Users should be able to register for your website, providing
+  (at minimum) a username and password.
+* **Login**: Users, once registered, should be able to log in to your website
+  with their username and password.
+* **Logout**: Logged in users should be able to log out of the site.
 * **Search**: Once a user has logged in, they should be taken to a page where
   they can search for a book. Users should be able to type in the ISBN number of
   a book, the title of a book, or the author of a book. After performing the
@@ -168,7 +170,7 @@ requirements:
 * **Goodreads Review Data**: On your book page, you should also display (if
   available) the average rating and number of ratings the work has received from
   Goodreads.
-* **API Access**: If users make a GET request to your website's `/api/<isbn>`
+* **API Access (optional)**: If users make a GET request to your website's `/api/<isbn>`
   route, where `<isbn>` is an ISBN number, your website should return a JSON
   response containing the book's title, author, publication date, ISBN number,
   review count, and average score (on your site). The resulting JSON should follow the format:
@@ -184,18 +186,31 @@ requirements:
 
   If the requested ISBN number isn't in your
   database, your website should return a 404 error.
-* You should be using raw SQL commands (as via SQLAlchemy's `execute` method) in
-  order to make database queries. You should not use the SQLAlchemy ORM (if
-  familiar with it) for this project.
+
+#### Technical requirements
+
+* You should use the SQLAlchemy ORM for this project. Any models should live a file called `models.py`.
 * In `README.md`, include a short writeup describing your project, what's
   contained in each file, and (optionally) any other additional information the
   staff should know about your project.
 * If you've added any Python packages that need to be installed in order to run
   your web application, be sure to add them to `requirements.txt`!
 
-Beyond these requirements, the design, look, and feel of the website are up to
-you! You're also welcome to add additional features to your website, so long as
-you meet the requirements laid out in the above specification!
+> Beyond these requirements, the design, look, and feel of the website are up to you! You're also welcome to add additional features to your website, so long as you meet the requirements laid out in the above specification!
+
+## How to get started
+
+This assignment starts with relatively little starter code. This means you will have to put most of the puzzle pieces together yourself. Luckily the lecture arms you with quite a few working examples of similar challenges you will face while working on this assignment. So be sure to keep the lecture at hand, and to [TODO DOWNLOAD URL]() the examples.
+
+There is a lot to do, and you can work through it in a different order, but here's our advice:
+
+1. Start with setting up the database by implementing `import.py` (and `models.py` and `create.py`). Ultimately `import.py` should fill the database with book data from `books.csv`. To do this, recall the flights example from lecture that posed a similar challenge albeit on a different topic. 
+    1. First, Brian introduced `create.py` to create the database based on models from `models.py`. We suggest you start by copying these files from lecture.
+    2. Then change `models.py` to no longer have a `Flight` and `Passenger` model, but a `Book` model instead. No need to worry about users and reviews just yet. Take a closer look at `books.csv` to figure what a `Book` should consist of.
+    3. Go ahead and run `create.py`. If all goes well, run `psql books` and then `\dt` to see the newly created table.
+    4. For `import.py` copy over (and rename) `import1.py` from lecture. 
+    5. Then modify `import.py` to read in `books.csv`, and write all books data to the database.
+
 
 ## Hints
 

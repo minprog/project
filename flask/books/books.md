@@ -108,7 +108,7 @@ Set the environment variable `DATABASE_URL` to be the URI of your database. Here
 
     export DATABASE_URL="postgresql://localhost/books"
 
-Run `flask run` to start up your Flask application.
+Run `flask run --debug` to start up your Flask application.
 If you navigate to the URL provided by `flask`, you should see the text
    `"Project 1: TODO"`!
 
@@ -234,11 +234,24 @@ With the books in the database, start by implementing a simple version of the **
 Next up is registering and login for users. For this it is best to look back at the Finance assignment. You will find that most code of that assignment concerning users and login is reusable for this assignment, with a few caveats.
 
 1. In contrast to Finance, we are now working with an ORM. So the first task is to set up a `User` model in `models.py`. Then once you have done so, don't forget to rerun `create.py` to create the database table for users.
-2. Next, copy over the code for the `/login` and `/register` routes to `app.py`. Odds are you will want to reuse the `@login_required` decorater as well. To do this, copy `helpers.py` from Finance as well and import `login_required` in `app.py`.
+2. Next, copy over the code for the `/login` and `/register` routes to `app.py`. Odds are you will want to reuse the `@login_required` decorater as well. To do this, copy `helpers.py` from Finance and import `login_required` in `app.py`.
 3. Copy over or create templates for the login and register page. Again, don't worry about aesthetics too much just yet. 
 4. The `/login` and `/register` routes from Finance work with raw SQL queries. It is up to you to transform these to work with the ORM instead. Tackle one route at a time, and remember to test your work by navigating to the routes yourself and by inspecting the database. For instance, you might want to run `psql users` and `SELECT * FROM users`. That is, assuming you have called your table `users`. 
 
-> Do not store passwords in plaintext! Instead, like in Finance, use `check_password_hash` and `generate_password_hash` from werkzeug.security. You can import these functions like so: `from werkzeug.security import check_password_hash, generate_password_hash`.
+> Do not store passwords in plaintext! Instead, like in Finance, use `check_password_hash` and `generate_password_hash` from `werkzeug.security`. You can import these functions like so: `from werkzeug.security import check_password_hash, generate_password_hash`.
+
+#### Step 4: search
+
+Now we need some method to discover books. Something a bit more user friendly than directly typing in the isbn in the browser's URL bar. Let's start working on the search page.
+
+1. Create a template for the search page and add a route to `app.py`.
+2. The search page will need a form to search with. For inspiration, check out `
+
+#### Step 5: descriptions and book covers
+
+
+#### Step 6: reviews
+
 
 
 ## Hints

@@ -242,12 +242,23 @@ Next up is registering and login for users. For this it is best to look back at 
 
 #### Step 4: search
 
-Now we need some method to discover books. Something a bit more user friendly than directly typing in the isbn in the browser's URL bar. Let's start working on the search page.
+Now we need some method to discover books. Something a bit more user friendly than directly typing in the isbn in the browser's URL bar. So let's start working on the search page.
 
 1. Create a template for the search page and add a route to `app.py`.
-2. The search page will need a form to search with. For inspiration, check out `
+2. The search page will need a form to search with. For inspiration, check out the `index.html` template from lecture. Go ahead and add a search form to your template.
+3. Now add the necessary logic to your search route in `app.py` to search the database. Per the requirements you will need to support search for isbn, title, author, or any part of them. No need to worry about combinations, but do feel free to challenge yourself. Be sure to check your work every now and again while working on this step. Even though you might not have a template to render results just yet, you can still print out any matching books to the terminal by simply calling `print()` in `app.py`.
+4. Now extend the search template with a list or a table to display the results of the search if any. We recommend this method over introducing another template as this way the user can keep searching without having to navigate to a new page. For inspiration check out the `flights.html` template from lecture.
+5. Finally, make sure that a user can click on any book in the search results to take them to that book's page.
+
+> The lecture introduces `like` as a method to search for similar results "like" the query. Odds are you will find `ilike` helpful for this step. It operates the same as `like`, just case insensitive.
+
 
 #### Step 5: descriptions and book covers
+
+`books.csv` contains a sizeable number of books, but has quite limited information on each book. This makes for a rather dull book page. So let us build on the shoulders of giants and use online resources to extend our book page.
+
+1. First up, let's add books covers to the book page. For this [openlibrary.org](https://openlibrary.org) provides a helpful little Cover API over at <https://openlibrary.org/dev/docs/api/covers>. All the instructions on the API and how to use it are on that page.
+2. Next, let's add descriptions to the book page. 
 
 
 #### Step 6: reviews

@@ -198,7 +198,7 @@ requirements:
 
 > Beyond these requirements, the design, look, and feel of the website are up to you! You're also welcome to add additional features to your website, so long as you meet the requirements laid out in the above specification!
 
-## How to get started
+## Walkthrough
 
 This assignment starts with relatively little starter code. This means you will have to put most of the puzzle pieces together yourself. Luckily the lecture arms you with working examples of similar challenges that you will face while working on this assignment. So be sure to keep the lecture at hand, and to [TODO DOWNLOAD URL]() the examples.
 

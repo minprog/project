@@ -247,7 +247,7 @@ Now we need some method to discover books. Something a bit more user friendly th
 1. Create a template for the search page and add a route to `app.py`.
 2. The search page will need a form to search with. For inspiration, check out the `index.html` template from lecture. Go ahead and add a search form to your template.
 3. Now add the necessary logic to your search route in `app.py` to search the database. Per the requirements you will need to support search for isbn, title, author, or any part of them. No need to worry about combinations, but do feel free to challenge yourself. Be sure to check your work every now and again while working on this step. Even though you might not have a template to render results just yet, you can still print out any matching books to the terminal by simply calling `print()` in `app.py`.
-4. Now extend the search template with a list or a table to display the results of the search if any. We recommend this method over introducing another template as this way the user can keep searching without having to navigate to a new page. For inspiration check out the `flights.html` template from lecture.
+4. Extend the search template with a list or a table to display the results of the search if any. We recommend this method over introducing another template as this way the user can keep searching without having to navigate to a new page. For inspiration check out the `flights.html` template from lecture.
 5. Finally, make sure that a user can click on any book in the search results to take them to that book's page.
 
 > The lecture introduces `like` as a method to search for similar results "like" the query. Odds are you will find `ilike` helpful for this step. It operates the same as `like`, just case insensitive.

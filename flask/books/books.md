@@ -225,7 +225,7 @@ With the books in the database, start by implementing a simple version of the **
             # TODO
 
     Notice how this is a parameterized route. The `<isbn>` part in the route signals to flask that a user should navigate to `/book/` followed by something else (presumably an isbn). Whatever follows `/book/` is then passed as an argument to the `book` function, conveniently named `isbn` also. The idea of this route being that navigating to say `/book/1632168146` gives you the page on the book with `1632168146` as its isbn.
-2. Create a `templates` directory and add a template for the books page. Then have the `/books/<isbn>` route render it. Don't invest too much effort into styling and layout just yet. You can test this route by running your app with `python3 -m flask run --debug` and then navigate to `127.0.0.1:5000/book/1632168146` in your browser.
+2. Create a `templates` directory and add a template for the books page. Then have the `/books/<isbn>` route render it. Don't invest too much effort into styling and layout just yet. You can test this route by running your app with `python3 -m flask run --debug` and then navigating over to `127.0.0.1:5000/book/1632168146` in your browser.
 3. Now add the necessary logic to the `/books/<isbn>` route to get the book with the right isbn from the database. Then pass on that book to the template and have the template render the title, isbn, etc. Take another look at the flights example from the lecture for this part.
 4. Finally, handle the "wrong path". What do you do if the book with that specific `isbn` is not in your database?
 

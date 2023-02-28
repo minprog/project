@@ -258,7 +258,25 @@ Now we need some method to discover books. Something a bit more user friendly th
 `books.csv` contains a sizeable number of books, but has quite limited information on each book. This makes for a rather dull book page. So let us build on the shoulders of giants and use online resources to extend our book page.
 
 1. First up, let's add books covers to the book page. For this [openlibrary.org](https://openlibrary.org) provides a helpful little Cover API over at <https://openlibrary.org/dev/docs/api/covers>. All the instructions on the API and how to use it are on that page.
-2. Next, let's add descriptions to the book page. 
+2. Next, let's add descriptions to the book page through openlibrary.org's Book API over at <https://openlibrary.org/dev/docs/api/books>. This API is a bit more involving than the covers API. For this part you will ultimately need to call an endpoint of the API from within `app.py`, extract the description from the API call's response, and then pass that description on to the book's template. First take a minute to look at the API's docs and especially the example all the way at the bottom with the following call:
+
+    $ curl 'https://openlibrary.org/api/books?bibkeys=ISBN:9780980200447&jscmd=details&format=json'
+
+There are a couple of optional arguments in this API call:
+
+    * bibkeys=ISBN:9780980200447
+    * jscmd=details
+    * format=json
+
+From the API docs, try to understand what each of these arguments does, and why we need/want them.
+
+3. Lets move the API call from the example to `app.py`. Be sure to `import requests` then add the following code to your books route:
+
+    response = requests.get("https://openlibrary.org/api/books?bibkeys=ISBN:9780980200447&jscmd=details&format=json")
+    data = response.json()
+    print(data)
+
+4. The code above will send a get request to the API and await its response. Once that comes in, the json part of the response is parsed. The resulting dictionary is stored in a variable called `data` and printed. Now it is up to you to modify the API call to not always query for the book with isbn 9780980200447 and to extract the description from `data`. Once you have the description, pass it down to your book template and render it.
 
 
 #### Step 6: reviews

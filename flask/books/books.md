@@ -264,9 +264,9 @@ Now we need some method to discover books. Something a bit more user friendly th
 
     There are a couple of optional arguments in this API call:
 
-        * bibkeys=ISBN:9780980200447
-        * jscmd=details
-        * format=json
+    * bibkeys=ISBN:9780980200447
+    * jscmd=details
+    * format=json
 
     From the API docs, try to understand what each of these arguments does, and why we need/want them.
 

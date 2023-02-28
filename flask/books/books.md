@@ -262,13 +262,13 @@ Now we need some method to discover books. Something a bit more user friendly th
 
         $ curl 'https://openlibrary.org/api/books?bibkeys=ISBN:9780980200447&jscmd=details&format=json'
 
-There are a couple of optional arguments in this API call:
+    There are a couple of optional arguments in this API call:
 
-    * bibkeys=ISBN:9780980200447
-    * jscmd=details
-    * format=json
+        * bibkeys=ISBN:9780980200447
+        * jscmd=details
+        * format=json
 
-From the API docs, try to understand what each of these arguments does, and why we need/want them.
+    From the API docs, try to understand what each of these arguments does, and why we need/want them.
 
 3. Lets move the API call from the example to `app.py`. Be sure to `import requests` then add the following code to your books route:
     

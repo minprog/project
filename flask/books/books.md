@@ -276,16 +276,36 @@ Now we need some method to discover books. Something a bit more user friendly th
         data = response.json()
         print(data)
 
-4. The code above will send a get request to the API and await its response. Once that comes in, the json part of the response is parsed. The resulting dictionary is stored in a variable called `data` and printed. Now it is up to you to modify the API call to not always query for the book with isbn 9780980200447 and to extract the description from `data`. Once you have the description, pass it down to your book template and render it.
+4. The code above will send a get request to the API and await its response. Once that comes in, the json part of the response is parsed. The resulting dictionary is stored in a variable called `data` and printed. Now it is up to you to modify the API call to not always query for the book with isbn 9780980200447, and to extract the description from `data`. Once you have the description, pass it down to your book template and render it.
 
 
 #### Step 6: reviews
 
+Last up, add user interaction to the website through reviews. Per the requirements, a user should be able to leave just one review per book consisting of a rating and a text component. 
+
+1. Reviews are a new thing we need to store in the database. This means you will have to introduce a new model to `models.py`. But, this model is different from the others as it is related to both users and books. Do check out the `models.py` from lecture again on how to model relationships between different tables through SQLAlchemy.
+2. Next, extend the book template with a new form to leave a review. This form should minimally have some method of leaving a star rating and a text component.  
+3. Introduce a route to `app.py` to handle the review form submit. Be sure to check that the user has not already submitted a review for this book before.
+4. Finally, extend the book template again to render all reviews for that book and add the necessary logic to the book page route in `app.py`.
+
+
+#### Additional features and improvements
+
+At this point the website is functionally complete, but pretty rough looking and probably not all that user friendly. If you have time to spare, and want to challenge yourself further, try to:
+
+* Extend the website with an API of your own. See the optional requirement above.
+* Allow users to update and remove reviews.
+* Add a section for highly user-rated books.
+* Fix the navigation on the website, allow users to traverse to recently visited books.
+* Rank (order) the search results in a user friendly fashion.
+* Polish up the easthetics.
+* Break up larger templates in smaller reusable templates.
+* Enable user moderation through a voting or flagging system on reviews.
+* ...
 
 
 ## Hints
 
-- [Adminer](https://adminer.cs50.net) can be user to try out SQL-statements.
 - At minimum, you'll probably want at least one table to keep track of users,
   one table to keep track of books, and one table to keep track of reviews. But
   you're not limited to just these tables, if you think others would be helpful!

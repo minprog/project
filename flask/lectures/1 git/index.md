@@ -1,4 +1,4 @@
-# Lecture 1: HTML, CSS
+# Lecture 1: Git
 
 ![embed](https://www.youtube.com/embed/1u2qu-EmIRc)
 

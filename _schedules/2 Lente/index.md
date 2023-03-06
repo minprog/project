@@ -1,4 +1,4 @@
-# Programmeerproject <br><small>Studiewijzer Fulltime, Herfst 2022</small>
+# Programmeerproject <br><small>Studiewijzer Fulltime, Lente 2023</small>
 
 > Binnen twee maanden vorm je van begin tot eind een eigen idee tot een ontwerp en vervolgens implementeer je een eigen applicatie in een modern software-framework. Je doet ervaring op met systematisch werken en documenteren van zo'n project en het uitzoeken van de kennis die je nodig hebt om het tot een succes te maken. Hierbij beperkt de staf zich tot het geven van feedback op de ideeën en het helpen oplossen van technische blokkades.
 

@@ -1,0 +1,65 @@
+Flask:
+  Finance (1 week):
+    Git [Lecture]: /flask/lectures/git
+    HTML [Optional Lecture]: /flask/lectures/html
+    Flask [Lecture]: /flask/lectures/flask
+    SQL [Optional Lecture]: /flask/lectures/sql
+    Finance [Collaborative Assignment]: /flask/finance
+  Books (2 weken):
+    "ORMs & APIs [Lecture]": /flask/lectures/orms
+    Books [Assignment]: /flask/books
+  Project (4 weken):
+    Proposal: /milestones/proposal
+    Git: /milestones/git
+    Procesboek: /milestones/process
+    Prototype: /milestones/prototype
+    Betaversie: /milestones/beta
+  Afronding (1 week):
+    Cleanup: /milestones/cleanup
+    Final product: /milestones/product
+    Screencast: /milestones/screencast
+Data Science:
+  Voorbereiding (40% van de tijd):
+    Intro: /data-science/intro
+    Installatie: /data-science/installation
+    Lab 1 (Python): /data-science/labs/lab1
+    Lab 2 (NumPy): /data-science/labs/lab2
+    Lab 3 (Pandas): /data-science/labs/lab3
+    Lab 4 (Matplotlib): /data-science/labs/lab4
+    Lab 5 (Working with a real dataset): /data-science/labs/lab5
+    Theorie (models): /data-science/theory/theory_1
+    Theorie (regressie): /data-science/theory/theory_2
+    Lab 6 (Scikit-Learn): /data-science/labs/lab6
+    Git (lecture): /django/lectures/git
+  Project (25-50% van de tijd):
+    DS Project Requirements: /data-science/requirements
+    Proposal: /milestones/proposal
+    Git: /milestones/git
+    Procesboek: /milestones/process
+    Skelet: /data-science/skelet
+    Betaversie: /milestones/beta
+  Afronding (10% van de tijd):
+    Cleanup: /milestones/cleanup
+    Final product: /milestones/product
+    Screencast: /milestones/screencast
+Unity:
+  Voorbereiding (40% van de tijd):
+    Intro: /unity/intro
+    Overzicht: /unity/overzicht
+    Game Engines: /unity/game-engines
+    Setup: /unity/setup
+    Agile: /unity/agile-development
+    Roll a ball: "/unity/roll-a-ball"
+    Unity Learn: "/unity/unity-learn"
+    Verder studiemateriaal: /unity/learning-resources
+  Project (25-50% van de tijd):
+    Unity Project Requirements: /unity/requirements
+    Proposal: /milestones/proposal
+    Git: /milestones/git
+    Procesboek: /milestones/process
+    Prototype: /milestones/prototype
+    Betaversie: /milestones/beta
+  Afronding (10% van de tijd):
+    Cleanup: /milestones/cleanup
+    Final product: /milestones/product
+    Screencast: /milestones/screencast

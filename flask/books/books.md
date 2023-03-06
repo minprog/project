@@ -88,7 +88,8 @@ First open a terminal, then `cd` to a directory where you want to put your proje
     $ rm books.zip
     $ cd books
     $ ls
-    app.py  books.csv requirements.txt
+    README.md books.csv requirements.txt
+    app.py    models.py
 
 Run
 

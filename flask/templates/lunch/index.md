@@ -12,7 +12,7 @@ Create a web-app for all the different lunch options @ Science Park.
 
 ### Challenges
 
-You will be working with changing data from various sources. This inevitably means you are tasked with creative data processing. How do you get the info you need, how do you store, and how do you keep it up to date?  Think carefully about what your users want to know, and what you'd want to know!
+You will be working with changing data from various sources. This means you are tasked with some creative data processing. How do you get the info you need, how do you store, and how do you keep it up to date?  Think carefully about what your users want to know, and what you'd want to know!
 
 Try to prevent analysis paralysis as much as possible. Once you start to include more and more options, odds are the whole system becomes much less usable and less inviting to (new) users. Try to come up with systems to get users the information they want, without overloading them with choice.
 

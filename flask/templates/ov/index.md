@@ -1,2 +1,3 @@
 # Template: Public Transport
 
+Unless you are one of the lucky few to be able to cycle to Science Park, odds are you are taking public transportation. This means you are probably doing some mental arithmetic each to day figure out good times to leave the classroom. This means opening an app to check train and/or bus times, even if just for potential delays. Perhaps checking a weather app to see if you might want to leave early or a little later. And then soms maths of distance/time to the station.  

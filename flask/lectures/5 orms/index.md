@@ -8,6 +8,6 @@
 
 #### Source Code 
 
-    curl -LO http://cdn.cs50.net/web/2018/spring/lectures/4/src4.zip
+    curl -LO https://github.com/minprog/project/raw/2022/flask/lectures/5%20orms/src4.zip
     unzip src4.zip
     rm src4.zip

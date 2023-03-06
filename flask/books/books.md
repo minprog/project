@@ -120,7 +120,7 @@ In particular you are going to use the `Covers API` to retrieve cover images for
 
 And the `Books API` to retrieve detailed descriptions for each book. See <https://openlibrary.org/dev/docs/api/books> for the documentation. You can test endpoints for the API by either navigating to them in your browser or by using `curl`. Often the documentation will come with examples for you to run.
 
-Ultimately you will need to call endpoints for these API's from within `Flask`. Luckily there is a handy little library for that called: `requests`. If you have run `pip install -r requirements.txt` earlier, you should now have `requests` installed, and you can use it like so:
+Ultimately you will need to call endpoints for these API's from within `Flask`. Luckily there is a handy little library for that called: `requests`. If you ran `pip install -r requirements.txt` earlier, you should now have `requests` installed, and you can use it like so:
 
         import requests
         res = requests.get("https://openlibrary.org/api/books?bibkeys=ISBN:9780980200447&jscmd=details&format=json")

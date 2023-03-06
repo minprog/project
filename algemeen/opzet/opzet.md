@@ -26,7 +26,7 @@ In de vijfde week lever je een release op waarin alle onderdelen van het minimal
 
 #### Week 6 (release 3)
 
-Dit is de week om feedback te verzamelen en verbeteringen opnieuw te gaan prioritiseren. Er is nog gelimiteerd tijd over en waarschijnlijk heb je nog een grote lijst aan features die je zou kunnen maken. Maar, sommige toevoegingen voegen meer toe aan het project dan andere. Dus laat anderen je applicatie gebruiken en zet op een rijtje wat je nog gaat doen deze week en de laatste week.
+Dit is de week om feedback te verzamelen en verbeteringen opnieuw te gaan prioritiseren. Er is nog gelimiteerd tijd over en waarschijnlijk heb je een grote lijst aan features die je zou kunnen maken. Maar, sommige toevoegingen voegen meer toe aan het project dan andere. Dus laat anderen je applicatie gebruiken en zet op een rijtje wat je nog gaat doen deze week en de laatste week.
 
 Aan het einde van de week lever je de derde release op. Dit is een soort Beta-release, waarbij praktisch alle features aanwezig zijn met een eventuele bug en/of een ruwe kant hier en daar. Het doel is dat op dit punt je project functioneel compleet is. 
 

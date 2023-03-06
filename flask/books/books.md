@@ -320,7 +320,7 @@ At this point the website is functionally complete, but pretty rough looking and
 
 ## FAQs
 
-#### `INSERT`-statements do not work, but aren't giving an error?
+#### `INSERT`-statements do not work and do not give an error?
 
 Make sure you commit you changes with `db.commit()`.
 

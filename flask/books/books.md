@@ -93,7 +93,7 @@ First open a terminal, then `cd` to a directory where you want to put your proje
 
 Run
 
-    $ pip3 install -r requirements.txt
+    $ python3 -m pip install -r requirements.txt
 
 to make sure all of the necessary Python packages (Flask and SQLAlchemy, for instance) are installed.
 

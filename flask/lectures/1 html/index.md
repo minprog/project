@@ -1,4 +1,4 @@
-# Lecture 2: HTML & CSS
+# Lecture 1: HTML & CSS
 
 > This is an optional lecture covering topics such as web protocols, HTML and CSS. If you have previously taken the course "Datarepresentaties, tools en technieken" you have already seen all of these topics and can safely skip this lecture. Do feel free to peek at the notes or use parts of the lecture as a quick refresher.
 

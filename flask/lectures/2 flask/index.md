@@ -1,4 +1,4 @@
-# Lecture 3: Flask
+# Lecture 2: Flask
 
 > In addition to Flask, Brian uses this lecture to briefly introduce Python as a programming language. We generally recommend you skip ahead to Flask at about 39 minutes. However, if you have not used Python in a while, you might find the first part a useful refresher.
 

@@ -4,5 +4,10 @@
 
 ![embed](https://www.youtube.com/embed/j5wysXqaIV8)
 
-- [Notes](https://cs50.harvard.edu/web/2018/notes/2/)
-- Source Code [ZIP](http://cdn.cs50.net/web/2018/spring/lectures/2/src2.zip)
+[Lecture notes](https://cs50.harvard.edu/web/2018/notes/2/)
+
+#### Source Code 
+
+    curl -LO http://cdn.cs50.net/web/2018/spring/lectures/2/src2.zip
+    unzip src2.zip
+    rm src2.zip

@@ -89,8 +89,8 @@ Let's turn our attention now to this problem's distribution code!
     $ rm finance.zip
     $ cd finance
     $ ls
-    app.py  helpers.py        static/
-    finance.db      requirements.txt  templates/
+    app.py      helpers.py        static/
+    finance.db  requirements.txt  templates/
 
 
 ### Configuring

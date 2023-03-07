@@ -12,6 +12,7 @@ Flask:
     Lunch: /flask/templates/lunch
     Public Transport: /flask/templates/ov
     Meeting: /flask/templates/meeting
+    Plants: /flask/templates/plants
   Project (4 weken):
     Proposal: /milestones/proposal
     Git: /milestones/git

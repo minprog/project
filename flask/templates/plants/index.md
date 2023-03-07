@@ -8,6 +8,9 @@ While introducing plants is relatively easy, maintenance in this setting is not.
 
 Create a web-app for managing plants in our classrooms of Lab 42.
 
-
+* Create an overview for all the plants.
+* Enable users to manage plants by performing routine maintenance tasks, but also adding and removing plants.
+* Introduce tracability, who has done what and when.
+* Allow for correction in plant upkeep. Realize that users are imperfect. 
 
 ### Challenges

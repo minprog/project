@@ -1,6 +1,6 @@
 # Template: Meeting
 
-At the start of every semester we have a few weeks of slight social awkwardness. It is generally a little quiet in the classrooms. This naturally changes as time progresses and students and TAs get to know each other. But even then, there are often not too many activities organized. As it takes a student or two with quite some organizational skills to truly get things off the ground. This means that in a semester of just twenty weeks, things go by fast and towards semester's end there is often this general wish to have done a little more. So, let's change this and build a solution to plan and hold social meetings for such things as quick coffee breaks to beach volleybal tournaments.
+At the start of every semester we have a few weeks of slight social awkwardness. During those weeks it is generally a little too quiet in the classrooms. This naturally changes as time progresses and students and TAs get to know each other. But even then, there are often not too many activities organized. As it takes a student or two with quite some organizational skills to truly get things off the ground. This means that in a semester of just twenty weeks, things go by fast and towards semester's end there is often this general wish to have done a little more. So, let's change this and build a solution to plan and hold social meetings for such things as quick coffee breaks to beach volleybal tournaments.
 
 ### Requirements
 
@@ -8,7 +8,7 @@ Create a web-app for meetings at Lab 42.
 
 * Allow users to pitch new meetings.
 * Make meetings easily discoverable for others.
-* Create an interesting method to manage and discuss requirements such as time/place.
+* Create an interesting method to manage and discuss meeting requirements such as time/place.
 
 ### Challenges
 

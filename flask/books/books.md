@@ -184,15 +184,15 @@ requirements:
 * **API Access (optional)**: If users make a GET request to your website's `/api/<isbn>`
   route, where `<isbn>` is an ISBN number, your website should return a JSON
   response containing the book's title, author, publication date, ISBN number,
-  review count, and average score (on your site). The resulting JSON should follow the format:
+  description, and cover URL. The resulting JSON should follow the format:
 
         {
             "title": "Memory",
             "author": "Doug Lloyd",
             "year": 2015,
             "isbn": "1632168146",
-            "review_count": 28,
-            "average_score": 5.0
+            "description": "",
+            "cover_url": ""
         }
 
   If the requested ISBN number isn't in your

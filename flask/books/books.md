@@ -195,8 +195,7 @@ requirements:
             "cover_url": ""
         }
 
-  If the requested ISBN number isn't in your
-  database, your website should return a 404 error.
+  If the requested ISBN number isn't in your database, your website should return a 404 error.
 
 #### Technical requirements
 

@@ -128,6 +128,17 @@ Ultimately you will need to call endpoints for these API's from within `Flask`. 
         json_data = res.json()
         print(json_data)
 
+Or alternatively, and perhaps a little easier to read:
+
+        import requests
+        res = requests.get("https://openlibrary.org/api/books", params={
+          "bibkeys": "ISBN:9780980200447",
+          "jscmd": "details",
+          "format": "json"
+        })
+        json_data = res.json()
+        print(json_data)
+
 > Note that the above assumes the endpoint returns data in a `json` format.
 
 

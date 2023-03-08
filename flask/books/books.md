@@ -179,9 +179,8 @@ requirements:
   review: consisting of a rating on a scale of 1 to 5, as well as a text
   component to the review where the user can write their opinion about a book.
   Users should not be able to submit multiple reviews for the same book.
-* **Goodreads Review Data**: On your book page, you should also display (if
-  available) the average rating and number of ratings the work has received from
-  Goodreads.
+* **Cover and Descriptions**: On your book page, you should also display (if
+  available) the cover and description retrieved from the openlibrary.org API.
 * **API Access (optional)**: If users make a GET request to your website's `/api/<isbn>`
   route, where `<isbn>` is an ISBN number, your website should return a JSON
   response containing the book's title, author, publication date, ISBN number,

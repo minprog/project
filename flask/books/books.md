@@ -123,21 +123,21 @@ And the `Books API` to retrieve detailed descriptions for each book. See <https:
 
 Ultimately you will need to call endpoints for these API's from within `Flask`. Luckily there is a handy little library for that called: `requests`. If you ran `pip install -r requirements.txt` earlier, you should now have `requests` installed, and you can use it like so:
 
-        import requests
-        res = requests.get("https://openlibrary.org/api/books?bibkeys=ISBN:9780980200447&jscmd=details&format=json")
-        json_data = res.json()
-        print(json_data)
+  import requests
+  res = requests.get("https://openlibrary.org/api/books?bibkeys=ISBN:9780980200447&jscmd=details&format=json")
+  json_data = res.json()
+  print(json_data)
 
 Or alternatively, and perhaps a little easier to read:
 
-        import requests
-        res = requests.get("https://openlibrary.org/api/books", params={
-          "bibkeys": "ISBN:9780980200447",
-          "jscmd": "details",
-          "format": "json"
-        })
-        json_data = res.json()
-        print(json_data)
+  import requests
+  res = requests.get("https://openlibrary.org/api/books", params={
+    "bibkeys": "ISBN:9780980200447",
+    "jscmd": "details",
+    "format": "json"
+  })
+  json_data = res.json()
+  print(json_data)
 
 > Note that the above assumes the endpoint returns data in a `json` format.
 

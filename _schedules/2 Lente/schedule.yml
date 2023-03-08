@@ -13,6 +13,7 @@ Flask:
     Public Transport: /flask/templates/ov
     Meeting: /flask/templates/meeting
     Plants: /flask/templates/plants
+    Benches: /flask/templates/benches
   Project (4 weken):
     Proposal: /milestones/proposal
     Git: /milestones/git

@@ -8,12 +8,7 @@ Flask:
   Books (2 weken):
     "ORMs & APIs [Lecture]": /flask/lectures/orms
     Books [Assignment]: /flask/books
-  Templates:
-    Lunch: /flask/templates/lunch
-    Public Transport: /flask/templates/ov
-    Meeting: /flask/templates/meeting
-    Plants: /flask/templates/plants
-    Benches: /flask/templates/benches
+    Choose your topic [Project Prep]: /milestones/topic
   Project (4 weken):
     Proposal: /milestones/proposal
     Git: /milestones/git

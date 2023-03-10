@@ -12,7 +12,7 @@ Next, you will be working on the project iteratively. This means building toward
 
 ### Choosing a topic/template
 
-Below you will find several project templates. These templates contain ideas and requirements for projects that we think are fun, challenging and generally well-scoped. If one of these templates or ideas appeals to you, do feel encouraged to take up the challenge and make that project. Note that the templates only provide general direction, it is ultimately up to you to decide what the actual project is going to be. As even within the same template there are many different ways to take a project.
+Below you will find several project templates. These templates contain ideas and requirements for projects that we think are fun, challenging and generally well-scoped. If one of these templates or ideas appeals to you, do feel encouraged to take up the challenge and make that project your own. Note that the templates only provide general direction, it is ultimately up to you to decide what the actual project is going to be. As even within the same template there are many different ways to take a project.
 
 * [Lunch](/flask/templates/lunch)
 * [Public Transport](/flask/templates/ov)

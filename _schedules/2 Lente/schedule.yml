@@ -1,6 +1,5 @@
 Flask:
   Finance (1 week):
-    Git [Lecture]: /flask/lectures/git
     HTML [Optional Lecture]: /flask/lectures/html
     Flask [Lecture]: /flask/lectures/flask
     SQL [Optional Lecture]: /flask/lectures/sql
@@ -11,6 +10,7 @@ Flask:
     Choose your topic [Project Prep]: /milestones/topic
   Project (4 weken):
     Proposal: /milestones/proposal
+    Git [Lecture]: /flask/lectures/git
     Git: /milestones/git
     Procesboek: /milestones/process
     Prototype: /milestones/prototype

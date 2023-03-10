@@ -9,15 +9,16 @@ Flask:
     Books [Assignment]: /flask/books
     Choose your topic [Project Prep]: /milestones/topic
   Project (4 weken):
-    Proposal: /milestones/proposal
+    Proposal [Milestone]: /milestones/proposal
     Git [Lecture]: /flask/lectures/git
-    Git: /milestones/git
-    Procesboek: /milestones/process
-    Prototype: /milestones/prototype
-    Betaversie: /milestones/beta
+    Git [Project Prep]: /milestones/git
+    Procesboek [Project Prep]: /milestones/process
+    "Version #1 [Milestone]": /milestones/prototype
+    "Version #2 [Milestone]": /milestones/alpha
+    "Version #3 [Milestone]": /milestones/beta
   Afronding (1 week):
     Cleanup: /milestones/cleanup
-    Final product: /milestones/product
+    "Version #4 [Milestone]": /milestones/product
     Screencast: /milestones/screencast
 Data Science:
   Voorbereiding (40% van de tijd):

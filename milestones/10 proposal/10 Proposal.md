@@ -1,46 +1,47 @@
-# Projectvoorstel
+# Proposal
 
-Je start je project met het inleveren van een projectvoorstel. Dit document moet het functionele ontwerp van het project (wat doet het?) verbinden met een probleem in de echte wereld. Hieronder sommen we alle vereiste aspecten van het projectvoorstel op.
+We start with a project proposal. That is a document that connects the functional design of the project to a real world problem. Essentially, what does it do to address something real. Below are the required aspects of the proposal.
 
-<!--
+## Purpose of this document
 
-## Getting started
+Projects inherently have some risk of failure, and there are certain signs that indicate a high risk:
 
-1. To start your project, you should accept a new assignment on GitHub classroom: [Final Project](https://classroom.github.com/a/xxwP7Upy). This will create a GitHub repository for your project.
+- The project tries to do too much or too little.
+- The goal is very vaguely defined.
+- It is unclear who would (want to) use the product.
+- The problem the project adresses does not exist or is already solved.
 
-2. Click on the link that follows "Your assignment has been created here", which will direct you to the GitHub repository page for your project. It may take a few seconds for GitHub to finish creating your repository.
+The overarching theme here is, the clearer your vision on what the project should be by course's end, the higher the chance of success. Mind you, success here is a good finished project. By no means does it need to be a popular or commercial success. 
 
-Now, you should be looking at a GitHub repository titled `minprog-platforms/project-username`, where `username` is your GitHub username. This will be the repository to which you will push all of your code while working on your project.
+There are steps you can take to greatly increase the chance of success. A lot of it is in preperation and getting feedback from fellow students and the staff. Take the time to work on your proposal, and even while working on it, talk to others about your ideas and ask for feedback!
 
-Inside your new repository you will create a new file called `README.md`. Your should write your proposal in that file using the **Markdown** language ([read a brief intro](https://guides.github.com/features/mastering-markdown/)).
+## Some questions
 
-## Adding pictures
+In your proposal answer the following questions with a few lines of text. That is, if the question is relevant to your specific project.
 
-You will need to include some sketches into your proposal. Put these images inside a folder called `doc` inside your repository. Use exactly that name, for consistency with other projects! To use pictures from the `doc` folder in a Markdown document, use the following example.
+1. What is **the problem** (not the solution) that the project will solve? Be clear and specific. For example:
 
-    ![Alternative Text](doc/image.png)
+- There is a clearly defined problem that a reasonable group of people faces. A web app is a welcome solution here.
+- There is a broad lack of knowledge on a certain topic. An interactive visualization on storytelling app is missing here.
+- There is a game concept that only exists in physical form. But in days of isolation this is impossible and it needs to be lifted to a web app.
 
-Make sure that you provide an alternative (descriptive!) text inside the square brackets as well, as this will greatly help visually impaired people in understanding the contents of your proposal, as well as guarantee that the content of the image is clear, even if it fails to load. 
+2. Who are your projected users? Essentially, who are you building this project for. For example:
 
--->
+- Elderly people who are generally unfamiliar with the project's topic.
+- People on the move.
+- Powerusers only, they know the topic inside and out.
+- The inhabitants of Lab42.
+- Me, myself, and I.
 
-## Doel van het document
+3. What is or are the setting(s) that your application is used in? For example:
 
-Jijzelf en anderen kunnen dit document gebruiken om een inschatting te maken van de inspanning die nodig is om het project uit te voeren. Het project heeft een hoog risico op mislukking als:
+- On an always on big screen with no interaction. An admin handles configuration on a separate screen.
+- Primarily used on the go, likely on a smaller device like a smart phone.
+- On a laptop or desktop with a relatively big screen and keyboard available.
 
-- het beoogde project te veel probeert te doen
-- het beoogde project niet genoeg probeert te doen
-- het doel van het project niet goed is gedefinieerd (te vaag)
+4. What does your solution do different or better? Essentially, what is your niche. For example:
 
-Door een duidelijk projectvoorstel te schrijven en hierop feedback te krijgen van meerdere studenten en docenten, maak je deze risico's een stuk lager!
-
-## Probleemstelling
-
-Schrijf een korte uitleg, vier regels tekst, over het **probleem** (niet de oplossing) dat het project zal oplossen of het idee waarop het is gebaseerd. Het probleem moet duidelijk omschreven en zeer specifiek zijn. Voorbeelden:
-
-- Er is een duidelijk omschreven probleem dat een redelijke groep mensen heeft, waarvoor een webapplicatie bij uitstek geschikt is om op te lossen.
-- Er is een wijdverbreid gebrek aan kennis of begrip dat een interactieve visualisatie of verhaal bij uitstek geschikt is om te verhelpen.
-- Er is een interessant spelconcept dat bijzonder geschikt is om te implementeren in een server-side of client-side webapplicatie.
+- 
 
 ## Schets van een oplossing
 

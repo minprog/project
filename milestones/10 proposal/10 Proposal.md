@@ -21,28 +21,28 @@ In your proposal answer the following questions with a few lines of text. That i
 
 1. What is **the problem** (not the solution) that the project will solve? Be clear and specific. For example:
 
-- There is a clearly defined problem that a reasonable group of people faces. A web app is a welcome solution here.
-- There is a broad lack of knowledge on a certain topic. An interactive visualization on storytelling app is missing here.
-- There is a game concept that only exists in physical form. But in days of isolation this is impossible and it needs to be lifted to a web app.
+  - There is a clearly defined problem that a reasonable group of people faces. A web app is a welcome solution here.
+  - There is a broad lack of knowledge on a certain topic. An interactive visualization on storytelling app is missing here.
+  - There is a game concept that only exists in physical form. But in days of isolation this is impossible and it needs to be lifted to a web app.
 
 2. Who are your projected users? Essentially, who are you building this project for. For example:
 
-- Elderly people who are generally unfamiliar with the project's topic.
-- People on the move.
-- Power users only, they know the topic inside and out.
-- The inhabitants of Lab42.
-- Me, myself, and I.
+  - Elderly people who are generally unfamiliar with the project's topic.
+  - People on the move.
+  - Power users only, they know the topic inside and out.
+  - The inhabitants of Lab42.
+  - Me, myself, and I.
 
 3. What is or are the setting(s) that your application is used in? For example:
 
-- On an always on big screen with no interaction. An admin handles configuration on a separate screen.
-- Primarily used on the go, likely on a smaller device like a smart phone.
-- On a laptop or desktop with a relatively big screen and keyboard available.
+  - On an always on big screen with no interaction. An admin handles configuration on a separate screen.
+  - Primarily used on the go, likely on a smaller device like a smart phone.
+  - On a laptop or desktop with a relatively big screen and keyboard available.
 
 4. What does your solution do different or better than existing solutions? Essentially, what is your niche? For example:
 
-- This app is customized for location/business/group. It solves specific needs and problems that location/business/group has, that a more general app does not solve.
-- This solution focuses on a small part of a bigger problem, for which there is no good solution yet.
+  - This app is customized for location/business/group. It solves specific needs and problems that location/business/group has, that a more general app does not solve.
+  - This solution focuses on a small part of a bigger problem, for which there is no good solution yet.
 
 ## Sketch your solution
 

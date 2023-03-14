@@ -13,7 +13,7 @@ Projects inherently have some risk of failure, and there are certain signs that 
 
 The overarching theme here is, the clearer your vision on what the project should be by course's end, the higher the chance of success. Mind you, success here is a good finished project. By no means does it need to be a popular or commercial success. 
 
-There are steps you can take to greatly increase the chance of success. A lot of it is in preperation and getting feedback from fellow students and the staff. Take the time to work on your proposal, and even while working on it, talk to others about your ideas and ask for feedback!
+There are steps you can take to greatly increase the chance of success. A lot of it is in preperation and getting feedback from fellow students and the staff. Take the time to work on your proposal. While working on it, talk to others about your ideas and ask for feedback!
 
 ## Some questions
 
@@ -29,7 +29,7 @@ In your proposal answer the following questions with a few lines of text. That i
 
 - Elderly people who are generally unfamiliar with the project's topic.
 - People on the move.
-- Powerusers only, they know the topic inside and out.
+- Power users only, they know the topic inside and out.
 - The inhabitants of Lab42.
 - Me, myself, and I.
 
@@ -39,33 +39,34 @@ In your proposal answer the following questions with a few lines of text. That i
 - Primarily used on the go, likely on a smaller device like a smart phone.
 - On a laptop or desktop with a relatively big screen and keyboard available.
 
-4. What does your solution do different or better? Essentially, what is your niche. For example:
+4. What does your solution do different or better than existing solutions? Essentially, what is your niche? For example:
 
-- 
+- This app is customized for location/business/group. It solves specific needs and problems that location/business/group has, that a more general app does not solve.
+- This solution focuses on a small part of a bigger problem, for which there is no good solution yet.
 
-## Schets van een oplossing
+## Sketch your solution
 
-Beschrijf de oplossing in enig detail. Je combineert tekstbeschrijvingen met visuele hulpmiddelen zoals schetsen of diagrammen.
+Next, write and **draw** up your solution. Really, draw. This is perhaps the most important step in the entire process. Because once you start drawing things out, you start to discover what needs to exist. There are all these little pieces that you easiliy gloss over in text, but not so much in drawings.
 
-We zien twee opties voor de uitwerking:
+What you do, depends a little on the type of project:
 
--   Als je een gebruikersgericht programma maakt met Django of Unity, schets je de "gebruikerservaring": de situatie waarin een gebruiker zich zou kunnen bevinden en waarvan het gebruik van de website of visualisatie deel uitmaakt.
+- If you are creating a user focused program, say a game or a web app, then sketch the user experience. In other words, the situation that a user finds themselves in:
 
-    -   Voeg een **visuele schets** toe van hoe het uiteindelijke product eruit zal zien voor de gebruiker; als je je voorstelt dat de toepassing meerdere schermen heeft, schets deze dan allemaal afzonderlijk. Geef duidelijk de mogelijke gebruikersinteracties aan (klik op de knop, ga naar de volgende pagina) en voeg concrete voorbeelden van inhoud toe.
+    - Add sketches for how the finished product will look like for the user. If you need multiple screens or windows, sketch them individually. 
+    - Make it clear how actions and navigation work in your app.
+    - Add concrete examples of content. Don't just Lorum ipsum everywhere.
 
         ![embed](https://www.youtube.com/embed/j0vP77s_bXc)
 
-     - Je schetsen moeten een compleet overzicht geven van wat je gaat maken.
+    - Ensure your sketches give a complete overview. 
 
--   Als je tools en algoritmen maakt om data-analyse of voorspelling uit te voeren met behulp van ABM of Data Science, schets je de verschillende componenten waaruit je oplossing bestaat, misschien de onderdelen waaruit het model zal bestaan of de stappen in de dataverwerking die nodig zijn.
+- If you are instead creating a tool or an algorithm to analyse data or do some form of prediction, then draw out the components of your solution. This depends on what you are building, but for instance in case of data processing you might sketch the various parts of a data processing pipeline. 
 
-In alle gevallen:
+In all cases:
 
--   Vat je idee in één of twee zinnen samen en verbind het met het probleem dat je hebt gedefinieerd. "Deze toepassing zal..."
+- Briefly summarize your solution (one or two sentences) and connect it to the problem you are trying to solve. "This app will...."
 
--   Gebruik een goed hulpmiddel om je schetsen of diagrammen te fotograferen en deze om te zetten in een afbeelding van goede kwaliteit om in het voorstel in te voegen. Je kunt je schets ook opsplitsen in meerdere delen die je afzonderlijk in het document plaatst. Je kunt ook schetsen met een computerprogramma.
-
--   Als je schetsen onleesbaar zijn, of je hebt niet rechtop ingevoegd, of er ontbreken duidelijk noodzakelijke schermen, dan wordt je voorstel (nog) niet bekeken. Dit vertraagt je project en dat moet je compenseren. Met andere woorden: neem de tijd om goede diagrammen te tekenen.
+- Take a minute to find a good tool to photograph your drawings. A straight up good quality photo does make a significant difference. In either case make sure your drawings are legible. If we cannot reasonably read or comprehend what is there, it might delay the start of your project somewhat and that requires you to compensate later on in the course. You are also free to use some computer program for drawings and sketches, but generally we do recommend paper.
 
 ## Vereisten
 

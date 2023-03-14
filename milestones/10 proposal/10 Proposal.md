@@ -68,6 +68,20 @@ In all cases:
 
 - Take a minute to find a good tool to photograph your drawings. A straight up good quality photo does make a significant difference. In either case make sure your drawings are legible. If we cannot reasonably read or comprehend what is there, it might delay the start of your project somewhat and that requires you to compensate later on in the course. You are also free to use some computer program for drawings and sketches, but generally we do recommend paper.
 
+## Features
+
+Make a list of features that need to or should exist for your project. Such things might include a login feature/page, a character creation screen, or a visualisation step. While creating this list, try to be specific and keep features small. It is generally better to divide bigger features into multiple smaller ones.
+
+Next, divide the list in two. One list for features that need to exist for your project to exist by course's end. For instance, a meeting app without the ability to create meetings is not much of a meeting app. Then one list for features that should exist, but are not absolutely crucial. Really think things through here and try to put as many features on the second list. If a feature is truly needed, make a quick note in defence as to why it needs to go on the first list.
+
+Finally, rank and order all features on the second list by how important they are to your project. Doing this now will help you prioritize things later.
+
+All this is likely incomplete, and you will probably add or change features based on feedback from others or from simply working on the project. But doing this work now, will give you pieces of the project to focus on first. While working on the project, it lets you more easily pick up on different features of the project depending on how much time you have that day. Perhaps most importantly, it pulls your attention to what is important to your project. Such that towards course's end you won't find yourself with a beautifully stylized auction app with no auctions.
+
+## Requirements
+
+
+
 ## Vereisten
 
 Beschrijf ook de dingen die je op orde moet krijgen voordat je echt aan je project begint. Je moet dit doen op basis van wat je **nu** weet. Na het indienen van je projectvoorstel, tijdens feedbackgesprekken met andere studenten of met docenten, kunnen er extra dingen naar voren komen. Je kunt die zaken dan aan je voorstel toevoegen.

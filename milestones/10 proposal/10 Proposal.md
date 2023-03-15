@@ -17,7 +17,7 @@ Er zijn stappen die je kan nemen om de kans op een succesvol project flink te ve
 
 ## Het format
 
-Maak je proposal in Markdown (`.md`). Dit is een klein taaltje om met tekst tekst op te maken. Beetje zoals HyperText Markup Language, maar dan een veel simpelere MarkDOWN language. Voelt misschien nu een beetje gek, maar straks gaat je project op GitHub leven en daar wordt voornamelijk dit format gebruikt voor documentatie. Plus, het is lekker makkelijk te leren en snel in gebruik. Reden ook waarom de content van deze website ook in Markdown is geschreven ([spoiler](https://raw.githubusercontent.com/minprog/project/2022/milestones/10%20proposal/10%20Proposal.md)).
+Maak je proposal in Markdown (`.md`). Dit is een klein taaltje om met tekst tekst op te maken. Beetje zoals HyperText Markup Language, maar dan een veel simpelere MarkDOWN language. Het voelt misschien nu een beetje gek, maar straks gaat je project op GitHub leven en daar wordt voornamelijk dit format gebruikt voor documentatie. Plus, het is lekker makkelijk te leren en snel in gebruik. Reden ook waarom de content van deze website ook in Markdown is geschreven ([underneath the hood](https://raw.githubusercontent.com/minprog/project/2022/milestones/10%20proposal/10%20Proposal.md)).
 
 Hier is een goede website om je op gang te helpen: <https://www.markdownguide.org/>. Check ook vooral de Cheat Sheet op <https://www.markdownguide.org/cheat-sheet/>. En om meteen even te proberen, ga naar <https://dillinger.io/>. Dillinger is een online Markdown editor met een goed voorbeeldbestand. Zo zie je meteen hoe en wat.
 

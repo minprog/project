@@ -15,6 +15,14 @@ Over het algemeen zie je, dat hoe duidelijker het idee van wat het project zou m
 
 Er zijn stappen die je kan nemen om de kans op een succesvol project flink te verhogen. Veel daarvan zit in de voorbereiding en in het krijgen van feedback van medestudenten en ook van the staff. Neem nu echt even de tijd om aan dit voorstel te werken en praat met anderen terwijl je eraan werkt. Ideeën uitwisselen en feedback vragen helpt enorm.
 
+## Het format
+
+Maak je proposal in Markdown (`.md`). Dit is een klein taaltje om met tekst tekst op te maken. Beetje zoals HyperText Markup Language, maar dan een veel simpelere MarkDOWN language. Voelt misschien nu een beetje gek, maar straks gaat je project op GitHub leven en daar wordt voornamelijk dit format gebruikt voor documentatie. Plus, het is lekker makkelijk te leren en snel in gebruik. Reden ook waarom de content van deze website ook in Markdown is geschreven ([spoiler](https://raw.githubusercontent.com/minprog/project/2022/milestones/10%20proposal/10%20Proposal.md)).
+
+Hier is een goede website om je op gang te helpen: <https://www.markdownguide.org/>. Check ook vooral de Cheat Sheet op <https://www.markdownguide.org/cheat-sheet/>. En om meteen even te proberen, ga naar <https://dillinger.io/>. Dillinger is een online Markdown editor met een goed voorbeeldbestand. Zo zie je meteen hoe en wat.
+
+Voor Markdown kan je gewoon een teksteditor gebruiken. Zeker Visual Studio Code heeft goede integratie ingebakken zitten en daarom raden we deze ook aan. Druk in VSC op ctrl+shift+v of cmd+shift+v en je hebt meteen een preview openstaan. 
+
 ## Wat vragen
 
 Beantwoord in je voorstel de voglende vragen met een paar regels tekst. Tenminste, als de vraag relevant is voor jouw specifieke project.
@@ -68,6 +76,8 @@ In alle gevallen:
 
 - Neem een minuutje om een goede tool te vinden om foto's van je schetsen te maken. Kijk bijvoorbeeld naar Microsoft Lens. Een rechte en goede kwaliteit foto maakt een wezenlijk verschil. Zorg er in ieder geval voor dat je tekeningen begrijpbaar zijn. Als we niet redelijkerwijs kunnen lezen of begrijpen wat er staat, kan het ervoor zorgen dat je later aan je project kan beginnen. Dit zorgt voor een kleine achterstand die je uiteindelijk weer moet compenseren. Natuurlijk staat het je ook vrij om te schetsen met een computerprogramma, maar over het algemeen raden we papier aan.
 
+- Plaatjes sla je op als aparte bestanden en kan je vervolgens in Markdown linken. Zie <https://www.markdownguide.org/basic-syntax/#images-1>
+
 ## Features
 
 Maak een lijst van features die moeten of zouden moeten bestaan voor je project. Dat zijn bijvoorbeeld zaken als een login feature/pagine, een "character creation screen", of een visualisatie stap. Bij het maken van deze lijst, probeer zo specifiek mogelijk te zijn en hou features klein. Het is over het algemeen beter om grotere features op te breken in meerdere kleine.
@@ -80,83 +90,19 @@ Alles wat je hier schrijft is waarschijnlijk nog incompleet. Op basis van feedba
 
 ## Requirements
 
+Je project komt ook met vereisten. Dingen die nodig zijn om je project te laten werken. Dat kan bijvoorbeeld een databron zijn, een bepaalde API of een framework. De vraag hier is, denk goed na over wat er nodig is voor jouw project en waar je dat kan vinden. Dat doe je op basis van wat je **nu** weet. Na het indienden van je projectvoorstel, tijdens feedbackgesprekken met andere studenten of met docenten, kunnen er extra dingen naar voren komen. Wat daaruitkomt kan je later aan je voorstel toevoegen.
 
+- Maak een lijst van alle **gegevensbronen** die je gaat gebruiken. Voeg hier links toe naar de downloadpagina of eventuele APIs die je wilt gebruiken. Schrijf op hoe je toegang krijgt. Vaak zal je een account moeten aanmaken, of in sommige gevallen een mailtje moeten sturen.
 
-## Vereisten
+- Maak een lijst van **externe componenten** (bijvoorbeeld bibiliotheken zoals `sqlalchemy` of `bootstrap`) die je gaat gebruiken om bepaalde functies te implemtenteren. Geef aan welk onderdeel je nodig hebt en waarvoor.
 
-Beschrijf ook de dingen die je op orde moet krijgen voordat je echt aan je project begint. Je moet dit doen op basis van wat je **nu** weet. Na het indienen van je projectvoorstel, tijdens feedbackgesprekken met andere studenten of met docenten, kunnen er extra dingen naar voren komen. Je kunt die zaken dan aan je voorstel toevoegen.
+## Wat wordt moeilijk?
 
-- Maak een lijst van alle **gegevensbronnen** die je gaat gebruiken en of je de gegevens moet transformeren voordat ze bruikbaar zijn voor de toepassing. De lijst moet links bevatten naar waar de gegevensbronnen te vinden zijn (gedownload of toegankelijk via een API). Als je een account nodig hebt om toegang te krijgen tot de gegevens, maak je het account nu aan. Vaak blijkt het moeilijker dan verwacht om toegang te krijgen tot goede data.
+Er zit een boel onzekerheid en onbekendheid in een project als dit. De kans is best groot dat iets erg lastig blijkt of juist reuze meevalt. In ieder geval willen we je aanmoedigen nu alvast na te denken over wat vermoedelijk lastig gaat zijn en vervolgens ook wat eventuele uitwegen zijn. Bijvoorbeeld: zou je multiplayerspel desnoods ook singleplayer kunnen? Maak daarom een lijst van punten die je verwacht moelijk te zijn. Tijdens de bespreking gaan we het hier natuurlijk over hebben. 
 
-- Maak een lijst van de **externe componenten** (denk aan bibliotheken zoals `sqlalchemy` of `bootstrap`) die je nodig hebt om bepaalde functies te implementeren. Voeg de namen toe en als het onderdeel niet erg standaard is, voeg dan een link naar de website toe. Geef aan welk onderdeel je nodig hebt en waarvoor.
+## Finishing up
 
-- Voeg een overzicht toe van **vergelijkbare** web-apps of data-pipelines of applicaties, in termen van functies en technische aspecten: wat doen ze? hoe hebben ze het geïmplementeerd? kun je het op dezelfde manier doen? (Besteed een paar regels per "concurrent".)
-
-- Identificeer de **moeilijkste delen** van het implementeren van uw applicatie: denk aan technische problemen of beperkingen die tijdens de ontwikkeling kunnen ontstaan ​​en welke mogelijkheden je hebt om deze te verhelpen.
-
-## Check
-
-Vergelijk voordat je verder gaat je oplossing nog een laatste keer met de projectvereisten. Is het ook nog steeds duidelijk dat je voorgestelde project inderdaad een oplossing is voor het genoemde probleem?
-
-Het projectvoorstel moet goed geschreven en duidelijk opgemaakt zijn. Vergeet niet om een
-titel, je naam, en een korte samenvatting van je voorstel op te nemen.
-
-Zorg er ten slotte voor dat je document op spelling is gecontroleerd en dat afbeeldingen **niet te groot** of te klein zijn.
-
-
-<!--
-
-## Submit
-
-Below, you submit your GitHub repo URL. In addition, make sure you check off these points:
-
-<div class="form-check">
-  <input name="form[readme]" class="form-check-input" type="checkbox" value="yes" id="check1">
-  <label class="form-check-label" for="check1">
-    My repository only contains a README.md document, no code
-  </label>
-</div>
-
-<div class="form-check">
-  <input required name="form[doc]" class="form-check-input" type="checkbox" value="yes" id="check2">
-  <label class="form-check-label" for="check2">
-    My repository contains the required pictures in a separate "doc" folder
-  </label>
-</div>
-
-<div class="form-check">
-  <input required name="form[markdown]" class="form-check-input" type="checkbox" value="yes" id="check3">
-  <label class="form-check-label" for="check3">
-    README.md is written in good Markdown with headings, lists, pictures etc.
-  </label>
-</div>
-
-<div class="form-check">
-  <input required name="form[listofdatasources]" class="form-check-input" type="checkbox" value="yes" id="check4">
-  <label class="form-check-label" for="check4">
-    README.md contains links to data sources and concrete examples of the data that's needed
-  </label>
-</div>
-
-<div class="form-check">
-  <input required name="form[listofcomponents]" class="form-check-input" type="checkbox" value="yes" id="check5">
-  <label class="form-check-label" for="check5">
-    README.md contains a global list of needed components other than Flask, SQL and Javascript
-  </label>
-</div>
-
-<div class="form-check">
-  <input required name="form[listofotherapps]" class="form-check-input" type="checkbox" value="yes" id="check6">
-  <label class="form-check-label" for="check6">
-    README.md contains multiple examples of similar apps and describes what my app does differently
-  </label>
-</div>
-
-<div class="form-check">
-  <input required name="form[listofhardtofigureout]" class="form-check-input" type="checkbox" value="yes" id="check7">
-  <label class="form-check-label" for="check7">
-    README.md contains a small list of things that I think will take most time to figure out/implement
-  </label>
-</div>
-
--->
+* Geef je project een naam en schrijf natuurlijk ook je eigen naam op.
+* Run een spellchecker en kijk nog even naar de Markdown preview. 
+* Zorg ervoor dat plaatjes niet te groot of te klein zijn in het voorstel.
+* Dubbelcheck dat alle gevraagde onderdelen van het voorstel bestaan.

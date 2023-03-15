@@ -86,7 +86,7 @@ In alle gevallen:
 
 3. Tot slot, zet de features op de tweede lijst op volgorde van hoe belangrijk ze zijn voor jouw project. Dit gaat je helpen om te prioritizeren later.
 
-Alles wat je hier schrijft is waarschijnlijk nog incompleet. Op basis van feedback van andere of simpelweg door te werken aan je project, zal je features willen toevoegen of veranderen. Maar door dit werk nu te doen, laat het je straks focussen op de belangrijke stukken uit je project. Daarbij geeft het je een beetje overzicht, waardoor je ook makkelijker kleine stukjes kan afbijten even afhankelijk van hoeveel tijd je hebt die dag. Gecombineerd zorgt dit ervoor dat je aan het einde van het vak niet met een hele mooie app zit voor veilingen, zonder de veilingen.
+Alles wat je hier schrijft is waarschijnlijk nog incompleet. Op basis van feedback van anderen of simpelweg door te werken aan je project, zal je features willen toevoegen of veranderen. Maar door dit werk nu te doen, laat het je straks focussen op de belangrijke stukken uit je project. Daarbij geeft het je een beetje overzicht, waardoor je ook makkelijker kleine stukjes kan afbijten even afhankelijk van hoeveel tijd je hebt die dag. Gecombineerd zorgt dit ervoor dat je aan het einde van het vak niet met een hele mooie app zit voor veilingen, zonder de veilingen.
 
 ## Requirements
 

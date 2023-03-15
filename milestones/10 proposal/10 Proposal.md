@@ -25,7 +25,7 @@ Voor Markdown kan je gewoon een teksteditor gebruiken. Zeker Visual Studio Code 
 
 ## Wat vragen
 
-Beantwoord in je voorstel de voglende vragen met een paar regels tekst. Tenminste, als de vraag relevant is voor jouw specifieke project.
+Beantwoord in je voorstel de volgende vragen met een paar regels tekst. Tenminste, als de vraag relevant is voor jouw specifieke project.
 
 1. Wat is **het probleem** (niet de oplossing) dat jouw project gaat oplossen. Wees duidelijk en specifiek. Een paar abstracte voorbeelden:
 

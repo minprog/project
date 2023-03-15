@@ -1,82 +1,82 @@
 # Proposal
 
-We start with a project proposal. That is a document that connects the functional design of the project to a real world problem. Essentially, what does it do to address something real. Below are the required aspects of the proposal.
+We beginnen met een projectvoorstel (proposal). Dit is een document waarin je het functionele ontwerp van het project koppelt aan een probleem uit de echte wereld. Kort gezegd, wat doet je project om iets echts op te lossen. Hieronder vind je precies hoe en wat.
 
-## Purpose of this document
+## Het doel
 
-Projects inherently have some risk of failure, and there are certain signs that indicate a high risk:
+Projecten hebben altijd een risico van falen. Er zijn signalen die een hoog risico op falen aangeven:
 
-- The project tries to do too much or too little.
-- The goal is very vaguely defined.
-- It is unclear who would (want to) use the product.
-- The problem the project adresses does not exist or is already solved.
+- Het project probeert te veel of te weinig te doen.
+- Het doel van het project is erg vaag omschreven.
+- Het is niet bepaald duidelijk wie het product gebruikt, of zou willen gebruiken.
+- Het probleem dat het project probeert op te lossen bestaat niet of is eigenlijk al opgelost.
 
-The overarching theme here is, the clearer your vision on what the project should be by course's end, the higher the chance of success. Mind you, success here is a good finished project. By no means does it need to be a popular or commercial success. 
+Over het algemeen zie je, dat hoe duidelijker het idee van wat het project zou moeten zijn ten einde van het vak, hoe groter de kans op succes. Dat gezegd, succes hier is natuurlijk een goed compleet project. Het gaat hier zeker niet om een populair product of een potentieel commercieel succes.
 
-There are steps you can take to greatly increase the chance of success. A lot of it is in preperation and getting feedback from fellow students and the staff. Take the time to work on your proposal. While working on it, talk to others about your ideas and ask for feedback!
+Er zijn stappen die je kan nemen om de kans op een succesvol project flink te verhogen. Veel daarvan zit in de voorbereiding en in het krijgen van feedback van medestudenten en ook van the staff. Neem nu echt even de tijd om aan dit voorstel te werken en praat met anderen terwijl je eraan werkt. Ideeën uitwisselen en feedback vragen helpt enorm.
 
-## Some questions
+## Wat vragen
 
-In your proposal answer the following questions with a few lines of text. That is, if the question is relevant to your specific project.
+Beantwoord in je voorstel de voglende vragen met een paar regels tekst. Tenminste, als de vraag relevant is voor jouw specifieke project.
 
-1. What is **the problem** (not the solution) that the project will solve? Be clear and specific. For example:
+1. Wat is **het probleem** (niet de oplossing) dat jouw project gaat oplossen. Wees duidelijk en specifiek. Een paar abstracte voorbeelden:
 
-    - There is a clearly defined problem that a reasonable group of people faces. A web app is a welcome solution here.
-    - There is a broad lack of knowledge on a certain topic. An interactive visualization on storytelling app is missing here.
-    - There is a game concept that only exists in physical form. But in days of isolation this is impossible and it needs to be lifted to a web app.
+    - Dit is een duidelijk beschreven probleem dat een redelijke groep mensen geregeld tegenkomt omdat er geen goed communicatiemiddel is. Dit kan een web-app goed oplossen.
+    - Er is een breed gebrek aan kennis over een bepaald onderwerp. Een interactieve visualisatie of verhalende app mist hier.
+    - Dit spelconcept bestaat alleen in de echte fysieke wereld. Maar dit is niet bruikbaar in tijden van isolatie, daarom moet dit een web app worden.
 
-2. Who are your projected users? Essentially, who are you building this project for. For example:
+2. Wie zijn je verwachte gebruikers? In andere woorden, voor wie bouw je dit project? Bijvoorbeeld:
 
-    - Elderly people who are generally unfamiliar with the project's topic.
-    - People on the move.
-    - Power users only, they know the topic inside and out.
-    - The inhabitants of Lab42.
-    - Me, myself, and I.
+    - Oudere mensen die over het algemeen onbekend zijn met het onderwerp van het project.
+    - "People on the go"
+    - Enkel voor powerusers, zij hebben geen uitleg nodig en willen snel werken.
+    - De inwoners van Lab42
+    - Me, myself, and I
 
-3. What is or are the setting(s) that your application is used in? For example:
+3. In welke setting wordt je project gebruikt? Een paar voorbeelden:
 
-    - On an always on big screen with no interaction. An admin handles configuration on a separate screen.
-    - Primarily used on the go, likely on a smaller device like a smart phone.
-    - On a laptop or desktop with a relatively big screen and keyboard available.
+    - Op een groot scherm dat altijd aanstaat waarbij er geen interactie is. Een admin regelt de configuratie op een apart scherm.
+    - Voornamelijk op reis, dus waarschijnlijk op een smartphone.
+    - Ieder achter zijn eigen laptop of desktop. Er is een redelijk groot scherm en een toetsenbord is ook aanwezig.
 
-4. What does your solution do different or better than existing solutions? Essentially, what is your niche? For example:
+4. Wat doet jouw oplossing anders of beter dan bestaande oplossingen? Wat is je niche? Bijvoorbeeld:
 
-    - This app is customized for location/business/group. It solves specific needs and problems that location/business/group has, that a more general app does not solve.
-    - This solution focuses on a small part of a bigger problem, for which there is no good solution yet.
+    - Deze app is ontwerpen voor een locatie/bedrijf/groep. Het lost de specifieke eisen en problemen dat deze locatie/bedrijf/groep heeft, dat een generieke app niet kan.
+    - Deze oplossing focust op een klein deel van een veel groter probleem, waar nog geen goede oplossing voor bestaat.
+  
+## Schets je oplossing
 
-## Sketch your solution
+Schrijf en **schets** je oplossing. Echt waar, **schets**. Dit is misschien wel de belangrijkste stap van dit hele proces. Want zodra je begint met tekenen, ga je ontdekken wat er echt moet gaan bestaan. Er zijn allemaal kleine dingen waar je overheen schiet als je erover schrijft, maar je ziet zodra je het tekent.
 
-Next, write and **draw** up your solution. Really, draw. This is perhaps the most important step in the entire process. Because once you start drawing things out, you start to discover what needs to exist. There are all these little pieces that you easiliy gloss over in text, but not so much in drawings.
+Wat je doet hangt een beetje af van het type project:
 
-What you do, depends a little on the type of project:
+- Als je een programma maakt dat zich richt op gebruikers, zeg een spel of een web app, schets dan de gebruikerservaring. In andere woorden, de situatie waar de gebruiker zich in bevindt:
 
-- If you are creating a user focused program, say a game or a web app, then sketch the user experience. In other words, the situation that a user finds themselves in:
-
-    - Add sketches for how the finished product will look like for the user. If you need multiple screens or windows, sketch them individually. 
-    - Make it clear how actions and navigation work in your app.
-    - Add concrete examples of content. Don't just Lorum ipsum everywhere.
+    - Voeg schetsen toe voor hoe het afgemaakte project eruit ziet voor de gebruiker. Als er meerdere schermen zijn, schets ze dan individueel.
+    - Maak het duidelijk hoe acties en navigatie werken.
+    - Voeg concrete voorbeelden van inhoud toe. Dus niet Lorum ipsum overal.
 
         ![embed](https://www.youtube.com/embed/j0vP77s_bXc)
 
-    - Ensure your sketches give a complete overview. 
+    - Zorg ervoor dat je schetsen een compleet overzicht geven van je app.
 
-- If you are instead creating a tool or an algorithm to analyse data or do some form of prediction, then draw out the components of your solution. This depends on what you are building, but for instance in case of data processing you might sketch the various parts of a data processing pipeline. 
+- Als je een tool of een algoritme maakt voorbijvoorbeeld data analyse of voor het doen van een voorspelling, teken dan de componenten van de oplossing uit. Dit hangt natuurlijk sterk af van wat je gaat maken. Bijvoorbeeld in het geval van data processing zou je de verschillende onderdelen van een data processing pipeline kunnen uittekenen.
 
-In all cases:
+In alle gevallen:
 
-- Briefly summarize your solution (one or two sentences) and connect it to the problem you are trying to solve. "This app will...."
+- Geef een korte samenvatting van jouw oplossing (een paar zinnen) en verbind het probleem dat je probeert op te lossen. "Deze applicatie zal..."
 
-- Take a minute to find a good tool to photograph your drawings. A straight up good quality photo does make a significant difference. In either case make sure your drawings are legible. If we cannot reasonably read or comprehend what is there, it might delay the start of your project somewhat and that requires you to compensate later on in the course. You are also free to use some computer program for drawings and sketches, but generally we do recommend paper.
+- Neem een minuutje om een goede tool te vinden om foto's van je schetsen te maken. Kijk bijvoorbeeld naar Microsoft Lens. Een rechte en goede kwaliteit foto maakt een wezenlijk verschil. Zorg er in ieder geval voor dat je tekeningen begrijpbaar zijn. Als we niet redelijkerwijs kunnen lezen of begrijpen wat er staat, kan het ervoor zorgen dat je later aan je project kan beginnen. Dit zorgt voor een kleine achterstand die je uiteindelijk weer moet compenseren. Natuurlijk staat het je ook vrij om te schetsen met een computerprogramma, maar over het algemeen raden we papier aan.
 
 ## Features
 
-Make a list of features that need to or should exist for your project. Such things might include a login feature/page, a character creation screen, or a visualisation step. While creating this list, try to be specific and keep features small. It is generally better to divide bigger features into multiple smaller ones.
+Maak een lijst van features die moeten of zouden moeten bestaan voor je project. Dat zijn bijvoorbeeld zaken als een login feature/pagine, een "character creation screen", of een visualisatie stap. Bij het maken van deze lijst, probeer zo specifiek mogelijk te zijn en hou features klein. Het is over het algemeen beter om grotere features op te breken in meerdere kleine.
 
-Next, divide the list in two. One list for features that need to exist for your project to exist by course's end. For instance, a meeting app without the ability to create meetings is not much of a meeting app. Then one list for features that should exist, but are not absolutely crucial. Really think things through here and try to put as many features on the second list. If a feature is truly needed, make a quick note in defence as to why it needs to go on the first list.
+Hak nu je lijst in twee. Eén lijst van features die moeten bestaan, anders is je project niet af. Bijvoorbeeld, een meeting app zonder de mogelijkheid om meetings te maken is niet echt een meeting app. Een andere lijst voor features die je zou willen dat bestond, maar die niet absoluut cruciaal zijn. Denk hier goed over na en probeer zoveel mogelijk features op de tweede lijst te zetten. Als een feature echt nodig is, en dus op de eerste lijst gaat, schrijf dan even kort op waarom.
 
-Finally, rank and order all features on the second list by how important they are to your project. Doing this now will help you prioritize things later.
+Tot slot, zet de features op de tweede lijst op volgorde van hoe belangrijk ze zijn voor jouw project. Dit gaat je helpen om te prioritizeren later.
 
-All this is likely incomplete, and you will probably add or change features based on feedback from others or from simply working on the project. But doing this work now, will give you pieces of the project to focus on first. While working on the project, it lets you more easily pick up on different features of the project depending on how much time you have that day. Perhaps most importantly, it pulls your attention to what is important to your project. Such that towards course's end you won't find yourself with a beautifully stylized auction app with no auctions.
+Alles wat je hier schrijft is waarschijnlijk nog incompleet. Op basis van feedback van andere of simpelweg door te werken aan je project, zal je features willen toevoegen of veranderen. Maar door dit werk nu te doen, laat het je straks focussen op de belangrijke stukken uit je project. Daarbij geeft het je een beetje overzicht, waardoor je ook makkelijker kleine stukjes kan afbijten even afhankelijk van hoeveel tijd je hebt die dag. Gecombineerd zorgt dit ervoor dat je aan het einde van het vak niet met een hele mooie app zit voor veilingen, zonder de veilingen.
 
 ## Requirements
 

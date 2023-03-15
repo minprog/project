@@ -11,7 +11,7 @@ Create a web-app for managing plants in our classrooms of Lab42.
 * Create an overview for all the plants.
 * Have calls to action for upkeep related tasks.
 * Enable users to manage plants by performing routine maintenance tasks, but also adding and removing plants.
-* Introduce tracability, who has done what and when.
+* Introduce traceability, who has done what and when.
 * Realize that users are imperfect and allow for correction in plant upkeep. 
 
 ### Challenges

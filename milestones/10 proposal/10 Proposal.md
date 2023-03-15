@@ -82,7 +82,7 @@ In alle gevallen:
 
 1. Maak een lijst van features die moeten of zouden moeten bestaan voor je project. Dat zijn bijvoorbeeld zaken als een login feature/pagine, een "character creation screen", of een visualisatie stap. Bij het maken van deze lijst, probeer zo specifiek mogelijk te zijn en hou features klein. Het is over het algemeen beter om grotere features op te breken in meerdere kleine.
 
-2. Hak nu je lijst in twee. Eén lijst van features die moeten bestaan, anders is je project niet af. Bijvoorbeeld, een meeting app zonder de mogelijkheid om meetings te maken is niet echt een meeting app. Een andere lijst voor features die je zou willen dat bestond, maar die niet absoluut cruciaal zijn. Denk hier goed over na en probeer zoveel mogelijk features op de tweede lijst te zetten. Als een feature echt nodig is, en dus op de eerste lijst gaat, schrijf dan even kort op waarom.
+2. Hak nu je lijst in twee. Eén lijst van features die moeten bestaan, anders is je project niet af. Bijvoorbeeld, een meeting app zonder de mogelijkheid om meetings te maken is niet echt een meeting app. Een andere lijst voor features die je zou willen dat bestaan, maar die niet absoluut cruciaal zijn. Denk hier goed over na en probeer zoveel mogelijk features op de tweede lijst te zetten. Als een feature echt nodig is, en dus op de eerste lijst gaat, schrijf dan even kort op waarom.
 
 3. Tot slot, zet de features op de tweede lijst op volgorde van hoe belangrijk ze zijn voor jouw project. Dit gaat je helpen om te prioritizeren later.
 

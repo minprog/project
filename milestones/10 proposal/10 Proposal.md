@@ -80,11 +80,11 @@ In alle gevallen:
 
 ## Features
 
-Maak een lijst van features die moeten of zouden moeten bestaan voor je project. Dat zijn bijvoorbeeld zaken als een login feature/pagine, een "character creation screen", of een visualisatie stap. Bij het maken van deze lijst, probeer zo specifiek mogelijk te zijn en hou features klein. Het is over het algemeen beter om grotere features op te breken in meerdere kleine.
+1. Maak een lijst van features die moeten of zouden moeten bestaan voor je project. Dat zijn bijvoorbeeld zaken als een login feature/pagine, een "character creation screen", of een visualisatie stap. Bij het maken van deze lijst, probeer zo specifiek mogelijk te zijn en hou features klein. Het is over het algemeen beter om grotere features op te breken in meerdere kleine.
 
-Hak nu je lijst in twee. Eén lijst van features die moeten bestaan, anders is je project niet af. Bijvoorbeeld, een meeting app zonder de mogelijkheid om meetings te maken is niet echt een meeting app. Een andere lijst voor features die je zou willen dat bestond, maar die niet absoluut cruciaal zijn. Denk hier goed over na en probeer zoveel mogelijk features op de tweede lijst te zetten. Als een feature echt nodig is, en dus op de eerste lijst gaat, schrijf dan even kort op waarom.
+2. Hak nu je lijst in twee. Eén lijst van features die moeten bestaan, anders is je project niet af. Bijvoorbeeld, een meeting app zonder de mogelijkheid om meetings te maken is niet echt een meeting app. Een andere lijst voor features die je zou willen dat bestond, maar die niet absoluut cruciaal zijn. Denk hier goed over na en probeer zoveel mogelijk features op de tweede lijst te zetten. Als een feature echt nodig is, en dus op de eerste lijst gaat, schrijf dan even kort op waarom.
 
-Tot slot, zet de features op de tweede lijst op volgorde van hoe belangrijk ze zijn voor jouw project. Dit gaat je helpen om te prioritizeren later.
+3. Tot slot, zet de features op de tweede lijst op volgorde van hoe belangrijk ze zijn voor jouw project. Dit gaat je helpen om te prioritizeren later.
 
 Alles wat je hier schrijft is waarschijnlijk nog incompleet. Op basis van feedback van andere of simpelweg door te werken aan je project, zal je features willen toevoegen of veranderen. Maar door dit werk nu te doen, laat het je straks focussen op de belangrijke stukken uit je project. Daarbij geeft het je een beetje overzicht, waardoor je ook makkelijker kleine stukjes kan afbijten even afhankelijk van hoeveel tijd je hebt die dag. Gecombineerd zorgt dit ervoor dat je aan het einde van het vak niet met een hele mooie app zit voor veilingen, zonder de veilingen.
 

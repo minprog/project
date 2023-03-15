@@ -22,6 +22,6 @@ Hieronder vind je verschillende project templates. Deze templates bevatten idee�
 
 Buiten de templates om staat het je **vrij om te kiezen voor een eigen onderwerp**. We vragen alleen dat je **zo snel mogelijk praat met één van the staff**. Het liefst ver voor de proposal deadline. Denk dan alvast goed over wat je probeert op te lossen, waarom je dat wilt oplossen, voor wie en wat je moet gaan maken. 
 
-### Work on your proposal
+## Begin met je proposal
 
-Once you have picked a template or a topic of your own, head on over to [the proposal page](/milestones/proposal/) and start working on your proposal. While writing your proposal, do pro-actively ask for feedback and general advice on how to approach things. We are there to help. Ultimately, after submitting your proposal, you will schedule a meeting with one of the staff to go over your proposal. But there is no need to wait with programming until that meeting. Once your proposal is submitted, you are good to go.
+Zodra je een keuze hebt gemaakt voor een template of een eigen onderwerp, ga je naar de [proposal pagina](/milestones/proposal/). Praat met anderen terwijl je werkt aan je proposal. Proactief feedback en algemeen advies vragen kan veel helpen. Nadat je het proposal hebt ingeleverd, maak je met één van the staff een afspraak om het door te spreken. Maar je hoeft niet te zitten wachten, je kan na het inleveren direct beginnen met programmeren.

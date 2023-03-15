@@ -1,6 +1,6 @@
 # Template: Plants
 
-Most classrooms at Lab42 are a bit barren, much like our own. In earlier years we added quite a number of plants, but it took the effort of dedicated plant loving teaching assistants and students to keep them going. Especially over such things as summer holidays! In more recent years we asked students to bring in their own plants, BYOP if you will. This worked wonders, but as the students went, so did the plants. Then came Corona. What followed was a mass plant relocation event. After which it has never been the same.
+Most classrooms at Lab42 are a bit barren, much like our own. In years prior we added quite a number of plants, but it took the effort of dedicated plant loving teaching assistants and students to keep them going. Especially over such things as summer holidays! In more recent years we asked students to bring in their own plants, BYOP if you will. This worked wonders, but as the students went, so did the plants. Then came Corona. What followed was a mass plant relocation event. After which it has never been the same.
 
 While introducing plants is relatively easy, maintenance in this setting is not. With many varieties of plants and many potential caretakers there is a constant risk of both under and over watering at the same time. Try to solve this problem by introducing a caretaker web-app.
 

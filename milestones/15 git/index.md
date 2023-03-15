@@ -1,8 +1,6 @@
 # Git
 
-> Heb je al een repository, maak dan toch een nieuwe aan die onder beheer van de cursus staat. Zie de opmerking hieronder bij stap 2.
-
-Om je project te beheren ga je `git` gebruiken. Met deze tool kun je dagelijks je werk committen (vastleggen) aan het eind van de dag en pushen (doorzetten) naar de website Github.
+Om je project te beheren ga je `git` gebruiken. Met deze tool kun je geregeld (minimaal dagelijks) je werk committen (vastleggen) en pushen (doorzetten) naar de website Github.
 
 Hiermee is goed te zien welke voortgang je maakt en aan het eind van het project is er een historie van het project beschikbaar waarmee wordt aangetoond dat je regelmatig en zelfstandig aan je project hebt gewerkt.
 
@@ -10,19 +8,19 @@ Hiermee is goed te zien welke voortgang je maakt en aan het eind van het project
 
 2. Ga naar [Github Classroom om een nieuwe repository aan te maken voor jouw project](https://classroom.github.com/a/MSAwEkpO).
 
-    - Heb je al een repository, maak deze dan toch aan. We gaan dan jouw werk overzetten naar de cursus-repository. Stuur even een mail naar <help@mprog.nl> voor een afspraak. Stuur wel alvast de nieuwe link in.
-
 3. Stuur hieronder de link naar de pagina van jouw nieuwe repository in, zodat we deze op een rijtje hebben.
 
     - Dit is **niet** de link die eindigt op `.git` maar de URL van de webpagina die verschijnt als jij je project hebt aangemaakt.
 
-4. Zet je proposal-document niet in je git-repository.
+4. Zet je proposal-document in je git-repository.
 
 ## Tips
 
 - Zorg dat je in de regel **nooit** bestanden wijzigt via de pagina op github.com. Gebruik `git` op je eigen computer en `push` de wijzigingen naar github.
 
-- Mocht je onverhoopt een "merge conflict" krijgen, dan heb je misschien even hulp nodig. Het is niet aan te raden om allerlei bronnen op internet te gebruiken. Je kunt namelijk niet goed bepalen welk advies geschikt is voor jouw situatie. We hebben best wel eens gehad dat mensen hierdoor hun werk zijn kwijtgeraakt.
+- `git` heeft een steile leercurve waar je doorheen moet. Het echte leren doe je door `git` te gebruiken. Over tijd gaat het steeds meer in je vingers zitten. Tot die tijd zal het een beetje frustrerend en onwennig aanvoelen, maar dat is normaal!
+
+- Mocht je onverhoopt een "merge conflict" krijgen, dan heb je misschien even hulp nodig. Het is niet aan te raden om allerlei bronnen op internet te gebruiken. Je kunt namelijk niet goed bepalen welk advies geschikt is voor jouw situatie. We hebben best wel eens gehad dat mensen hierdoor werk zijn kwijtgeraakt.
 
 ## Git gebruiken
 
@@ -48,4 +46,4 @@ Om een bestand terug te zetten naar de versie van de vorige commit (dus alle wij
 
 - `git checkout -- bestandsnaam.py`
 
-Het is ook mogelijk om dingen die je al hebt gecommit en gepusht ongedaan te maken. Dit is echter niet zo makkelijk als gebruik van de basiscommando's. Vraag hier hulp bij aan de docenten.
+Het is ook mogelijk om dingen die je al hebt gecommit en gepusht ongedaan te maken. Dit is echter niet zo makkelijk als gebruik van de basiscommando's. Vraag hier hulp bij.

@@ -27,6 +27,6 @@ Submit hieronder de eerste versie. Daarvoor hoef je niet opnieuw je GitHub repo 
   </label><br/>
   <input required name="form[meestrecentopgh]" class="form-check-input" type="checkbox" value="yes" id="check2">
   <label class="form-check-label" for="check2">
-    De meeste recente code staat nu op GitHub.
+    De meest recente code staat nu op GitHub.
   </label>
 </div>

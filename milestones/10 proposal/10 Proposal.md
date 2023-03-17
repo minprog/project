@@ -90,7 +90,7 @@ Alles wat je hier schrijft is waarschijnlijk nog incompleet. Op basis van feedba
 
 ## Requirements
 
-Je project komt ook met vereisten. Dingen die nodig zijn om je project te laten werken. Dat kan bijvoorbeeld een databron zijn, een bepaalde API of een framework. De vraag hier is, denk goed na over wat er nodig is voor jouw project en waar je dat kan vinden. Dat doe je op basis van wat je **nu** weet. Na het indienden van je projectvoorstel, tijdens feedbackgesprekken met andere studenten of met docenten, kunnen er extra dingen naar voren komen. Wat daaruitkomt kan je later aan je voorstel toevoegen.
+Je project komt ook met vereisten. Dingen die nodig zijn om je project te laten werken. Dat kan bijvoorbeeld een databron zijn, een bepaalde API of een framework. De vraag hier is, denk goed na over wat er nodig is voor jouw project en waar je dat kan vinden. Dat doe je op basis van wat je **nu** weet. Na het indienen van je projectvoorstel, tijdens feedbackgesprekken met andere studenten of met docenten, kunnen er extra dingen naar voren komen. Wat daaruitkomt kan je later aan je voorstel toevoegen.
 
 - Maak een lijst van alle **gegevensbronen** die je gaat gebruiken. Voeg hier links toe naar de downloadpagina of eventuele APIs die je wilt gebruiken. Schrijf op hoe je toegang krijgt. Vaak zal je een account moeten aanmaken, of in sommige gevallen een mailtje moeten sturen.
 

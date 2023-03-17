@@ -1,24 +1,38 @@
 # Procesboek
 
-Zodra je klaar bent met het vastleggen van je idee, en je begint met programmeren, moet je een procesboek maken waarin je je voortgang tijdens het project bijhoudt.
+Nu je het proposal hebt geschreven, en je begint met programmeren, moet je een procesboek maken. Hierin hou je **iedere dag** de voortgang tijdens het project bij.
 
-Merk op dat het niet nodig is om elk detail te beschrijven van waar je die dag aan hebt gewerkt. Je moet wel je **belangrijkste bevindingen, uitdagingen en ontwikkelingen** tijdens het project beschrijven. Aan het einde van het project geeft dit procesboek inzicht in de voortgang van het project van begin tot eind en helpt het je bij het schrijven van je verslag.
+Dit heeft twee doelen. Voor het vak moet het duidelijk zijn dat je de nodige tijd in het project hebt gestoken en natuurlijk ervan leert. Daar speelt dit procesboek een belangrijke rol in. Voor jezelf biedt een procesboek een manier om bij te houden wat je hebt gedaan en welke keuzes je maakt. Door je dag even op te schrijven haal je uiteindelijk een boel chaos uit het project.
 
-In je procesboek leg je ook je grote beslissingen vast. Als je gedurende de dag een beslissing moet nemen, documenteer deze dan als volgt:
+### Hoe?
 
-* De keuze die je hebt gemaakt
-* Wat je verwacht dat er zal gebeuren als gevolg van die keuze (op dit moment)
-* Waarom je verwacht dat de dingen zo zullen verlopen
+Maak in je git repository een map aan genaamd `docs` en zet daarin een bestand genaamd `PROCESS.md`.
 
-Zo kun je je procesboek gebruiken voor reflectie. Door je beslissingen te documenteren en periodiek te herzien, krijg je een beter inzicht in het totale project en kun je partronen of valkuilen identificeren waar je vaak mee te maken hebt.
+Schrijf (aan het eind van) iedere dag kort op:
 
-Start nu je procesboek door een bestand met de naam `PROCESS.md` aan te maken in de hoofdmap van je git-repository. **Zorg ervoor dat je het elke dag bijwerkt en pusht naar GitHub!**
+- Wat je hebt gedaan.
+- Keuzes die je hebt gemaakt.
+- Wat er nog moet gebeuren.
+- Eventuele "gotchas".
+
+Bijvoorbeeld:
+
+**7 april**
+
+Registratie en login geïmplementeerd. Dit gaat via een modal i.p.v. een aparte pagina, dat voelde minder storend. Moet nog checken op een sterk wachtwoord. De reviewpagina kan niet goed omgaan met niet ingelogde gebruikers, daarvoor moet de Review database tabel worden uitgebreid.
+
+### Tips
+
+* Kies een vorm die je handig vindt. Een korte paragraaf is prima, maar mischien vind je een bulleted list handiger.
+* Een plaatje zegt meer dan duizend woorden, zelfs al is het een screenshot van code. Zeker als je bang bent iets te vergeten, bijvoorbeeld wat die ingewikkelde functie van vanmiddag nou echt doet, screenshot het en leg het kort uit in dit procesboek.
+
+> Om het vak te halen, moet je iedere dag dat je aan het project werk ook `PROCESS.md` updaten en committen en pushen. Probeer er een gewoonte van te maken aan het einde van de dag. 
 
 ## Submit
 
 <div class="form-check">
-  <input required name="form[designdoc]" class="form-check-input" type="checkbox" value="yes" id="check1">
+  <input required name="form[process]" class="form-check-input" type="checkbox" value="yes" id="check1">
   <label class="form-check-label" for="check1">
-    Ik heb een eerste PROCESS.md naar GitHub gepusht en gecontroleerd dat het er ook netjes uitziet op Github als ik het daar lees
+    Ik heb een bestand genaamd PROCESS.md naar GitHub gepusht
   </label>
 </div>

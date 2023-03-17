@@ -13,13 +13,14 @@ Flask:
     Git [Lecture]: /flask/lectures/git
     Git [Project Prep]: /milestones/git
     Procesboek [Project Prep]: /milestones/process
-    "Version #1 [Milestone]": /milestones/prototype
-    "Version #2 [Milestone]": /milestones/alpha
-    "Version #3 [Milestone]": /milestones/beta
-  Afronding (1 week):
+    "Versie 1 [Milestone]": /milestones/versie1
+    "Versie 2 [Milestone]": /milestones/versie2
+    "Versie 3 [Milestone]": /milestones/versie3
     Cleanup: /milestones/cleanup
-    "Version #4 [Milestone]": /milestones/product
+    "Versie 4 [Milestone]": /milestones/versie4
+  Afronding (1 week):
     Screencast: /milestones/screencast
+    Presentatie: /milestones/presentation
 Data Science:
   Voorbereiding (40% van de tijd):
     Intro: /data-science/intro

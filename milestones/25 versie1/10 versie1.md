@@ -23,7 +23,7 @@ Submit hieronder de eerste versie. Daarvoor hoef je niet opnieuw je GitHub repo 
 <div class="form-check">
   <input required name="form[allefeatures]" class="form-check-input" type="checkbox" value="yes" id="check1">
   <label class="form-check-label" for="check1">
-    Alle fundamentele features bestaan en anders staat dat in het formulier omschreven.
+    Alle fundamentele features bestaan en anders staat dat in de pdf omschreven.
   </label><br/>
   <input required name="form[meestrecentopgh]" class="form-check-input" type="checkbox" value="yes" id="check2">
   <label class="form-check-label" for="check2">

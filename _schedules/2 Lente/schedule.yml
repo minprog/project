@@ -1,8 +1,6 @@
 Flask:
   Finance (1 week):
-    HTML [Optional Lecture]: /flask/lectures/html
     Flask [Lecture]: /flask/lectures/flask
-    SQL [Optional Lecture]: /flask/lectures/sql
     Finance [Collaborative Assignment]: /flask/finance
   Books (2 weken):
     "ORMs & APIs [Lecture]": /flask/lectures/orms

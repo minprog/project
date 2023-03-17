@@ -22,7 +22,7 @@ Wat is er nog onzeker aan het project?
 
 <textarea name="form[onzeker]" rows="4" required></textarea>
 
-Wat is het eerst volgende waar je aan gaat werken?
+Wat is het eerstvolgende waar je aan gaat werken?
 
 <textarea name="form[eerstvolgende]" rows="4" required></textarea>
 

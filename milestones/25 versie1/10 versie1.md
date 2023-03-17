@@ -2,6 +2,12 @@
 
 Deze versie is het eerste ijkpunt van het vak. Nu moeten de belangrijkste features van je project bestaan. Bugs schuiven we nog even onder tafel en het hoeft er niet af uit te zien, maar de fundering staat. Daarnaast is dit het moment om wat zaken op orde te stellen en te checken of alles op GitHub klopt. 
 
+### Requirements
+
+* De meest recent code staat op GitHub.
+* De inviduele belangrijke features van het project bestaan.
+* Er is geregeld, het liefst dagelijks, gecommit naar GitHub.
+
 ### Vragen
 
 Beantwoord de volgende vragen kort in een `.pdf`:

@@ -1,6 +1,12 @@
 # Versie 2
 
-Voor deze versie moet de minimale versie van het project bestaan en werken. Eventuele interactie werkt, gebruikers kunnen navigeren en de app staat. In dit stadium hoeft het er niet gelikt uit te zien en er mag best "Quality of Life" missen.
+Voor deze versie moet de minimale versie van het project bestaan en werken. Bijvoorbeeld: eventuele interactie werkt, gebruikers kunnen navigeren en de app is te gebruiken. In dit stadium hoeft het er niet gelikt uit te zien en er mag best "Quality of Life" missen.
+
+### Requirements
+
+* De meest recent code staat op GitHub.
+* Het project is minimaal, maar compleet.
+* Er is geregeld, het liefst dagelijks, gecommit naar GitHub.
 
 ### Vragen
 

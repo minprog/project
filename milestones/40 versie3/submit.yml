@@ -1,1 +1,4 @@
-name: beta
+name: versie3
+files:
+    required:
+        - versie3.pdf

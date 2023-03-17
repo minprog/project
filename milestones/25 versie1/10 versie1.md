@@ -10,9 +10,9 @@ Beantwoord de volgende vragen kort in een `.pdf`:
 
 2. Waar en waarom ben je afgeweken van het oorspronkelijke ontwerp?
 
-3. Wat is er nog onzeker aan het project?
+3. Wat is er nog onzeker aan het project en hoe ga je dit uitzoeken?
 
-4. Wat is het eerstvolgende waar je aan gaat werken?
+4. Wat is het eerstvolgende waar je aan gaat werken en waarom?
 
 5. Ontbreekt er nog iets fundamenteels, bijvoorbeeld omdat het lastiger was dan verwacht, of dat een alternatief toch handiger is? Beschrijf dan kort wat er aan de hand is.
 

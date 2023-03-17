@@ -2,12 +2,6 @@
 
 Deze versie is het eerste ijkpunt van het vak. Nu moeten de belangrijkste features van je project bestaan. Bugs schuiven we nog even onder tafel en het hoeft er niet af uit te zien, maar de fundering staat. Daarnaast is dit het moment om wat zaken op orde te stellen en te checken of alles op GitHub klopt. 
 
-### Requirements
-
-- Alle fundamentele features bestaan en anders staat dat in het formulier omschreven.
-- De meeste recente code staat nu op GitHub.
-- `PROCESS.md` is up to date en er is iedere dag gecommit.
-
 ### Vragen
 
 Wat was het lastigste om uit te vinden of te maken?

@@ -37,11 +37,12 @@ Submit hieronder de eerste versie. Daarvoor hoef je niet opnieuw je GitHub repo 
 <input required name="form[allefeatures]" class="form-check-input" type="checkbox" value="yes" id="check1">
 <label class="form-check-label" for="check1">
   Alle fundamentele features bestaan en anders staat dat in het formulier omschreven.
-</label>
+</label><br/>
 <input required name="form[meestrecentopgh]" class="form-check-input" type="checkbox" value="yes" id="check2">
 <label class="form-check-label" for="check2">
   De meeste recente code staat nu op GitHub.
-</label><input required name="form[processuptodate]" class="form-check-input" type="checkbox" value="yes" id="check3">
+</label><br/>
+<input required name="form[processuptodate]" class="form-check-input" type="checkbox" value="yes" id="check3">
 <label class="form-check-label" for="check3">
   `PROCESS.md` is up to date en er is iedere dag gecommit.
 </label>

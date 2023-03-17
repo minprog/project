@@ -33,6 +33,6 @@ Registratie en login geïmplementeerd. Dit gaat via een modal i.p.v. een aparte 
 <div class="form-check">
   <input required name="form[process]" class="form-check-input" type="checkbox" value="yes" id="check1">
   <label class="form-check-label" for="check1">
-    Ik heb een bestand genaamd PROCESS.md naar GitHub gepusht
+    Ik heb een bestand genaamd PROCESS.md naar GitHub gepusht.
   </label>
 </div>

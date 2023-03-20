@@ -39,7 +39,7 @@ Let bij de punten die je noemt wel op haalbaarheid en let ook op de details. Het
 
 > De "netheid" van je repository wordt meegenomen in de beoordeling van het **repository**-deel van je eindcijfer.
 
-### README.md helemaal bijwerken naar het nu
+### `README.md` helemaal bijwerken naar het nu
 
 In `README.md` stond voorheen het voorstel van het project. Maar, veel daarvan klopt niet meer bij de realiteit. Zo zul je andere keuzes hebben gemaakt, zaken geschrapt of juist toegevoegd hebben. Kortom, het is tijd om dit bestand bij te werken.
 
@@ -53,7 +53,7 @@ Het doel van een README (op GitHub) is om een goed overzicht te geven van een pr
 
 Kijk voor inspiratie ook goed naar andere README's van andere open-source projecten op GitHub. Als belangrijkste tip, neem even de tijd om de README te schrijven. Het is toch het eerste wat mensen zien als ze jouw project bekijken.
 
-### Toevoegen van ASSESSMENT.md
+### Toevoegen van `ASSESSMENT.md`
 
 Als we één ding hebben geleerd over de jaren heen is het wel: zoveel verschillende projecten op eigen computers draaiende krijgen als het vak al is afgelopen, is niet te doen. Dat brengt een heel hoop spanning, stress en frustratie met zich mee voor iedereen. Daarom draaien wij de apps niet zelf na het inleveren. Maar enkel door te kijken naar code is het makkelijk om dingen te missen. Daarom is `ASSESSMENT.md` in het leven geroepen.
 

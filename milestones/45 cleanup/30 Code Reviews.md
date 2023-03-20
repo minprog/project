@@ -26,7 +26,7 @@ Het resultaat van de review plaats je in een bestand genaamd `REVIEW.md`. Naar v
 
 ### Uitwerken van `REVIEW.md`
 
-Nadat je beide code reviews hebt gedaan is het taak om de gevonden verbeterpunten uit te werken. Schrijf allereerst bovenaan `REVIEW.md` de namen van de twee studenten die jou geholpen hebben met de review. Dan, werk voor ieder verbeterpunt tenminste het volgende uit:
+Nadat je beide code reviews hebt gedaan is het taak om de gevonden verbeterpunten uit te werken. Schrijf allereerst bovenaan `REVIEW.md` de namen van de twee studenten die jou geholpen hebben met de review. Werk vervolgens voor ieder verbeterpunt tenminste het volgende uit:
 
 * Wat is het tegengekomen probleem?
 * Hoe zou je dit beter kunnen maken?

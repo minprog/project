@@ -12,12 +12,10 @@ Jelle van Assema en Martijn Stegeman zijn de docenten bij het vak. Je kan ze via
 
 De mentoren bij dit vak begeleiden je bij het project en de voorbereidingen daarvoor. Je mentor is ook je eerste contactpunt binnen het vak.
 
-| Agent Based Modeling | Data Science  | Django          | Unity            |
-| -------------------- | ------------- | --------------- | ---------------- |
-| Joos Akkerman        | Mayla Kersten | Julius Kempen   | Kamiel de Visser |
-| Seda den Boer        | Wesley Korff  | Yvette Schröder |
-| Okke van Eck         |               | Stephan Visser  |
-| Eva Plas             |               | Max Westerman   |
+| Data Science   | Flask           | Unity              |
+| ---------------| --------------- | ------------------ |
+| Mayla Kersten  | Yvette Schröder | Kamiel de Visser   |
+|                | Max Westerman   |                    |
 
 ## Contact
 
@@ -48,15 +46,13 @@ Tijdens dit vak zul je regelmatig de hulp inroepen van de staff en medestudenten
 
 Iedere track heeft zo zijn eigen rooster en assistentiemomenten:
 
-| Agent Based Modeling | Data Science      | Django             | Unity           |
-| -------------------- | ----------------- | ------------------ | --------------- |
-| Ma 11 - 15 Okke      | Ma 11 - 15 Mayla  | Ma 11 - 12 Julius  |                 |
-|                      |                   | Ma 12 - 13 Yvette  |                 |
-|                      |                   | Ma 13 - 15 Max     |                 |
-| Di 12 - 15 Eva       |                   | Di 11 - 15 Stephan | Di 14-17 Kamiel |
-| Wo 11 - 15 Seda      | Wo 9 - 12 Wesley  | Wo 13 - 17 Max     |                 |
-| Do 12 - 15 Joos      |                   | Do 11 - 14 Julius  | Do 14-17 Kamiel |
-| Vr 11 - 13 Eva       | Vr 11 - 14 Wesley | Vr 13 - 17 Yvette  |                 |
+| Data Science     | Flask             | Unity             |
+| ---------------- | ----------------- | ----------------- |
+| Ma 13 - 17 Mayla | Ma 9 - 13 Yvette  |                   |
+|                  | Di 11 - 17 Max    |                   |
+|                  | Wo 13 - 15 Max    | Wo 9 - 13 Kamiel  |
+| Do 9 - 13 Mayla  |                   |                   |
+|                  | Vr 13 - 17 Yvette | Vr 11 - 15 Kamiel |
 
 Je gaat ook wekelijks bijeenkomen met je groepje en de mentor tijdens de bovengenoemde uren.
 
@@ -66,25 +62,23 @@ Tijdens de eerste drie weken ga je aan de slag met de voorbereiding: het leren k
 
 | Onderdeel     | Tijdsbesteding | Deadline  |
 | ------------- | -------------: | --------: |
-| Track         |        ~60 uur | vr 18 nov |
+| Track         |        ~60 uur | vr 21 apr |
 
-Het project wordt gedaan volgens een aantal milestones. Dit zijn momenten in het project waarbij we ook een expliciet contactmoment inbouwen, zodat je feedback kunt krijgen.
+Het project wordt gedaan volgens een aantal milestones.
 
 | Onderdeel     | Tijdsbesteding | Deadline  |
 | ------------- | -------------: | --------: |
-| Proposal      |         ~8 uur | ma 21 nov |
-| Prototype     |        ~20 uur | wo 30 nov |
-| Beta Version  |        ~40 uur | wo 14 dec |
-| Final Product |        ~10 uur | vr 16 dec |
-| Screencast    |         ~4 uur | vr 16 dec |
+| Proposal      |         ~8 uur | vr 21 apr |
+| Versie 1      |        ~30 uur | vr 12 mei |
+| Versie 2      |        ~20 uur | vr 19 mei |
+| Versie 3      |        ~20 uur | vr 26 mei |
+| Versie 4      |        ~10 uur | wo 31 mei |
 
 In de laatste week ronden we af:
 
 | Onderdeel             | Datum             |
 | --------------------- | ----------------: |
-| Eindpresentaties      | di 20 + wo 21 dec |
-
-De deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór de kerstvakantie helemaal afgerond is, inclusief eindbeoordeling.
+| Eindpresentaties      | do 1 + vr 2 jun   |
 
 ## Minimumeisen
 
@@ -94,14 +88,13 @@ Om de cursus tot een goed einde te brengen, verwachten we dat je:
 1. een interessant en voor jou leerzaam project implementeert en inlevert,
 1. goed werk steekt in de milestones voor je project,
 1. gebruik maakt van git en dagelijks je voortgang pusht naar github,
-1. regelmatig vragen stelt,
-1. en de eindpresentaties bijwoont.
+1. regelmatig vragen stelt.
 
 Let op dat je minimaal aan bovenstaande verwachtingen moet voldoen om een eindcijfer te kunnen halen.
 
 ## Beoordeling
 
-Naast de minimumeisen hierboven moet je project moet uiteindelijk op GitHub staan, met in de repository de code voor het project en de bijbehorende documentatie, en er moet een zodanige hoeveelheid code en documentatie zijn dat beoordeling goed mogelijk is (naar oordeel van de docent).
+Naast de minimumeisen hierboven moet je project op GitHub staan. In de repository staat de code voor het project en de bijbehorende documentatie. Er moet een zodanige hoeveelheid code en documentatie zijn dat beoordeling goed mogelijk is (naar oordeel van de docent).
 
 Als je project voldoet aan de minimumeisen zal het cijfer worden bepaald met behulp van de volgende criteria, die allemaal ongeveer even zwaar tellen.
 
@@ -113,7 +106,7 @@ Als je project voldoet aan de minimumeisen zal het cijfer worden bepaald met beh
 
 **Repository/documentatie.** De uiteindelijke versie van je project is een momentopname van je repository. Deze bevat de beste versies van jouw code en je documentatie. Hierbij zorg je voor een nette indeling in mapjes, vindbaarheid van de documentatie, vindbaarheid van de onderdelen van je code, het aanwezig zijn van een goede `README`. De documentatie is up-to-date, goed geschreven en bevat nette diagrammen, en expliciete links naar belangrijke onderdelen van de code.
 
-**Proces.** Tijdens het ontwikkelen van jouw software zul je een hoop beslissingen nemen over wat je wel en niet gaat maken, je zult leren over fundamentele ideeën en technieken, je zult beslissingen nemen over hoe je bepaalde onderdelen gaat implementeren (en hoe niet). Dit alles documenteer je in een procesboek, al vanaf het moment dat je met oefenopdrachten aan de slag gaat. Je houdt dit bij op elke dag dat je aan het project werkt.
+<!-- **Proces.** Tijdens het ontwikkelen van jouw software zul je een hoop beslissingen nemen over wat je wel en niet gaat maken, je zult leren over fundamentele ideeën en technieken, je zult beslissingen nemen over hoe je bepaalde onderdelen gaat implementeren (en hoe niet). Dit alles documenteer je in een procesboek, al vanaf het moment dat je met oefenopdrachten aan de slag gaat. Je houdt dit bij op elke dag dat je aan het project werkt. -->
 
 <!-- 
 Op elk van de criteria kun je 1 tot 5 punten verdienen:

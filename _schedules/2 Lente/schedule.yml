@@ -1,10 +1,10 @@
 Flask:
   Finance (1 week):
     Videocollege Flask: /flask/lectures/flask
-    Finance [Collaborative Assignment]: /flask/finance
+    Finance [Samenwerken]: /flask/finance
   Books (2 weken):
-    "ORMs & APIs [Lecture]": /flask/lectures/orms
-    Books [Assignment]: /flask/books
+    "Videocollege ORMs & APIs": /flask/lectures/orms
+    Books [Opdracht]: /flask/books
   Projectvoorstel (dinsdag 18 april):
     Projectkeuze [Milestone]: /milestones/topic
     Projectvoorstel [Milestone]: /milestones/proposal

@@ -30,10 +30,10 @@ Data Science:
     Theorie (models): /data-science/theory/theory_1
     Theorie (regressie): /data-science/theory/theory_2
     Lab 6 (Scikit-Learn): /data-science/labs/lab6
-    Git (lecture): /flask/lectures/git
-  Project (4 weken):
     DS Project Requirements: /data-science/requirements
-    Proposal: /milestones/proposal
+    Proposal [Milestone]: /milestones/proposal
+  Project (4 weken):
+    Git (lecture): /flask/lectures/git
     Git: /milestones/git
     Skelet [Milestone]: /data-science/skelet
     # "Versie 1 [Milestone]": /milestones/versie1
@@ -57,9 +57,9 @@ Unity:
     Roll a ball: "/unity/roll-a-ball"
     Unity Learn: "/unity/unity-learn"
     Verder studiemateriaal: /unity/learning-resources
-  Project (4 weken):
     Unity Project Requirements: /unity/requirements
-    Proposal: /milestones/proposal
+    Proposal [Milestone]: /milestones/proposal
+  Project (4 weken):
     Git (lecture): /flask/lectures/git
     Git: /milestones/git
     # Procesboek: /milestones/process

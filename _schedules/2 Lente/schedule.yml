@@ -8,10 +8,11 @@ Flask:
   Projectvoorstel (dinsdag 18 april):
     Projectkeuze [Milestone]: /milestones/topic
     Projectvoorstel [Milestone]: /milestones/proposal
-  Project (4 weken):
+  Projectvalidatie (1 week):
     Projectvalidatie: /milestones/validatie
     Videocollege Git: /flask/lectures/git
     Git opzetten [Milestone]: /milestones/git
+  Project (3 weken):
     "Versie 1 [Milestone]": /milestones/versie1
     "Versie 2 [Milestone]": /milestones/versie2
     "Versie 3 [Milestone]": /milestones/versie3
@@ -35,10 +36,11 @@ Data Science:
   Projectvoorstel (dinsdag 18 april):
     Projectkeuze [Milestone]: /data-science/requirements
     Projectvoorstel [Milestone]: /milestones/proposal
-  Project (4 weken):
+  Projectvalidatie (1 week):
     Projectvalidatie: /milestones/validatie
     Videocollege Git: /flask/lectures/git
     Git opzetten [Milestone]: /milestones/git
+  Project (3 weken):
     Skelet [Milestone]: /data-science/skelet
     "Versie 1 [Milestone]": /milestones/versie1
     "Versie 2 [Milestone]": /milestones/versie2
@@ -61,9 +63,11 @@ Unity:
   Projectvoorstel (dinsdag 18 april):
     Projectkeuze [Milestone]: /unity/requirements
     Projectvoorstel [Milestone]: /milestones/proposal
-  Project (4 weken):
+  Projectvalidatie (1 week):
+    Projectvalidatie: /milestones/validatie
     Videocollege Git: /flask/lectures/git
     Git opzetten [Milestone]: /milestones/git
+  Project (3 weken):
     "Versie 1 [Milestone]": /milestones/versie1
     "Versie 2 [Milestone]": /milestones/versie2
     "Versie 3 [Milestone]": /milestones/versie3

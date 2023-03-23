@@ -19,7 +19,7 @@ Flask:
     Screencast: /milestones/screencast
     Presentatie: /milestones/presentation
 Data Science:
-  Voorbereiding (40% van de tijd):
+  Voorbereiding (3 weken):
     Intro: /data-science/intro
     Installatie: /data-science/installation
     Lab 1 (Python): /data-science/labs/lab1
@@ -30,20 +30,25 @@ Data Science:
     Theorie (models): /data-science/theory/theory_1
     Theorie (regressie): /data-science/theory/theory_2
     Lab 6 (Scikit-Learn): /data-science/labs/lab6
-    Git (lecture): /django/lectures/git
-  Project (25-50% van de tijd):
+    Git (lecture): /flask/lectures/git
+  Project (4 weken):
     DS Project Requirements: /data-science/requirements
     Proposal: /milestones/proposal
     Git: /milestones/git
-    Procesboek: /milestones/process
     Skelet: /data-science/skelet
-    Betaversie: /milestones/beta
-  Afronding (10% van de tijd):
-    Cleanup: /milestones/cleanup
-    Final product: /milestones/product
+    # "Versie 1 [Milestone]": /milestones/versie1
+    "Versie 2 [Milestone]": /milestones/versie2
+    "Versie 3 [Milestone]": /milestones/versie3
+    "Review & Cleanup": /milestones/cleanup
+    "Versie 4 [Milestone]": /milestones/versie4
+    # Betaversie: /milestones/beta
+  Afronding (1 week):
+    # Cleanup: /milestones/cleanup
+    # Final product: /milestones/product
     Screencast: /milestones/screencast
+    Presentatie: /milestones/presentation
 Unity:
-  Voorbereiding (40% van de tijd):
+  Voorbereiding (3 weken):
     Intro: /unity/intro
     Overzicht: /unity/overzicht
     Game Engines: /unity/game-engines
@@ -52,14 +57,14 @@ Unity:
     Roll a ball: "/unity/roll-a-ball"
     Unity Learn: "/unity/unity-learn"
     Verder studiemateriaal: /unity/learning-resources
-  Project (25-50% van de tijd):
+  Project (4 weken):
     Unity Project Requirements: /unity/requirements
     Proposal: /milestones/proposal
     Git: /milestones/git
     Procesboek: /milestones/process
     Prototype: /milestones/prototype
     Betaversie: /milestones/beta
-  Afronding (10% van de tijd):
+  Afronding (1 week):
     Cleanup: /milestones/cleanup
     Final product: /milestones/product
     Screencast: /milestones/screencast

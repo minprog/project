@@ -1,4 +1,4 @@
-# Lecture 0: Git
+# Git
 
 ![embed](https://www.youtube.com/embed/1u2qu-EmIRc)
 

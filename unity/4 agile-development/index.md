@@ -1,6 +1,5 @@
 # Agile Development
 
-## Agile Development
 Tijdens dit project ga je (met een versimpelde manier van) *[agile development](https://en.wikipedia.org/wiki/Agile_software_development)* werken. Agile werken wordt tegenwoordig veel gebruikt in software ontwikkeling. In plaats van de *waterval methode*, waarbij een klant één waslijst aan eisen inlevert en je daar naar toe werkt, ga je op een iteratieve manier aan de slag. Je projectperiode wordt onderverdeeld in een aantal 'sprints'. Elke sprint werk je naar een 'minimum viable product (MVP)' toe. Dit is een product wat je aan je klant (in dit geval jezelf, of medestudenten) kan laten zien om feedback op te krijgen. Op basis van de feedback pas je zo continu de einddoelen van het product aan.
 
 - Sprint 0: Intro Unity (Nog niet agile)

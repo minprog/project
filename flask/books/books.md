@@ -1,5 +1,7 @@
 # Books
 
+> Deze opdracht maak je geheel zelfstandig, maar natuurlijk mag je je medestudenten en vooral assistenten raadplegen als je vragen hebt en niet weet hoe je verder moet. Jij moet wel helemaal in de lead zijn, anders ben je straks niet voldoende voorbereid voor het grote project.
+
 ## Objectives
 
 * Become more comfortable with Python and Flask.

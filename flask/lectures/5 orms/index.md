@@ -1,6 +1,6 @@
-# Lecture 4: ORMs & APIs
+# ORMs & APIs
 
-> This lecture starts with a short introduction to Object Oriented Programming in Python. If familiar and comfortable, feel free to skip ahead to 26 min. If not, we strongly recommend you do watch the first 26 minutes as it lays the foundation for the remainder of the lecture.
+> Dit college begint met een korte inleiding over Object Oriented Programming in Python. Als je hier al echt helemaal comfy mee bent kun je gerust skippen naar 26 minuten. Zo niet, dan raden we je sterk aan om de eerste 26 minuten ook te kijken, omdat dit de basis legt voor de rest van het college.
 
 ![embed](https://youtube.com/embed/24Kf3v7kZyE)
 

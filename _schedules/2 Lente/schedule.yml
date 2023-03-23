@@ -36,15 +36,12 @@ Data Science:
     Git [Lecture]: /flask/lectures/git
     Git [Milestone]: /milestones/git
     Skelet [Milestone]: /data-science/skelet
-    # "Versie 1 [Milestone]": /milestones/versie1
+    "Versie 1 [Milestone]": /milestones/versie1
     "Versie 2 [Milestone]": /milestones/versie2
     "Versie 3 [Milestone]": /milestones/versie3
     "Review & Cleanup": /milestones/cleanup
     "Versie 4 [Milestone]": /milestones/versie4
-    # Betaversie: /milestones/beta
   Afronding (1 week):
-    # Cleanup: /milestones/cleanup
-    # Final product: /milestones/product
     Screencast: /milestones/screencast
     Presentatie: /milestones/presentation
 Unity:
@@ -62,7 +59,6 @@ Unity:
   Project (4 weken):
     Git [Lecture]: /flask/lectures/git
     Git [Milestone]: /milestones/git
-    # Procesboek: /milestones/process
     "Versie 1 [Milestone]": /milestones/versie1
     "Versie 2 [Milestone]": /milestones/versie2
     "Versie 3 [Milestone]": /milestones/versie3

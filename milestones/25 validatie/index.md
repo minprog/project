@@ -10,6 +10,9 @@ Heb je een project met een duidelijke user interface met veel interacties en sch
 
 Voor jouw project ga je werken met git om dagelijks versies van de code te "committen". Je gaat ook je code delen met de organisatie, via de website GitHub. Hiervoor moet je een repository aanmaken en je moet je computer koppelen aan deze repository. Er is een kans dat dit flink mislukt, dus belangrijk om dat nu meteen te starten.
 
+- [Videocollege Git](/flask/lectures/git)
+- [Git opzetten en inleveren](/milestones/git)
+
 ## Dataverzameling
 
 Als jouw project gebaseerd is op een dataset of bijvoorbeeld data van webpagina's haalt, dan is dit het moment om aan te tonen dat dat gaat lukken. Je zal de eerste student niet zijn die een "gratis" API heeft uitgekozen waarvoor later toch blijkt dat de toegang niet echt gratis is. Of de data die er in zit, blijkt toch te beperkt.

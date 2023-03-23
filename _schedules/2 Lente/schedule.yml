@@ -60,10 +60,14 @@ Unity:
   Project (4 weken):
     Unity Project Requirements: /unity/requirements
     Proposal: /milestones/proposal
+    Git (lecture): /flask/lectures/git
     Git: /milestones/git
-    Procesboek: /milestones/process
-    Prototype: /milestones/prototype
-    Betaversie: /milestones/beta
+    # Procesboek: /milestones/process
+    "Versie 1 [Milestone]": /milestones/versie1
+    "Versie 2 [Milestone]": /milestones/versie2
+    "Versie 3 [Milestone]": /milestones/versie3
+    "Review & Cleanup": /milestones/cleanup
+    "Versie 4 [Milestone]": /milestones/versie4
   Afronding (1 week):
     Cleanup: /milestones/cleanup
     Final product: /milestones/product

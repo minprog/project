@@ -6,6 +6,34 @@
 
 De vakken Programmeren 1 en Datarepresentaties, of Programmeren 1 en 2, moet je helemaal gehaald hebben vóór je deze cursus start.
 
+## Kalender
+
+**Let op! In deze periode zit een vakantieweek én een heleboel feestdagen. Het project kost wel 8 volle weken aan tijd. Zorg dus dat je goed nadenkt over wanneer je je werkzaamheden plant. Als je de vakantieweek wil nemen, plan dan wat werkzaamheden op feest- of weekenddagen. Andersom is natuurlijk ook prima!**
+
+Tijdens de **eerste drie weken** ga je aan de slag met de voorbereiding: het leren kennen van het platform waarmee je aan de slag gaat.
+
+| Onderdeel     | Tijdsbesteding | Deadline  |
+| ------------- | -------------: | --------: |
+| Voorbereiding |        ~60 uur | vr 21 apr |
+
+Het project wordt gedaan volgens een aantal **milestones**. Na elke milestone ga je bespreken met je begeleider hoe je ervoor staat en hoe je verder kunt. De deadlines van versie 1 t/m 3 mag je met enkele dagen verschuiven als het strikt nodig is.
+
+| Onderdeel        | Tijdsbesteding | Deadline  |
+| ---------------- | -------------: | --------: |
+| Projectvoorstel  |         ~6 uur | di 18 apr |
+| Projectvalidatie |        ~10 uur | wo 26 apr |
+| Versie 1         |        ~20 uur | vr 12 mei |
+| Versie 2         |        ~20 uur | wo 19 mei |
+| Versie 3         |        ~20 uur | vr 26 mei |
+
+En de **afsluiting** vindt plaats met het opleveren van je definitieve project en de eindpresentaties. Deze data staan helemaal vast en kunnen niet aangepast worden.
+
+| Onderdeel          | Deadline  |
+| ------------------ | --------: |
+| Definitieve versie | wo 31 mei |
+| Eindpresentaties   | vr 2 jun  |
+
+
 ## Staff
 
 Jelle van Assema en Martijn Stegeman zijn de docenten bij het vak. Je kan ze via e-mail bereiken op <help@mprog.nl>.
@@ -57,32 +85,6 @@ Iedere track heeft zo zijn eigen rooster en assistentiemomenten:
 
 Je gaat ook wekelijks bijeenkomen met je begeleider. Dit is altijd in de eerste sessie van de week. Doe je bijvoorbeeld Data Science, dan moet je maandag van 13:00 tot 17:00 aanwezig zijn.
 
-## Kalender
-
-Tijdens de **eerste drie weken** ga je aan de slag met de voorbereiding: het leren kennen van het platform waarmee je aan de slag gaat.
-
-| Onderdeel     | Tijdsbesteding | Deadline  |
-| ------------- | -------------: | --------: |
-| Voorbereiding |        ~60 uur | vr 21 apr |
-
-Het project wordt gedaan volgens een aantal **milestones**. Na elke milestone ga je bespreken met je begeleider hoe je ervoor staat en hoe je verder kunt. De deadlines van versie 1 t/m 3 mag je met enkele dagen verschuiven als het strikt nodig is.
-
-| Onderdeel        | Tijdsbesteding | Deadline  |
-| ---------------- | -------------: | --------: |
-| Projectvoorstel  |         ~6 uur | di 18 apr |
-| Projectvalidatie |        ~10 uur | wo 26 apr |
-| Versie 1         |        ~20 uur | vr 12 mei |
-| Versie 2         |        ~20 uur | wo 19 mei |
-| Versie 3         |        ~20 uur | vr 26 mei |
-
-En de **afsluiting** vindt plaats met het opleveren van je definitieve project en de eindpresentaties. Deze data staan helemaal vast en kunnen niet aangepast worden.
-
-| Onderdeel          | Deadline  |
-| ------------------ | --------: |
-| Definitieve versie | wo 31 mei |
-| Eindpresentaties   | vr 2 jun  |
-
-**Let op! In deze periode zit een vakantieweek én een heleboel feestdagen. Het project kost wel 8 volle weken aan tijd. Zorg dus dat je goed nadenkt over wanneer je je werkzaamheden plant. Als je de vakantieweek wil nemen, plan dan wat werkzaamheden op feest- of weekenddagen. Andersom is natuurlijk ook prima!**
 
 ## Minimumeisen
 

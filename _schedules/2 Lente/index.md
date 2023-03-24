@@ -75,15 +75,15 @@ Tijdens dit vak zul je regelmatig de hulp inroepen van de staff en medestudenten
 
 Iedere track heeft zo zijn eigen rooster en assistentiemomenten:
 
-| Data Science     | Flask             | Unity             |
-| ---------------- | ----------------- | ----------------- |
-| Ma 13--17 Mayla  | ma  9--13 Yvette  |                   |
-|                  | di 11--17 Max     |                   |
-|                  | wo 13--15 Max     | wo  9--13 Kamiel  |
-| Do 11--17 Mayla  | do 13--17 Max     |                   |
-|                  | vr 13--17 Yvette  | vr 11--15 Kamiel  |
+|           | Data Science     | Flask              | Unity             |
+| --------- | ---------------- | ------------------ | ----------------- |
+| maandag   | **13--17 Mayla** |  **9--13 Yvette**  |                   |
+| dinsdag   |                  | **11--17 Max**     |                   |
+| woensdag  |                  |   13--15 Max       |  **9--13 Kamiel** |
+| donderdag |   11--17 Mayla   |   13--17 Max       |                   |
+| vrijdag   |                  |   13--17 Yvette    |   11--15 Kamiel   |
 
-Je gaat ook wekelijks bijeenkomen met je begeleider. Dit is altijd in de eerste sessie van de week. Doe je bijvoorbeeld Data Science, dan moet je maandag van 13:00 tot 17:00 aanwezig zijn.
+Je gaat ook wekelijks bijeenkomen met je begeleider. De vier opties hiervoor staan vetgedrukt in het schema hierboven. Als je voor een track kiest moet je voor één van deze vier opties volledig beschikbaar zijn.
 
 
 ## Minimumeisen

@@ -10,7 +10,7 @@ De vakken Programmeren 1 en Datarepresentaties, of Programmeren 1 en 2, moet je 
 
 Jelle van Assema en Martijn Stegeman zijn de docenten bij het vak. Je kan ze via e-mail bereiken op <help@mprog.nl>.
 
-De mentoren bij dit vak begeleiden je bij het project en de voorbereidingen daarvoor. Je mentor is ook je eerste contactpunt binnen het vak.
+De begeleiders bij dit vak begeleiden je bij het project en de voorbereidingen daarvoor. Je begeleider is ook je eerste contactpunt binnen het vak.
 
 | Data Science   | Flask           | Unity              |
 | ---------------| --------------- | ------------------ |
@@ -55,7 +55,7 @@ Iedere track heeft zo zijn eigen rooster en assistentiemomenten:
 | Do 11--17 Mayla  | do 13--17 Max     |                   |
 |                  | vr 13--17 Yvette  | vr 11--15 Kamiel  |
 
-Je gaat ook wekelijks bijeenkomen met je groepje en de mentor tijdens de bovengenoemde uren.
+Je gaat ook wekelijks bijeenkomen met je begeleider. Dit is altijd in de eerste sessie van de week. Doe je bijvoorbeeld Data Science, dan moet je maandag van 13:00 tot 17:00 aanwezig zijn.
 
 ## Kalender
 
@@ -88,7 +88,7 @@ En de **afsluiting** vindt plaats met het opleveren van je definitieve project e
 
 Om de cursus tot een goed einde te brengen, verwachten we dat je:
 
-1. wekelijks contact hebt met je projectmentor,
+1. wekelijks contact hebt met je begeleider,
 1. een interessant en voor jou leerzaam project implementeert en inlevert,
 1. goed werk steekt in de milestones voor je project,
 1. gebruik maakt van git en dagelijks je voortgang pusht naar github,

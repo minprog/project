@@ -28,11 +28,12 @@ Tijdens dit vak zul je regelmatig de hulp inroepen van de staff en medestudenten
 - je hebt moeite met het verzinnen van een oplossing
 - kwestie van binnenlopen!
 
-**Slack of Discord:** direct contact.
+
+<!--**Slack of Discord:** direct contact.
 
 - onderlinge support
 - snelle vragen over deadlines, contact met samenwerkpartner
-- mededelingen en ziekmeldingen
+- mededelingen en ziekmeldingen -->
 
 **E-mail:** contact met de docent.
 
@@ -48,33 +49,40 @@ Iedere track heeft zo zijn eigen rooster en assistentiemomenten:
 
 | Data Science     | Flask             | Unity             |
 | ---------------- | ----------------- | ----------------- |
-| Ma 13 - 17 Mayla | Ma 9 - 13 Yvette  |                   |
-|                  | Di 11 - 17 Max    |                   |
-|                  | Wo 13 - 15 Max    | Wo 9 - 13 Kamiel  |
-| Do 9 - 13 Mayla  |                   |                   |
-|                  | Vr 13 - 17 Yvette | Vr 11 - 15 Kamiel |
+| Ma 13--17 Mayla  | ma  9--13 Yvette  |                   |
+|                  | di 11--17 Max     |                   |
+|                  | wo 13--15 Max     | wo  9--13 Kamiel  |
+| Do 11--17 Mayla  | do 13--17 Max     |                   |
+|                  | vr 13--17 Yvette  | vr 11--15 Kamiel  |
 
 Je gaat ook wekelijks bijeenkomen met je groepje en de mentor tijdens de bovengenoemde uren.
 
 ## Kalender
 
-Tijdens de eerste drie weken ga je aan de slag met de voorbereiding: het leren kennen van het platform waarmee je aan de slag gaat.
+Tijdens de **eerste drie weken** ga je aan de slag met de voorbereiding: het leren kennen van het platform waarmee je aan de slag gaat.
 
 | Onderdeel     | Tijdsbesteding | Deadline  |
 | ------------- | -------------: | --------: |
-| Track         |        ~60 uur | vr 21 apr |
+| Voorbereiding |        ~60 uur | vr 21 apr |
 
-Het project wordt gedaan volgens een aantal milestones.
+Het project wordt gedaan volgens een aantal **milestones**. Na elke milestone ga je bespreken met je begeleider hoe je ervoor staat en hoe je verder kunt. De deadlines van versie 1 t/m 3 mag je met enkele dagen verschuiven als het strikt nodig is.
 
 | Onderdeel        | Tijdsbesteding | Deadline  |
 | ---------------- | -------------: | --------: |
 | Projectvoorstel  |         ~6 uur | di 18 apr |
 | Projectvalidatie |        ~10 uur | wo 26 apr |
 | Versie 1         |        ~20 uur | vr 12 mei |
-| Versie 2         |        ~20 uur | vr 19 mei |
+| Versie 2         |        ~20 uur | wo 19 mei |
 | Versie 3         |        ~20 uur | vr 26 mei |
-| Versie 4         |        ~10 uur | wo 31 mei |
-| Eindpresentaties |                | vr 2 jun  |
+
+En de **afsluiting** vindt plaats met het opleveren van je definitieve project en de eindpresentaties. Deze data staan helemaal vast en kunnen niet aangepast worden.
+
+| Onderdeel          | Deadline  |
+| ------------------ | --------: |
+| Definitieve versie | wo 31 mei |
+| Eindpresentaties   | vr 2 jun  |
+
+**Let op! In deze periode zit een vakantieweek én een heleboel feestdagen. Het project kost wel 8 volle weken aan tijd. Zorg dus dat je goed nadenkt over wanneer je je werkzaamheden plant. Als je de vakantieweek wil nemen, plan dan wat werkzaamheden op feest- of weekenddagen. Andersom is natuurlijk ook prima!**
 
 ## Minimumeisen
 

@@ -54,7 +54,7 @@ Iedere track heeft zo zijn eigen rooster en assistentiemomenten:
 | Do 9 - 13 Mayla  |                   |                   |
 |                  | Vr 13 - 17 Yvette | Vr 11 - 15 Kamiel |
 
-Je gaat ook wekelijks bijeenkomen je begeleider. Dit is altijd in de eerste sessie van de week. Doe je bijvoorbeeld Data Science, dan moet je maandag van 13:00 tot 17:00 aanwezig zijn.
+Je gaat ook wekelijks bijeenkomen met je begeleider. Dit is altijd in de eerste sessie van de week. Doe je bijvoorbeeld Data Science, dan moet je maandag van 13:00 tot 17:00 aanwezig zijn.
 
 ## Kalender
 

@@ -1,21 +1,24 @@
 Flask:
   Finance (1 week):
-    Flask [Lecture]: /flask/lectures/flask
-    Finance [Collaborative Assignment]: /flask/finance
+    Videocollege Flask: /flask/lectures/flask
+    Finance [Samenwerken]: /flask/finance
   Books (2 weken):
-    "ORMs & APIs [Lecture]": /flask/lectures/orms
-    Books [Assignment]: /flask/books
-    Choose your topic [Project Prep]: /milestones/topic
-    Proposal [Milestone]: /milestones/proposal
-  Project (4 weken):
-    Git [Lecture]: /flask/lectures/git
-    Git [Project Prep]: /milestones/git
+    "Videocollege ORMs & APIs": /flask/lectures/orms
+    Books [Opdracht]: /flask/books
+  Projectvoorstel (uiterlijk dinsdag 18 april):
+    Projectkeuze [Milestone]: /milestones/topic
+    Projectvoorstel [Milestone]: /milestones/proposal
+  Projectvalidatie (1 week):
+    Uitleg projectvalidatie: /milestones/validatie
+    Videocollege Git: /flask/lectures/git
+    Git opzetten [Milestone]: /milestones/git
+  Project (3 weken):
     "Versie 1 [Milestone]": /milestones/versie1
     "Versie 2 [Milestone]": /milestones/versie2
     "Versie 3 [Milestone]": /milestones/versie3
+  Afronding (uiterlijk woensdag 31 mei):
     "Review & Cleanup": /milestones/cleanup
     "Versie 4 [Milestone]": /milestones/versie4
-  Afronding (1 week):
     Screencast: /milestones/screencast
     Presentatie: /milestones/presentation
 Data Science:
@@ -30,18 +33,21 @@ Data Science:
     Theorie (models): /data-science/theory/theory_1
     Theorie (regressie): /data-science/theory/theory_2
     Lab 6 (Scikit-Learn): /data-science/labs/lab6
-    DS Project Requirements: /data-science/requirements
-    Proposal [Milestone]: /milestones/proposal
-  Project (4 weken):
-    Git [Lecture]: /flask/lectures/git
-    Git [Milestone]: /milestones/git
+  Projectvoorstel (uiterlijk dinsdag 18 april):
+    Projectkeuze [Milestone]: /data-science/requirements
+    Projectvoorstel [Milestone]: /milestones/proposal
+  Projectvalidatie (1 week):
+    Uitleg projectvalidatie: /milestones/validatie
+    Videocollege Git: /flask/lectures/git
+    Git opzetten [Milestone]: /milestones/git
     Skelet [Milestone]: /data-science/skelet
+  Project (3 weken):
     "Versie 1 [Milestone]": /milestones/versie1
     "Versie 2 [Milestone]": /milestones/versie2
     "Versie 3 [Milestone]": /milestones/versie3
+  Afronding (uiterlijk woensdag 31 mei):
     "Review & Cleanup": /milestones/cleanup
     "Versie 4 [Milestone]": /milestones/versie4
-  Afronding (1 week):
     Screencast: /milestones/screencast
     Presentatie: /milestones/presentation
 Unity:
@@ -54,17 +60,20 @@ Unity:
     Roll a ball: "/unity/roll-a-ball"
     Unity Learn: "/unity/unity-learn"
     Verder studiemateriaal: /unity/learning-resources
-    Unity Project Requirements: /unity/requirements
-    Proposal [Milestone]: /milestones/proposal
-  Project (4 weken):
-    Git [Lecture]: /flask/lectures/git
-    Git [Milestone]: /milestones/git
+  Projectvoorstel (uiterlijk dinsdag 18 april):
+    Projectkeuze [Milestone]: /unity/requirements
+    Projectvoorstel [Milestone]: /milestones/proposal
+  Projectvalidatie (1 week):
+    Uitleg projectvalidatie: /milestones/validatie
+    Videocollege Git: /flask/lectures/git
+    Git opzetten [Milestone]: /milestones/git
+  Project (3 weken):
     "Versie 1 [Milestone]": /milestones/versie1
     "Versie 2 [Milestone]": /milestones/versie2
     "Versie 3 [Milestone]": /milestones/versie3
+  Afronding (uiterlijk woensdag 31 mei):
     "Review & Cleanup": /milestones/cleanup
     "Versie 4 [Milestone]": /milestones/versie4
-  Afronding (1 week):
     Cleanup: /milestones/cleanup
     Final product: /milestones/product
     Screencast: /milestones/screencast

@@ -106,9 +106,21 @@ Before getting started on this assignment, we'll need to register for an API key
 
 
     $ export API_KEY=value
-
-
+    
+    
 where `value` is that (pasted) value, without any space immediately before or after the `=`. You also may wish to paste that value in a text document somewhere, in case you need it again later.
+
+
+Additionally, we need to make sure that all required packages are installed successfully, before we can run the distribution code.
+
+Run
+
+    $ python3 -m pip install -r requirements.txt
+
+
+to make sure all of the necessary Python packages (Flask for instance) are installed.
+
+
 
 ### Running
 

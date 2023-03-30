@@ -84,7 +84,7 @@ Let's turn our attention now to this problem's distribution code!
 ### Downloading
 
 
-    $ wget https://github.com/minprog/project/raw/2022/flask/finance/finance.zip
+    $ curl -LO https://github.com/minprog/project/raw/2022/flask/finance/finance.zip
     $ unzip finance.zip
     $ rm finance.zip
     $ cd finance

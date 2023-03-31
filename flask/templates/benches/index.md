@@ -1,6 +1,6 @@
 # Template: Benches
 
-Amsterdam has a large number of public benches, but they are relatively hard to discover. There is no real way to find a bench near you, other than walking around or asking around. Odds are that the benches you find are taken and even if free, they are probably not in the best spot. Inspired by [this Reddit thread](https://www.reddit.com/r/Amsterdam/comments/x4x19o/waar_is_je_chillste_bankje/) and Stephen Adai's project in 2022, let's change this and make it easy to find a good place to sit.
+Amsterdam has a large number of public benches, but they are relatively hard to discover. There is no real way to find a bench near you, other than walking around or asking around. Odds are that the benches you find are taken and even if free, they are probably not in the best spot. Inspired by [this Reddit thread](https://www.reddit.com/r/Amsterdam/comments/x4x19o/waar_is_je_chillste_bankje/) and Stephen Adei's project in 2022, let's change this and make it easy to find a good place to sit.
 
 ### Requirements
 

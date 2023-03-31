@@ -81,7 +81,7 @@ Let's turn our attention now to this problem's distribution code!
 
 ## Distribution
 
-### Downloading
+### Downloading and installing
 
 
     $ wget https://github.com/minprog/project/raw/2022/flask/finance/finance.zip
@@ -91,6 +91,12 @@ Let's turn our attention now to this problem's distribution code!
     $ ls
     app.py      helpers.py        static/
     finance.db  requirements.txt  templates/
+
+Run
+
+    $ python3 -m pip install -r requirements.txt
+
+to make sure all of the necessary Python packages (Flask and cs50 for instance) are installed.
 
 
 ### Configuring
@@ -121,6 +127,8 @@ Visit the URL outputted by `flask` to see the distribution code in action. You w
 Within `finance/`, run `sqlite3 finance.db` to open `finance.db` with `sqlite3`. If you run `.schema` in the SQLite prompt, notice how `finance.db` comes with a table called `users`. Take a look at its structure (i.e., schema). Notice how, by default, new users will receive $10,000 in cash. But if you run `SELECT * FROM users;`, there aren’t (yet!) any users (i.e., rows) therein to browse.
 
 ### Understanding
+
+> While working on this problem, do also check out Flask's official documentation. Specifically the Quickstart section over at <https://flask.palletsprojects.com/en/2.2.x/quickstart> might come in handy.
 
 #### `app.py`
 

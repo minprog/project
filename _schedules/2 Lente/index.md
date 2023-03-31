@@ -6,6 +6,34 @@
 
 De vakken Programmeren 1 en Datarepresentaties, of Programmeren 1 en 2, moet je helemaal gehaald hebben vóór je deze cursus start.
 
+## Kalender
+
+**Let op! In deze periode zit een vakantieweek én een heleboel feestdagen. Het project kost wel 8 volle weken aan tijd. Zorg dus dat je goed nadenkt over wanneer je je werkzaamheden plant. Als je de vakantieweek wil nemen, plan dan wat werkzaamheden op feest- of weekenddagen. Andersom is natuurlijk ook prima!**
+
+Tijdens de **eerste drie weken** ga je aan de slag met de voorbereiding: het leren kennen van het platform waarmee je aan de slag gaat.
+
+| Onderdeel     | Tijdsbesteding | Deadline  |
+| ------------- | -------------: | --------: |
+| Voorbereiding |        ~60 uur | vr 21 apr |
+
+Het project wordt gedaan volgens een aantal **milestones**. Na elke milestone ga je bespreken met je begeleider hoe je ervoor staat en hoe je verder kunt. De deadlines van versie 1 t/m 3 mag je met enkele dagen verschuiven als het strikt nodig is.
+
+| Onderdeel        | Tijdsbesteding | Deadline  |
+| ---------------- | -------------: | --------: |
+| Projectvoorstel  |         ~6 uur | di 18 apr |
+| Projectvalidatie |        ~10 uur | wo 26 apr |
+| Versie 1         |        ~20 uur | vr 12 mei |
+| Versie 2         |        ~20 uur | wo 19 mei |
+| Versie 3         |        ~20 uur | vr 26 mei |
+
+En de **afsluiting** vindt plaats met het opleveren van je definitieve project en de eindpresentaties. Deze data staan helemaal vast en kunnen niet aangepast worden.
+
+| Onderdeel          | Deadline  |
+| ------------------ | --------: |
+| Definitieve versie | wo 31 mei |
+| Eindpresentaties   | vr 2 jun  |
+
+
 ## Staff
 
 Jelle van Assema en Martijn Stegeman zijn de docenten bij het vak. Je kan ze via e-mail bereiken op <help@mprog.nl>.
@@ -28,11 +56,12 @@ Tijdens dit vak zul je regelmatig de hulp inroepen van de staff en medestudenten
 - je hebt moeite met het verzinnen van een oplossing
 - kwestie van binnenlopen!
 
-**Slack of Discord:** direct contact.
+
+<!--**Slack of Discord:** direct contact.
 
 - onderlinge support
 - snelle vragen over deadlines, contact met samenwerkpartner
-- mededelingen en ziekmeldingen
+- mededelingen en ziekmeldingen -->
 
 **E-mail:** contact met de docent.
 
@@ -46,35 +75,16 @@ Tijdens dit vak zul je regelmatig de hulp inroepen van de staff en medestudenten
 
 Iedere track heeft zo zijn eigen rooster en assistentiemomenten:
 
-| Data Science     | Flask             | Unity             |
-| ---------------- | ----------------- | ----------------- |
-| Ma 13 - 17 Mayla | Ma 9 - 13 Yvette  |                   |
-|                  | Di 11 - 17 Max    |                   |
-|                  | Wo 13 - 15 Max    | Wo 9 - 13 Kamiel  |
-| Do 9 - 13 Mayla  |                   |                   |
-|                  | Vr 13 - 17 Yvette | Vr 11 - 15 Kamiel |
+|           | Data Science     | Flask              | Unity             |
+| --------- | ---------------- | ------------------ | ----------------- |
+| maandag   | **13--17 Mayla** |  **9--13 Yvette**  |                   |
+| dinsdag   |                  | **11--17 Max**     |                   |
+| woensdag  |                  |   13--15 Max       |  **9--13 Kamiel** |
+| donderdag |   11--17 Mayla   |   13--17 Max       |                   |
+| vrijdag   |                  |   13--17 Yvette    |   11--15 Kamiel   |
 
-Je gaat ook wekelijks bijeenkomen met je begeleider. Dit is altijd in de eerste sessie van de week. Doe je bijvoorbeeld Data Science, dan moet je maandag van 13:00 tot 17:00 aanwezig zijn.
+Je gaat ook wekelijks bijeenkomen met je begeleider. De vier opties hiervoor staan vetgedrukt in het schema hierboven. Als je voor een track kiest moet je voor één van deze vier opties volledig beschikbaar zijn.
 
-## Kalender
-
-Tijdens de eerste drie weken ga je aan de slag met de voorbereiding: het leren kennen van het platform waarmee je aan de slag gaat.
-
-| Onderdeel     | Tijdsbesteding | Deadline  |
-| ------------- | -------------: | --------: |
-| Track         |        ~60 uur | vr 21 apr |
-
-Het project wordt gedaan volgens een aantal milestones.
-
-| Onderdeel        | Tijdsbesteding | Deadline  |
-| ---------------- | -------------: | --------: |
-| Projectvoorstel  |         ~6 uur | di 18 apr |
-| Projectvalidatie |        ~10 uur | wo 26 apr |
-| Versie 1         |        ~20 uur | vr 12 mei |
-| Versie 2         |        ~20 uur | vr 19 mei |
-| Versie 3         |        ~20 uur | vr 26 mei |
-| Versie 4         |        ~10 uur | wo 31 mei |
-| Eindpresentaties |                | vr 2 jun  |
 
 ## Minimumeisen
 
@@ -99,7 +109,7 @@ Naast de minimumeisen hierboven moet je project op GitHub staan. In de repositor
 * Cijfer 9: een eigen project met een creatieve eigen insteek, waarvoor diverse technieken zijn uitgezocht die niet als zodanig aangeboden worden in tutorials of eerder werk, en waarvoor dus flinke ontwerp-uitdagingen zijn aangegaan, zoals aangetoond door reflectie en commits; zeer nette code, repository en documentatie en daardoor goed over te nemen door een andere programmeur om verder te ontwikkelen.
 * Cijfer 10: een zelfgedefinieerd project dat uitblinkt in originaliteit en complexiteit, waarvoor grote ontwerp-uitdagingen zijn aangegaan die niet in het verlengde liggen van tutorials of eerder uitgewerkte projecten, zoals aangetoond door reflectie en commits; het project zou zonder grote wijzigingen kunnen worden gepubliceerd als website, paper of onderzoeksresultaat; de code, repository en documentatie zijn daarom ook uitstekend en specifiek gericht op verder ontwikkelen en hergebruik.
 
-In de beschrijving voor ieder cijfer hierboven staan de minimumeisen voor dat cijfer. Deze moeten allemaal gehaald worden. Voor een 8 moet er bijvoorbeeld zichtbare aandacht zijn voor nette code en de repository en documentatie met een goede resultaat. Stel dat de code netjes is, maar de documentatie is net voldoende, dan past daar niet het cijfer 8 bij.
+In de beschrijving hierboven staan de **minimumeisen** voor elk cijfer: al deze eisen moeten dus gehaald worden om in aanmerking te komen voor het genoemde cijfer. Voor een 8 moet er project staan op basis van zelf-uitgezochte technieken, en ook duidelijke aandacht voor nette code, repo en docs. Stel dat het project uitdagend is, de code netjes, maar de documentatie is niet voldoende, dan past daar niet het cijfer 8 bij.
 
 ## Samenwerken
 

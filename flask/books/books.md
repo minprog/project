@@ -212,7 +212,7 @@ requirements:
 
 ## Walkthrough
 
-This assignment starts with relatively little starter code. This means you will have to put most of the puzzle pieces together yourself. Luckily the lecture arms you with working examples of similar challenges that you will face while working on this assignment. So be sure to keep the lecture at hand, and to [TODO DOWNLOAD URL]() the examples.
+This assignment starts with relatively little starter code. This means you will have to put most of the puzzle pieces together yourself. Luckily the lecture arms you with working examples of similar challenges that you will face while working on this assignment. So be sure to keep the lecture at hand, and to [download the examples](https://github.com/minprog/project/raw/2022/flask/lectures/5%20orms/src4.zip).
 
 There is a lot to do, and you can work through it all in a different order, but here's our advice:
 

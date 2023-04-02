@@ -20,4 +20,4 @@ Tot slot, mocht je opmerkingen, vragen of klachten over wat dan ook over het tra
 
 ## Bijdragen
 
-Grote dank aan Fernando Pascoal Dos Santos voor het mogen gebruiken van voor het vak Fundamentals of Data Science samengestelde labs.
+Grote dank aan Fernando Pascoal Dos Santos voor het mogen gebruiken van voor het vak Fundamentals of Data Science samengestelde labs. Ook dank aan Simon Pauw en Wouter Vrielink voor het Notebook over Pandas.

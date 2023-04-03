@@ -24,4 +24,4 @@ After installation you can open Jupyter Notebook by typing the command:
 
 To see if all went well, download the following Notebook file and go through the introduction in Jupyter Notebook:
 
-`curl -LO https://github.com/minprog/project/raw/2022/data-science/1%20installation/installation.ipynb`
+`curl -LO https://github.com/minprog/project/raw/2022/data-science/2%20labs/src/installation.ipynb`

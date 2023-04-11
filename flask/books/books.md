@@ -223,6 +223,9 @@ Start with setting up the database by implementing `import.py` (and `models.py` 
 1. First, Brian introduced `create.py` to create the database based on models from `models.py`. We suggest you start by copying these files from lecture.
 2. Then change `models.py` to no longer have a `Flight` and `Passenger` model, but a `Book` model instead. No need to worry about users and reviews just yet. Take a closer look at `books.csv` to figure out what a `Book` should consist of.
 3. Go ahead and run `create.py`. If all goes well, run `psql books` and then `\dt` to see the newly created table.
+
+> If you get an error mentioning the password is incorrect, odds are you have set a password in a previous step. At this point we recommend creating a new user for postgres and a password via: `sudo -u postgres createuser <name> --pwprompt`. Then export the `DATABASE_URL` again, but with your username and password in the URL: `export DATABASE_URL="postgresql://username:password@localhost/books"`. Be sure not to reuse any existing passwords here.
+
 4. For `import.py` copy and rename `import1.py` from lecture. 
 5. Then modify `import.py` to read in `books.csv` instead of `flights.csv`, and write all books data to the database.
 

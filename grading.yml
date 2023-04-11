@@ -22,9 +22,8 @@ grades:
     ds_lab5: *besproken
     ds_lab6: *besproken
 
-    search: *besproken
-    wiki: *besproken
-    commerce: *besproken
+    finance: *besproken
+    books: *besproken
 
     proposal: *besproken
     design: *besproken
@@ -61,9 +60,8 @@ data_science:
         ds_lab5: 1
         ds_lab6: 1
 
-django:
+flask:
     show_progress: true
     submits:
-        search: 1
-        wiki: 1
-        commerce: 1
+        finance: 1
+        books: 1

@@ -1,0 +1,4 @@
+name: proposal_ds
+files:
+    required:
+        - proposal.pdf

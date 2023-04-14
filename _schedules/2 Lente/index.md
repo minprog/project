@@ -81,7 +81,7 @@ Iedere track heeft zo zijn eigen rooster en assistentiemomenten:
 | dinsdag   |                  | **11--17 Max**     |                   |
 | woensdag  |                  |   13--15 Max       |  **9--13 Kamiel** |
 | donderdag |   11--17 Mayla   |   13--17 Max       |                   |
-| vrijdag   |                  |   13--17 Yvette    |   11--15 Kamiel   |
+| vrijdag   |                  |   13--17 Yvette    |    9--13 Kamiel   |
 
 Je gaat ook wekelijks bijeenkomen met je begeleider. De vier opties hiervoor staan vetgedrukt in het schema hierboven. Als je voor een track kiest moet je voor één van deze vier opties volledig beschikbaar zijn.
 

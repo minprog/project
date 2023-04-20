@@ -44,6 +44,7 @@ calculation:
 project_milestones:
     show_progress: true
     submits:
+        proposal_ds: 1
         proposal: 1
         git: 1
         process: 1

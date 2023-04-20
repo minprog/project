@@ -1,0 +1,7 @@
+name: books
+files:
+    required:
+        - books.zip
+# check:
+#     tool: check50
+#     slug: minprog/webprogrammeren/checks_2020/finance

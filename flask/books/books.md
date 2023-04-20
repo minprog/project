@@ -351,6 +351,5 @@ Make sure that you've set your `DATABASE_URL` environment variable before runnin
 
 ## How to Submit
 
-You should have submitted the link to your generated repository already when starting!
-
-Example: `https://github.com/uva-webapps/books-username`
+Make a zip and submit below!
+Please remove any large files that might cause the zip file to grow beyond 9MB!

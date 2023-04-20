@@ -25,6 +25,8 @@ grades:
     finance: *besproken
     books: *besproken
 
+    proposal_ds: *besproken
+
     proposal: *besproken
     design: *besproken
     process: *besproken

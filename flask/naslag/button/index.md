@@ -7,7 +7,6 @@ Veel hiervan is niet mogelijk met enkel HTML & CSS. Om dit wel mogelijk te maken
 Hieronder vind je een stapsgewijs ontwerp voor het maken van een knop die zijn werk kan doen zonder de pagina te verlaten. Dit ontwerp kan je uitbreiden en aanpassen voor allerlei vormen van dynamische content.
 
 <details markdown="1"><summary markdown="span">JavaScript spoiler</summary>
-    <code>
         <script>
             const buttons = document.querySelectorAll(".favorite-button")
 
@@ -26,8 +25,10 @@ Hieronder vind je een stapsgewijs ontwerp voor het maken van een knop die zijn w
                 })
             })
         </script>
-    </code>
 </details>
 
 ## Enkel Flask + HTML & CSS
-    
+
+![embed](https://api.eu.kaltura.com/p/120/sp/12000/embedIframeJs/uiconf_id/23449960/partner_id/120?iframeembed=true&playerId=kaltura_player&entry_id=0_m4hzcabg&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en_US&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=0_z4gdq7fk)
+
+<https://video.uva.nl/media/Favorite+Button+using+JavaScript+-+HTML+%26+Flask/0_m4hzcabg>

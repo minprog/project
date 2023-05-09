@@ -41,12 +41,26 @@ In dit geval is de relatie tussen gebruikers en boeken een Many to Many relatie:
 
 Voor een many to many relatie is er een aparte tabel nodig om de relatie op te slaan. De relatie hier is een gebruiker en een boek. Dus is er één kolom voor de gebruikers en één kolom voor de boeken: <code>user_id, book_id</code> bijvoorbeeld.
 
-Nou is die extra tabel alleen een manier om de relatie op te slaan, maar niet hoe je er mee wilt werken in code. Het is natuurlijker om na te denken over een gebruiker haar favoriete boeken of over de gebruikers die fan zijn van een boek. Daarom kan je met een ORM zoals SQLAlchemy deze relatie ook zo modelleren. Door aan de modellen van zowel een gebruiker als een boek een <code>relationship mee te geven</code>. De details hiervan vind je op <https://flask-sqlalchemy.palletsprojects.com/en/3.0.x/models/> en <https://docs.sqlalchemy.org/en/20/orm/basic_relationships.html#many-to-many>.
+Nou is die extra tabel alleen een manier om de relatie op te slaan, maar niet hoe je er mee wilt werken in code. Het is natuurlijker om na te denken over een gebruiker haar favoriete boeken of over de gebruikers die fan zijn van een boek. Daarom kan je met een ORM zoals SQLAlchemy deze relatie ook zo modelleren. Door aan de modellen van zowel een gebruiker als een boek een <code>relationship mee te geven</code>. De details hiervan vind je op <https://flask-sqlalchemy.palletsprojects.com/en/3.0.x/models/> en <https://docs.sqlalchemy.org/en/20/orm/basic_relationships.html#many-to-many>. Uiteindelijk maakt dit het mogelijk om via een constructie als `user.favorite_books` te werken met alle favoriete boeken van een gebruiker.
 </details>
 
 
+<details markdown="1"><summary markdown="span">Code van de Flask route</summary>
+        
+        <form action={{url_for("favorite", isbn=book.isbn)}} method="post">
+            <button class="favorite-button" type="submit">
+            {% if book in user.favorite_books %}
+            ❤️
+            {% else %}
+            ♡
+            {% endif %}
+            </button>
+        </form>
 
-<details markdown="1"><summary markdown="span">Code voor Flask route</summary>
+</details>
+
+<details markdown="1"><summary markdown="span">Code van de Flask route</summary>
+
         @app.route("/favorite/<isbn>", methods=["POST"])
         @login_required
         def favorite(isbn):
@@ -68,4 +82,5 @@ Nou is die extra tabel alleen een manier om de relatie op te slaan, maar niet ho
             db.session.commit()
 
             return redirect(request.referrer)
+            
 </details>

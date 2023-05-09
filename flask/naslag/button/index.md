@@ -45,7 +45,7 @@ Nou is die extra tabel alleen een manier om de relatie op te slaan, maar niet ho
 </details>
 
 
-<details markdown="1"><summary markdown="span">Code van de Flask route</summary>
+<details markdown="1"><summary markdown="span">Code van het HTML form</summary>
         
         <form action={{url_for("favorite", isbn=book.isbn)}} method="post">
             <button class="favorite-button" type="submit">
@@ -82,5 +82,5 @@ Nou is die extra tabel alleen een manier om de relatie op te slaan, maar niet ho
             db.session.commit()
 
             return redirect(request.referrer)
-            
+
 </details>

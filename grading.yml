@@ -48,6 +48,10 @@ project_milestones:
         proposal: 1
         git: 1
         process: 1
+        versie1: 1
+        versie2: 1
+        versie3: 1
+        versie4: 1
 
 project_uitwerking:
     submits:

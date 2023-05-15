@@ -23,7 +23,7 @@ Het project wordt gedaan volgens een aantal **milestones**. Na elke milestone ga
 | Projectvoorstel  |         ~6 uur | di 18 apr |
 | Projectvalidatie |        ~10 uur | wo 26 apr |
 | Versie 1         |        ~20 uur | vr 12 mei |
-| Versie 2         |        ~20 uur | wo 19 mei |
+| Versie 2         |        ~20 uur | vr 19 mei |
 | Versie 3         |        ~20 uur | vr 26 mei |
 
 En de **afsluiting** vindt plaats met het opleveren van je definitieve project en de eindpresentaties. Deze data staan helemaal vast en kunnen niet aangepast worden.

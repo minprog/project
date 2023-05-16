@@ -124,3 +124,7 @@ Doen we `const button = document.querySelector("button")`. Dan krijg je:
 
 In beide gevallen is het een string en gaat het erom wat er in de knop staat. Alleen de één geeft je alleen de tekst en de ander ook alle HTML tags er binnen. 
 </details>
+
+<details markdown="1"><summary markdown="span">Console in Safari</summary>
+Standaard kan je niet zomaar de console openen binnen Safari. Dit moet je eerst aanzetten. Zie daarvoor <https://support.apple.com/nl-nl/guide/safari/sfri20948/mac>
+</details>

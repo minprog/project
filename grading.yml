@@ -36,6 +36,11 @@ grades:
     screencast: *besproken
     final: *project
 
+    versie1: *besproken
+    versie2: *besproken
+    versie3: *besproken
+    versie4: *besproken
+
 calculation:
     eindcijfer:
         project_milestones: 0

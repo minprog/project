@@ -1,6 +1,6 @@
 # Lecture 3: SQL
 
-> This is an optional lecture covering SQL. If you have previously taken the course "Datarepresentaties, tools en technieken", you have already seen this topic and can safely skip this lectur. Do feel free to take a peek at the notes or use parts of the lecture as a quick refresher.
+> This is an optional lecture covering SQL. If you have previously taken the course "Datarepresentaties, tools en technieken", you have already seen this topic and can safely skip this lecture. Do feel free to take a peek at the notes or use parts of the lecture as a quick refresher.
 
 ![embed](https://www.youtube.com/embed/Eda-NmcE5mQ)
 

@@ -26,11 +26,11 @@ iOS:
   Tutorials & Todo app (1 week):
     Installatie: /ios/installation
     Swift naslag: /ios/swift
-    SwiftUI: /ios/swiftui
-    Edit view: /ios/appdev
-    Todo App: /ios/todo
+    SwiftUI [tutorial]: /ios/swiftui
+    Edit view [tutorial]: /ios/appdev
+    Todo App [opdracht]: /ios/todo
   Calculator app (1 week):
-    Calculator app: /ios/calculator
+    Calculator app [opdracht]: /ios/calculator
   Projectvoorstel (uiterlijk dinsdag 18 april):
     Projectkeuze [Milestone]: /data-science/requirements
   Projectvalidatie (1 week):

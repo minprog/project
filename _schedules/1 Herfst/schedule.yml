@@ -2,10 +2,10 @@ Flask:
   Finance (1 week):
     Videocollege Flask: /flask/lectures/flask
     Finance [Samenwerken]: /flask/finance
-  Books (2 weken):
+  Books (1.5 week):
     "Videocollege ORMs & APIs": /flask/lectures/orms
     Books [Opdracht]: /flask/books
-  Projectvoorstel (uiterlijk dinsdag 18 april):
+  Projectvoorstel (uiterlijk dinsdag 14 november):
     Projectkeuze [Milestone]: /milestones/topic
     Projectvoorstel [Milestone]: /milestones/proposal
   Projectvalidatie (1 week):
@@ -16,7 +16,7 @@ Flask:
     "Versie 1 [Milestone]": /milestones/versie1
     "Versie 2 [Milestone]": /milestones/versie2
     "Versie 3 [Milestone]": /milestones/versie3
-  Afronding (uiterlijk woensdag 31 mei):
+  Afronding (uiterlijk woensdag 20 december):
     "Review & Cleanup": /milestones/cleanup
     "Versie 4 [Milestone]": /milestones/versie4
     Screencast: /milestones/screencast
@@ -31,7 +31,7 @@ iOS:
     Todo App [opdracht]: /ios/todo
   Calculator app (1 week):
     Calculator app [opdracht]: /ios/calculator
-  Projectvoorstel (uiterlijk dinsdag 18 april):
+  Projectvoorstel (uiterlijk dinsdag 14 november):
     Projectkeuze [Milestone]: /data-science/requirements
   Projectvalidatie (1 week):
     Uitleg projectvalidatie: /milestones/validatie
@@ -42,13 +42,13 @@ iOS:
     "Versie 1 [Milestone]": /milestones/versie1
     "Versie 2 [Milestone]": /milestones/versie2
     "Versie 3 [Milestone]": /milestones/versie3
-  Afronding (uiterlijk woensdag 31 mei):
+  Afronding (uiterlijk woensdag 20 december):
     "Review & Cleanup": /milestones/cleanup
     "Versie 4 [Milestone]": /milestones/versie4
     Screencast: /milestones/screencast
     Presentatie: /milestones/presentation
 Unity:
-  Voorbereiding (3 weken):
+  Voorbereiding (2 weken):
     Intro: /unity/intro
     Overzicht: /unity/overzicht
     Game Engines: /unity/game-engines
@@ -57,7 +57,7 @@ Unity:
     Roll a ball: "/unity/roll-a-ball"
     Unity Learn: "/unity/unity-learn"
     Verder studiemateriaal: /unity/learning-resources
-  Projectvoorstel (uiterlijk dinsdag 18 april):
+  Projectvoorstel (uiterlijk dinsdag 14 november):
     Projectkeuze [Milestone]: /unity/requirements
     Projectvoorstel [Milestone]: /milestones/proposal
   Projectvalidatie (1 week):
@@ -68,7 +68,7 @@ Unity:
     "Versie 1 [Milestone]": /milestones/versie1
     "Versie 2 [Milestone]": /milestones/versie2
     "Versie 3 [Milestone]": /milestones/versie3
-  Afronding (uiterlijk woensdag 31 mei):
+  Afronding (uiterlijk woensdag 20 december):
     "Review & Cleanup": /milestones/cleanup
     "Versie 4 [Milestone]": /milestones/versie4
     Cleanup: /milestones/cleanup

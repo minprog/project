@@ -1,4 +1,4 @@
-# Programmeerproject <br><small>Studiewijzer Fulltime, Lente 2023</small>
+# Programmeerproject <br><small>Studiewijzer Fulltime, Herfst 2023</small>
 
 > Binnen twee maanden vorm je van begin tot eind een eigen idee tot een ontwerp en vervolgens implementeer je een eigen applicatie in een modern software-framework. Je doet ervaring op met systematisch werken en documenteren van zo'n project en het uitzoeken van de kennis die je nodig hebt om het tot een succes te maken. Hierbij beperkt de staf zich tot het geven van feedback op de ideeën en het helpen oplossen van technische blokkades.
 
@@ -8,30 +8,28 @@ De vakken Programmeren 1 en Datarepresentaties, of Programmeren 1 en 2, moet je 
 
 ## Kalender
 
-**Let op! In deze periode zit een vakantieweek én een heleboel feestdagen. Het project kost wel 8 volle weken aan tijd. Zorg dus dat je goed nadenkt over wanneer je je werkzaamheden plant. Als je de vakantieweek wil nemen, plan dan wat werkzaamheden op feest- of weekenddagen. Andersom is natuurlijk ook prima!**
-
 Tijdens de **eerste drie weken** ga je aan de slag met de voorbereiding: het leren kennen van het platform waarmee je aan de slag gaat.
 
 | Onderdeel     | Tijdsbesteding | Deadline  |
 | ------------- | -------------: | --------: |
-| Voorbereiding |        ~60 uur | vr 21 apr |
+| Voorbereiding |        ~60 uur | vr 17 nov |
 
 Het project wordt gedaan volgens een aantal **milestones**. Na elke milestone ga je bespreken met je begeleider hoe je ervoor staat en hoe je verder kunt. De deadlines van versie 1 t/m 3 mag je met enkele dagen verschuiven als het strikt nodig is.
 
 | Onderdeel        | Tijdsbesteding | Deadline  |
 | ---------------- | -------------: | --------: |
-| Projectvoorstel  |         ~6 uur | di 18 apr |
-| Projectvalidatie |        ~10 uur | wo 26 apr |
-| Versie 1         |        ~20 uur | vr 12 mei |
-| Versie 2         |        ~20 uur | wo 19 mei |
-| Versie 3         |        ~20 uur | vr 26 mei |
+| Projectvoorstel  |         ~8 uur | di 14 nov |
+| Projectvalidatie |        ~10 uur | di 21 nov |
+| Versie 1         |        ~20 uur | vr 24 nov |
+| Versie 2         |        ~20 uur | vr  1 dec |
+| Versie 3         |        ~20 uur | vr  8 dec |
 
 En de **afsluiting** vindt plaats met het opleveren van je definitieve project en de eindpresentaties. Deze data staan helemaal vast en kunnen niet aangepast worden.
 
 | Onderdeel          | Deadline  |
 | ------------------ | --------: |
-| Definitieve versie | wo 31 mei |
-| Eindpresentaties   | vr 2 jun  |
+| Definitieve versie | wo 20 dec |
+| Eindpresentaties   | do 21 dec & vr 22 dec |
 
 
 ## Staff
@@ -40,10 +38,13 @@ Jelle van Assema en Martijn Stegeman zijn de docenten bij het vak. Je kan ze via
 
 De begeleiders bij dit vak begeleiden je bij het project en de voorbereidingen daarvoor. Je begeleider is ook je eerste contactpunt binnen het vak.
 
-| Data Science   | Flask           | Unity              |
-| ---------------| --------------- | ------------------ |
-| Mayla Kersten  | Yvette Schröder | Kamiel de Visser   |
-|                | Max Westerman   |                    |
+| Flask                | iOS             | Unity              |
+| ---------------------| --------------- | ------------------ |
+| Quinten van der Post | Yvette Schröder | Kamiel de Visser   |
+| Matyas Wouters       | Julius Kempen   | Martijn Reus       |
+| Nina van der Meulen  |                 |                    |
+| Kim Koomen           |                 |                    |
+| Wessel Beumer        |                 |                    |
 
 ## Contact
 
@@ -55,13 +56,6 @@ Tijdens dit vak zul je regelmatig de hulp inroepen van de staff en medestudenten
 - je weet niet waar te beginnen of je zit met een onvindbare bug
 - je hebt moeite met het verzinnen van een oplossing
 - kwestie van binnenlopen!
-
-
-<!--**Slack of Discord:** direct contact.
-
-- onderlinge support
-- snelle vragen over deadlines, contact met samenwerkpartner
-- mededelingen en ziekmeldingen -->
 
 **E-mail:** contact met de docent.
 
@@ -75,13 +69,13 @@ Tijdens dit vak zul je regelmatig de hulp inroepen van de staff en medestudenten
 
 Iedere track heeft zo zijn eigen rooster en assistentiemomenten:
 
-|           | Data Science     | Flask              | Unity             |
-| --------- | ---------------- | ------------------ | ----------------- |
-| maandag   | **13--17 Mayla** |  **9--13 Yvette**  |                   |
-| dinsdag   |                  | **11--17 Max**     |                   |
-| woensdag  |                  |   13--15 Max       |  **9--13 Kamiel** |
-| donderdag |   11--17 Mayla   |   13--17 Max       |                   |
-| vrijdag   |                  |   13--17 Yvette    |    9--13 Kamiel   |
+|           | Flask             | iOS                | Unity              |
+| --------- | ----------------- | ------------------ | ------------------ |
+| maandag   |                   |  **11--15 Julius** |    13--17 Martijn  |
+| dinsdag   |                   |  **11--15 Yvette** |                    |
+| woensdag  |                   |   11--15 Julius    |                    |
+| donderdag |                   |   11--15 Yvette    |    13--17 Martijn  |
+| vrijdag   |                   |                    |  **11--17 Kamiel** |
 
 Je gaat ook wekelijks bijeenkomen met je begeleider. De vier opties hiervoor staan vetgedrukt in het schema hierboven. Als je voor een track kiest moet je voor één van deze vier opties volledig beschikbaar zijn.
 

@@ -22,8 +22,7 @@ Flask:
     Screencast: /milestones/screencast
     Presentatie: /milestones/presentation
 iOS:
-  FAQ:
-    FAQ: /ios/help
+  FAQ: /ios/help
   Tutorials & Todo app (1 week):
     Installatie: /ios/installation
     Swift naslag: /ios/swift

@@ -1,4 +1,4 @@
-# Programmeerproject <br><small>Studiewijzer Fulltime, Herfst 2022</small>
+# Programmeerproject <br><small>Studiewijzer Fulltime, Lente 2023</small>
 
 > Binnen twee maanden vorm je van begin tot eind een eigen idee tot een ontwerp en vervolgens implementeer je een eigen applicatie in een modern software-framework. Je doet ervaring op met systematisch werken en documenteren van zo'n project en het uitzoeken van de kennis die je nodig hebt om het tot een succes te maken. Hierbij beperkt de staf zich tot het geven van feedback op de ideeën en het helpen oplossen van technische blokkades.
 
@@ -6,18 +6,44 @@
 
 De vakken Programmeren 1 en Datarepresentaties, of Programmeren 1 en 2, moet je helemaal gehaald hebben vóór je deze cursus start.
 
+## Kalender
+
+**Let op! In deze periode zit een vakantieweek én een heleboel feestdagen. Het project kost wel 8 volle weken aan tijd. Zorg dus dat je goed nadenkt over wanneer je je werkzaamheden plant. Als je de vakantieweek wil nemen, plan dan wat werkzaamheden op feest- of weekenddagen. Andersom is natuurlijk ook prima!**
+
+Tijdens de **eerste drie weken** ga je aan de slag met de voorbereiding: het leren kennen van het platform waarmee je aan de slag gaat.
+
+| Onderdeel     | Tijdsbesteding | Deadline  |
+| ------------- | -------------: | --------: |
+| Voorbereiding |        ~60 uur | vr 21 apr |
+
+Het project wordt gedaan volgens een aantal **milestones**. Na elke milestone ga je bespreken met je begeleider hoe je ervoor staat en hoe je verder kunt. De deadlines van versie 1 t/m 3 mag je met enkele dagen verschuiven als het strikt nodig is.
+
+| Onderdeel        | Tijdsbesteding | Deadline  |
+| ---------------- | -------------: | --------: |
+| Projectvoorstel  |         ~6 uur | di 18 apr |
+| Projectvalidatie |        ~10 uur | wo 26 apr |
+| Versie 1         |        ~20 uur | vr 12 mei |
+| Versie 2         |        ~20 uur | wo 19 mei |
+| Versie 3         |        ~20 uur | vr 26 mei |
+
+En de **afsluiting** vindt plaats met het opleveren van je definitieve project en de eindpresentaties. Deze data staan helemaal vast en kunnen niet aangepast worden.
+
+| Onderdeel          | Deadline  |
+| ------------------ | --------: |
+| Definitieve versie | wo 31 mei |
+| Eindpresentaties   | vr 2 jun  |
+
+
 ## Staff
 
 Jelle van Assema en Martijn Stegeman zijn de docenten bij het vak. Je kan ze via e-mail bereiken op <help@mprog.nl>.
 
-De mentoren bij dit vak begeleiden je bij het project en de voorbereidingen daarvoor. Je mentor is ook je eerste contactpunt binnen het vak.
+De begeleiders bij dit vak begeleiden je bij het project en de voorbereidingen daarvoor. Je begeleider is ook je eerste contactpunt binnen het vak.
 
-| Agent Based Modeling | Data Science  | Django          | Unity            |
-| -------------------- | ------------- | --------------- | ---------------- |
-| Joos Akkerman        | Mayla Kersten | Julius Kempen   | Kamiel de Visser |
-| Seda den Boer        | Wesley Korff  | Yvette Schröder |
-| Okke van Eck         |               | Stephan Visser  |
-| Eva Plas             |               | Max Westerman   |
+| Data Science   | Flask           | Unity              |
+| ---------------| --------------- | ------------------ |
+| Mayla Kersten  | Yvette Schröder | Kamiel de Visser   |
+|                | Max Westerman   |                    |
 
 ## Contact
 
@@ -30,11 +56,12 @@ Tijdens dit vak zul je regelmatig de hulp inroepen van de staff en medestudenten
 - je hebt moeite met het verzinnen van een oplossing
 - kwestie van binnenlopen!
 
-**Slack of Discord:** direct contact.
+
+<!--**Slack of Discord:** direct contact.
 
 - onderlinge support
 - snelle vragen over deadlines, contact met samenwerkpartner
-- mededelingen en ziekmeldingen
+- mededelingen en ziekmeldingen -->
 
 **E-mail:** contact met de docent.
 
@@ -48,85 +75,41 @@ Tijdens dit vak zul je regelmatig de hulp inroepen van de staff en medestudenten
 
 Iedere track heeft zo zijn eigen rooster en assistentiemomenten:
 
-| Agent Based Modeling | Data Science      | Django             | Unity           |
-| -------------------- | ----------------- | ------------------ | --------------- |
-| Ma 11 - 15 Okke      | Ma 11 - 15 Mayla  | Ma 11 - 12 Julius  |                 |
-|                      |                   | Ma 12 - 13 Yvette  |                 |
-|                      |                   | Ma 13 - 15 Max     |                 |
-| Di 12 - 15 Eva       |                   | Di 11 - 15 Stephan | Di 14-17 Kamiel |
-| Wo 11 - 15 Seda      | Wo 9 - 12 Wesley  | Wo 13 - 17 Max     |                 |
-| Do 12 - 15 Joos      |                   | Do 11 - 14 Julius  | Do 14-17 Kamiel |
-| Vr 11 - 13 Eva       | Vr 11 - 14 Wesley | Vr 13 - 17 Yvette  |                 |
+|           | Data Science     | Flask              | Unity             |
+| --------- | ---------------- | ------------------ | ----------------- |
+| maandag   | **13--17 Mayla** |  **9--13 Yvette**  |                   |
+| dinsdag   |                  | **11--17 Max**     |                   |
+| woensdag  |                  |   13--15 Max       |  **9--13 Kamiel** |
+| donderdag |   11--17 Mayla   |   13--17 Max       |                   |
+| vrijdag   |                  |   13--17 Yvette    |    9--13 Kamiel   |
 
-Je gaat ook wekelijks bijeenkomen met je groepje en de mentor tijdens de bovengenoemde uren.
+Je gaat ook wekelijks bijeenkomen met je begeleider. De vier opties hiervoor staan vetgedrukt in het schema hierboven. Als je voor een track kiest moet je voor één van deze vier opties volledig beschikbaar zijn.
 
-## Kalender
-
-Tijdens de eerste drie weken ga je aan de slag met de voorbereiding: het leren kennen van het platform waarmee je aan de slag gaat.
-
-| Onderdeel     | Tijdsbesteding | Deadline  |
-| ------------- | -------------: | --------: |
-| Track         |        ~60 uur | vr 18 nov |
-
-Het project wordt gedaan volgens een aantal milestones. Dit zijn momenten in het project waarbij we ook een expliciet contactmoment inbouwen, zodat je feedback kunt krijgen.
-
-| Onderdeel     | Tijdsbesteding | Deadline  |
-| ------------- | -------------: | --------: |
-| Proposal      |         ~8 uur | ma 21 nov |
-| Prototype     |        ~20 uur | wo 30 nov |
-| Beta Version  |        ~40 uur | wo 14 dec |
-| Final Product |        ~10 uur | vr 16 dec |
-| Screencast    |         ~4 uur | vr 16 dec |
-
-In de laatste week ronden we af:
-
-| Onderdeel             | Datum             |
-| --------------------- | ----------------: |
-| Eindpresentaties      | di 20 + wo 21 dec |
-
-De deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór de kerstvakantie helemaal afgerond is, inclusief eindbeoordeling.
 
 ## Minimumeisen
 
 Om de cursus tot een goed einde te brengen, verwachten we dat je:
 
-1. wekelijks contact hebt met je projectmentor,
+1. wekelijks contact hebt met je begeleider,
 1. een interessant en voor jou leerzaam project implementeert en inlevert,
 1. goed werk steekt in de milestones voor je project,
 1. gebruik maakt van git en dagelijks je voortgang pusht naar github,
-1. regelmatig vragen stelt,
-1. en de eindpresentaties bijwoont.
+1. regelmatig vragen stelt.
 
 Let op dat je minimaal aan bovenstaande verwachtingen moet voldoen om een eindcijfer te kunnen halen.
 
 ## Beoordeling
 
-Naast de minimumeisen hierboven moet je project moet uiteindelijk op GitHub staan, met in de repository de code voor het project en de bijbehorende documentatie, en er moet een zodanige hoeveelheid code en documentatie zijn dat beoordeling goed mogelijk is (naar oordeel van de docent).
+Naast de minimumeisen hierboven moet je project op GitHub staan. In de repository staat de code voor het project en de bijbehorende documentatie. Er moet een zodanige hoeveelheid code en documentatie zijn dat beoordeling goed mogelijk is (naar oordeel van de docent).
 
-Als je project voldoet aan de minimumeisen zal het cijfer worden bepaald met behulp van de volgende criteria, die allemaal ongeveer even zwaar tellen.
+* Cijfer 5: een onvoldoende afgerond project waar aantoonbaar wel flink werk in is gestoken, zoals ook aangetoond door reflectie bij de milestones en commits op GitHub; zo'n project zou in een later semester zonder al te veel inzet afgerond kunnen worden.
+* Cijfer 6: een basisproject waar duidelijk inzet in zit, zoals aangetoond door de reflecties bij de milestones en commits; er is weinig diepgang ten opzichte van tutorials of de gedane oefenprojecten; er is voldoende aandacht voor nette code, repo, en documentatie.
+* Cijfer 7: een eigen project dat stevig leunt op tutorials, voorbeelden of de gedane oefenprojecten (bijvoorbeeld door hergebruik van code); voldoende inzet in uitzoeken van leerzame dingen, zoals aangetoond door reflectie en commits; zichtbare aandacht voor nette code, repository, en documentatie met een voldoende resultaat.
+* Cijfer 8: een eigen project waarvoor enkele technieken uitgezocht zijn die niet als zodanig aangeboden worden in tutorials of eerder werk, en waarvoor dus leerzame ontwerp-uitdagingen zijn aangegaan, zoals aangetoond door reflectie en commits; zichtbare aandacht voor nette code, repository en documentatie met een goed resultaat.
+* Cijfer 9: een eigen project met een creatieve eigen insteek, waarvoor diverse technieken zijn uitgezocht die niet als zodanig aangeboden worden in tutorials of eerder werk, en waarvoor dus flinke ontwerp-uitdagingen zijn aangegaan, zoals aangetoond door reflectie en commits; zeer nette code, repository en documentatie en daardoor goed over te nemen door een andere programmeur om verder te ontwikkelen.
+* Cijfer 10: een zelfgedefinieerd project dat uitblinkt in originaliteit en complexiteit, waarvoor grote ontwerp-uitdagingen zijn aangegaan die niet in het verlengde liggen van tutorials of eerder uitgewerkte projecten, zoals aangetoond door reflectie en commits; het project zou zonder grote wijzigingen kunnen worden gepubliceerd als website, paper of onderzoeksresultaat; de code, repository en documentatie zijn daarom ook uitstekend en specifiek gericht op verder ontwikkelen en hergebruik.
 
-**Scope.** Dit criterium staat enigszins in contrast met de andere. We kijken hier of je relatief veel of weinig hebt gedaan tijdens het project. Dit wordt voornamelijk gedaan aan de hand van de hoeveelheid geproduceerde code maar ook je zichtbare inzet kan hier een rol spelen. Als je meer doet wordt het ook iets lastiger om overzichtelijke code te schrijven en je project te documenteren. Hiervoor zit dus enige compensatie in dit criterium.
-
-**Code.** In hoeverre is de code zorgvuldig ontworpen en leesbaar? We kijken naar codekwaliteit, eventueel database-ontwerp of andere onderdelen van het technisch ontwerp, aangepast aan het platform waarop je werkt. Te denken valt aan commentaar en naamgeving, organisatie van de code in classes en files, en voor de database duplicatie en de mate waarin zoekopdrachten efficiënt kunnen worden uitgevoerd.
-
-<!-- **Git.** Tijdens het project word je geacht gebruik te maken van Git voor het beheren van al je projectbestanden en -documentatie. Git is een systeem voor versiebeheer en je zult dus, vrijwel dagelijks, nieuwe versies van je projectbestanden naar je Git-"repository" committen. Een groot probleem is het "opnieuw beginnen" van een repository. Dit moet te allen tijde worden voorkomen. Loop je vast met Git, roep dan altijd hulp in van de docenten. -->
-
-**Repository/documentatie.** De uiteindelijke versie van je project is een momentopname van je repository. Deze bevat de beste versies van jouw code en je documentatie. Hierbij zorg je voor een nette indeling in mapjes, vindbaarheid van de documentatie, vindbaarheid van de onderdelen van je code, het aanwezig zijn van een goede `README`. De documentatie is up-to-date, goed geschreven en bevat nette diagrammen, en expliciete links naar belangrijke onderdelen van de code.
-
-**Proces.** Tijdens het ontwikkelen van jouw software zul je een hoop beslissingen nemen over wat je wel en niet gaat maken, je zult leren over fundamentele ideeën en technieken, je zult beslissingen nemen over hoe je bepaalde onderdelen gaat implementeren (en hoe niet). Dit alles documenteer je in een procesboek, al vanaf het moment dat je met oefenopdrachten aan de slag gaat. Je houdt dit bij op elke dag dat je aan het project werkt.
-
-<!-- 
-Op elk van de criteria kun je 1 tot 5 punten verdienen:
-
-1. Uitstekend: zichtbaar en systematisch aan gewerkt, duidelijke eigen insteek en bijzonder hoge kwaliteit
-1. Zeer goed: zichtbaar en systematisch aan gewerkt, met een aantal kleinere dingen te verbeteren
-1. Goed: zichtbaar en systematisch aan gewerkt, maar nog belangrijke dingen te verbeteren
-1. Redelijk: zichtbaar aan gewerkt, niet zo systematisch, en nog erg veel ruimte voor verbetering
-1. Niet goed genoeg
-{: start="5" reversed="reversed"}
--->
-
-Voor sommige criteria zullen nog specifieke punten worden aangedragen waarmee duidelijker wordt hoe de beoordeling plaatsvindt. Toch zal een groot deel van de beoordeling plaats moeten vinden op basis van de concrete code die jij inlevert, omdat elke student een eigen insteek kiest.
+In de beschrijving hierboven staan de **minimumeisen** voor elk cijfer: al deze eisen moeten dus gehaald worden om in aanmerking te komen voor het genoemde cijfer. Voor een 8 moet er project staan op basis van zelf-uitgezochte technieken, en ook duidelijke aandacht voor nette code, repo en docs. Stel dat het project uitdagend is, de code netjes, maar de documentatie is niet voldoende, dan past daar niet het cijfer 8 bij.
 
 ## Samenwerken
 

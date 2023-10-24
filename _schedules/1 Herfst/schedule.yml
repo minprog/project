@@ -1,80 +1,55 @@
-Agent Based Modelling:
-  Voorbereiding (40-65% van de tijd):
-    ABM: /abm/model_theory/abm_theory
-    Forest Fire 1: /abm/forest/forest1
-    Models: /abm/model_theory/models
-    OOP Crash Course: /abm/oop_crashcourse
-    Forest Fire 2: /abm/forest/forest2
-    Experiments: /abm/model_theory/experiments
-    Forest Fire 3: /abm/forest/forest3
-    Mesa: /abm/mesa/mesa_tutorial
-    MoneyModel Experiment: /abm/mesa/moneymodel
-    Animals: /abm/animals
-    Calibration and Sensitivity: /abm/model_theory/sensitivity
-    Git (lecture): /django/lectures/git
-  Project (25-50% van de tijd):
-    Project Requirements: /abm/requirements
-    Proposal: /milestones/proposal
-    Git: /milestones/git
-    Procesboek: /milestones/process
-    Prototype: /milestones/prototype
-    Betaversie: /milestones/beta
-  Afronding (10% van de tijd):
-    Cleanup: /milestones/cleanup
-    Final product: /milestones/product
+Flask:
+  Finance (1 week):
+    Videocollege Flask: /flask/lectures/flask
+    Finance [Samenwerken]: /flask/finance
+  Books (2 weken):
+    "Videocollege ORMs & APIs": /flask/lectures/orms
+    Books [Opdracht]: /flask/books
+  Projectvoorstel (uiterlijk dinsdag 18 april):
+    Projectkeuze [Milestone]: /milestones/topic
+    Projectvoorstel [Milestone]: /milestones/proposal
+  Projectvalidatie (1 week):
+    Uitleg projectvalidatie: /milestones/validatie
+    Videocollege Git: /flask/lectures/git
+    Git opzetten [Milestone]: /milestones/git
+  Project (3 weken):
+    "Versie 1 [Milestone]": /milestones/versie1
+    "Versie 2 [Milestone]": /milestones/versie2
+    "Versie 3 [Milestone]": /milestones/versie3
+  Afronding (uiterlijk woensdag 31 mei):
+    "Review & Cleanup": /milestones/cleanup
+    "Versie 4 [Milestone]": /milestones/versie4
     Screencast: /milestones/screencast
-Django:
-  HTML, CSS, git & Python (10% van de tijd):
-    HTML, CSS [Lecture]: /django/lectures/html
-    Search [Assignment]: /django/projects/search
-    Git [Lecture]: /django/lectures/git
-    Python recap [Lecture]: /django/lectures/python
-  Django (15% van de tijd):
-    Django [Lecture]: /django/lectures/django
-    Getting Started [Wiki]: /django/projects/wiki
-    Design Document [Wiki]: /django/projects/wiki/design
-    Specification [Wiki]: /django/projects/wiki/specification
-  "Als het lukt, Databases & Django (15% van de tijd)":
-    SQL [Lecture]: /django/lectures/sql
-    Getting Started [Commerce]: /django/projects/commerce
-    Design Document [Commerce]: /django/projects/commerce/design
-    Specification [Commerce]: /django/projects/commerce/specification
-  Project (25-50% van de tijd):
-    Proposal: /milestones/proposal
-    Git: /milestones/git
-    Procesboek: /milestones/process
-    Prototype: /milestones/prototype
-    Betaversie: /milestones/beta
-  Afronding (10% van de tijd):
-    Cleanup: /milestones/cleanup
-    Final product: /milestones/product
+    Presentatie: /milestones/presentation
+iOS:
+  FAQ:
+    FAQ: /ios/help
+  Tutorials & Todo app (1 week):
+    Installatie: /ios/installation
+    Swift naslag: /ios/swift
+    SwiftUI: /ios/swiftui
+    Edit view: /ios/appdev
+    Todo App: /ios/todo
+  Calculator app (1 week):
+    Calculator app: /ios/calculator
+  Projectvoorstel (uiterlijk dinsdag 18 april):
+    Projectkeuze [Milestone]: /data-science/requirements
+  Projectvalidatie (1 week):
+    Uitleg projectvalidatie: /milestones/validatie
+    Videocollege Git: /flask/lectures/git
+    Git opzetten [Milestone]: /milestones/git
+    Skelet [Milestone]: /data-science/skelet
+  Project (3 weken):
+    "Versie 1 [Milestone]": /milestones/versie1
+    "Versie 2 [Milestone]": /milestones/versie2
+    "Versie 3 [Milestone]": /milestones/versie3
+  Afronding (uiterlijk woensdag 31 mei):
+    "Review & Cleanup": /milestones/cleanup
+    "Versie 4 [Milestone]": /milestones/versie4
     Screencast: /milestones/screencast
-Data Science:
-  Voorbereiding (40% van de tijd):
-    Intro: /data-science/intro
-    Installatie: /data-science/installation
-    Lab 1 (Python): /data-science/labs/lab1
-    Lab 2 (NumPy): /data-science/labs/lab2
-    Lab 3 (Pandas): /data-science/labs/lab3
-    Lab 4 (Matplotlib): /data-science/labs/lab4
-    Lab 5 (Working with a real dataset): /data-science/labs/lab5
-    Theorie (models): /data-science/theory/theory_1
-    Theorie (regressie): /data-science/theory/theory_2
-    Lab 6 (Scikit-Learn): /data-science/labs/lab6
-    Git (lecture): /django/lectures/git
-  Project (25-50% van de tijd):
-    DS Project Requirements: /data-science/requirements
-    Proposal: /milestones/proposal
-    Git: /milestones/git
-    Procesboek: /milestones/process
-    Skelet: /data-science/skelet
-    Betaversie: /milestones/beta
-  Afronding (10% van de tijd):
-    Cleanup: /milestones/cleanup
-    Final product: /milestones/product
-    Screencast: /milestones/screencast
+    Presentatie: /milestones/presentation
 Unity:
-  Voorbereiding (40% van de tijd):
+  Voorbereiding (3 weken):
     Intro: /unity/intro
     Overzicht: /unity/overzicht
     Game Engines: /unity/game-engines
@@ -83,14 +58,21 @@ Unity:
     Roll a ball: "/unity/roll-a-ball"
     Unity Learn: "/unity/unity-learn"
     Verder studiemateriaal: /unity/learning-resources
-  Project (25-50% van de tijd):
-    Unity Project Requirements: /unity/requirements
-    Proposal: /milestones/proposal
-    Git: /milestones/git
-    Procesboek: /milestones/process
-    Prototype: /milestones/prototype
-    Betaversie: /milestones/beta
-  Afronding (10% van de tijd):
+  Projectvoorstel (uiterlijk dinsdag 18 april):
+    Projectkeuze [Milestone]: /unity/requirements
+    Projectvoorstel [Milestone]: /milestones/proposal
+  Projectvalidatie (1 week):
+    Uitleg projectvalidatie: /milestones/validatie
+    Videocollege Git: /flask/lectures/git
+    Git opzetten [Milestone]: /milestones/git
+  Project (3 weken):
+    "Versie 1 [Milestone]": /milestones/versie1
+    "Versie 2 [Milestone]": /milestones/versie2
+    "Versie 3 [Milestone]": /milestones/versie3
+  Afronding (uiterlijk woensdag 31 mei):
+    "Review & Cleanup": /milestones/cleanup
+    "Versie 4 [Milestone]": /milestones/versie4
     Cleanup: /milestones/cleanup
     Final product: /milestones/product
     Screencast: /milestones/screencast
+    Presentatie: /milestones/presentation

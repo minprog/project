@@ -19,16 +19,16 @@ Het project wordt gedaan volgens een aantal **milestones**. Na elke milestone ga
 | Onderdeel        | Tijdsbesteding | Deadline  |
 | ---------------- | -------------: | --------: |
 | Projectvoorstel  |         ~8 uur | di 14 nov |
-| Projectvalidatie |        ~10 uur | di 21 nov |
-| Versie 1         |        ~20 uur | vr 24 nov |
-| Versie 2         |        ~20 uur | vr  1 dec |
-| Versie 3         |        ~20 uur | vr  8 dec |
+| Projectvalidatie |        ~10 uur | vr 24 dec |
+| Versie 1         |        ~20 uur | vr  1 dec |
+| Versie 2         |        ~20 uur | vr  8 dec |
+| Versie 3         |        ~20 uur | vr 15 dec |
 
 En de **afsluiting** vindt plaats met het opleveren van je definitieve project en de eindpresentaties. Deze data staan helemaal vast en kunnen niet aangepast worden.
 
-| Onderdeel          | Deadline  |
-| ------------------ | --------: |
-| Definitieve versie | wo 20 dec |
+| Onderdeel          | Deadline              |
+| ------------------ | --------------------: |
+| Definitieve versie | di 19 dec             |
 | Eindpresentaties   | do 21 dec & vr 22 dec |
 
 
@@ -71,11 +71,11 @@ Iedere track heeft zo zijn eigen rooster en assistentiemomenten:
 
 |           | Flask             | iOS                | Unity              |
 | --------- | ----------------- | ------------------ | ------------------ |
-| maandag   |                   |  **11--15 Julius** |    13--17 Martijn  |
-| dinsdag   |                   |  **11--15 Yvette** |                    |
-| woensdag  |                   |   11--15 Julius    |                    |
-| donderdag |                   |   11--15 Yvette    |    13--17 Martijn  |
-| vrijdag   |                   |                    |  **11--17 Kamiel** |
+| maandag   | Kim 11--13 & Wessel 13--17     |  **9--13 Julius**  |    13--17 Martijn  |
+| dinsdag   | Quinten 9--11, Nina 13--17 & Kim 15--17 |   11--15 Yvette    |                    |
+| woensdag  | Kim 9--13         |   13--17 Julius    |    13--17 Martijn  |
+| donderdag | Matyas 9--13, Quinten 13--17 |  **11--15 Yvette** |                    |
+| vrijdag   | Matyas 9--13, Nina 10--14, Wessel 13--17 |                    |  **11--15 Kamiel** |
 
 Je gaat ook wekelijks bijeenkomen met je begeleider. De vier opties hiervoor staan vetgedrukt in het schema hierboven. Als je voor een track kiest moet je voor één van deze vier opties volledig beschikbaar zijn.
 

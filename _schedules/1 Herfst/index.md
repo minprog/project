@@ -1,4 +1,4 @@
-# Programmeerproject <br><small>Studiewijzer Fulltime, Herfst 2023</small>
+# Programmeerproject <br><small>Studiewijzer Herfst 2023</small>
 
 > Binnen twee maanden vorm je van begin tot eind een eigen idee tot een ontwerp en vervolgens implementeer je een eigen applicatie in een modern software-framework. Je doet ervaring op met systematisch werken en documenteren van zo'n project en het uitzoeken van de kennis die je nodig hebt om het tot een succes te maken. Hierbij beperkt de staf zich tot het geven van feedback op de ideeën en het helpen oplossen van technische blokkades.
 
@@ -19,7 +19,7 @@ Het project wordt gedaan volgens een aantal **milestones**. Na elke milestone ga
 | Onderdeel        | Tijdsbesteding | Deadline  |
 | ---------------- | -------------: | --------: |
 | Projectvoorstel  |         ~8 uur | di 14 nov |
-| Projectvalidatie |        ~10 uur | vr 24 dec |
+| Projectvalidatie |        ~10 uur | vr 24 nov |
 | Versie 1         |        ~20 uur | vr  1 dec |
 | Versie 2         |        ~20 uur | vr  8 dec |
 | Versie 3         |        ~20 uur | vr 15 dec |

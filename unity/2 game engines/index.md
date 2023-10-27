@@ -7,9 +7,9 @@
 ## Waarom Unity?
 
 Als er zo veel game engines beschikbaar zijn, waarom kiezen we dan voor Unity? Hier een paar redenen:
-- Unity is gratis om je games op te bouwen. Pas wanneer jij of je bedrijf [meer dan dan  100,000 USD verdient](https://unity3d.com/unity/activation/personal) met je studio moet je gaan betalen voor je licentie.
+- Unity is gratis om je games op te bouwen [tot een zeker extent](https://unity.com/pricing). (Laatst was hier wat [controversie](https://www.wired.com/story/unity-walks-back-policies-lost-trust/) over)
 - Unity is één van de meest gebruikte engines, en heeft daarom een grote community om de engine heen - wat voor ons betekent dat we makkelijker hulp kunnen vinden bij het gebruiken van de engine.
 - Unity heeft een aantal gratis online *[Unity Learn](https://learn.unity.com/)* courses beschikbaar waardoor het toegankelijk is voor beginners.
 - Unity maakt het makkelijk om naar vrijwel elk platform te publiceren, PC, Mac, Linux, Switch, Playstation, Xbox en ook mobile!
 
-**NB:** Dit alles maakt Unity niet per sé de 'beste engine', zo zijn de grafische ontwikkelingen van *Unreal Engine* op dit moment erg interessant, en is *GoDot* compleet open-source. Elke game engine heeft voordelen en nadelen in het gebruik. De grootste reden dat we voor Unity kiezen is het aantal beschikbare learning resources (YouTube staat bijvoorbeeld vol met Unity Tutorials).
+**NB:** Dit alles maakt Unity niet per sé de 'beste engine', zo zijn de grafische ontwikkelingen van *Unreal Engine* op dit moment erg interessant, en is *GoDot* compleet open-source. Elke game engine heeft voordelen en nadelen in het gebruik. De grootste reden dat we voor Unity kiezen is het aantal beschikbare learning resources (YouTube staat bijvoorbeeld vol met Unity Tutorials). 

@@ -31,9 +31,9 @@
 - De fysieke presentaties aan het einde van het project zijn voor de leuk, en hebben verder **geen** invloed op je cijfer.
 
 ## Communicatie
-Dit jaar wordt er gebruik gemaakt van een Discord kanaal om aan TA's en medestudenten vragen te stellen die gaan *over je project*, dus bijv. over bepaalde stukjes code, of suggesties voor welke Unity features je moet gebruiken. **Dit is géén officieel communicatiemiddel van de UvA**, en er zijn dus ook andere regels over hoe ze omgaan met jouw data.
+Dit jaar wordt er gebruik gemaakt van een **Discord** kanaal om aan TA's en medestudenten vragen te stellen die gaan *over je project*, dus bijv. over bepaalde stukjes code, of suggesties voor welke Unity features je moet gebruiken. **Dit is géén officieel communicatiemiddel van de UvA**, en er zijn dus ook andere regels over hoe ze omgaan met jouw data.
 **Vragen over zakelijkheden als deadlines e.d. blijven via de normale communicatiemiddelen lopen** (`help@mprog.nl`). 
 
 Kijk even op [*Dont Ask To Ask*](https://dontasktoask.com/) om een goed beeld te krijgen van hoe je je vragen het beste kan stellen, en ook om te zien wat je vooral niet moet doen.
 
-De link naar het discord kanaal vind je [hier](https://discord.gg/XPMAP3sxEU).
+De link naar het discord kanaal vind je [hier](https://discord.gg/eDah244qPq).

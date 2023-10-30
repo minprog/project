@@ -42,9 +42,9 @@ The design of the calculator is completely up to you. However, do just take a qu
 as to what other calculators look like. Pay special attention to where buttons are
 typically located and how each button behaves.
 
-|                                     | iOS Calculator                      |                                    |
-| ----------------------------------- | ----------------------------------- | ---------------------------------- | 
-|                                     | ![iOS calculator](calculator.jpeg)  |                                    |
+|                                     | 
+| ----------------------------------- | 
+| ![iOS calculator](calculator.jpeg)  |
 
 
 

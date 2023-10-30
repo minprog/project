@@ -43,7 +43,7 @@ Your application could look somewhat like the images below, but you are free to 
 Start by creating a new SwiftUI app. Then go ahead and lay the foundations for the todo-app itself. 
 
 ### Tips
-Consider the components a todo-App consists of (such as the listed tasks); You may need to create separate views for those. For the start it is totally fine to hardcode a few items within the todo-list. Once the views are created and the basic functionality is working, try to make the todo-list dynamic. 
+Consider the components a todo-app consists of (such as the listed tasks); You may need to create separate views for those. For the start it is totally fine to hardcode a few items within the todo-list. Once the views are created and the basic functionality is working, try to make the todo-list dynamic. 
 
 
 ### Schedule

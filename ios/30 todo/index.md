@@ -2,11 +2,10 @@
 
 Create a TODO application with several views using Swift and Swift UI. 
 
-| To Do Apps                         | 
-| ---------------------------------- | 
-| ![App1](todoInspiration.png)       |
-| ---------------------------------- | 
-| ![App2](ios/30 todo/IMG_0459.jpg)  |
+| To Do Apps                          |                                     |
+| ----------------------------------- | ----------------------------------- |
+| ![App2](IMG_0459.jpg)               | ![App1](todoInspiration.png)        |
+| 
 
 ## Getting started
 

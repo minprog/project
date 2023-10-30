@@ -21,14 +21,14 @@ From now on, we will work with GitHub to keep track of changes within our projec
 
 # 3. Create Git Repository with new project
 - While creating a new project, always make sure to select "Create Git repository on my Mac" 
-¡[](5github.png)
+![](5github.png)
 
 # 4. Link project to GitHub repository
 
 - Within your project in Xcode open the "Source Control Navigator", go to repositories and right click, then click "Add Existing Remote..." 
-i[](/ios/30github/6github.png)
+![](6github.png)
 
 - This will open a pop up window, into which you just need to paste your GitHub Repository link in the location field.
-¡[](7github.png)
+![](7github.png)
 
 Now your project should be linked to a GitHub repository.

@@ -14,9 +14,9 @@ Create a single view application for a calculator using Swift and SwiftUI.
 
 * Support for all 10 digits.
 * Support for decimal numbers through `.`.
-* Support for $+$, $-$, $\times$, and $\div$.
+* Support for +, -, x, and /.
 * A reset button.
-* A computation ($=$) button.
+* A computation = button.
 * An output screen.
 
 
@@ -62,7 +62,7 @@ different results based on past actions. That means you will need to track past 
 but you will likely want to introduce some attributes that store arrays or strings of sorts that keep track of the
 calculation as a whole.
 
-Once a calculation needs to be done, because, for instance, the $=$ button is pressed, start calculating.
+Once a calculation needs to be done, because, for instance, the = button is pressed, start calculating.
 
 ### Add functionality to buttons
 
@@ -70,7 +70,7 @@ Then proceed by adding functionality to each button. All the number buttons shou
 
 Once the digit buttons are in order, open up an existing calculator and start trying out different buttons. What does
 each button really do and what do you want it to do? For instance, you might have not realized, but pressing an operation
-such as $+$ will clear the display or in other cases append the $+$ sign. That is something you will need to program
+such as + will clear the display or in other cases append the + sign. That is something you will need to program
 into your calculator.
 
 

@@ -13,7 +13,8 @@ Het is handig dat je deze setup vóór de eerste sessie hebt gedaan.
    ![](licentie.png)
 5. Download de **2021.3.3f1** LTS versie editor in Unity Hub onder Installs > Install Editor. Kies hierbij voor de modules 'Microsoft Visual Studio Community 2019' en 'Windows Build Support'. Kies ook 'Android Build Support' als je van plan bent om je eigen game te ontwikkelen voor je (Android) telefoon. (iOS heeft wat [extra vereisten nodig](https://docs.unity3d.com/Manual/UnityCloudBuildiOS.html), zoals een Mac).
     
-   ![[2021-install.png]]![[vs-install.png]]
+   ![](2021-install.png)
+   ![](vs-install.png)
 
 
 ## Je eerste project
@@ -28,7 +29,7 @@ Laat het project inladen (dit kan even duren!). Wanneer het project geladen is, 
 ## Checklist
 
 - Unity Hub geinstalleerd
-- Laatste LTS versie van Unity geinstalleerd
+- De 2021.3.3f1 LTS versie van Unity geinstalleerd
 - 3D Core project aangemaakt
 - 3D Core project geopend
 - Learn>MicroGame project aangemaakt

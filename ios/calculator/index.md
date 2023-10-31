@@ -41,7 +41,9 @@ The design of the calculator is completely up to you. However, do just take a qu
 as to what other calculators look like. Pay special attention to where buttons are
 typically located and how each button behaves.
 
-<img src="./calculator.jpeg" alt="iOS Calculator" width="300"/>
+<img src="calculator.jpeg" alt="iOS Calculator" width="300"/>
+
+![calculator image](calculator.jpeg)
 
 Think about what [kind of calculator](https://www.rankred.com/different-types-of-calculators/) you want to implement.
 Odds are, you want to implement a basic calculator, but a (simple) scientific calculator is also an option.

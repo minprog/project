@@ -22,22 +22,19 @@ Flask:
     Screencast: /milestones/screencast
     Presentatie: /milestones/presentation
 iOS:
-  FAQ: /ios/help
-  Tutorials & Todo app (1 week):
+  Installatie & Introductie (1 day):
     Installatie: /ios/installation
     Swift naslag: /ios/swift
     SwiftUI [tutorial]: /ios/swiftui
-    Edit view [tutorial]: /ios/appdev
+    
+  Todo app (1 week):
     Todo App [opdracht]: /ios/todo
   Calculator app (1 week):
     Calculator app [opdracht]: /ios/calculator
   Projectvoorstel (uiterlijk dinsdag 14 november):
-    Projectkeuze [Milestone]: /data-science/requirements
+    Projectkeuze [Milestone]: /ios/requirements
   Projectvalidatie (1 week):
     Uitleg projectvalidatie: /milestones/validatie
-    Videocollege Git: /flask/lectures/git
-    Git opzetten [Milestone]: /milestones/git
-    Skelet [Milestone]: /data-science/skelet
   Project (3 weken):
     "Versie 1 [Milestone]": /milestones/versie1
     "Versie 2 [Milestone]": /milestones/versie2
@@ -47,6 +44,10 @@ iOS:
     "Versie 4 [Milestone]": /milestones/versie4
     Screencast: /milestones/screencast
     Presentatie: /milestones/presentation
+  Naslag:
+    Videocollege Git: /flask/lectures/git
+    GitHub in Xcode: /ios/github
+    FAQ: /ios/help
 Unity:
   Voorbereiding (2 weken):
     Intro: /unity/intro

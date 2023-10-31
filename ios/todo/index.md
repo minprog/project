@@ -32,13 +32,18 @@ Create a todo application with several views using Swift and Swift UI.
 
 Your application could look somewhat like the images below, but you are free to invent your own design if you like. Just make sure, your application works as desired in the end.
 
-<p display="inline-block">
+<!-- ![](IMG_0459.jpg)
+![](todoInspiration.png) -->
+
+<!-- <p display="inline-block">
 <img src="IMG_0459.jpg" alt="ToDo app1" width="300"/>
 <img src="todoInspiration.png" alt="ToDo app2" width="255.5"/>
-</p>
-<!-- | To Do Apps                          |                                     |
+</p> -->
+
+
+| To Do Apps                          |                                     |
 | ----------------------------------- | ----------------------------------- |
-| ![App2](IMG_0459.jpg)               | ![App1](todoInspiration.png)        | -->
+| ![App2](IMG_0459.jpg)               | ![App1](todoInspiration.png)        |
 
 
 ## Steps

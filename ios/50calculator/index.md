@@ -43,7 +43,7 @@ typically located and how each button behaves.
 
 |                                     | 
 | ----------------------------------- | 
-| ![iOS calculator](calculator.jpeg)  |
+| ![iOS calculator](calculator.png)   |
 
 
 

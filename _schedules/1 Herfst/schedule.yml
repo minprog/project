@@ -23,7 +23,7 @@ Flask:
     Presentatie: /milestones/presentation
 iOS:
   Installatie & Introductie (1 day):
-    Installatie: /ios/installation
+    Installatie: /ios/installatie
     Swift naslag: /ios/swift
     SwiftUI [tutorial]: /ios/swiftui
   Todo app (1 week):

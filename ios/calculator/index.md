@@ -7,7 +7,7 @@ Create a single view application for a calculator using Swift and SwiftUI.
 
 - Start a new Xcode SwiftUI project, while saving make sure you select _Create Git repository on My Mac_.
 - Accept [this GitHub Classroom invite](https://classroom.github.com/a/9O2ynG8n) and copy the link to your own repository (it should look like https://github.com/minprog-platforms/ios-todo-app-(USERNAME)).
-- Make sure to link your Xcode project to the GitHub Classroom Repository as indicated on the [GitHub Page](/ios/30github/index.md)
+- Make sure to link your Xcode project to the GitHub Classroom Repository as indicated on the [GitHub Page](/ios/github)
 
 
 ### Minimal functional requirements

@@ -6,4 +6,4 @@ Start with installing Xcode 15 in the App Store of your MacBook. You can also fo
 
 > Make sure you are connected to the `eduroam` or `uva` WiFi network. Downloading Xcode via `Amsterdam Science Park` will take a very long time and is not recommended! If you need help fixing your `eduroam` connection, we highly recommend going to the [uva laptophelpdesk](https://student.uva.nl/onderwerpen/laptopondersteuning) to fix this.
 
-While it is downloading, start reading about [Swift](/ios/10swift/index.md)
+While it is downloading, start reading about [Swift](/ios/swift/index.md)

@@ -38,12 +38,12 @@ Now your project should be linked to a GitHub repository.
 ![](8github.png)
 
 - When you are finished editing your code and ready to update the github repository, you will first have to 'commit' to your 'staged' changes: intergrate -> Commit...
- ![](9github.png)
+![](9github.png)
 
 - This will open up a seperate window. It is compulsory to enter a commit message. This message should describe what kind of changes you have made to the code. 
- ![](10github.png)
+![](10github.png)
 
 - After you entered the message, you are ready to commit. You do so by pushing the 'commit' button.
- ![](11github.png)
+![](11github.png)
 
 - Your github repository is now up to date! 

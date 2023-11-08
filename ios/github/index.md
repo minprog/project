@@ -50,4 +50,7 @@ Now your project should be linked to a GitHub repository.
 
 ![](11github.png)
 
+- Now you are ready to push your changes to Github.
+![](12github.png)
+
 - Your github repository is now up to date! 

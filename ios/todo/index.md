@@ -8,6 +8,7 @@ Create a todo application with several views using Swift and Swift UI.
 - Start a new Xcode SwiftUI project, while saving make sure you select _Create Git repository on My Mac_.
 - Accept [this GitHub Classroom invite](https://classroom.github.com/a/CPtSIJ_B) and copy the link to your own repository (it should look like https://github.com/minprog-platforms/ios-todo-app-(USERNAME)).
 - Make sure to link your Xcode project to the GitHub Classroom Repository as indicated on the [GitHub Page](/ios/github)
+- Keep your github classroom repository up to date, preferably daily or when you finished certain milestones. You can find the update instructions at step 5 on the [GitHub Page](/ios/github)
 
 
 ### Minimal functional requirements

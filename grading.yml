@@ -25,7 +25,7 @@ grades:
     finance: *besproken
     books: *besproken
 
-    proposal_ds: *besproken
+    proposal_ios: *besproken
 
     proposal: *besproken
     design: *besproken
@@ -62,18 +62,13 @@ project_uitwerking:
     submits:
         final: 1
 
-data_science:
-    show_progress: true
-    submits:
-        ds_lab1: 1
-        ds_lab2: 1
-        ds_lab3: 1
-        ds_lab4: 1
-        ds_lab5: 1
-        ds_lab6: 1
-
 flask:
     show_progress: true
     submits:
         finance: 1
         books: 1
+
+ios:
+    show_progress: true
+    submits:
+        proposal_ios: 1

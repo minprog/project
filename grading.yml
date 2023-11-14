@@ -67,8 +67,3 @@ flask:
     submits:
         finance: 1
         books: 1
-
-ios:
-    show_progress: true
-    submits:
-        proposal_ios: 1

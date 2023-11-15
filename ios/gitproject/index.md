@@ -30,7 +30,7 @@ Voor dit project ga je alsnog de git integratie in Xcode gebruiken.
 
 In Xcode onder `Integrate` vind je een aantaal commando's, waaronder de volgenden, die je vaak nodig hebt om git te gebruiken:
 
-- `clone` om de aangemaakte repository op jouw computer te krijgen en aan de Github-repository te linken. Dit is een alternatief voor de procedure omschreven in de [GitHub Set-Up Pagina](ios/github/index.md).
+- `clone` om de aangemaakte repository op jouw computer te krijgen en aan de Github-repository te linken. Dit is een alternatief voor de procedure omschreven in de [GitHub Set-Up Pagina](/ios/github).
 
 - `stage all changes` om alle veranderingen klaar te zetten voor een commit
 

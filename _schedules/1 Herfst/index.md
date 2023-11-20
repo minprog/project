@@ -71,13 +71,13 @@ Iedere track heeft zo zijn eigen rooster en assistentiemomenten:
 
 |           | Flask             | iOS                | Unity              |
 | --------- | ----------------- | ------------------ | ------------------ |
-| maandag   | Kim 11--13 & Wessel 13--17     |  **9--13 Julius**  |    13--17 Martijn  |
+| maandag   | Kim 11--13 & Wessel 13--17     |  **9--13 Yvette**  |    13--17 Martijn  |
 | dinsdag   | Quinten 9--11, Nina 13--17 & Kim 15--17 |   11--15 Yvette    |                    |
 | woensdag  | Kim 9--13         |   13--17 Julius    |    13--17 Martijn  |
-| donderdag | Matyas 9--13, Quinten 13--17 |  **11--15 Yvette** |                    |
+| donderdag | Matyas 9--13, Quinten 13--17 |  **11--15 Julius** |                    |
 | vrijdag   | Matyas 9--13, Nina 10--14, Wessel 13--17 |                    |  **11--15 Kamiel** |
 
-Je gaat ook wekelijks bijeenkomen met je begeleider. De vier opties hiervoor staan vetgedrukt in het schema hierboven. Als je voor een track kiest moet je voor één van deze vier opties volledig beschikbaar zijn.
+Je gaat ook wekelijks bijeenkomen met je begeleider. De opties hiervoor staan vetgedrukt in het schema hierboven. Als je voor een track kiest moet je voor één van deze opties volledig beschikbaar zijn.
 
 
 ## Minimumeisen

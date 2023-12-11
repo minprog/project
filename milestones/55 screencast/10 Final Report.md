@@ -18,16 +18,6 @@ Before recording, make a script of what you would like to show. Keep in mind the
 
 * Always show all features: anything that's not in the video does not exist.
 
-For the ABM-track, the requirements for the screencast are a bit different. 
-
-* Start with what you modelled, why you think it is relevant and what research questions you wanted to answer.
-
-* Quickly go over all the main components of the model. Explain how your agents work and why you modelled them in this way. Keep in mind that you model in a certain way in order to answer your research question.
-
-* Show the visualisation of your model. Let it run for a bit and point out the dynamics you think are interesting and relevant. You can maybe also change some parameters and show the effect on the model's behavior.
-
-* Finally, show the result of your experiment, and thus answer your research question. The result will usually be a figure that you generated from running the model over different parameters. You can quickly show the graph and discuss the conclusions you draw from it.
-
 Your demo may be narrated in either Dutch or English. Make sure your demonstration does not take longer than 6 minutes. PowerPoint or other tools are not allowed, just show the product.
 
 ## Tip

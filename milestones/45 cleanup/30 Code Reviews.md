@@ -2,9 +2,15 @@
 
 Je **code** staat al vast, maar je **repository** is nog niet netjes en volledig. Dit ga je vandaag verbeteren. Deze verbeteringen kun je vervolgens committen en pushen naar je repository op GitHub (geen nieuwe code, wel andere dingen).
 
+## Deel 0: stapje terug
+
+Je gaat vandaag een code review doen en je krijgt nog kans om kleine dingen aan te passen aan je code. Maar het is absoluut niet de bedoeling om nog echt dingen aan te pakken of zelfs toevoegingen te doen. De functionaliteit van je project blijft onveranderd.
+
+Kies dus bewust waar je energie in steekt. Besef je tijdens of voor de review dat je nog helemaal geen comments had? Voeg ze dan toe, maar overdrijf het niet.
+
 ## Deel 1: code review
 
-> De review wordt meegenomen in de beoordeling van het **code**-deel van je projectcijfer. Je mag je code niet meer aanpassen, maar in de review kun je laten zien dat je het wel beter had kunnen doen als je nog veel meer tijd had (en hoe je dat dan zou moeten doen!).
+> De review wordt meegenomen in de beoordeling van het **code**-deel van je projectcijfer. Je geen grote dingen meer aanpassen in je code, maar in de review kun je laten zien dat je het wel beter had kunnen doen als je nog veel meer tijd had (en hoe je dat dan zou moeten doen!).
 
 Je gaat twee code reviews doen met een andere student. Doel van de code reviews is niet om je code nog te uit te breiden of zelfs maar te verbeteren, maar om te reflecteren op de kwaliteit van je eigen code. Je krijgt hierbij hulp van andere studenten. 
 

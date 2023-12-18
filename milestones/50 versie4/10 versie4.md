@@ -1,14 +1,15 @@
 # Versie 4
 
-Dit is de laatste versie. Hierna programmeer je niet meer verder aan het project (voor dit vak). Het is dus belangrijk dat de puntjes op de i staan. Jaag op de overgebleven bugs. Vraag anderen je project te gebruiken en win feedback. Duik in CSS om die ene `<div>` toch in het midden van het scherm te krijgen. 
+Dit is de laatste versie. Hierna programmeer je niet meer verder aan het project (voor dit vak). Het is dus belangrijk dat de puntjes op de i staan.
+
+Jaag op de overgebleven kleine bugs, maar voeg absoluut geen nieuwe functionaliteit toe. Als de kwaliteit van je code niet geweldig is, dan ga je daar ook geen overdreven energie in steken. Als het goed is heb je bij de Code Review een verslag geschreven waarin je laat zien dat je weet wat er "mis" is.
 
 ### Requirements
 
 * De code staat op GitHub.
 * Er staat geen overbodige code of bestanden op GitHub
 * Het project is compleet.
-* Er zijn geen losse eindjes.
-* Er is geregeld, het liefst dagelijks, gecommit naar GitHub.
+* Er zijn geen losse eindjes (het is goed werkend te krijgen).
 
 ### Vragen
 

@@ -14,13 +14,13 @@ Tijdens de **eerste drie weken** ga je aan de slag met de voorbereiding: het ler
 
 | Onderdeel     | Tijdsbesteding | Deadline  |
 | ------------- | -------------: | --------: |
-| Voorbereiding |        ~60 uur | vr 17 nov |
+| Voorbereiding |        ~60 uur | vr 19 april |
 
 Het project wordt gedaan volgens een aantal **milestones**. Na elke milestone ga je bespreken met je begeleider hoe je ervoor staat en hoe je verder kunt. De deadlines van versie 1 t/m 3 mag je met enkele dagen verschuiven als het strikt nodig is.
 
 | Onderdeel        | Tijdsbesteding | Deadline    |
 | ---------------- | -------------: | ----------: |
-| Projectvoorstel  |         ~8 uur | di 14 april |
+| Projectvoorstel  |         ~8 uur | di 16 april |
 | Projectvalidatie |        ~10 uur | vr 26 april |
 | Versie 1         |        ~20 uur | vr 3 mei    |
 | Versie 2         |        ~20 uur | vr 17 mei   |

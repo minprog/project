@@ -15,13 +15,6 @@ templates:
     hide_calculated: false
 
 grades:
-    ds_lab1: *besproken
-    ds_lab2: *besproken
-    ds_lab3: *besproken
-    ds_lab4: *besproken
-    ds_lab5: *besproken
-    ds_lab6: *besproken
-
     finance: *besproken
     books: *besproken
 

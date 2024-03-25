@@ -2,10 +2,10 @@ Flask:
   Finance (1 week):
     Videocollege Flask: /flask/lectures/flask
     Finance [Samenwerken]: /flask/finance
-  Books (2 weken):
+  Books (1.5 week):
     "Videocollege ORMs & APIs": /flask/lectures/orms
     Books [Opdracht]: /flask/books
-  Projectvoorstel (uiterlijk dinsdag 18 april):
+  Projectvoorstel (uiterlijk dinsdag 14 november):
     Projectkeuze [Milestone]: /milestones/topic
     Projectvoorstel [Milestone]: /milestones/proposal
   Projectvalidatie (1 week):
@@ -16,50 +16,22 @@ Flask:
     "Versie 1 [Milestone]": /milestones/versie1
     "Versie 2 [Milestone]": /milestones/versie2
     "Versie 3 [Milestone]": /milestones/versie3
-  Afronding (uiterlijk woensdag 31 mei):
-    "Review & Cleanup": /milestones/cleanup
-    "Versie 4 [Milestone]": /milestones/versie4
-    Screencast: /milestones/screencast
-    Presentatie: /milestones/presentation
-Data Science:
-  Voorbereiding (3 weken):
-    Intro: /data-science/intro
-    Installatie: /data-science/installation
-    Lab 1 (Python): /data-science/labs/lab1
-    Lab 2 (NumPy): /data-science/labs/lab2
-    Lab 3 (Pandas): /data-science/labs/lab3
-    Lab 4 (Matplotlib): /data-science/labs/lab4
-    Lab 5 (Working with a real dataset): /data-science/labs/lab5
-    Theorie (models): /data-science/theory/theory_1
-    Theorie (regressie): /data-science/theory/theory_2
-    Lab 6 (Scikit-Learn): /data-science/labs/lab6
-  Projectvoorstel (uiterlijk dinsdag 18 april):
-    Projectkeuze [Milestone]: /data-science/requirements
-  Projectvalidatie (1 week):
-    Uitleg projectvalidatie: /milestones/validatie
-    Videocollege Git: /flask/lectures/git
-    Git opzetten [Milestone]: /milestones/git
-    Skelet [Milestone]: /data-science/skelet
-  Project (3 weken):
-    "Versie 1 [Milestone]": /milestones/versie1
-    "Versie 2 [Milestone]": /milestones/versie2
-    "Versie 3 [Milestone]": /milestones/versie3
-  Afronding (uiterlijk woensdag 31 mei):
+  Afronding (uiterlijk dinsdag 19 december):
     "Review & Cleanup": /milestones/cleanup
     "Versie 4 [Milestone]": /milestones/versie4
     Screencast: /milestones/screencast
     Presentatie: /milestones/presentation
 Unity:
-  Voorbereiding (3 weken):
+  Voorbereiding (2 weken):
     Intro: /unity/intro
     Overzicht: /unity/overzicht
     Game Engines: /unity/game-engines
     Setup: /unity/setup
     Agile: /unity/agile-development
-    Roll a ball: "/unity/roll-a-ball"
-    Unity Learn: "/unity/unity-learn"
+    Roll a ball: "/unity/ball"
+    Unity Learn: "/unity/kennismaken-met-unity"
     Verder studiemateriaal: /unity/learning-resources
-  Projectvoorstel (uiterlijk dinsdag 18 april):
+  Projectvoorstel (uiterlijk dinsdag 14 november):
     Projectkeuze [Milestone]: /unity/requirements
     Projectvoorstel [Milestone]: /milestones/proposal
   Projectvalidatie (1 week):
@@ -70,10 +42,9 @@ Unity:
     "Versie 1 [Milestone]": /milestones/versie1
     "Versie 2 [Milestone]": /milestones/versie2
     "Versie 3 [Milestone]": /milestones/versie3
-  Afronding (uiterlijk woensdag 31 mei):
+  Afronding (uiterlijk dinsdag 19 december):
     "Review & Cleanup": /milestones/cleanup
-    "Versie 4 [Milestone]": /milestones/versie4
     Cleanup: /milestones/cleanup
-    Final product: /milestones/product
+    "Versie 4 [Milestone]": /milestones/versie4
     Screencast: /milestones/screencast
     Presentatie: /milestones/presentation

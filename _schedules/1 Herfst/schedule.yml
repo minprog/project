@@ -1,18 +1,18 @@
 Flask:
-  Finance (3 dagen):
+  Finance (2 dagen):
     Videocollege Flask: /flask/lectures/flask
     Finance [Samenwerken]: /flask/finance
-  Books (1.5 week):
+  Books (3 dagen):
     "Videocollege ORMs & APIs": /flask/lectures/orms
     Books [Opdracht]: /flask/books
   Projectvoorstel (uiterlijk maandag 2 dec):
     Projectkeuze [Milestone]: /milestones/topic
     Projectvoorstel [Milestone]: /milestones/proposal
-  Projectvalidatie (1 week):
+  Projectvalidatie:
     Uitleg projectvalidatie: /milestones/validatie
     Videocollege Git: /flask/lectures/git
     Git opzetten [Milestone]: /milestones/git
-  Project (3 weken):
+  Project:
     "Versie 1 [Milestone]": /milestones/versie1
     "Versie 2 [Milestone]": /milestones/versie2
     "Versie 3 [Milestone]": /milestones/versie3
@@ -35,10 +35,10 @@ Data Science:
       Climate change: /ds/statistiek/climate
     Oefendatasets:
       Mushrooms: /ds/oefen/mushrooms
-      Yelp deel 1: /ds/oefen/yelp1
+      Yelp deel 1*: /ds/oefen/yelp1
       Yelp deel 2: /ds/oefen/yelp2
     Projectvoorstel (uiterlijk maandag 2 dec):
-      Projectvoorstel [Milestone]: /milestones/proposal
+      Projectvoorstel [Milestone]: /ds/eigen_project
     Projectvalidatie (1 week):
       Uitleg projectvalidatie: /milestones/validatie
       Videocollege Git: /flask/lectures/git

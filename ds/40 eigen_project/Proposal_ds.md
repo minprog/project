@@ -1,6 +1,6 @@
 # Projectvoorstel
 
-We beginnen met een projectvoorstel (proposal). Dit is een document waarin je het functionele ontwerp van het project koppelt aan een probleem uit de echte wereld. Kort gezegd, wat doet je project om iets echts toe te voegen of verduidlijk. Hieronder vind je precies hoe en wat.
+We beginnen met een projectvoorstel (proposal). Dit is een document waarin je het functionele ontwerp van het project koppelt aan een probleem uit de echte wereld. Kort gezegd, wat doet je project om iets echts toe te voegen of te verduidelijken. Hieronder vind je precies hoe en wat.
 
 ## Het doel
 
@@ -36,7 +36,7 @@ Beantwoord in je voorstel de volgende vragen met een paar regels tekst. Tenminst
 3. Wie zijn je verwachte belanghebbende? In andere woorden, voor wie bouw je dit project? Bijvoorbeeld:
 
     - Mensen die over het algemeen onbekend zijn met het onderwerp van het project.
-    - Data Analysten (zoals jij)
+    - Data Analisten (zoals jij)
     - Bedrijven (groot of klein)
     - De inwoners van Lab42
     - Me, myself, and I
@@ -48,14 +48,14 @@ Beantwoord in je voorstel de volgende vragen met een paar regels tekst. Tenminst
 
     - Aannemers kunnen mijn model gebruiken om huisprijzen beter te voorspellen.
     - Beleidsmakers kunnen hun beslissingen aanpassen op basis van mijn resultaten..
-    - Data Analysten kunnen mijn code gebruiken om Aandeelkoersen makkelijk te analyseren.
+    - Data Analisten kunnen mijn code gebruiken om aandeelkoersen makkelijk te analyseren.
 
 5. Wat doet jouw project anders of speciaal? Wat is je niche? Bijvoorbeeld:
 
     - Wat maakt jou visualisatie nou echt speciaal? Waarom is jouw onderzoek beter?
     - Waarom gaat jouw manier van Machine Learning en AI toepassen een verbetering opleveren?
 
-6. Hoe ziet je project er uiteindelijk uit? Wat is het eind-product waar je naartoe gaat werken? Dit is misschien wel de moeilijkste en belangrijkste vraag, neem hier rustig de tijd voor.
+6. Hoe ziet je project er uiteindelijk uit? Wat is het eindproduct waar je naartoe gaat werken? Dit is misschien wel de moeilijkste en belangrijkste vraag, neem hier rustig de tijd voor.
   
 ## Schets je eindproduct
 
@@ -63,7 +63,7 @@ Schrijf en **schets** je oplossing. Echt waar, **schets**. Dit is misschien wel 
 
 Wat je doet hangt een beetje af van het type project:
 
-- Als je een tool of een algoritme maakt voor  data analyse of voor het doen van een voorspelling, teken dan de componenten van de oplossing uit. Dit hangt natuurlijk sterk af van wat je gaat maken.
+- Als je een tool of een algoritme maakt voor data analyse of voor het doen van een voorspelling, teken dan de componenten van de oplossing uit. Dit hangt natuurlijk sterk af van wat je gaat maken.
 
 - In het geval van data processing zou je de verschillende onderdelen van een data processing pipeline kunnen uittekenen. Welke concrete stappen moet je gaan ondernemen? Hoe ziet je data er uiteindelijk uit? Etc.
 
@@ -81,7 +81,7 @@ In alle gevallen:
 
 ## Features
 
-1. Maak een lijst van eigenschappen of onderdelen (*feature*) die idealter onderdeel zouden of zouden moeten zijn voor je project. Bij het maken van deze lijst, probeer zo specifiek mogelijk te zijn. Een feature kan (o.a.) een onderdeel zijn van de volgende onderwerpen:
+1. Maak een lijst van eigenschappen of onderdelen (*feature*) die idealiter onderdeel zouden kunnen of zouden moeten zijn voor je project. Probeer bij het maken van deze lijst zo specifiek mogelijk te zijn. Een feature kan (o.a.) een onderdeel zijn van de volgende onderwerpen:
 
     - Data Collection
     - Data Cleaning

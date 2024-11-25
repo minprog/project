@@ -1,6 +1,6 @@
 # Projectvoorstel
 
-We beginnen met een projectvoorstel (proposal). Dit is een document waarin je het functionele ontwerp van het project koppelt aan een probleem uit de echte wereld. Kort gezegd, wat doet je project om iets echts toe te voegen of verduidlijk. Hieronder vind je precies hoe en wat.
+We beginnen met een projectvoorstel (proposal). Dit is een document waarin je het functionele ontwerp van het project koppelt aan een probleem uit de echte wereld. Kort gezegd, wat doet je project om iets echts toe te voegen of te verduidlijken. Hieronder vind je precies hoe en wat.
 
 ## Het doel
 

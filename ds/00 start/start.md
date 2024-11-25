@@ -42,7 +42,7 @@ Machine Learning is een veelgebruikte techniek binnen Data Science waarmee je pa
 
 In jouw project kun je verschillende ML-modellen gebruiken om antwoorden te vinden op onderzoeksvragen of voorspellingen te doen. Denk bijvoorbeeld aan het voorspellen van huizenprijzen of het herkennen van emoties uit foto's.  
 
-- **Focus**: Bij deze pijler richt je je op het begrijpen en toepassen van verschillende machine learning algoritmes. Daarnaast kan je verschillende eigenschappen
+- **Focus**: Bij deze pijler richt je je op het begrijpen en toepassen van verschillende machine learning algoritmes. <!-- Daarnaast kan je verschillende eigenschappen, aspecten en resultaten beschrijven/vergelijking rondom jouw situatie en de algoritmes die je gebruikt -->
 
 - **Voorbeelden**
 

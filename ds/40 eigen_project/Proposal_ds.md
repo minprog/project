@@ -104,7 +104,7 @@ Je project komt ook met vereisten. Dingen die nodig zijn om je project te laten 
 
 - Maak een lijst van alle **gegevensbronen** die je gaat gebruiken. Voeg hier links toe naar de downloadpagina of eventuele APIs die je wilt gebruiken. Schrijf op hoe je toegang krijgt. Vaak zal je een account moeten aanmaken, of in sommige gevallen een mailtje moeten sturen.
 
-- Maak een lijst van **externe componenten** (bijvoorbeeld bibiliotheken zoals `sqlalchemy` of `bootstrap`) die je gaat gebruiken om bepaalde functies te implemtenteren. Geef aan welk onderdeel je nodig hebt en waarvoor.
+- Maak een lijst van **externe componenten** (bijvoorbeeld bibiliotheken zoals `sqlalchemy` of `bootstrap`) die je gaat gebruiken om bepaalde functies te implementeren. Geef aan welk onderdeel je nodig hebt en waarvoor.
 
 ## Wat wordt moeilijk?
 

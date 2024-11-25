@@ -16,7 +16,7 @@ Bekijk onderstaande video en beantwoord de vragen.
 
 **Q1**: Wat is een wiskundig (statistisch) model?
 
-**Q2**: Stel we hebben het volgende model: ``Gewicht in kg = 40 + 5.5 \* Gegeten pizza’s per week``. Als iemand 5 pizza’s per week eet, wat is dan zijn/haar verwachte gewicht op basis van dit model? Wat zouden nog andere *variabelen* zijn die in dit model zouden passen?
+**Q2**: Stel we hebben het volgende model: ``Gewicht in kg = 40 + 5.5 * Gegeten pizza’s per week``. Als iemand 5 pizza’s per week eet, wat is dan zijn/haar verwachte gewicht op basis van dit model? Wat zouden nog andere *variabelen* zijn die in dit model zouden passen?
 
 **Q3**: Stel we berekenen het gemiddelde van de cijfers die behaald zijn voor Programmeren 1, is dit gemiddelde dan ook een model? Waarom wel/niet?
 

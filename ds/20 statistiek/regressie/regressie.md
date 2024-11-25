@@ -14,7 +14,7 @@ _Opmerking: Het laatste onderdeel van de video is misschien leuk om te weten, ma
 
 **Q3**: Waarom pak je de ‘square’ (het kwadraat) van de residuals in plaats van gewoon de residuals bij het berekenen van de fit van een model?
 
-**Q4**: Beschrijf de verschillende onderdelen van de ‘Generic line equation’ $y = ax + b$.
+**Q4**: Beschrijf de verschillende onderdelen van de ‘Generic line equation’ y = ax + b.
 
 ## Linear Regression
 
@@ -24,7 +24,7 @@ _Opmerking: Het laatste onderdeel van de video is misschien leuk om te weten, ma
 
 **Q6**: Het gewicht/pizza model van eerder blijkt een SS(mean) van 75 en een SS(fit) van 72 te hebben. Hoeveel procent van de variatie in gewicht kan verklaard worden door de variabele ‘gegeten pizza’s per week’?
 
-**Q7**: Wat zegt de $R^2$ van een model over dat model?
+**Q7**: Wat zegt de R^2 van een model over dat model?
 
 **Q8**: Waarom maakt het toevoegen van willekeurige variabelen de $R^2$ van een model niet slechter?
 

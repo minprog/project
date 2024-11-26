@@ -1,4 +1,4 @@
-name: yelp2
+name: yelp2_ds
 files:
     required:
         - transformation_YELP.ipynb

@@ -1,4 +1,4 @@
-name: climate
+name: climate_ds
 files:
     required:
         - certificaat.pdf

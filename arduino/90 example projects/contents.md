@@ -1,3 +1,7 @@
+# Example projects.
+
+Here you can find some example projects as inspiration for your individual project.
+
 ## Games
 
 ### Dance Monkey

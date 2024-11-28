@@ -81,18 +81,17 @@ In alle gevallen:
 
 ## Features
 
-1. Maak een lijst van eigenschappen of onderdelen (*feature*) die idealiter onderdeel zouden kunnen of zouden moeten zijn voor je project. Probeer bij het maken van deze lijst zo specifiek mogelijk te zijn. Een feature kan (o.a.) een onderdeel zijn van de volgende onderwerpen:
+1. Maak een lijst van eigenschappen of onderdelen die idealiter onderdeel zouden kunnen of zouden moeten zijn van je data analyse of model. Beschrijf bijvoorbeeld wat ervoor gaat zorgen dat jouw model voorspeld wat je wilt voorspellen, of welke analyse er echt gedaan moet worden voor een een goed antwoord op jouw onderzoeksvraag. Probeer bij het maken van deze lijst zo specifiek mogelijk te zijn. Een feature kan (o.a.) een onderdeel zijn van de volgende onderwerpen:
 
     - Data Collection
     - Data Cleaning
     - Feature Engineering
     - Model Training
     - Model Evaluation
-    - Deployment (if applicable)
     - Visualisatie
     - Interactiviteit
 
-2. Hak nu je lijst in twee. Eén lijst van features die moeten bestaan, anders is je project niet af. Bijvoorbeeld, een meeting app zonder de mogelijkheid om meetings te maken is niet echt een meeting app. Een andere lijst voor features die je zou willen dat bestaan, maar die niet absoluut cruciaal zijn. Denk hier goed over na en probeer zoveel mogelijk features op de tweede lijst te zetten. Als een feature echt nodig is, en dus op de eerste lijst gaat, schrijf dan even kort op waarom.
+2. Hak nu je lijst in twee. Eén lijst van eigenschappen die moeten bestaan, anders is je project niet af. Bijvoorbeeld, een meeting app zonder de mogelijkheid om meetings te maken is niet echt een meeting app. Een andere lijst voor onderdelen die je zou willen dat bestaan, maar die niet absoluut cruciaal zijn. Denk hier goed over na en probeer zoveel mogelijk eigenschappen op de tweede lijst te zetten. Als een onderdeel echt nodig is, en dus op de eerste lijst gaat, schrijf dan even kort op waarom.
 
 3. Tot slot, zet de features op de tweede lijst op volgorde van hoe belangrijk ze zijn voor jouw project. Dit gaat je helpen om te prioritizeren later.
 
@@ -102,9 +101,9 @@ Alles wat je hier schrijft is waarschijnlijk nog incompleet. Op basis van feedba
 
 Je project komt ook met vereisten. Dingen die nodig zijn om je project te laten werken. Dat kan bijvoorbeeld een databron zijn, een bepaalde API of een framework. De vraag hier is, denk goed na over wat er nodig is voor jouw project en waar je dat kan vinden. Dat doe je op basis van wat je **nu** weet. Na het indienen van je projectvoorstel, tijdens feedbackgesprekken met andere studenten of met docenten, kunnen er extra dingen naar voren komen. Wat daaruitkomt kan je later aan je voorstel toevoegen.
 
-- Maak een lijst van alle **gegevensbronen** die je gaat gebruiken. Voeg hier links toe naar de downloadpagina of eventuele APIs die je wilt gebruiken. Schrijf op hoe je toegang krijgt. Vaak zal je een account moeten aanmaken, of in sommige gevallen een mailtje moeten sturen.
+- Maak een lijst van alle **gegevensbronen** die je gaat gebruiken. Voeg hier links toe naar de downloadpagina en beschrijf in welk format de data staat en hoe je daarmee gaat werken.
 
-- Maak een lijst van **externe componenten** (bijvoorbeeld bibiliotheken zoals `sqlalchemy` of `bootstrap`) die je gaat gebruiken om bepaalde functies te implementeren. Geef aan welk onderdeel je nodig hebt en waarvoor.
+- Maak een lijst van **externe componenten** (bijvoorbeeld bibiliotheken zoals `seaborn` of `mathplotlib`) die je gaat gebruiken om bepaalde functies te implementeren. Geef aan welk onderdeel je nodig hebt en waarvoor.
 
 ## Wat wordt moeilijk?
 

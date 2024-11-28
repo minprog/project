@@ -26,6 +26,9 @@ grades:
     yelp2: *besproken
     projectvoorstel_ds: *besproken
 
+    solar: *besproken
+    mbot: *besproken
+
     proposal_ios: *besproken
 
     proposal: *besproken
@@ -79,3 +82,9 @@ ds:
       yelp1: 1
       yelp2: 1
       projectvoorstel_ds: 1
+
+arduino:
+    show_progress: true
+    submits:
+      solar: 1
+      mbot: 1

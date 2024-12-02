@@ -26,7 +26,7 @@ Voor Markdown kan je gewoon een teksteditor gebruiken. Zeker Visual Studio Code 
 
 Beantwoord in je voorstel de volgende vragen met een paar regels tekst. Tenminste, als de vraag relevant is voor jouw specifieke project.
 
-1. Wat is **het onderwerp** of de vraag (niet de antwoord) dat jouw project gaat verduidelijken of beantwoorden. Wees duidelijk en specifiek. Een paar abstracte voorbeelden:
+1. Wat is **het onderwerp** of de vraag (niet het antwoord) dat jouw project gaat verduidelijken of beantwoorden. Wees duidelijk en specifiek. Een paar abstracte voorbeelden:
 
     - Er zijn nog maar weinig inzichten of mooie visualisaties rondom dit onderwerp.
     - Momenteel is het ontzettend lastig om met deze type data te werken, niemand heeft dit nog gedaan.

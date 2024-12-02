@@ -21,7 +21,7 @@ grades:
     algemeen: *besproken
     climate: *besproken
     regressie: *besproken
-    mushrooms: *besproken
+    mushrooms_ds: *besproken
     yelp1: *besproken
     yelp2: *besproken
     projectvoorstel_ds: *besproken
@@ -78,7 +78,7 @@ ds:
       algemeen: 1
       climate: 1
       regressie: 1
-      mushrooms: 1
+      mushrooms_ds: 1
       yelp1: 1
       yelp2: 1
       projectvoorstel_ds: 1

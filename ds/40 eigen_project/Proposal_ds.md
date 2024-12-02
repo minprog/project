@@ -101,7 +101,7 @@ Alles wat je hier schrijft is waarschijnlijk nog incompleet. Op basis van feedba
 
 Je project komt ook met vereisten. Dingen die nodig zijn om je project te laten werken. Dat kan bijvoorbeeld een databron zijn, een bepaalde API of een framework. De vraag hier is, denk goed na over wat er nodig is voor jouw project en waar je dat kan vinden. Dat doe je op basis van wat je **nu** weet. Na het indienen van je projectvoorstel, tijdens feedbackgesprekken met andere studenten of met docenten, kunnen er extra dingen naar voren komen. Wat daaruitkomt kan je later aan je voorstel toevoegen.
 
-- Maak een lijst van alle **gegevensbronen** die je gaat gebruiken. Voeg hier links toe naar de downloadpagina en beschrijf in welk format de data staat en hoe je daarmee gaat werken.
+- Maak een lijst van alle **gegevensbronnen** die je gaat gebruiken. Voeg hier links toe naar de downloadpagina en beschrijf in welk format de data staat en hoe je daarmee gaat werken.
 
 - Maak een lijst van **externe componenten** (bijvoorbeeld bibiliotheken zoals `seaborn` of `mathplotlib`) die je gaat gebruiken om bepaalde functies te implementeren. Geef aan welk onderdeel je nodig hebt en waarvoor.
 

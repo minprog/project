@@ -66,8 +66,12 @@ Arduino:
     Sonar [Samenwerken]: /arduino/sonar
     Bike light [Samenwerken]: /arduino/bike-light
   Practice Projects:
-    Line-follow robot [Samenwerken]: /arduino/mBot
-  Projectvoorstel (uiterlijk dinsdag 14 november):
+    Solar Tracking [Samenwerken]: /arduino/solar-tracking
+    Line-follow robot [Samenwerken]: /arduino/mbot
+    Jumpman [Optional]: /arduino/jumpman
+  Ter Inspiratie:
+    Voorbeeldprojecten: /arduino/example-projects
+  Projectvoorstel (uiterlijk maandag 2 dec):
     Projectvoorstel [Milestone]: /milestones/proposal
   Projectvalidatie (1 week):
     Uitleg projectvalidatie: /milestones/validatie
@@ -77,7 +81,7 @@ Arduino:
     "Versie 1 [Milestone]": /milestones/versie1
     "Versie 2 [Milestone]": /milestones/versie2
     "Versie 3 [Milestone]": /milestones/versie3
-  Afronding (uiterlijk dinsdag 19 december):
+  Afronding (uiterlijk woensdag 18 dec):
     "Review & Cleanup": /milestones/cleanup
     "Versie 4 [Milestone]": /milestones/versie4
     Screencast: /milestones/screencast

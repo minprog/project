@@ -24,7 +24,7 @@ Daarnaast kun je met **feature engineering** extra informatie uit data halen, bi
 - **Focus**: Bij deze pijler ligt de nadruk op hoe je een specifiek soort (moeilijke) data voorbereidt en verwerkt voor verdere analyse of voorspellingen.
 
 - **Voorbeelden**:  
-   - [Type Data](/ds/resources/install/data_types.md)
+   - [Type Data](../resources/install/data_types.md)
    - **Sentimentanalyse van tweets**
       - *Data*: Een dataset met tweets over een specifiek onderwerp (bijv. klimaatverandering of sportevenementen).
       - *Wat te doen*: Verwijder ruis (zoals hashtags, mentions), analyseer veelvoorkomende woorden, maak sentimentlabels (positief, neutraal, negatief), importeer *lexicons*, etc.
@@ -46,7 +46,7 @@ In jouw project kun je verschillende ML-modellen gebruiken om antwoorden te vind
 
 - **Voorbeelden**
 
-   - [Machine Learning Algoritmes](/ds/resources/install/ML_algorithms.md) 
+   - [Machine Learning Algoritmes](../resources/install/ML_algorithms.md) 
    - **Voorspellen van huizenprijzen**
       - *Data*: Een dataset met huizengegevens.
       - *Wat te doen*: Gebruik verschillende algoritmes om huizenprijzen te voorspellen op basis van kenmerken zoals locatie, oppervlakte, en bouwjaar.

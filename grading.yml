@@ -18,6 +18,17 @@ grades:
     finance: *besproken
     books: *besproken
 
+    algemeen_ds: *besproken
+    climate_ds: *besproken
+    regressie_ds: *besproken
+    mushrooms_ds: *besproken
+    yelp1_ds: *besproken
+    yelp2_ds: *besproken
+    projectvoorstel_ds: *besproken
+
+    solar: *besproken
+    mbot: *besproken
+
     proposal_ios: *besproken
 
     proposal: *besproken
@@ -60,3 +71,20 @@ flask:
     submits:
         finance: 1
         books: 1
+
+ds:
+    show_progress: true
+    submits:
+      algemeen_ds: 1
+      climate_ds: 1
+      regressie_ds: 1
+      mushrooms_ds: 1
+      yelp1_ds: 1
+      yelp2_ds: 1
+      projectvoorstel_ds: 1
+
+arduino:
+    show_progress: true
+    submits:
+      solar: 1
+      mbot: 1

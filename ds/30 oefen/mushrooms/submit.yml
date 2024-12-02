@@ -1,4 +1,4 @@
-name: mushrooms
+name: mushrooms_ds
 files:
     required:
         - certificaat.pdf

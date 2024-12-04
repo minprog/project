@@ -7,7 +7,11 @@ Algoritmes die leren van gelabelde data om voorspellingen te doen.
 
 - **Lineaire Regressie**: Voorspelt een continue waarde gebaseerd op een lineaire relatie tussen kenmerken.  
 
-- **Polynomiale Regressie**: Breidt lineaire regressie uit naar niet-lineaire relaties.  
+- **Multinomiale regressie**
+
+- **Polynomiale Regressie**: Breidt lineaire regressie uit naar niet-lineaire relaties.
+
+- **Stepwise Regressie**
 
 - **K-Nearest Neighbors (KNN)**: Classificeert op basis van de meest voorkomende klasse van de dichtstbijzijnde buren.  
 

@@ -81,7 +81,7 @@ In alle gevallen:
 
 ## Features
 
-1. Maak een lijst van eigenschappen of onderdelen die idealiter onderdeel zouden kunnen of zouden moeten zijn van je data analyse of model. Beschrijf bijvoorbeeld wat ervoor gaat zorgen dat jouw model voorspeld wat je wilt voorspellen, of welke analyse er echt gedaan moet worden voor een een goed antwoord op jouw onderzoeksvraag. Probeer bij het maken van deze lijst zo specifiek mogelijk te zijn. Een feature kan (o.a.) een onderdeel zijn van de volgende onderwerpen:
+1. Maak een lijst van eigenschappen of onderdelen die idealiter onderdeel zouden kunnen of zouden moeten zijn van je data analyse of model. Beschrijf bijvoorbeeld wat ervoor gaat zorgen dat jouw model voorspelt wat je wilt voorspellen, of welke analyse er echt gedaan moet worden voor een een goed antwoord op jouw onderzoeksvraag. Probeer bij het maken van deze lijst zo specifiek mogelijk te zijn. Een feature kan (o.a.) een onderdeel zijn van de volgende onderwerpen:
 
     - Data Collection
     - Data Cleaning

@@ -11,19 +11,19 @@ Algoritmes die leren van gelabelde data om voorspellingen te doen.
 
 - **Polynomiale Regressie**: Breidt lineaire regressie uit naar niet-lineaire relaties.
 
-- **Stepwise Regressie**
+- **Stepwise Regressie**: Regressie die alleen de belangrijkste variabelen
 
 - **K-Nearest Neighbors (KNN)**: Classificeert op basis van de meest voorkomende klasse van de dichtstbijzijnde buren.  
 
-- **Decision Trees**: Splitst data in hiërarchische beslissingsstructuren.  
+- **Decision Trees**: Splitst data in hiërarchische beslissingsstructuren.
 
-- **Logistische Regressie**: Een probabilistisch model voor binaire of multi-klasse voorspellingen.  
+- **Logistische Regressie**: Een probabilistisch model voor binaire of multi-klasse voorspellingen.
 
 - **Ridge & Lasso**: Uitgebreide regressie modellen met een zogehete *penalty*.
 
 - **Random Forests**  Combineert meerdere decision trees voor verbeterde accuracy. Kan in combinatie met:
-    - Bagging (Bootstrap Aggregating)
-    - Boosting
+  - Bagging (Bootstrap Aggregating)
+  - Boosting
 
 - **Support Vector Regression (SVR)**: Gebruik van een margin-based aanpak om regressieproblemen op te lossen.  
 
@@ -42,6 +42,11 @@ Technieken die van toepassing kunnen zijn bovenop je modellen.
 - **Standardiseren**: Een transformatie van je variabelen om (verschillen in) schaal te verwijderen.
 
 - **Log Transformation**: Een wiskundige operatie over je variabelen om deze interpreteerbaar te maken.
+
+- **Data pre-processing**:
+    - Near Zero Variance
+    - Highly Correlated Variables
+    - Linear Combination removal
 
 --- 
 

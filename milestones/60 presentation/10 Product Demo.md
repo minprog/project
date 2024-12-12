@@ -1,6 +1,6 @@
 # Presentaties
 
-De presentaties zijn in L0.09 en in L0.10 op donderdag 21 dec en vrijdag 22 dec tussen 9:30 en 11:30. De indeling vind je in de mail en diezelfde mail vind je ook op <https://project.proglab.nl/announcements>.
+De presentaties zijn in L0.09 en in L0.10 op donderdag 19 dec en vrijdag 20 dec tussen 10:00 en 12:00. De indeling vind je in de mail en diezelfde mail vind je ook op <https://project.proglab.nl/announcements>.
 
 Je hebt bij de presentatie maximaal vijf minuten (minder mag zeker ook) en een groot scherm om je project te laten zien. Het doel is dan ook om in korte tijd anderen te charmeren van je project. Echt laten zien wat je hebt gemaakt. Dat betekent ook, geen slides en zeker geen code laten zien!
 

@@ -34,8 +34,8 @@ En de **afsluiting** vindt plaats met het opleveren van je definitieve project e
 
 | Onderdeel          | Deadline              |
 | ------------------ | --------------------: |
-| Definitieve versie | wo 28 mei             |
-| Eindpresentaties   | do 29 mei & vr 30 mei |
+| Definitieve versie | di 27 mei             |
+| Eindpresentaties   | wo 28 mei             |
 
 #### Volg je alleen het programmeerproject en niet programmeren 2?
 
@@ -61,8 +61,8 @@ En de **afsluiting** vindt plaats met het opleveren van je definitieve project e
 
 | Onderdeel          | Deadline              |
 | ------------------ | --------------------: |
-| Definitieve versie | wo 28 mei             |
-| Eindpresentaties   | do 29 mei & vr 30 mei |
+| Definitieve versie | di 27 mei             |
+| Eindpresentaties   | wo 28 mei             |
 
 
 ## Staff

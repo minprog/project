@@ -5,7 +5,7 @@ Flask:
   Books (3 dagen):
     "Videocollege ORMs & APIs": /flask/lectures/orms
     Books [Opdracht]: /flask/books
-  Projectvoorstel (uiterlijk maandag 2 dec):
+  Projectvoorstel:
     Projectkeuze [Milestone]: /milestones/topic
     Projectvoorstel [Milestone]: /milestones/proposal
   Projectvalidatie:
@@ -16,7 +16,7 @@ Flask:
     "Versie 1 [Milestone]": /milestones/versie1
     "Versie 2 [Milestone]": /milestones/versie2
     "Versie 3 [Milestone]": /milestones/versie3
-  Afronding (uiterlijk woensdag 18 dec):
+  Afronding (uiterlijk dinsdag 27 mei):
     "Review & Cleanup": /milestones/cleanup
     "Versie 4 [Milestone]": /milestones/versie4
     Screencast: /milestones/screencast
@@ -40,7 +40,7 @@ Arduino:
     Jumpman [Optional]: /arduino/jumpman
   Ter Inspiratie:
     Voorbeeldprojecten: /arduino/example-projects
-  Projectvoorstel (uiterlijk maandag 2 dec):
+  Projectvoorstel:
     Projectvoorstel [Milestone]: /milestones/proposal
   Projectvalidatie (1 week):
     Uitleg projectvalidatie: /milestones/validatie
@@ -50,7 +50,7 @@ Arduino:
     "Versie 1 [Milestone]": /milestones/versie1
     "Versie 2 [Milestone]": /milestones/versie2
     "Versie 3 [Milestone]": /milestones/versie3
-  Afronding (uiterlijk woensdag 18 dec):
+  Afronding (uiterlijk dinsdag 27 mei):
     "Review & Cleanup": /milestones/cleanup
     "Versie 4 [Milestone]": /milestones/versie4
     Screencast: /milestones/screencast

@@ -1,38 +1,46 @@
 Flask:
-  Finance (1 week):
+  Finance (2 dagen):
     Videocollege Flask: /flask/lectures/flask
     Finance [Samenwerken]: /flask/finance
-  Books (1.5 week):
+  Books (3 dagen):
     "Videocollege ORMs & APIs": /flask/lectures/orms
     Books [Opdracht]: /flask/books
-  Projectvoorstel (uiterlijk dinsdag 16 april):
+  Projectvoorstel (uiterlijk maandag 2 dec):
     Projectkeuze [Milestone]: /milestones/topic
     Projectvoorstel [Milestone]: /milestones/proposal
-  Projectvalidatie (1 week):
+  Projectvalidatie:
     Uitleg projectvalidatie: /milestones/validatie
     Videocollege Git: /flask/lectures/git
     Git opzetten [Milestone]: /milestones/git
-  Project (3 weken):
+  Project:
     "Versie 1 [Milestone]": /milestones/versie1
     "Versie 2 [Milestone]": /milestones/versie2
     "Versie 3 [Milestone]": /milestones/versie3
-  Afronding (uiterlijk dinsdag 28 mei):
+  Afronding (uiterlijk woensdag 18 dec):
     "Review & Cleanup": /milestones/cleanup
     "Versie 4 [Milestone]": /milestones/versie4
     Screencast: /milestones/screencast
     Presentatie: /milestones/presentation
-Unity:
-  Voorbereiding (2 weken):
-    Intro: /unity/intro
-    Overzicht: /unity/overzicht
-    Game Engines: /unity/game-engines
-    Setup: /unity/setup
-    Agile: /unity/agile-development
-    Roll a ball: "/unity/ball"
-    Microgames & Flappy Bird: "/unity/kennismaken-met-unity"
-    Verder studiemateriaal: /unity/learning-resources
-  Projectvoorstel (uiterlijk dinsdag 16 april):
-    Projectkeuze [Milestone]: /unity/requirements
+
+Arduino:
+  Basics:
+    Blink [Samenwerken]: /arduino/blink
+    Circuit [Samenwerken]: /arduino/circuit
+    Fade [Samenwerken]: /arduino/fade
+    Serial [Samenwerken]: /arduino/serial
+    Button [Samenwerken]: /arduino/button
+    Debounce [Samenwerken]: /arduino/debounce
+    Light Sensor [Samenwerken]: /arduino/light-sensor
+    Servo [Samenwerken]: /arduino/servo
+    Sonar [Samenwerken]: /arduino/sonar
+    Bike light [Samenwerken]: /arduino/bike-light
+  Practice Projects:
+    Solar Tracking [Samenwerken]: /arduino/solar-tracking
+    Line-follow robot [Samenwerken]: /arduino/mbot
+    Jumpman [Optional]: /arduino/jumpman
+  Ter Inspiratie:
+    Voorbeeldprojecten: /arduino/example-projects
+  Projectvoorstel (uiterlijk maandag 2 dec):
     Projectvoorstel [Milestone]: /milestones/proposal
   Projectvalidatie (1 week):
     Uitleg projectvalidatie: /milestones/validatie
@@ -42,9 +50,8 @@ Unity:
     "Versie 1 [Milestone]": /milestones/versie1
     "Versie 2 [Milestone]": /milestones/versie2
     "Versie 3 [Milestone]": /milestones/versie3
-  Afronding (uiterlijk dinsdag 28 mei):
+  Afronding (uiterlijk woensdag 18 dec):
     "Review & Cleanup": /milestones/cleanup
-    Cleanup: /milestones/cleanup
     "Versie 4 [Milestone]": /milestones/versie4
     Screencast: /milestones/screencast
     Presentatie: /milestones/presentation

@@ -68,16 +68,6 @@ En de **afsluiting** vindt plaats met het opleveren van je definitieve project e
 ## Staff
 
 Jelle van Assema en Martijn Stegeman zijn de docenten bij het vak. Je kan ze via e-mail bereiken op <help@mprog.nl>.
-<!-- 
-De begeleiders bij dit vak begeleiden je bij het project en de voorbereidingen daarvoor. Je begeleider is ook je eerste contactpunt binnen het vak.
-
-| Flask                | Data Science    | Arduino            |
-| ---------------------| --------------- | ------------------ |
-| Salomé Poulain       | Rayen Oaf       | Mohamed Idries     |
-| Lieke Zeldenrijk     |                 | Simon Pauw         |
-| Nina van der Meulen  |                 |                    |
-| Robert Hardy         |                 |                    |
-| Fee Elder            |                 |                    | -->
 
 ## Contact
 

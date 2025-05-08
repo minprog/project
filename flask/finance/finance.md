@@ -222,12 +222,6 @@ Complete the implementation of `history` in such a way that it displays an HTML 
 
 ## Testing
 
-To test your code with `check50`, execute the below.
-
-    $ check50 -l minprog/webprogrammeren/checks_2020/finance
-
-> Be aware that check50 will test your entire program as a whole. If you run it before completing all required functions, it may report errors on functions that are actually correct but depend on other functions.
-
 Be sure to test your web app manually too, as by
 
 * inputting alphabetical strings into forms when only numbers are expected,
@@ -237,10 +231,6 @@ Be sure to test your web app manually too, as by
 * trying to sell more shares than a user has,
 * inputting an invalid stock symbol, and
 * including potentially dangerous characters like `'` and `;` in SQL queries.
-
-Execute the below to evaluate the style of your Python files using `style50`.
-
-    style50 *.py
 
 ## Staff's Solution
 

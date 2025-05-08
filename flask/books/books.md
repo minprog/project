@@ -56,17 +56,49 @@ We’ll again use GitHub Classroom to distribute projects and collect submission
 For this project, you will need to set up a PostgreSQL database to use with your
 application. PostgreSQL is designed to run as a stand-alone service (a seperate running program on your machine or perhaps on a server) that an app can interface with. First you will need to download and install PostgreSQL, here's how to do that:
 
-* **On a Mac with [homebrew](https://brew.sh/)** simply run `brew install postgresql`. Just for reference: <https://wiki.postgresql.org/wiki/Homebrew>
-* **On WSL on Windows** follow these instructions: <https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-database#install-postgresql>
+### Windows
 
-Once installed, you need to run PostrgreSQL:
+Go to <https://www.postgresql.org/download/windows/> and download the latest version of PostgreSQL. Run the installer and go through the installation:
+
+* Keep track of where Postgres is installed, by default this will be `C:\users\<your_username>\program files\postgress<version>`. 
+* You should not need to change any of the default settings.
+* By the end of the installation you are prompted for a password for the default user (postgres), **be sure** to choose a memorable password and **write it down for yourself!**.
+
+Once installed, you need to run PostgreSQL. To make this easier you will add postgress to your PATH:
+
+* Click on Start.
+* Search for "Environment Variables" or "Omgevingsvariabelen" and select “Edit the system environment variables”.
+* Click on the button "Environment Variables…"
+* In the “System Variables” section, locate “Path”, and click edit.
+* Click “New” to add the new path. This is the path to the `bin` directory of postgres. You can find this by navigating to this directory via the Windows Explorer, and then by copy-pasting the path directly from the navigation bar. 
+* Close all dialogs by selecting “OK”.
+* Now close and re-open any terminals.
+
+If familiar, like SQLite, PostgreSQL comes with its own command-line interface: `psql`. Once PostgreSQL is up and running, simply type `psql -U postgres`, enter the password, and you should then see your prompt change to `postgres=#`. From here you can try out queries, look at various databases, tables and their structures. The `psql` specific commands are different from SQLite, but here's a useful list to get you started: <https://www.geeksforgeeks.org/postgresql-psql-commands/>.
+
+By default PostgreSQL will create a few empty databases to get you started called: `postgres`, `template0` and `template1`. By executing `psql postgres` we have opened `psql` in the `postgres` database. But instead, let's create our own database called `books`. To do this, inside `psql` execute:
+
+    CREATE DATABASE books;
+
+Then **connect** to the new database with:
+
+    \c books
+
+All right, that is PostgreSQL all set up with a new fresh database called `books`.
+
+### Mac
+
+First, if not already installed, install homebrew: https://brew.sh/
+
+* **On a Mac with [homebrew](https://brew.sh/)** simply run `brew install postgresql`. Just for reference: <https://wiki.postgresql.org/wiki/Homebrew>
+
+Once installed, you need to run PostgreSQL:
 
 * **On a Mac with homebrew** run: `brew services start postgresql`
-* **On WSL on Windows** run: `sudo service postgresql start`
 
-These commands will launch PostgreSQL in the background. If you want to stop the program, just replace the word `start` with `stop` in the command above.
+This commands will launch PostgreSQL in the background. If you want to stop the program, just replace the word `start` with `stop` in the command above.
 
-If perhaps familiar, like SQLite, PostgreSQL comes with its own command-line interface: `psql`. Once PostgreSQL is up and running, simply type `psql postgres` and you should then see your prompt change to `postgres=#`. From here you can try out queries, look at various databases, tables and their structures. The `psql` specific commands are different from SQLite, but here's a useful list to get you started: <https://www.geeksforgeeks.org/postgresql-psql-commands/>.
+If familiar, like SQLite, PostgreSQL comes with its own command-line interface: `psql`. Once PostgreSQL is up and running, simply type `psql postgres`, and you should then see your prompt change to `postgres=#`. From here you can try out queries, look at various databases, tables and their structures. The `psql` specific commands are different from SQLite, but here's a useful list to get you started: <https://www.geeksforgeeks.org/postgresql-psql-commands/>.
 
 By default PostgreSQL will create a few empty databases to get you started called: `postgres`, `template0` and `template1`. By executing `psql postgres` we have opened `psql` in the `postgres` database. But instead, let's create our own database called `books`. To do this, inside `psql` execute:
 

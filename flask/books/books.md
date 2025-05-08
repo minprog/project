@@ -147,8 +147,8 @@ Set the environment variable `DATABASE_URL` to be the URI of your database. Here
 * Search for "Environment Variables" or "Omgevingsvariabelen" and select “Edit the system environment variables”.
 * Click on the button "Environment Variables…"
 * In the “System Variables” section, add a new row:
-    * The variable should be DATABASE_URL
-    * Its value: postgresql://postgres:<PASSWORD>@localhost/books
+    * The variable should be `DATABASE_URL`
+    * Its value: `postgresql://postgres:<PASSWORD>@localhost/books`
          * Be sure to replace `<PASSWORD>` with your actual postgres password.
 * Close all dialogs by selecting “OK”.
 * Now close and re-open any terminals.

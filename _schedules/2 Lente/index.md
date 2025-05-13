@@ -61,7 +61,7 @@ En de **afsluiting** vindt plaats met het opleveren van je definitieve project e
 
 | Onderdeel          | Deadline              |
 | ------------------ | --------------------: |
-| Definitieve versie | di 27 mei             |
+| Definitieve versie | di 27 mei **20:00 uur** |
 | Eindpresentaties   | wo 28 mei             |
 
 

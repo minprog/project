@@ -30,13 +30,18 @@ In je lokale clone:
     git remote rename origin classroom-origin
     git remote add origin https://github.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO_NAAM.git
 
+
+Dit betekent dat de originele repository een nieuwe "naam" krijgt op jouw computer, namelijk `classroom-origin`.
+
+En de naam `origin` wordt gekoppeld aan de nieuw gemaakte repository. Die naam `origin` is de standaard-koppeling voor git, dus omdat we daar een nieuwe repo aan koppelen werkt daarna alles weer normaal.
+
 ## Stap 4: Push je code
 
 Push de inhoud naar je persoonlijke GitHub-repository:
 
     git push -u origin main
 
-> Als je lokale branch `master` heet in plaats van `main`, vervang dan `main` door `master`.
+Vergeet de `-u` niet deze eerste keer. Als je daarna wijzigingen gaat maken kun je gewoon `git push` gebruiken.
 
 ## Optioneel: Verwijder de classroom-remote
 

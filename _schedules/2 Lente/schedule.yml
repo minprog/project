@@ -1,4 +1,6 @@
 Flask:
+  Welkom:
+    Idee, deadlines en beoordeling: /syllabus
   Finance (2 dagen):
     Videocollege Flask: /flask/lectures/flask
     Finance [Samenwerken]: /flask/finance
@@ -22,37 +24,3 @@ Flask:
     Screencast: /milestones/screencast
     Presentatie: /milestones/presentation
     Overzetten repo: /algemeen/overzet
-
-Arduino:
-  Basics:
-    Blink [Samenwerken]: /arduino/blink
-    Circuit [Samenwerken]: /arduino/circuit
-    Fade [Samenwerken]: /arduino/fade
-    Serial [Samenwerken]: /arduino/serial
-    Button [Samenwerken]: /arduino/button
-    Debounce [Samenwerken]: /arduino/debounce
-    Light Sensor [Samenwerken]: /arduino/light-sensor
-    Servo [Samenwerken]: /arduino/servo
-    Sonar [Samenwerken]: /arduino/sonar
-    Bike light [Samenwerken]: /arduino/bike-light
-  Practice Projects:
-    Solar Tracking [Samenwerken]: /arduino/solar-tracking
-    Line-follow robot [Samenwerken]: /arduino/mbot
-    Jumpman [Optional]: /arduino/jumpman
-  Ter Inspiratie:
-    Voorbeeldprojecten: /arduino/example-projects
-  Projectvoorstel:
-    Projectvoorstel [Milestone]: /milestones/proposal
-  Projectvalidatie (1 week):
-    Uitleg projectvalidatie: /milestones/validatie
-    Videocollege Git: /flask/lectures/git
-    Git opzetten [Milestone]: /milestones/git
-  Project (3 weken):
-    "Versie 1 [Milestone]": /milestones/versie1
-    "Versie 2 [Milestone]": /milestones/versie2
-    "Versie 3 [Milestone]": /milestones/versie3
-  Afronding (uiterlijk dinsdag 27 mei):
-    "Review & Cleanup": /milestones/cleanup
-    "Versie 4 [Milestone]": /milestones/versie4
-    Screencast: /milestones/screencast
-    Presentatie: /milestones/presentation

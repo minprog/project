@@ -1,18 +1,18 @@
 templates:
-  1: &besproken
-    type: pass
-    subgrades:
-      besproken: boolean
-    calculation: besproken.to_i
-    hide_calculated: true
-  2: &project
-    type: float
-    subgrades:
-      code: integer
-      design: integer
-      repo: integer
-    calculation: ((code.to_i+design.to_i+repo.to_i).to_f/15*9+1).round(1)
-    hide_calculated: false
+    1: &besproken
+        type: pass
+        subgrades:
+            besproken: boolean
+        calculation: besproken.to_i
+        hide_calculated: true
+    2: &project
+        type: float
+        subgrades:
+            code: integer
+            design: integer
+            repo: integer
+        calculation: ((code.to_i+design.to_i+repo.to_i).to_f/15*9+1).round(1)
+        hide_calculated: false
 
 grades:
     finance: *besproken
@@ -75,16 +75,16 @@ flask:
 ds:
     show_progress: true
     submits:
-      algemeen_ds: 1
-      climate_ds: 1
-      regressie_ds: 1
-      mushrooms_ds: 1
-      yelp1_ds: 1
-      yelp2_ds: 1
-      projectvoorstel_ds: 1
+        algemeen_ds: 1
+        climate_ds: 1
+        regressie_ds: 1
+        mushrooms_ds: 1
+        yelp1_ds: 1
+        yelp2_ds: 1
+        projectvoorstel_ds: 1
 
 arduino:
     show_progress: true
     submits:
-      solar: 1
-      mbot: 1
+        solar: 1
+        mbot: 1

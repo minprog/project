@@ -1,4 +1,4 @@
-# Programmeerproject <br><small>Studiewijzer Lente 2024</small>
+# Programmeerproject <br><small>Studiewijzer Lente 2025</small>
 
 > Binnen twee maanden vorm je van begin tot eind een eigen idee tot een ontwerp en vervolgens implementeer je een eigen applicatie in een modern software-framework. Je doet ervaring op met systematisch werken en documenteren van zo'n project en het uitzoeken van de kennis die je nodig hebt om het tot een succes te maken. Hierbij beperkt de staf zich tot het geven van feedback op de ideeën en het helpen oplossen van technische blokkades.
 
@@ -8,42 +8,66 @@ De vakken Programmeren 1 en Datarepresentaties, of Programmeren 1 en 2, moet je 
 
 ## Kalender
 
-> Let op! In deze periode zit een vakantieweek én een heleboel feestdagen. Het project kost wel 8 volle weken aan tijd. Zorg dus dat je goed nadenkt over wanneer je je werkzaamheden plant. Als je de vakantieweek wil nemen, plan dan wat werkzaamheden op feest- of weekenddagen. Andersom is natuurlijk ook prima!
+#### Volg je tegelijkertijd programmeren 2 en het programmeerproject? 
 
-Tijdens de **eerste drie weken** ga je aan de slag met de voorbereiding: het leren kennen van het platform waarmee je aan de slag gaat.
+Dan is dit jouw schema:
+
+In dit geval volg je programmeren 2 in de eerste vier weken van het blok, en het programmeerproject in de laatste vier weken. Het programmeerproject start dan op **dinsdag 6 mei**
+
+Tijdens de **eerste week** ga je aan de slag met de voorbereiding: het leren kennen van het platform waarmee je gaat werken.
 
 | Onderdeel     | Tijdsbesteding | Deadline  |
 | ------------- | -------------: | --------: |
-| Voorbereiding |        ~60 uur | vr 19 april |
+| Voorbereiding |        ~40 uur | vr 9 mei  |
 
 Het project wordt gedaan volgens een aantal **milestones**. Na elke milestone ga je bespreken met je begeleider hoe je ervoor staat en hoe je verder kunt. De deadlines van versie 1 t/m 3 mag je met enkele dagen verschuiven als het strikt nodig is.
 
-| Onderdeel        | Tijdsbesteding | Deadline    |
-| ---------------- | -------------: | ----------: |
-| Projectvoorstel  |         ~8 uur | di 16 april |
-| Projectvalidatie |        ~10 uur | vr 26 april |
-| Versie 1         |        ~20 uur | vr 10 mei    |
-| Versie 2         |        ~20 uur | vr 17 mei   |
-| Versie 3         |        ~20 uur | vr 24 mei   |
+| Onderdeel        | Tijdsbesteding | Deadline  |
+| ---------------- | -------------: | --------: |
+| Projectvoorstel  |         ~8 uur | ma 12 mei |
+| Projectvalidatie |        ~10 uur | wo 14 mei |
+| Versie 1         |        ~20 uur | vr 16 mei |
+| Versie 2         |        ~20 uur | di 20 mei |
+| Versie 3         |        ~20 uur | vr 23 mei |
 
 En de **afsluiting** vindt plaats met het opleveren van je definitieve project en de eindpresentaties. Deze data staan helemaal vast en kunnen niet aangepast worden.
 
 | Onderdeel          | Deadline              |
 | ------------------ | --------------------: |
-| Definitieve versie (versie 4) | di 28 mei             |
-| Eindpresentaties   | do 30 mei             |
+| Definitieve versie | di 27 mei **20:00 uur** |
+| Eindpresentaties   | wo 28 mei             |
+
+#### Volg je alleen het programmeerproject en niet programmeren 2?
+
+Dan is dit jouw schema:
+
+Tijdens de **eerste drie weken** ga je aan de slag met de voorbereiding: het leren kennen van het platform waarmee je gaat werken.
+
+| Onderdeel     | Tijdsbesteding | Deadline  |
+| ------------- | -------------: | --------: |
+| Voorbereiding |        ~50 uur | do 17 apr |
+
+Het project wordt gedaan volgens een aantal **milestones**. Na elke milestone ga je bespreken met je begeleider hoe je ervoor staat en hoe je verder kunt. De deadlines van versie 1 t/m 3 mag je met enkele dagen verschuiven als het strikt nodig is.
+
+| Onderdeel        | Tijdsbesteding | Deadline  |
+| ---------------- | -------------: | --------: |
+| Projectvoorstel  |         ~8 uur | di 15 apr |
+| Projectvalidatie |        ~10 uur | vr 25 apr |
+| Versie 1         |        ~20 uur | vr  9 mei |
+| Versie 2         |        ~20 uur | vr 16 mei |
+| Versie 3         |        ~20 uur | vr 23 mei |
+
+En de **afsluiting** vindt plaats met het opleveren van je definitieve project en de eindpresentaties. Deze data staan helemaal vast en kunnen niet aangepast worden.
+
+| Onderdeel          | Deadline              |
+| ------------------ | --------------------: |
+| Definitieve versie | di 27 mei **20:00 uur** |
+| Eindpresentaties   | wo 28 mei             |
 
 
 ## Staff
 
 Jelle van Assema en Martijn Stegeman zijn de docenten bij het vak. Je kan ze via e-mail bereiken op <help@mprog.nl>.
-
-De begeleiders bij dit vak begeleiden je bij het project en de voorbereidingen daarvoor. Je begeleider is ook je eerste contactpunt binnen het vak.
-
-| Flask                | Unity              |
-| ---------------------| ------------------ |
-| Nina van der Meulen  | Martijn Reus       |
-| Seda den Boer        |                    |
 
 ## Contact
 
@@ -63,22 +87,6 @@ Tijdens dit vak zul je regelmatig de hulp inroepen van de staff en medestudenten
 - andere officiële zaken
 - administratie na afloop van het vak
 - mail naar <help@mprog.nl>
-
-## Rooster
-
-Iedere track heeft zo zijn eigen rooster en assistentiemomenten:
-
-|           | Flask                  | Unity                     |
-|-----------|------------------------|---------------------------|
-| maandag   | Nina (15:00-17:00)     | Martijn (10:00-12:30)     |
-| dinsdag   | Seda (10:00-12:30)     | Martijn (13:30-17:00)     |
-| woensdag  | Nina (13:30-15:30)     |                           |
-| donderdag | **Seda (10:00-12:30)** | **Martijn (13:30-17:00)** |
-| vrijdag   | **Seda (10:00-12:30)** |                           |
-|           | **Nina (11:30-17:00)** |                           |
-
-Je gaat ook wekelijks bijeenkomen met je begeleider. De opties hiervoor staan vetgedrukt in het schema hierboven. Als je voor een track kiest moet je voor één van deze opties volledig beschikbaar zijn.
-
 
 ## Minimumeisen
 

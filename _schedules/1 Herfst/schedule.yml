@@ -1,88 +1,93 @@
 Flask:
-  Finance (2 dagen):
-    Videocollege Flask: /flask/lectures/flask
-    Finance [Samenwerken]: /flask/finance
-  Books (3 dagen):
-    "Videocollege ORMs & APIs": /flask/lectures/orms
-    Books [Opdracht]: /flask/books
-  Projectvoorstel (uiterlijk maandag 2 dec):
-    Projectkeuze [Milestone]: /milestones/topic
-    Projectvoorstel [Milestone]: /milestones/proposal
-  Projectvalidatie:
-    Uitleg projectvalidatie: /milestones/validatie
-    Videocollege Git: /flask/lectures/git
-    Git opzetten [Milestone]: /milestones/git
-  Project:
-    "Versie 1 [Milestone]": /milestones/versie1
-    "Versie 2 [Milestone]": /milestones/versie2
-    "Versie 3 [Milestone]": /milestones/versie3
-  Afronding (uiterlijk woensdag 18 dec):
-    "Review & Cleanup": /milestones/cleanup
-    "Versie 4 [Milestone]": /milestones/versie4
-    Screencast: /milestones/screencast
-    Presentatie: /milestones/presentation
-
+    Welkom:
+        Idee, deadlines en beoordeling: /syllabus
+    Finance (2 dagen):
+        Videocollege Flask: /flask/lectures/flask
+        Finance [Samenwerken]: /flask/finance
+    Books (3 dagen):
+        "Videocollege ORMs & APIs": /flask/lectures/orms
+        Books [Opdracht]: /flask/books
+    Projectvoorstel (uiterlijk maandag 2 dec):
+        Projectkeuze [Milestone]: /milestones/topic
+        Projectvoorstel [Milestone]: /milestones/proposal
+    Projectvalidatie:
+        Uitleg projectvalidatie: /milestones/validatie
+        Videocollege Git: /flask/lectures/git
+        Git opzetten [Milestone]: /milestones/git
+    Project:
+        "Versie 1 [Milestone]": /milestones/versie1
+        "Versie 2 [Milestone]": /milestones/versie2
+        "Versie 3 [Milestone]": /milestones/versie3
+    Afronding (uiterlijk woensdag 18 dec):
+        "Review & Cleanup": /milestones/cleanup
+        "Versie 4 [Milestone]": /milestones/versie4
+        Screencast: /milestones/screencast
+        Presentatie: /milestones/presentation
 
 Data Science:
+    Welkom:
+        Idee, deadlines en beoordeling: /syllabus
     Set up:
-      Set up: /ds/resources/install
-      Introductie: /ds/start
-      Oefenen: /ds/start/oefenen
+        Set up: /ds/resources/install
+        Introductie: /ds/start
+        Oefenen: /ds/start/oefenen
     Algemeen:
-      Statistiek en pandas: /ds/algemeen
+        Statistiek en pandas: /ds/algemeen
     Statistiek & statistische modellen:
-      Regressie: /ds/statistiek/regressie
-      Climate change: /ds/statistiek/climate
+        Regressie: /ds/statistiek/regressie
+        Climate change: /ds/statistiek/climate
     Oefendatasets:
-      Mushrooms: /ds/oefen/mushrooms
-      Yelp deel 1*: /ds/oefen/yelp1
-      Yelp deel 2: /ds/oefen/yelp2
+        Mushrooms: /ds/oefen/mushrooms
+        Yelp deel 1*: /ds/oefen/yelp1
+        Yelp deel 2: /ds/oefen/yelp2
     Projectvoorstel (uiterlijk maandag 2 dec):
-      Projectvoorstel [Milestone]: /ds/eigen_project
+        Projectvoorstel [Milestone]: /ds/eigen_project
     Projectvalidatie (1 week):
-      Uitleg projectvalidatie: /milestones/validatie
-      Videocollege Git: /flask/lectures/git
-      Git opzetten [Milestone]: /milestones/git
+        Uitleg projectvalidatie: /milestones/validatie
+        Videocollege Git: /flask/lectures/git
+        Git opzetten [Milestone]: /milestones/git
     Project (3 weken):
-      "Versie 1 [Milestone]": /milestones/versie1
-      "Versie 2 [Milestone]": /milestones/versie2
-      "Versie 3 [Milestone]": /milestones/versie3
+        "Versie 1 [Milestone]": /milestones/versie1
+        "Versie 2 [Milestone]": /milestones/versie2
+        "Versie 3 [Milestone]": /milestones/versie3
     Afronding (uiterlijk woensdag 18 dec):
-      "Review & Cleanup": /milestones/cleanup
-      "Versie 4 [Milestone]": /milestones/versie4
-      Screencast: /milestones/screencast
-      Presentatie: /milestones/presentation
+        "Review & Cleanup": /milestones/cleanup
+        "Versie 4 [Milestone]": /milestones/versie4
+        Screencast: /milestones/screencast
+        Presentatie: /milestones/presentation
 
 Arduino:
-  Basics:
-    Blink [Samenwerken]: /arduino/blink
-    Circuit [Samenwerken]: /arduino/circuit
-    Fade [Samenwerken]: /arduino/fade
-    Serial [Samenwerken]: /arduino/serial
-    Button [Samenwerken]: /arduino/button
-    Debounce [Samenwerken]: /arduino/debounce
-    Light Sensor [Samenwerken]: /arduino/light-sensor
-    Servo [Samenwerken]: /arduino/servo
-    Sonar [Samenwerken]: /arduino/sonar
-    Bike light [Samenwerken]: /arduino/bike-light
-  Practice Projects:
-    Solar Tracking [Samenwerken]: /arduino/solar-tracking
-    Line-follow robot [Samenwerken]: /arduino/mbot
-    Jumpman [Optional]: /arduino/jumpman
-  Ter Inspiratie:
-    Voorbeeldprojecten: /arduino/example-projects
-  Projectvoorstel (uiterlijk maandag 2 dec):
-    Projectvoorstel [Milestone]: /milestones/proposal
-  Projectvalidatie (1 week):
-    Uitleg projectvalidatie: /milestones/validatie
-    Videocollege Git: /flask/lectures/git
-    Git opzetten [Milestone]: /milestones/git
-  Project (3 weken):
-    "Versie 1 [Milestone]": /milestones/versie1
-    "Versie 2 [Milestone]": /milestones/versie2
-    "Versie 3 [Milestone]": /milestones/versie3
-  Afronding (uiterlijk woensdag 18 dec):
-    "Review & Cleanup": /milestones/cleanup
-    "Versie 4 [Milestone]": /milestones/versie4
-    Screencast: /milestones/screencast
-    Presentatie: /milestones/presentation
+    Welkom:
+        Idee, deadlines en beoordeling: /syllabus
+    Basics:
+        Blink [Samenwerken]: /arduino/blink
+        Circuit [Samenwerken]: /arduino/circuit
+        Fade [Samenwerken]: /arduino/fade
+        Serial [Samenwerken]: /arduino/serial
+        Button [Samenwerken]: /arduino/button
+        Debounce [Samenwerken]: /arduino/debounce
+        Light Sensor [Samenwerken]: /arduino/light-sensor
+        Servo [Samenwerken]: /arduino/servo
+        Sonar [Samenwerken]: /arduino/sonar
+        Bike light [Samenwerken]: /arduino/bike-light
+    Practice Projects:
+        Solar Tracking [Samenwerken]: /arduino/solar-tracking
+        Line-follow robot [Samenwerken]: /arduino/mbot
+        Jumpman [Optional]: /arduino/jumpman
+    Ter Inspiratie:
+        Voorbeeldprojecten: /arduino/example-projects
+    Projectvoorstel (uiterlijk maandag 2 dec):
+        Projectvoorstel [Milestone]: /milestones/proposal
+    Projectvalidatie (1 week):
+        Uitleg projectvalidatie: /milestones/validatie
+        Videocollege Git: /flask/lectures/git
+        Git opzetten [Milestone]: /milestones/git
+    Project (3 weken):
+        "Versie 1 [Milestone]": /milestones/versie1
+        "Versie 2 [Milestone]": /milestones/versie2
+        "Versie 3 [Milestone]": /milestones/versie3
+    Afronding (uiterlijk woensdag 18 dec):
+        "Review & Cleanup": /milestones/cleanup
+        "Versie 4 [Milestone]": /milestones/versie4
+        Screencast: /milestones/screencast
+        Presentatie: /milestones/presentation

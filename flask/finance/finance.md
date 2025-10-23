@@ -84,7 +84,7 @@ Let's turn our attention now to this problem's distribution code!
 ### Downloading and installing
 
 
-    $ curl -LO https://github.com/minprog/project/raw/2022/flask/finance/finance.zip
+    $ curl -LO https://github.com/minprog/project/raw/2024/flask/finance/finance.zip
     $ unzip finance.zip
     $ rm finance.zip
     $ cd finance
@@ -100,24 +100,6 @@ Run
 
 
 to make sure all of the necessary Python packages (Flask for instance) are installed.
-
-### Configuring
-
-Before getting started on this assignment, we'll need to register for an API key in order to be able to query IEX's data. To do so, follow these steps:
-
-* Visit [iexcloud.io/cloud-login#/register/](https://iexcloud.io/cloud-login#/register/).
-* Select the "Individual" account type, then enter your email address and a password, and click "Create account".
-* Once registered, scroll down to “Get started for free” and click “Select Start” to choose the free plan.
-* Once you've confirmed your account via a confirmation email, visit [https://iexcloud.io/console/tokens](https://iexcloud.io/console/tokens).
-* Copy the key that appears under the *Token* column (it should begin with `pk_`).
-* In a terminal window within CS50 IDE, execute:
-
-
-    $ export API_KEY=value
-    
-    
-where `value` is that (pasted) value, without any space immediately before or after the `=`. You also may wish to paste that value in a text document somewhere, in case you need it again later.
-
 
 ### Running
 
@@ -240,12 +222,6 @@ Complete the implementation of `history` in such a way that it displays an HTML 
 
 ## Testing
 
-To test your code with `check50`, execute the below.
-
-    $ check50 -l minprog/webprogrammeren/checks_2020/finance
-
-> Be aware that check50 will test your entire program as a whole. If you run it before completing all required functions, it may report errors on functions that are actually correct but depend on other functions.
-
 Be sure to test your web app manually too, as by
 
 * inputting alphabetical strings into forms when only numbers are expected,
@@ -255,10 +231,6 @@ Be sure to test your web app manually too, as by
 * trying to sell more shares than a user has,
 * inputting an invalid stock symbol, and
 * including potentially dangerous characters like `'` and `;` in SQL queries.
-
-Execute the below to evaluate the style of your Python files using `style50`.
-
-    style50 *.py
 
 ## Staff's Solution
 

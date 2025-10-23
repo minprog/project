@@ -1,50 +1,26 @@
 Flask:
-  Finance (1 week):
-    Videocollege Flask: /flask/lectures/flask
-    Finance [Samenwerken]: /flask/finance
-  Books (1.5 week):
-    "Videocollege ORMs & APIs": /flask/lectures/orms
-    Books [Opdracht]: /flask/books
-  Projectvoorstel (uiterlijk dinsdag 16 april):
-    Projectkeuze [Milestone]: /milestones/topic
-    Projectvoorstel [Milestone]: /milestones/proposal
-  Projectvalidatie (1 week):
-    Uitleg projectvalidatie: /milestones/validatie
-    Videocollege Git: /flask/lectures/git
-    Git opzetten [Milestone]: /milestones/git
-  Project (3 weken):
-    "Versie 1 [Milestone]": /milestones/versie1
-    "Versie 2 [Milestone]": /milestones/versie2
-    "Versie 3 [Milestone]": /milestones/versie3
-  Afronding (uiterlijk dinsdag 28 mei):
-    "Review & Cleanup": /milestones/cleanup
-    "Versie 4 [Milestone]": /milestones/versie4
-    Screencast: /milestones/screencast
-    Presentatie: /milestones/presentation
-Unity:
-  Voorbereiding (2 weken):
-    Intro: /unity/intro
-    Overzicht: /unity/overzicht
-    Game Engines: /unity/game-engines
-    Setup: /unity/setup
-    Agile: /unity/agile-development
-    Roll a ball: "/unity/ball"
-    Microgames & Flappy Bird: "/unity/kennismaken-met-unity"
-    Verder studiemateriaal: /unity/learning-resources
-  Projectvoorstel (uiterlijk dinsdag 16 april):
-    Projectkeuze [Milestone]: /unity/requirements
-    Projectvoorstel [Milestone]: /milestones/proposal
-  Projectvalidatie (1 week):
-    Uitleg projectvalidatie: /milestones/validatie
-    Videocollege Git: /flask/lectures/git
-    Git opzetten [Milestone]: /milestones/git
-  Project (3 weken):
-    "Versie 1 [Milestone]": /milestones/versie1
-    "Versie 2 [Milestone]": /milestones/versie2
-    "Versie 3 [Milestone]": /milestones/versie3
-  Afronding (uiterlijk dinsdag 28 mei):
-    "Review & Cleanup": /milestones/cleanup
-    Cleanup: /milestones/cleanup
-    "Versie 4 [Milestone]": /milestones/versie4
-    Screencast: /milestones/screencast
-    Presentatie: /milestones/presentation
+    Welkom:
+        Idee, deadlines en beoordeling: /syllabus
+    Finance (2 dagen):
+        Videocollege Flask: /flask/lectures/flask
+        Finance [Samenwerken]: /flask/finance
+    Books (3 dagen):
+        "Videocollege ORMs & APIs": /flask/lectures/orms
+        Books [Opdracht]: /flask/books
+    Projectvoorstel:
+        Projectkeuze [Milestone]: /milestones/topic
+        Projectvoorstel [Milestone]: /milestones/proposal
+    Projectvalidatie:
+        Uitleg projectvalidatie: /milestones/validatie
+        Videocollege Git: /flask/lectures/git
+        Git opzetten [Milestone]: /milestones/git
+    Project:
+        "Versie 1 [Milestone]": /milestones/versie1
+        "Versie 2 [Milestone]": /milestones/versie2
+        "Versie 3 [Milestone]": /milestones/versie3
+    Afronding (uiterlijk dinsdag 27 mei):
+        "Review & Cleanup": /milestones/cleanup
+        "Versie 4 [Milestone]": /milestones/versie4
+        Screencast: /milestones/screencast
+        Presentatie: /milestones/presentation
+        Overzetten repo: /algemeen/overzet

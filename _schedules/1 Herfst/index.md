@@ -6,13 +6,13 @@
 
 De vakken Programmeren 1 en Datarepresentaties, of Programmeren 1 en 2, moet je helemaal gehaald hebben vóór je deze cursus start.
 
-## Kalender
-
-#### Volg je tegelijkertijd programmeren 2 en het programmeerproject? 
+### Volg je tegelijkertijd programmeren 2 en het programmeerproject? 
 
 Dan is dit jouw schema:
 
 In dit geval volg je programmeren 2 in de eerste vier weken van het blok, en het programmeerproject in de laatste vier weken. Het programmeerproject start dan op **maandag 24 november**
+
+#### Deadlines
 
 Tijdens de **eerste week** ga je aan de slag met de voorbereiding: het leren kennen van het platform waarmee je gaat werken.
 
@@ -35,9 +35,49 @@ En de **afsluiting** vindt plaats met het opleveren van je definitieve project e
 | Onderdeel          | Deadline              |
 | ------------------ | --------------------: |
 | Definitieve versie | wo 17 dec             |
-| Eindpresentaties   | do 18 dec & vr 19 dec |
+| Eindpresentaties   | do 18 dec             |
 
-#### Volg je alleen het programmeerproject en niet programmeren 2?
+#### Dagelijks (Kick off + Send off)
+
+In dit vak ga je in zeer korte tijd een heel project neerzetten en daardoor gaan de dagen razendsnel. Om je te helpen met het houden van overzicht beginnen en eindigen we samen de dag.
+
+Iedere dag is er samen met de assistent om 10 uur een korte gezamenlijke kick off. Daarin bespreek en schrijf je op wat je die dag gaat aanpakken op een post it. De post it hang je vervolgens op het bord in het lokaal.
+
+Aan het einde van de dag om 15:30 is er een korte gezamenlijke send off. Daarin bespreek je wat die dag is gelukt en streep je de post it af.
+
+#### Meetings
+
+In dit vak ga je geregeld met een vaste assistent meeten in L0.09. De dagen en tijden verschillen omdat de roosters van de assistenten ook verschillen. 
+
+Meeting #1: Eerste projectideeën bespreken
+
+* Woensdag 26 november - Jona (11-13u) Salomé (14-16u) 
+* Donderdag 27 november - Zoë(11-13u) 
+* Vrijdag 28 november - Bart (13-15u)
+
+Meeting #2: Projectvoorstel bespreken
+
+* Maandag 1 december - Zoë (13-15u) Salomé (11-13u) 
+* Dinsdag 2 december - Bart (11-13u) 
+* Woensdag 3 december - Jona (11-13u) 
+
+Meeting #3: Versie 1 
+
+* Donderdag 4 december - Zoë (11-13u) Salomé (13-15u) 
+* Vrijdag 5 december - Jona (10-12u) Bart (13-15u) 🎅🏻
+
+Meeting #4: Versie 2
+
+* Maandag 8 december - Zoë (13-15u) Salomé (11-13u)
+* Dinsdag 9 december - Bart (11-13u)
+* Woensdag 10 december - Jona (11-13u) 
+
+Meeting #5: Versie 3
+
+* Donderdag 11 december - Zoë (11-13u) Salomé (13-15u)
+* Vrijdag 12 december - Jona (10-12u) Bart (13-15u)
+
+### Volg je alleen het programmeerproject en niet programmeren 2?
 
 Dan is dit jouw schema:
 
@@ -62,7 +102,7 @@ En de **afsluiting** vindt plaats met het opleveren van je definitieve project e
 | Onderdeel          | Deadline              |
 | ------------------ | --------------------: |
 | Definitieve versie | wo 17 dec             |
-| Eindpresentaties   | do 18 dec & vr 19 dec |
+| Eindpresentaties   | do 18 dec             |
 
 
 ## Staff

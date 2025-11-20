@@ -39,7 +39,7 @@ En de **afsluiting** vindt plaats met het opleveren van je definitieve project e
 
 #### Dagelijks (Kick off + Send off)
 
-In dit vak ga je in zeer korte tijd een heel project neerzetten en daardoor gaan de dagen razendsnel. Om je te helpen met het houden van overzicht beginnen en eindigen we samen de dag.
+In dit vak ga je in zeer korte tijd een heel project neerzetten en daardoor gaan de dagen razendsnel. **Je moet daarom dagelijks aanwezig zijn.** Om je te helpen met het houden van overzicht beginnen en eindigen we samen de dag.
 
 Iedere dag is er samen met de assistent om 10 uur een korte gezamenlijke kick off. Daarin bespreek en schrijf je op wat je die dag gaat aanpakken op een post it. De post it hang je vervolgens op het bord in het lokaal.
 

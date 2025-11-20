@@ -4,7 +4,7 @@
 
 ## Voorkennis
 
-De vakken Programmeren 1 en Datarepresentaties, of Programmeren 1 en 2, moet je helemaal gehaald hebben vóór je deze cursus start.
+De vakken Programmeren 1 en 2 moet je netjes gehaald hebben vóór je deze cursus start. Check vooraf met de docent als dit niet lukt.
 
 ## Kalender
 

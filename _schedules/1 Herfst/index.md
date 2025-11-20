@@ -1,4 +1,4 @@
-# Programmeerproject <br><small>Studiewijzer Herfst 2024</small>
+# Programmeerproject <br><small>Studiewijzer Herfst 2025</small>
 
 > Binnen twee maanden vorm je van begin tot eind een eigen idee tot een ontwerp en vervolgens implementeer je een eigen applicatie in een modern software-framework. Je doet ervaring op met systematisch werken en documenteren van zo'n project en het uitzoeken van de kennis die je nodig hebt om het tot een succes te maken. Hierbij beperkt de staf zich tot het geven van feedback op de ideeën en het helpen oplossen van technische blokkades.
 
@@ -6,38 +6,78 @@
 
 De vakken Programmeren 1 en 2 moet je netjes gehaald hebben vóór je deze cursus start. Check vooraf met de docent als dit niet lukt.
 
-## Kalender
-
-#### Volg je tegelijkertijd programmeren 2 en het programmeerproject? 
+### Volg je tegelijkertijd programmeren 2 en het programmeerproject? 
 
 Dan is dit jouw schema:
 
-In dit geval volg je programmeren 2 in de eerste vier weken van het blok, en het programmeerproject in de laatste vier weken. Het programmeerproject start dan op **maandag 25 november**
+In dit geval volg je programmeren 2 in de eerste vier weken van het blok, en het programmeerproject in de laatste vier weken. Het programmeerproject start dan op **maandag 24 november**
+
+#### Deadlines
 
 Tijdens de **eerste week** ga je aan de slag met de voorbereiding: het leren kennen van het platform waarmee je gaat werken.
 
 | Onderdeel     | Tijdsbesteding | Deadline  |
 | ------------- | -------------: | --------: |
-| Voorbereiding |        ~40 uur | vr 29 nov |
+| Voorbereiding |        ~40 uur | vr 28 nov |
 
 Het project wordt gedaan volgens een aantal **milestones**. Na elke milestone ga je bespreken met je begeleider hoe je ervoor staat en hoe je verder kunt. De deadlines van versie 1 t/m 3 mag je met enkele dagen verschuiven als het strikt nodig is.
 
 | Onderdeel        | Tijdsbesteding | Deadline  |
 | ---------------- | -------------: | --------: |
-| Projectvoorstel  |         ~8 uur | ma  2 dec |
-| Projectvalidatie |        ~10 uur | wo  4 dec |
-| Versie 1         |        ~20 uur | vr  6 dec |
-| Versie 2         |        ~20 uur | di 10 dec |
-| Versie 3         |        ~20 uur | vr 13 dec |
+| Projectvoorstel  |         ~8 uur | ma  1 dec |
+| Projectvalidatie |        ~10 uur | wo  3 dec |
+| Versie 1         |        ~20 uur | vr  5 dec |
+| Versie 2         |        ~20 uur | di  9 dec |
+| Versie 3         |        ~20 uur | vr 12 dec |
 
 En de **afsluiting** vindt plaats met het opleveren van je definitieve project en de eindpresentaties. Deze data staan helemaal vast en kunnen niet aangepast worden.
 
 | Onderdeel          | Deadline              |
 | ------------------ | --------------------: |
-| Definitieve versie | wo 18 dec             |
-| Eindpresentaties   | do 19 dec & vr 20 dec |
+| Definitieve versie | wo 17 dec             |
+| Eindpresentaties   | do 18 dec             |
 
-#### Volg je alleen het programmeerproject en niet programmeren 2?
+#### Dagelijks (Kick off + Send off)
+
+In dit vak ga je in zeer korte tijd een heel project neerzetten en daardoor gaan de dagen razendsnel. **Je moet daarom dagelijks aanwezig zijn.** Om je te helpen met het houden van overzicht beginnen en eindigen we samen de dag.
+
+Iedere dag is er samen met de assistent om 10 uur een korte gezamenlijke kick off. Daarin bespreek en schrijf je op wat je die dag gaat aanpakken op een post it. De post it hang je vervolgens op het bord in het lokaal.
+
+Aan het einde van de dag om 15:30 is er een korte gezamenlijke send off. Daarin bespreek je wat die dag is gelukt en streep je de post it af.
+
+#### Meetings
+
+In dit vak ga je geregeld met een vaste assistent meeten in L0.09. De dagen en tijden verschillen omdat de roosters van de assistenten ook verschillen. 
+
+Meeting #1: Eerste projectideeën bespreken
+
+* Woensdag 26 november - Jona (11-13u) Salomé (14-16u) 
+* Donderdag 27 november - Zoë(11-13u) 
+* Vrijdag 28 november - Bart (13-15u)
+
+Meeting #2: Projectvoorstel bespreken
+
+* Maandag 1 december - Zoë (13-15u) Salomé (11-13u) 
+* Dinsdag 2 december - Bart (11-13u) 
+* Woensdag 3 december - Jona (11-13u) 
+
+Meeting #3: Versie 1 
+
+* Donderdag 4 december - Zoë (11-13u) Salomé (13-15u) 
+* Vrijdag 5 december - Jona (10-12u) Bart (13-15u) 🎅🏻
+
+Meeting #4: Versie 2
+
+* Maandag 8 december - Zoë (13-15u) Salomé (11-13u)
+* Dinsdag 9 december - Bart (11-13u)
+* Woensdag 10 december - Jona (11-13u) 
+
+Meeting #5: Versie 3
+
+* Donderdag 11 december - Zoë (11-13u) Salomé (13-15u)
+* Vrijdag 12 december - Jona (10-12u) Bart (13-15u)
+
+### Volg je alleen het programmeerproject en niet programmeren 2?
 
 Dan is dit jouw schema:
 
@@ -45,39 +85,29 @@ Tijdens de **eerste drie weken** ga je aan de slag met de voorbereiding: het ler
 
 | Onderdeel     | Tijdsbesteding | Deadline  |
 | ------------- | -------------: | --------: |
-| Voorbereiding |        ~50 uur | vr 15 nov |
+| Voorbereiding |        ~50 uur | vr 14 nov |
 
 Het project wordt gedaan volgens een aantal **milestones**. Na elke milestone ga je bespreken met je begeleider hoe je ervoor staat en hoe je verder kunt. De deadlines van versie 1 t/m 3 mag je met enkele dagen verschuiven als het strikt nodig is.
 
 | Onderdeel        | Tijdsbesteding | Deadline  |
 | ---------------- | -------------: | --------: |
-| Projectvoorstel  |         ~8 uur | di 12 nov |
-| Projectvalidatie |        ~10 uur | vr 22 nov |
-| Versie 1         |        ~20 uur | vr 29 nov |
-| Versie 2         |        ~20 uur | vr  6 dec |
-| Versie 3         |        ~20 uur | vr 13 dec |
+| Projectvoorstel  |         ~8 uur | di 11 nov |
+| Projectvalidatie |        ~10 uur | vr 21 nov |
+| Versie 1         |        ~20 uur | vr 28 nov |
+| Versie 2         |        ~20 uur | vr  5 dec |
+| Versie 3         |        ~20 uur | vr 12 dec |
 
 En de **afsluiting** vindt plaats met het opleveren van je definitieve project en de eindpresentaties. Deze data staan helemaal vast en kunnen niet aangepast worden.
 
 | Onderdeel          | Deadline              |
 | ------------------ | --------------------: |
-| Definitieve versie | wo 18 dec             |
-| Eindpresentaties   | do 19 dec & vr 20 dec |
+| Definitieve versie | wo 17 dec             |
+| Eindpresentaties   | do 18 dec             |
 
 
 ## Staff
 
 Jelle van Assema en Martijn Stegeman zijn de docenten bij het vak. Je kan ze via e-mail bereiken op <help@mprog.nl>.
-
-De begeleiders bij dit vak begeleiden je bij het project en de voorbereidingen daarvoor. Je begeleider is ook je eerste contactpunt binnen het vak.
-
-| Flask                | Data Science    | Arduino            |
-| ---------------------| --------------- | ------------------ |
-| Salomé Poulain       | Rayen Oaf       | Mohamed Idries     |
-| Lieke Zeldenrijk     |                 | Simon Pauw         |
-| Nina van der Meulen  |                 |                    |
-| Robert Hardy         |                 |                    |
-| Fee Elder            |                 |                    |
 
 ## Contact
 
@@ -88,7 +118,7 @@ Tijdens dit vak zul je regelmatig de hulp inroepen van de staff en medestudenten
 - hulp op locatie
 - je weet niet waar te beginnen of je zit met een onvindbare bug
 - je hebt moeite met het verzinnen van een oplossing
-- kwestie van binnenlopen!
+- de beste manier is om vaak in het lokaal te komen zitten
 
 **E-mail:** contact met de docent.
 

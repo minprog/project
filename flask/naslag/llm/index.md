@@ -77,3 +77,5 @@ And then you should be able to run `llm` as per the examples above.
 ## API use
 
 You should be able to `import llm` and it will pick up the same config as in the command-line tool. Refer to the [LLM Python API documentation](https://llm.datasette.io/en/stable/python-api.html) for more.
+
+See <https://ai-research-proxy.azurewebsites.net/> for an extensive list of endpoints you could use. Keep in mind that most endpoints are just a passthrough to another API, and you will likely need to read the documentation of that API to understand its uses and how to use it.

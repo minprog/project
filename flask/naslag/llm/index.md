@@ -1,12 +1,12 @@
-# UvA's AI chat API
+# AI research proxy
 
-If you want to use an `llm` in your project you can do so through UvA's AI chat API. With the benefit that you have access to a wide range of models and you do not have to leave credit card details anywhere. Below are our instructions to get everything set up and running.
+If you want to use an `llm` in your project you can do so through UvA's AI research proxy. With the benefit that you have access to a wide range of models and you do not have to leave credit card details anywhere. Below are our instructions to get everything set up and running.
 
 ## Get your API key
 
 In order to use an llm you will need access. In our case that is in the form of an API key. You can request your own API key by sending us an email at <help@mprog.nl>.
 
-## Using `llm` in Python with UvA's AI chat
+## Using `llm` in Python
 
 You can use the `llm` module to directly interact with a model via the command line:
 
@@ -77,5 +77,3 @@ And then you should be able to run `llm` as per the examples above.
 ## API use
 
 You should be able to `import llm` and it will pick up the same config as in the command-line tool. Refer to the [LLM Python API documentation](https://llm.datasette.io/en/stable/python-api.html) for more.
-
-See <https://ai-research-proxy.azurewebsites.net/> for an extensive list of endpoints you could use. Keep in mind that most endpoints are just a passthrough to another API, and you will likely need to read the documentation of that API to understand its uses and how to use it.

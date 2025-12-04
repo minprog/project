@@ -1,6 +1,6 @@
 # UvA's AI chat API
 
-If you want to use an `llm` in your project you can do so through UvA's AI chat API. With the benefit that you have access to a wide range of models and you don't have to leave credit card details anywhere. Below are our instructions to get everything set up and running.
+If you want to use an `llm` in your project you can do so through UvA's AI chat API. With the benefit that you have access to a wide range of models and you do not have to leave credit card details anywhere. Below are our instructions to get everything set up and running.
 
 ## Get your API key
 

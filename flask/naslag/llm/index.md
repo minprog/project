@@ -54,7 +54,7 @@ Create the file `extra-openai-models.yaml` and add, for example, this configurat
     - model_id: lite-gpt-4o
       model_name: gpt4o
       api_base: "https://ai-research-proxy.azurewebsites.net"
-      api_key_name: personal
+      api_key_name: openai
 
 model_id
 : the name you will use inside the `llm` tool

@@ -10,32 +10,30 @@ De vakken Programmeren 1 en Datarepresentaties, of Programmeren 1 en 2, moet je 
 
 #### Volg je tegelijkertijd programmeren 2 en het programmeerproject? 
 
-Dan is dit jouw schema:
+In dit geval volg je voornamelijk programmeren 2 in de eerste vier weken van het blok, en het programmeerproject in de laatste vier weken. Voor een schema per dag voor de hele periode zie de [studiewijzer van programmeren 2](https://prog2.proglab.nl/syllabus).
 
-In dit geval volg je programmeren 2 in de eerste vier weken van het blok, en het programmeerproject in de laatste vier weken. Het programmeerproject start dan op **dinsdag 6 mei**
+Voor de meivakantie ga je aan de slag met de voorbereiding: het leren kennen van het platform waarmee je gaat werken.
 
-Tijdens de **eerste week** ga je aan de slag met de voorbereiding: het leren kennen van het platform waarmee je gaat werken.
-
-| Onderdeel     | Tijdsbesteding | Deadline  |
-| ------------- | -------------: | --------: |
-| Voorbereiding |        ~40 uur | vr 9 mei  |
+| Onderdeel        | Tijdsbesteding | Deadline  |
+| ---------------- | -------------: | --------: |
+| Voorbereiding    |        ~40 uur | vr 17 apr |
+| Projectvoorstel  |         ~8 uur | wo 22 apr |
 
 Het project wordt gedaan volgens een aantal **milestones**. Na elke milestone ga je bespreken met je begeleider hoe je ervoor staat en hoe je verder kunt. De deadlines van versie 1 t/m 3 mag je met enkele dagen verschuiven als het strikt nodig is.
 
 | Onderdeel        | Tijdsbesteding | Deadline  |
 | ---------------- | -------------: | --------: |
-| Projectvoorstel  |         ~8 uur | ma 12 mei |
-| Projectvalidatie |        ~10 uur | wo 14 mei |
-| Versie 1         |        ~20 uur | vr 16 mei |
-| Versie 2         |        ~20 uur | di 20 mei |
-| Versie 3         |        ~20 uur | vr 23 mei |
+| Projectvalidatie |        ~10 uur | di 12 mei |
+| Versie 1         |        ~20 uur | vr 15 mei |
+| Versie 2         |        ~20 uur | di 19 mei |
+| Versie 3         |        ~20 uur | vr 22 mei |
 
 En de **afsluiting** vindt plaats met het opleveren van je definitieve project en de eindpresentaties. Deze data staan helemaal vast en kunnen niet aangepast worden.
 
-| Onderdeel          | Deadline              |
-| ------------------ | --------------------: |
-| Definitieve versie | di 27 mei **20:00 uur** |
-| Eindpresentaties   | wo 28 mei             |
+| Onderdeel          | Deadline                |
+| ------------------ | ----------------------: |
+| Definitieve versie | do 28 mei **20:00 uur** |
+| Eindpresentaties   | vr 29 mei               |
 
 #### Volg je alleen het programmeerproject en niet programmeren 2?
 
@@ -45,24 +43,24 @@ Tijdens de **eerste drie weken** ga je aan de slag met de voorbereiding: het ler
 
 | Onderdeel     | Tijdsbesteding | Deadline  |
 | ------------- | -------------: | --------: |
-| Voorbereiding |        ~50 uur | do 17 apr |
+| Voorbereiding |        ~40 uur | vr 17 apr |
 
 Het project wordt gedaan volgens een aantal **milestones**. Na elke milestone ga je bespreken met je begeleider hoe je ervoor staat en hoe je verder kunt. De deadlines van versie 1 t/m 3 mag je met enkele dagen verschuiven als het strikt nodig is.
 
 | Onderdeel        | Tijdsbesteding | Deadline  |
 | ---------------- | -------------: | --------: |
-| Projectvoorstel  |         ~8 uur | di 15 apr |
-| Projectvalidatie |        ~10 uur | vr 25 apr |
-| Versie 1         |        ~20 uur | vr  9 mei |
-| Versie 2         |        ~20 uur | vr 16 mei |
-| Versie 3         |        ~20 uur | vr 23 mei |
+| Projectvoorstel  |         ~8 uur | di 14 apr |
+| Projectvalidatie |        ~10 uur | vr 24 apr |
+| Versie 1         |        ~20 uur | vr  8 mei |
+| Versie 2         |        ~20 uur | vr 15 mei |
+| Versie 3         |        ~20 uur | vr 22 mei |
 
 En de **afsluiting** vindt plaats met het opleveren van je definitieve project en de eindpresentaties. Deze data staan helemaal vast en kunnen niet aangepast worden.
 
-| Onderdeel          | Deadline              |
-| ------------------ | --------------------: |
-| Definitieve versie | di 27 mei **20:00 uur** |
-| Eindpresentaties   | wo 28 mei             |
+| Onderdeel          | Deadline                |
+| ------------------ | ----------------------: |
+| Definitieve versie | do 28 mei **20:00 uur** |
+| Eindpresentaties   | vr 29 mei               |
 
 
 ## Staff

@@ -37,9 +37,7 @@ En de **afsluiting** vindt plaats met het opleveren van je definitieve project e
 
 #### Volg je alleen het programmeerproject en niet programmeren 2?
 
-Dan is dit jouw schema:
-
-Tijdens de **eerste drie weken** ga je aan de slag met de voorbereiding: het leren kennen van het platform waarmee je gaat werken.
+Dan ga je tijdens de **eerste drie weken** aan de slag met de voorbereiding: het leren kennen van het platform waarmee je gaat werken.
 
 | Onderdeel     | Tijdsbesteding | Deadline  |
 | ------------- | -------------: | --------: |

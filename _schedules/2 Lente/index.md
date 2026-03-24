@@ -43,7 +43,7 @@ Dan ga je tijdens de **eerste drie weken** aan de slag met de voorbereiding: het
 | ------------- | -------------: | --------: |
 | Voorbereiding |        ~40 uur | vr 17 apr |
 
-Het project wordt gedaan volgens een aantal **milestones**. Na elke milestone ga je bespreken met je begeleider hoe je ervoor staat en hoe je verder kunt. De deadlines van versie 1 t/m 3 mag je met enkele dagen verschuiven als het strikt nodig is.
+Het project wordt gedaan volgens een aantal **milestones**. Na elke milestone bespreek je met je begeleider hoe je ervoor staat en hoe je verder kunt. De deadlines van versie 1 t/m 3 mag je met enkele dagen verschuiven als het strikt nodig is.
 
 | Onderdeel        | Tijdsbesteding | Deadline  |
 | ---------------- | -------------: | --------: |

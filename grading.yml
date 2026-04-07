@@ -73,7 +73,7 @@ flask:
         books: 1
 
 ds:
-    show_progress: true
+    show_overview: true
     submits:
         algemeen_ds: 1
         climate_ds: 1
@@ -84,7 +84,7 @@ ds:
         projectvoorstel_ds: 1
 
 arduino:
-    show_progress: true
+    show_overview: true
     submits:
         solar: 1
         mbot: 1

@@ -1,16 +1,16 @@
 # AI research proxy
 
-If you want to use an `llm` in your project you can do so through UvA's AI research proxy. With the benefit that you have access to a wide range of models and you do not have to leave credit card details anywhere. Below are our instructions to get everything set up and running.
+If you want to use a large language model (LLM) in your project you can do so through UvA's AI proxy. With the benefit that you have access to a wide range of models and you do not have to leave credit card details anywhere. Below are our instructions to get everything set up and running.
 
 ## Get your API key
 
-In order to use an llm you will need access. In our case that is in the form of an API key. You can request your own API key by sending us an email at <help@mprog.nl>.
+In order to use an LLM you will need access. In our case that is in the form of an API key. You can request your own API key by sending us an email at <help@mprog.nl>.
 
 ## Using `llm` in Python
 
 You can use the `llm` module to directly interact with a model via the command line:
 
-    $ llm prompt "Think of a good first name for persona who represents a 'Dutch colleague'."
+    $ llm prompt "Think of a good first name for a persona who represents a 'Dutch colleague'."
     A good first name for a Dutch colleague might be "Sven." It's a name that's commonly 
     used in the Netherlands and other Scandinavian countries, and it has a friendly, 
     approachable feel to it.
@@ -18,7 +18,7 @@ You can use the `llm` module to directly interact with a model via the command l
 You can also use `llm` for an interactive chat:
 
     $ llm chat
-    Chatting with lite-gpt-4o
+    Chatting with uva-gpt-5-mini
     Type 'exit' or 'quit' to exit
     Type '!multi' to enter multiple lines, then '!end' to finish
     > 
@@ -51,16 +51,16 @@ To add a model to LLM you'll need to add it as an [OpenAI compatible model](http
 
 Create the file `extra-openai-models.yaml` and add, for example, this configuration:
 
-    - model_id: lite-gpt-4o
-      model_name: gpt4o
-      api_base: "https://ai-research-proxy.azurewebsites.net"
+    - model_id: uva-gpt-5-mini
+      model_name: gpt-5-mini
+      api_base: "https://llmproxy.uva.nl"
       api_key_name: openai
 
 model_id
 : the name you will use inside the `llm` tool
 
 model_name
-: the name via which the model is exposed on the API (for now use gpt4o)
+: the name via which the model is exposed on the API (for now use `gpt-5-mini` or `gpt-5-nano`)
 
 api_base
 : the base URL for the API
@@ -70,7 +70,7 @@ api_key_name
 
 After you have done this, you should be able to set the default model for `llm` using this command:
 
-    llm models default lite-gpt-4o
+    llm models default gpt-5-mini
 
 And then you should be able to run `llm` as per the examples above.
 

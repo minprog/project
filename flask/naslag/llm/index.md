@@ -70,7 +70,7 @@ api_key_name
 
 After you have done this, you should be able to set the default model for `llm` using this command:
 
-    llm models default gpt-5-mini
+    llm models default uva-gpt-5-mini
 
 And then you should be able to run `llm` as per the examples above.
 

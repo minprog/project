@@ -54,4 +54,4 @@ You can use any tool you'd like if you already know how to record screen casts. 
 
 ## Uploading
 
-After recording your video, upload it to [UvA Video](https://video.uva.nl/home), YouTube or another video streaming service. Include an embed of your video in the `README.md` on GitHub.
+After recording your video, upload it to [UvA Video](https://video.uva.nl/home), YouTube or another video streaming service. Include a link of your video in the `README.md` on GitHub.

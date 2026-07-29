@@ -63,6 +63,7 @@ project_milestones:
         versie4: 1
 
 project_uitwerking:
+    show_progress: true
     submits:
         final: 1
 

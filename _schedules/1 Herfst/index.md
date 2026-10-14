@@ -1,109 +1,76 @@
-# Programmeerproject <br><small>Studiewijzer Herfst 2025</small>
+# Programmeerproject <br><small>Studiewijzer Herfst 2026</small>
 
 > Binnen twee maanden vorm je van begin tot eind een eigen idee tot een ontwerp en vervolgens implementeer je een eigen applicatie in een modern software-framework. Je doet ervaring op met systematisch werken en documenteren van zo'n project en het uitzoeken van de kennis die je nodig hebt om het tot een succes te maken. Hierbij beperkt de staf zich tot het geven van feedback op de ideeën en het helpen oplossen van technische blokkades.
 
 ## Voorkennis
 
-De vakken Programmeren 1 en 2 moet je netjes gehaald hebben vóór je deze cursus start. Check vooraf met de docent als dit niet lukt.
+De vakken Programmeren 1 en Datarepresentaties, of Programmeren 1 en 2, moet je helemaal gehaald hebben vóór je deze cursus start.
 
-### Volg je tegelijkertijd programmeren 2 en het programmeerproject? 
+## Kalender
 
-Dan is dit jouw schema:
+<div markdown="1">
+<ul class="nav nav-tabs" id="rooster-tabs" role="tablist">
+<li class="nav-item" role="presentation"><button class="nav-link" id="tab-parttime" data-bs-toggle="tab" data-bs-target="#panel-parttime" type="button" role="tab" aria-controls="panel-parttime" aria-selected="false">Parttime</button></li>
+<li class="nav-item" role="presentation"><button class="nav-link active" id="tab-fulltime" data-bs-toggle="tab" data-bs-target="#panel-fulltime" type="button" role="tab" aria-controls="panel-fulltime" aria-selected="true">Fulltime</button></li>
+</ul>
 
-In dit geval volg je programmeren 2 in de eerste vier weken van het blok, en het programmeerproject in de laatste vier weken. Het programmeerproject start dan op **maandag 24 november**
+<div class="tab-content rooster-box" markdown="1">
 
-#### Deadlines
+<div class="tab-pane fade" role="tabpanel" id="panel-parttime" aria-labelledby="tab-parttime" tabindex="0" markdown="1">
 
-Tijdens de **eerste week** ga je aan de slag met de voorbereiding: het leren kennen van het platform waarmee je gaat werken.
+Volg je alleen het programmeerproject en niet Programmeren 2? Dan ga je tijdens de **eerste drie weken** aan de slag met de voorbereiding: het leren kennen van het platform waarmee je gaat werken.
 
 | Onderdeel     | Tijdsbesteding | Deadline  |
 | ------------- | -------------: | --------: |
-| Voorbereiding |        ~40 uur | vr 28 nov |
+| Voorbereiding |        ~40 uur | vr 13 nov |
+
+Het project wordt gedaan volgens een aantal **milestones**. Na elke milestone bespreek je met je begeleider hoe je ervoor staat en hoe je verder kunt. De deadlines van versie 1 t/m 3 mag je met enkele dagen verschuiven als het strikt nodig is.
+
+| Onderdeel        | Tijdsbesteding | Deadline  |
+| ---------------- | -------------: | --------: |
+| Projectvoorstel  |         ~8 uur | di 10 nov |
+| Projectvalidatie |        ~10 uur | vr 20 nov |
+| Versie 1         |        ~20 uur | vr 27 nov |
+| Versie 2         |        ~20 uur | vr  4 dec |
+| Versie 3         |        ~20 uur | vr 11 dec |
+
+En de **afsluiting** vindt plaats met het opleveren van je definitieve project en de eindpresentaties. Deze data staan helemaal vast en kunnen niet aangepast worden.
+
+| Onderdeel          | Deadline                |
+| ------------------ | ----------------------: |
+| Definitieve versie | do 17 dec **20:00 uur** |
+| Eindpresentaties   | vr 18 dec               |
+
+</div>
+
+<div class="tab-pane fade show active" role="tabpanel" id="panel-fulltime" aria-labelledby="tab-fulltime" tabindex="0" markdown="1">
+
+Volg je tegelijkertijd Programmeren 2 en het programmeerproject? Dan doe je de minor programmeren in fulltime. Je doet eerst grotendeels Programmeren 2, met daartussen de voorbereiding op het project (Finance en Books), en daarna werk je aan het programmeerproject. Voor een schema per dag voor de hele periode zie de [studiewijzer van Programmeren 2](https://prog2.proglab.nl/syllabus). Het programmeerproject start na de meesterproef op **vrijdag 27 november**.
+
+| Onderdeel        | Tijdsbesteding | Deadline  |
+| ---------------- | -------------: | --------: |
+| Voorbereiding    |        ~40 uur | vr 27 nov |
+| Projectvoorstel  |         ~8 uur | ma 30 nov |
 
 Het project wordt gedaan volgens een aantal **milestones**. Na elke milestone ga je bespreken met je begeleider hoe je ervoor staat en hoe je verder kunt. De deadlines van versie 1 t/m 3 mag je met enkele dagen verschuiven als het strikt nodig is.
 
 | Onderdeel        | Tijdsbesteding | Deadline  |
 | ---------------- | -------------: | --------: |
-| Projectvoorstel  |         ~8 uur | ma  1 dec |
-| Projectvalidatie |        ~10 uur | wo  3 dec |
-| Versie 1         |        ~20 uur | vr  5 dec |
-| Versie 2         |        ~20 uur | di  9 dec |
-| Versie 3         |        ~20 uur | vr 12 dec |
+| Projectvalidatie |        ~10 uur | wo  2 dec |
+| Versie 1         |        ~20 uur | vr  4 dec |
+| Versie 2         |        ~20 uur | di  8 dec |
+| Versie 3         |        ~20 uur | vr 11 dec |
 
 En de **afsluiting** vindt plaats met het opleveren van je definitieve project en de eindpresentaties. Deze data staan helemaal vast en kunnen niet aangepast worden.
 
-| Onderdeel          | Deadline              |
-| ------------------ | --------------------: |
-| Definitieve versie | wo 17 dec             |
-| Eindpresentaties   | do 18 dec             |
+| Onderdeel          | Deadline                |
+| ------------------ | ----------------------: |
+| Definitieve versie | do 17 dec **20:00 uur** |
+| Eindpresentaties   | vr 18 dec               |
 
-#### Dagelijks (Kick off + Send off)
-
-In dit vak ga je in zeer korte tijd een heel project neerzetten en daardoor gaan de dagen razendsnel. **Je moet daarom dagelijks aanwezig zijn.** Om je te helpen met het houden van overzicht beginnen en eindigen we samen de dag.
-
-Iedere dag is er samen met de assistent om 10 uur een korte gezamenlijke kick off. Daarin bespreek en schrijf je op wat je die dag gaat aanpakken op een post it. De post it hang je vervolgens op het bord in het lokaal.
-
-Aan het einde van de dag om 15:30 is er een korte gezamenlijke send off. Daarin bespreek je wat die dag is gelukt en streep je de post it af.
-
-#### Meetings
-
-In dit vak ga je geregeld met een vaste assistent meeten in L0.09. De dagen en tijden verschillen omdat de roosters van de assistenten ook verschillen. 
-
-Meeting #1: Eerste projectideeën bespreken
-
-* Woensdag 26 november - Jona (11-13u) Salomé (14-16u) 
-* Donderdag 27 november - Zoë(11-13u) 
-* Vrijdag 28 november - Bart (13-15u)
-
-Meeting #2: Projectvoorstel bespreken
-
-* Maandag 1 december - Zoë (13-15u) Salomé (11-13u) 
-* Dinsdag 2 december - Bart (11-13u) 
-* Woensdag 3 december - Jona (11-13u) 
-
-Meeting #3: Versie 1 
-
-* Donderdag 4 december - Zoë (11-13u) Salomé (13-15u) 
-* Vrijdag 5 december - Jona (10-12u) Bart (13-15u) 🎅🏻
-
-Meeting #4: Versie 2
-
-* Maandag 8 december - Zoë (13-15u) Salomé (11-13u)
-* Dinsdag 9 december - Bart (11-13u)
-* Woensdag 10 december - Jona (11-13u) 
-
-Meeting #5: Versie 3
-
-* Donderdag 11 december - Zoë (11-13u) Salomé (13-15u)
-* Vrijdag 12 december - Jona (10-12u) Bart (13-15u)
-
-### Volg je alleen het programmeerproject en niet programmeren 2?
-
-Dan is dit jouw schema:
-
-Tijdens de **eerste drie weken** ga je aan de slag met de voorbereiding: het leren kennen van het platform waarmee je gaat werken.
-
-| Onderdeel     | Tijdsbesteding | Deadline  |
-| ------------- | -------------: | --------: |
-| Voorbereiding |        ~50 uur | vr 14 nov |
-
-Het project wordt gedaan volgens een aantal **milestones**. Na elke milestone ga je bespreken met je begeleider hoe je ervoor staat en hoe je verder kunt. De deadlines van versie 1 t/m 3 mag je met enkele dagen verschuiven als het strikt nodig is.
-
-| Onderdeel        | Tijdsbesteding | Deadline  |
-| ---------------- | -------------: | --------: |
-| Projectvoorstel  |         ~8 uur | di 11 nov |
-| Projectvalidatie |        ~10 uur | vr 21 nov |
-| Versie 1         |        ~20 uur | vr 28 nov |
-| Versie 2         |        ~20 uur | vr  5 dec |
-| Versie 3         |        ~20 uur | vr 12 dec |
-
-En de **afsluiting** vindt plaats met het opleveren van je definitieve project en de eindpresentaties. Deze data staan helemaal vast en kunnen niet aangepast worden.
-
-| Onderdeel          | Deadline              |
-| ------------------ | --------------------: |
-| Definitieve versie | wo 17 dec             |
-| Eindpresentaties   | do 18 dec             |
-
+</div>
+</div>
+</div>
 
 ## Staff
 
@@ -118,7 +85,7 @@ Tijdens dit vak zul je regelmatig de hulp inroepen van de staff en medestudenten
 - hulp op locatie
 - je weet niet waar te beginnen of je zit met een onvindbare bug
 - je hebt moeite met het verzinnen van een oplossing
-- de beste manier is om vaak in het lokaal te komen zitten
+- kwestie van binnenlopen!
 
 **E-mail:** contact met de docent.
 
@@ -144,11 +111,12 @@ Let op dat je minimaal aan bovenstaande verwachtingen moet voldoen om een eindci
 
 Naast de minimumeisen hierboven moet je project op GitHub staan. In de repository staat de code voor het project en de bijbehorende documentatie. Er moet een zodanige hoeveelheid code en documentatie zijn dat beoordeling goed mogelijk is (naar oordeel van de docent).
 
+
 * Cijfer 5: een onvoldoende afgerond project waar aantoonbaar wel flink werk in is gestoken, zoals ook aangetoond door reflectie bij de milestones en commits op GitHub; zo'n project zou in een later semester zonder al te veel inzet afgerond kunnen worden.
-* Cijfer 6: een basisproject waar duidelijk inzet in zit, zoals aangetoond door de reflecties bij de milestones en commits; er is weinig diepgang ten opzichte van tutorials of de gedane oefenprojecten; er is voldoende aandacht voor nette code, repo, en documentatie.
-* Cijfer 7: een eigen project dat stevig leunt op tutorials, voorbeelden of de gedane oefenprojecten (bijvoorbeeld door hergebruik van code); voldoende inzet in uitzoeken van leerzame dingen, zoals aangetoond door reflectie en commits; zichtbare aandacht voor nette code, repository, en documentatie met een voldoende resultaat.
-* Cijfer 8: een eigen project waarvoor enkele technieken uitgezocht zijn die niet als zodanig aangeboden worden in tutorials of eerder werk, en waarvoor dus leerzame ontwerp-uitdagingen zijn aangegaan, zoals aangetoond door reflectie en commits; zichtbare aandacht voor nette code, repository en documentatie met een goed resultaat.
-* Cijfer 9: een eigen project met een creatieve eigen insteek, waarvoor diverse technieken zijn uitgezocht die niet als zodanig aangeboden worden in tutorials of eerder werk, en waarvoor dus flinke ontwerp-uitdagingen zijn aangegaan, zoals aangetoond door reflectie en commits; zeer nette code, repository en documentatie en daardoor goed over te nemen door een andere programmeur om verder te ontwikkelen.
+* Cijfer 6: een basisproject waar duidelijk inzet in zit, zoals aangetoond door de reflecties bij de milestones en commits; er is weinig diepgang ten opzichte van tutorials of de gedane oefenprojecten; er is voldoende aandacht voor nette code, repository, en documentatie.
+* Cijfer 7: een eigen project dat stevig leunt op tutorials, voorbeelden of de gedane oefenprojecten (bijvoorbeeld door hergebruik van code); voldoende inzet in uitzoeken van leerzame dingen, zoals aangetoond door reflectie en commits; zichtbare aandacht voor nette code, repository, en documentatie van zowel het project als de code met een voldoende resultaat.
+* Cijfer 8: een eigen project waarvoor enkele technieken uitgezocht zijn die niet als zodanig aangeboden worden in tutorials of eerder werk, en waarvoor dus leerzame ontwerp-uitdagingen zijn aangegaan, zoals aangetoond door reflectie en commits; zichtbare aandacht voor nette code, repository en documentatie van zowel het project als de code met een goed resultaat.
+* Cijfer 9: een eigen project met een creatieve eigen insteek, waarvoor diverse technieken zijn uitgezocht die niet als zodanig aangeboden worden in tutorials of eerder werk, en waarvoor dus flinke ontwerp-uitdagingen zijn aangegaan, zoals aangetoond door reflectie en commits; zeer nette code, repository en documentatie van zowel het project als de code. Daardoor is het project goed over te nemen door een andere programmeur om verder te ontwikkelen.
 * Cijfer 10: een zelfgedefinieerd project dat uitblinkt in originaliteit en complexiteit, waarvoor grote ontwerp-uitdagingen zijn aangegaan die niet in het verlengde liggen van tutorials of eerder uitgewerkte projecten, zoals aangetoond door reflectie en commits; het project zou zonder grote wijzigingen kunnen worden gepubliceerd als website, paper of onderzoeksresultaat; de code, repository en documentatie zijn daarom ook uitstekend en specifiek gericht op verder ontwikkelen en hergebruik.
 
 In de beschrijving hierboven staan de **minimumeisen** voor elk cijfer: al deze eisen moeten dus gehaald worden om in aanmerking te komen voor het genoemde cijfer. Voor een 8 moet er project staan op basis van zelf-uitgezochte technieken, en ook duidelijke aandacht voor nette code, repo en docs. Stel dat het project uitdagend is, de code netjes, maar de documentatie is niet voldoende, dan past daar niet het cijfer 8 bij.

@@ -1,4 +1,0 @@
-name: yelp1_ds
-files:
-    required:
-        - transformation_YELP.ipynb

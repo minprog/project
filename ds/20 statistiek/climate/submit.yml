@@ -1,5 +1,0 @@
-name: climate_ds
-files:
-    required:
-        - certificaat.pdf
-        - climate_change.ipynb

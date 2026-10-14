@@ -1,7 +1,0 @@
-name: mbot
-files:
-    required:
-        - mbot.zip
-# check:
-#     tool: check50
-#     slug: minprog/webprogrammeren/checks_2020/finance

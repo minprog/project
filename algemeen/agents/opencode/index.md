@@ -50,9 +50,9 @@ De naam van het model (`Qwen3.6`) moet precies zo geschreven zijn, met hoofdlett
 1. Open de app **Terminal** (zoek via Spotlight met `cmd + spatie`).
 2. Maak de map aan en open het bestand in een text editor:
 
-    mkdir -p ~/.config/opencode
-    touch ~/.config/opencode/opencode.json
-    open -e ~/.config/opencode/opencode.json
+        mkdir -p ~/.config/opencode
+        touch ~/.config/opencode/opencode.json
+        open -e ~/.config/opencode/opencode.json
 
 3. Plak de inhoud van hierboven in het bestand, vul je API-key in en sla op met `cmd + s`.
 
@@ -61,8 +61,8 @@ De naam van het model (`Qwen3.6`) moet precies zo geschreven zijn, met hoofdlett
 1. Open **PowerShell** (zoek in het startmenu).
 2. Maak de map aan en open het bestand in een text editor:
 
-    mkdir "$env:USERPROFILE\.config\opencode" -Force
-    notepad "$env:USERPROFILE\.config\opencode\opencode.json"
+        mkdir "$env:USERPROFILE\.config\opencode" -Force
+        notepad "$env:USERPROFILE\.config\opencode\opencode.json"
 
 3. Plak de inhoud van hierboven in het bestand, vul je API-key in en sla op met `ctrl + s`.
 

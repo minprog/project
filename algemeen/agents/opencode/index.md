@@ -23,25 +23,25 @@ In deze instructies zet je [Opencode](https://opencode.ai/) (de desktop-app) op,
 
 Opencode leest zijn instellingen uit een bestand `opencode.json`. Hierin zetten we de UvA-proxy en het model Qwen 3.6. Dit is de inhoud van het bestand (vervang `JOUW-API-KEY` door je eigen key, behoud de aanhalingstekens):
 
-```json
-{
-  "$schema": "https://opencode.ai/config.json",
-  "model": "uva/Qwen3.6",
-  "provider": {
-    "uva": {
-      "npm": "@ai-sdk/openai-compatible",
-      "name": "UvA proxy",
-      "options": {
-        "baseURL": "https://llmproxy.uva.nl/v1",
-        "apiKey": "JOUW-API-KEY"
-      },
-      "models": {
-        "Qwen3.6": { "name": "Qwen 3.6 (UvA)" }
-      }
+
+    {
+        "$schema": "https://opencode.ai/config.json",
+        "model": "uva/Qwen3.6",
+        "provider": {
+            "uva": {
+                "npm": "@ai-sdk/openai-compatible",
+                "name": "UvA proxy",
+                "options": {
+                    "baseURL": "https://llmproxy.uva.nl/v1",
+                    "apiKey": "JOUW-API-KEY"
+                },
+                "models": {
+                    "Qwen3.6": { "name": "Qwen 3.6 (UvA)" }
+                }
+            }
+        }
     }
-  }
-}
-```
+
 
 De naam van het model (`Qwen3.6`) moet precies zo geschreven zijn, met hoofdletter Q en een punt.
 

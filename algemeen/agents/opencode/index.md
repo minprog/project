@@ -15,7 +15,6 @@ In deze instructies zet je [Opencode](https://opencode.ai/) (de desktop-app) op,
 2. Download de desktop-app voor jouw systeem:
     - **Mac:** kies de versie voor je processor (Apple Silicon voor M1/M2/M3/M4, anders Intel). Open het gedownloade `.dmg`-bestand en sleep Opencode naar je map *Programma's* (Applications).
     - **Windows:** open het gedownloade installatieprogramma (`.exe`) en volg de stappen.
-3. Start de app één keer en sluit hem daarna weer af. Zo worden de mappen die we in de volgende stap nodig hebben aangemaakt.
 
 > Bij het eerste openen op een Mac kan er een melding komen dat de app van het internet is gedownload. Kies dan *Open*. Op Windows kan *SmartScreen* waarschuwen; klik dan op *Meer informatie* en daarna op *Toch uitvoeren*.
 

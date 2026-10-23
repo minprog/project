@@ -111,8 +111,8 @@ En de **afsluiting** vindt plaats met het opleveren van je definitieve project e
         { name: 'Intake<br>di 10:00', at: '2026-11-03', frac: .2, color: PREP, level: 0 },
         { name: 'Signoff voorstel<br>do 11-15', at: '2026-11-12', frac: .3, color: PREP, level: 0 },
         { name: 'Signoff validatie<br>do 11-15', at: '2026-11-19', frac: .3, color: PREP, level: 0 },
-        { name: 'Walkthrough<br>vr 11-15', at: '2026-12-04', frac: .5, color: MILE, level: 0 },
-        { name: 'Groepseval.<br>vr 11-15', at: '2026-12-11', frac: .12, color: MILE, level: 0 },
+        { name: 'Walkthrough<br>vr 11-15', at: '2026-12-04', frac: .5, color: MILE, level: 1 },
+        { name: 'Groepseval.<br>vr 11-15', at: '2026-12-11', frac: .12, color: MILE, level: 1 },
         { name: 'Def. versie<br>do 20:00', at: '2026-12-17', frac: .83, color: END, level: 1 },
         { name: 'Eindpresentaties, vr 10-18', at: '2026-12-18', frac: .9, color: END, level: 0 }
       ]

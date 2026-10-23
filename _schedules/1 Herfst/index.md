@@ -97,7 +97,7 @@ En de **afsluiting** vindt plaats met het opleveren van je definitieve project e
   var tracks = {
     Parttime: {
       segs: [
-        { name: 'Finance', from: '2026-10-29', to: '2026-10-28', type: 'prep' },
+        { name: 'Finance', from: '2026-10-27', to: '2026-10-30', type: 'prep' },
         { name: 'Books', from: '2026-11-02', to: '2026-11-05', type: 'prep' },
         { name: 'Voorstel', from: '2026-11-06', to: '2026-11-10', type: 'start' },
         { name: 'Validatie', from: '2026-11-11', to: '2026-11-20', type: 'mile' },

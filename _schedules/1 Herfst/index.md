@@ -92,7 +92,7 @@ En de **afsluiting** vindt plaats met het opleveren van je definitieve project e
   var START = '2026-10-26', WEEKS_PER_ROW = 4, ROWS = 2, PER_ROW = WEEKS_PER_ROW * 5, BAR_HEIGHT = 52;
   var PREP = 'var(--cal-prep)', MILE = 'var(--cal-mile)', END = 'var(--cal-end)';
   var closing = [
-    { name: 'Definitieve versie', from: '2026-12-14', to: '2026-12-17', type: 'end', hideEnd: true },
+    { name: 'Definitieve versie', from: '2026-12-14', to: '2026-12-17', type: 'end' },
     { name: 'Pr', from: '2026-12-18', to: '2026-12-18', type: 'end', hideEnd: true }
   ];
   var tracks = {

@@ -20,59 +20,155 @@ De vakken Programmeren 1 en Datarepresentaties, of Programmeren 1 en 2, moet je 
 
 <div class="tab-pane fade" role="tabpanel" id="panel-parttime" aria-labelledby="tab-parttime" tabindex="0" markdown="1">
 
-Volg je alleen het programmeerproject en niet Programmeren 2? Dan ga je tijdens de **eerste drie weken** aan de slag met de voorbereiding: het leren kennen van het platform waarmee je gaat werken.
+<div class="cal" data-track="Parttime"></div>
 
-| Onderdeel     | Tijdsbesteding | Deadline  |
-| ------------- | -------------: | --------: |
-| Voorbereiding |        ~40 uur | vr 13 nov |
+Volg je alleen het programmeerproject en niet Programmeren 2? Dan ga je tijdens de **eerste drie weken** aan de slag met de voorbereiding: het leren kennen van het platform waarmee je gaat werken.
 
 Het project wordt gedaan volgens een aantal **milestones**. Na elke milestone bespreek je met je begeleider hoe je ervoor staat en hoe je verder kunt. De deadlines van versie 1 t/m 3 mag je met enkele dagen verschuiven als het strikt nodig is.
 
-| Onderdeel        | Tijdsbesteding | Deadline  |
-| ---------------- | -------------: | --------: |
-| Projectvoorstel  |         ~8 uur | di 10 nov |
-| Projectvalidatie |        ~10 uur | vr 20 nov |
-| Versie 1         |        ~20 uur | vr 27 nov |
-| Versie 2         |        ~20 uur | vr  4 dec |
-| Versie 3         |        ~20 uur | vr 11 dec |
-
 En de **afsluiting** vindt plaats met het opleveren van je definitieve project en de eindpresentaties. Deze data staan helemaal vast en kunnen niet aangepast worden.
 
-| Onderdeel          | Deadline                |
-| ------------------ | ----------------------: |
-| Definitieve versie | do 17 dec **20:00 uur** |
-| Eindpresentaties   | vr 18 dec               |
+| Onderdeel        | Tijdsbesteding |
+| ---------------- | -------------: |
+| Voorbereiding    |        ~40 uur |
+| Projectvoorstel  |         ~8 uur |
+| Projectvalidatie |        ~10 uur |
+| Versie 1         |        ~20 uur |
+| Versie 2         |        ~20 uur |
+| Versie 3         |        ~20 uur |
 
 </div>
 
 <div class="tab-pane fade show active" role="tabpanel" id="panel-fulltime" aria-labelledby="tab-fulltime" tabindex="0" markdown="1">
 
-Volg je tegelijkertijd Programmeren 2 en het programmeerproject? Dan doe je de minor programmeren in fulltime. Je doet eerst grotendeels Programmeren 2, met daartussen de voorbereiding op het project (Finance en Books), en daarna werk je aan het programmeerproject. Voor een schema per dag voor de hele periode zie de [studiewijzer van Programmeren 2](https://prog2.proglab.nl/syllabus). Het programmeerproject start na de meesterproef op **vrijdag 27 november**.
+<div class="cal" data-track="Fulltime"></div>
 
-| Onderdeel        | Tijdsbesteding | Deadline  |
-| ---------------- | -------------: | --------: |
-| Voorbereiding    |        ~40 uur | vr 27 nov |
-| Projectvoorstel  |         ~8 uur | ma 30 nov |
+Volg je tegelijkertijd Programmeren 2 en het programmeerproject? Dan doe je de minor programmeren in fulltime. Je doet eerst grotendeels Programmeren 2, met daartussen de voorbereiding op het project (Finance en Books), en daarna werk je aan het programmeerproject. Voor een schema per dag voor de hele periode zie de [studiewijzer van Programmeren 2](https://prog2.proglab.nl/syllabus). Het programmeerproject start na de meesterproef op **vrijdag 27 november**.
 
 Het project wordt gedaan volgens een aantal **milestones**. Na elke milestone ga je bespreken met je begeleider hoe je ervoor staat en hoe je verder kunt. De deadlines van versie 1 t/m 3 mag je met enkele dagen verschuiven als het strikt nodig is.
 
-| Onderdeel        | Tijdsbesteding | Deadline  |
-| ---------------- | -------------: | --------: |
-| Projectvalidatie |        ~10 uur | wo  2 dec |
-| Versie 1         |        ~20 uur | vr  4 dec |
-| Versie 2         |        ~20 uur | di  8 dec |
-| Versie 3         |        ~20 uur | vr 11 dec |
-
 En de **afsluiting** vindt plaats met het opleveren van je definitieve project en de eindpresentaties. Deze data staan helemaal vast en kunnen niet aangepast worden.
 
-| Onderdeel          | Deadline                |
-| ------------------ | ----------------------: |
-| Definitieve versie | do 17 dec **20:00 uur** |
-| Eindpresentaties   | vr 18 dec               |
+| Onderdeel        | Tijdsbesteding |
+| ---------------- | -------------: |
+| Voorbereiding    |        ~40 uur |
+| Projectvoorstel  |         ~8 uur |
+| Projectvalidatie |        ~10 uur |
+| Versie 1         |        ~20 uur |
+| Versie 2         |        ~20 uur |
+| Versie 3         |        ~20 uur |
 
 </div>
 </div>
 </div>
+
+<style>
+.cal { margin: 0.75rem 0 1.5rem; --cal-grid: rgba(127,127,127,.3); --cal-prep: #5b6b8c; --cal-start: #0f766e; --cal-mile: #1d6fb8; --cal-end: #7a3fb0; }
+.cal-row { position: relative; isolation: isolate; margin-bottom: 1.75rem; }
+.cal-markers { position: relative; height: var(--mh); }
+.cal-marker { position: absolute; bottom: calc(2px - var(--barh) - 18px); width: 0; border-left: 2px solid var(--c); z-index: 0; pointer-events: none; }
+.cal-marker span { position: absolute; top: 0; left: 4px; white-space: nowrap; font-size: 12px; font-weight: 600; color: var(--c); line-height: 1.2; }
+.cal-marker.right span { left: auto; right: 4px; text-align: right; }
+.cal-weeks { height: 18px; display: grid; grid-template-columns: repeat(4, 1fr); font-size: 11px; opacity: .65; }
+.cal-weeks div { padding: 0 0 2px 4px; border-left: 1px solid var(--cal-grid); }
+.cal-bar { position: relative; height: var(--barh); border-bottom: 1px solid var(--cal-grid); }
+.cal-day { position: absolute; top: 0; bottom: 0; border-left: 1px dotted var(--cal-grid); }
+.cal-day.wk { border-left: 1px solid var(--cal-grid); }
+.cal-seg { position: absolute; z-index: 1; top: 0; height: 52px; border-radius: 4px; color: #fff; overflow: hidden; padding: 3px 5px; display: flex; flex-direction: column; justify-content: space-between; font-size: 12px; line-height: 1.15; border: 1px solid #fff; }
+.cal-seg b { font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.cal-seg .d { flex: 1; white-space: nowrap; display: flex; justify-content: space-between; font-size: 10px; opacity: .92; gap: 2px; }
+.cal-seg.cl-l { border-top-left-radius: 0; border-bottom-left-radius: 0; }
+.cal-seg.cl-r { border-top-right-radius: 0; border-bottom-right-radius: 0; }
+.cal-seg.t-prep { background: var(--cal-prep); }
+.cal-seg.t-start { background: var(--cal-start); }
+.cal-seg.t-mile { background: var(--cal-mile); }
+.cal-seg.t-end { background: var(--cal-end); }
+</style>
+<script>
+(function () {
+  var START = '2026-10-26', WEEKS_PER_ROW = 4, ROWS = 2, PER_ROW = WEEKS_PER_ROW * 5, BAR_HEIGHT = 52;
+  var PREP = 'var(--cal-prep)', MILE = 'var(--cal-mile)', END = 'var(--cal-end)';
+  var closing = [
+    { name: 'Definitieve versie', from: '2026-12-14', to: '2026-12-17', type: 'end', hideEnd: true },
+    { name: 'Pr', from: '2026-12-18', to: '2026-12-18', type: 'end', hideEnd: true }
+  ];
+  var tracks = {
+    Parttime: {
+      segs: [
+        { name: 'Finance', from: '2026-10-27', to: '2026-10-29', type: 'prep' },
+        { name: 'Books', from: '2026-10-30', to: '2026-11-05', type: 'prep' },
+        { name: 'Voorstel', from: '2026-11-06', to: '2026-11-10', type: 'start' },
+        { name: 'Validatie', from: '2026-11-11', to: '2026-11-20', type: 'mile' },
+        { name: 'Versie 1', from: '2026-11-23', to: '2026-11-27', type: 'mile' },
+        { name: 'Versie 2', from: '2026-11-30', to: '2026-12-04', type: 'mile' },
+        { name: 'Versie 3', from: '2026-12-07', to: '2026-12-11', type: 'mile' }
+      ].concat(closing),
+      markers: [
+        { name: 'Intake, di 10:00', at: '2026-11-03', frac: .2, color: PREP, level: 0 },
+        { name: 'Introductie, 11:00', at: '2026-10-27', frac: .3, color: PREP, level: 1, align: 'left' },
+        { name: 'Walkthrough', at: '2026-12-03', frac: .5, color: MILE, level: 0 },
+        { name: 'Groepsevaluatie, 11-15', at: '2026-12-11', frac: .12, color: MILE, level: 0 },
+        { name: 'Definitieve versie, do 20:00', at: '2026-12-17', frac: .83, color: END, level: 1 },
+        { name: 'Eindpresentaties', at: '2026-12-18', frac: .9, color: END, level: 0 }
+      ]
+    },
+    Fulltime: {
+      segs: [
+        { name: 'Finance', from: '2026-11-04', to: '2026-11-05', type: 'prep' },
+        { name: 'Books', from: '2026-11-17', to: '2026-11-19', type: 'prep' },
+        { name: 'Voorstel', from: '2026-11-27', to: '2026-11-30', type: 'start' },
+        { name: 'Validatie', from: '2026-12-01', to: '2026-12-02', type: 'mile' },
+        { name: 'Versie 1', from: '2026-12-03', to: '2026-12-04', type: 'mile' },
+        { name: 'Versie 2', from: '2026-12-07', to: '2026-12-08', type: 'mile' },
+        { name: 'Versie 3', from: '2026-12-09', to: '2026-12-11', type: 'mile' }
+      ].concat(closing),
+      markers: [
+        { name: 'Introductie, 11:00', at: '2026-10-27', frac: .3, color: PREP, level: 0, align: 'left' },
+        { name: 'Intake, do 18:00', at: '2026-11-12', frac: .75, color: PREP, level: 0 },
+        { name: 'Walkthrough, ma-di', at: '2026-12-08', frac: .12, color: MILE, level: 1 },
+        { name: 'Groepsevaluatie, 11-15', at: '2026-12-11', frac: .12, color: MILE, level: 0 },
+        { name: 'Definitieve versie, do 20:00', at: '2026-12-17', frac: .83, color: END, level: 1 },
+        { name: 'Eindpresentaties', at: '2026-12-18', frac: .9, color: END, level: 0 }
+      ]
+    }
+  };
+  function parse(s) { return new Date(s + 'T00:00:00'); }
+  function short(s) { var d = parse(s); return d.getDate() + '/' + (d.getMonth() + 1); }
+  // Counts workdays (mon-fri) from START; weekends have no width.
+  function workday(s) {
+    var days = Math.round((parse(s) - parse(START)) / 864e5);
+    return Math.floor(days / 7) * 5 + Math.min(days % 7, 5);
+  }
+  function pct(i) { return (i / PER_ROW * 100) + '%'; }
+  function renderRow(t, r) {
+    var lo = r * PER_ROW, hi = lo + PER_ROW, h = '';
+    var ms = t.markers.map(function (m) { return Object.assign({}, m, { x: workday(m.at) + m.frac }); })
+      .filter(function (m) { return m.x >= lo && m.x <= hi; });
+    var mh = ms.length ? 20 + 20 * (1 + Math.max.apply(null, ms.map(function (m) { return m.level; }))) : 8;
+    h += '<div class="cal-row" style="--barh:' + BAR_HEIGHT + 'px;--mh:' + mh + 'px"><div class="cal-markers">';
+    ms.forEach(function (m) {
+      h += '<div class="cal-marker' + (m.align === 'left' ? '' : ' right') + '" style="left:' + (m.x - lo) / PER_ROW * 100 + '%;--c:' + m.color + ';top:' + m.level * 18 + 'px"><span>' + m.name + '</span></div>';
+    });
+    h += '</div><div class="cal-weeks">';
+    for (var w = 0; w < WEEKS_PER_ROW; w++) h += '<div>wk ' + (r * WEEKS_PER_ROW + w + 1) + '</div>';
+    h += '</div><div class="cal-bar">';
+    for (var i = 0; i < PER_ROW; i++) h += '<div class="cal-day' + (i % 5 ? '' : ' wk') + '" style="left:' + pct(i) + '"></div>';
+    t.segs.forEach(function (s) {
+      var a = workday(s.from), b = workday(s.to) + 1;
+      if (b <= lo || a >= hi) return;
+      var l = Math.max(a, lo), e = Math.min(b, hi);
+      h += '<div class="cal-seg t-' + s.type + (a < lo ? ' cl-l' : '') + (b > hi ? ' cl-r' : '') + '" title="' + s.name + ': ' + short(s.from) + ' - ' + short(s.to) + '" style="left:' + pct(l - lo) + ';width:' + (e - l) / PER_ROW * 100 + '%">' +
+        '<b>' + s.name + '</b><span class="d"><span>' + (a < lo ? '' : short(s.from)) + '</span><span>' + (b > hi || s.hideEnd ? '' : short(s.to)) + '</span></span></div>';
+    });
+    return h + '</div></div>';
+  }
+  document.querySelectorAll('.cal[data-track]').forEach(function (el) {
+    var t = tracks[el.dataset.track], h = '';
+    for (var r = 0; r < ROWS; r++) h += renderRow(t, r);
+    el.innerHTML = h;
+  });
+})();
+</script>
 
 ## Staff
 

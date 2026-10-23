@@ -83,6 +83,7 @@ En de **afsluiting** vindt plaats met het opleveren van je definitieve project e
 .cal-seg.t-start { background: var(--cal-start); }
 .cal-seg.t-mile { background: var(--cal-mile); }
 .cal-seg.t-end { background: var(--cal-end); }
+.cal-seg.t-prog2 { background: #e3e5ea; color: #555; }
 </style>
 <script>
 (function () {
@@ -113,6 +114,7 @@ En de **afsluiting** vindt plaats met het opleveren van je definitieve project e
       ]
     },
     Fulltime: {
+      fill: 'Prog2',
       segs: [
         { name: 'Finance', from: '2026-11-04', to: '2026-11-05', type: 'prep' },
         { name: 'Books', from: '2026-11-17', to: '2026-11-19', type: 'prep' },
@@ -140,6 +142,16 @@ En de **afsluiting** vindt plaats met het opleveren van je definitieve project e
     return Math.floor(days / 7) * 5 + Math.min(days % 7, 5);
   }
   function pct(i) { return (i / PER_ROW * 100) + '%'; }
+  // Returns boxes for the workdays that no segment covers.
+  function gaps(t) {
+    var covered = [], out = [], start = null, n = ROWS * PER_ROW, i;
+    t.segs.forEach(function (s) { for (i = workday(s.from); i <= workday(s.to); i++) covered[i] = true; });
+    for (i = 0; i <= n; i++) {
+      if (i < n && !covered[i]) { if (start === null) start = i; }
+      else if (start !== null) { out.push({ name: t.fill, a: start, b: i, type: 'prog2', noDates: true }); start = null; }
+    }
+    return out;
+  }
   function renderRow(t, r) {
     var lo = r * PER_ROW, hi = lo + PER_ROW, h = '';
     var ms = t.markers.map(function (m) { return Object.assign({}, m, { x: workday(m.at) + m.frac }); })
@@ -153,12 +165,12 @@ En de **afsluiting** vindt plaats met het opleveren van je definitieve project e
     for (var w = 0; w < WEEKS_PER_ROW; w++) h += '<div>wk ' + (r * WEEKS_PER_ROW + w + 1) + '</div>';
     h += '</div><div class="cal-bar">';
     for (var i = 0; i < PER_ROW; i++) h += '<div class="cal-day' + (i % 5 ? '' : ' wk') + '" style="left:' + pct(i) + '"></div>';
-    t.segs.forEach(function (s) {
-      var a = workday(s.from), b = workday(s.to) + 1;
+    t.segs.concat(t.fill ? gaps(t) : []).forEach(function (s) {
+      var a = s.noDates ? s.a : workday(s.from), b = s.noDates ? s.b : workday(s.to) + 1;
       if (b <= lo || a >= hi) return;
       var l = Math.max(a, lo), e = Math.min(b, hi);
-      h += '<div class="cal-seg t-' + s.type + (a < lo ? ' cl-l' : '') + (b > hi ? ' cl-r' : '') + '" title="' + s.name + ': ' + short(s.from) + ' - ' + short(s.to) + '" style="left:' + pct(l - lo) + ';width:' + (e - l) / PER_ROW * 100 + '%">' +
-        '<b>' + s.name + '</b><span class="d"><span>' + (a < lo ? '' : short(s.from)) + '</span><span>' + (b > hi || s.hideEnd ? '' : short(s.to)) + '</span></span></div>';
+      h += '<div class="cal-seg t-' + s.type + (a < lo ? ' cl-l' : '') + (b > hi ? ' cl-r' : '') + '" title="' + s.name + (s.noDates ? '' : ': ' + short(s.from) + ' - ' + short(s.to)) + '" style="left:' + pct(l - lo) + ';width:' + (e - l) / PER_ROW * 100 + '%">' +
+        '<b>' + (s.noDates && e - l < 2 ? '' : s.name) + '</b>' + (s.noDates ? '' : '<span class="d"><span>' + (a < lo ? '' : short(s.from)) + '</span><span>' + (b > hi || s.hideEnd ? '' : short(s.to)) + '</span></span>') + '</div>';
     });
     return h + '</div></div>';
   }

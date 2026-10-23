@@ -100,7 +100,7 @@ En de **afsluiting** vindt plaats met het opleveren van je definitieve project e
       segs: [
         { name: 'Finance', from: '2026-10-27', to: '2026-10-30', type: 'prep' },
         { name: 'Books', from: '2026-11-02', to: '2026-11-06', type: 'prep' },
-        { name: 'Validatie', from: '2026-11-09', to: '2026-11-17', type: 'mile' },
+        { name: 'Validatie', from: '2026-11-10', to: '2026-11-17', type: 'mile' },
         { name: 'Versie 1', from: '2026-11-18', to: '2026-11-27', type: 'mile' },
         { name: 'Versie 2', from: '2026-11-30', to: '2026-12-04', type: 'mile' },
         { name: 'Versie 3', from: '2026-12-07', to: '2026-12-11', type: 'mile' }

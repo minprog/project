@@ -70,8 +70,9 @@ En de **afsluiting** vindt plaats met het opleveren van je definitieve project e
 .cal-marker { position: absolute; bottom: calc(2px - var(--barh) - 18px); width: 0; border-left: 2px solid var(--c); z-index: 0; pointer-events: none; }
 .cal-marker span { position: absolute; top: 0; left: 4px; white-space: nowrap; font-size: 12px; font-weight: 600; color: var(--c); line-height: 1.2; }
 .cal-marker.right span { left: auto; right: 4px; text-align: right; }
-.cal-weeks { height: 18px; display: grid; grid-template-columns: repeat(4, 1fr); font-size: 11px; opacity: .65; }
+.cal-weeks { height: 18px; display: grid; grid-template-columns: repeat(4, 1fr); font-size: 11px; color: #6b6b6b; }
 .cal-weeks div { padding: 0 0 2px 4px; border-left: 1px solid var(--cal-grid); }
+.cal-weeks span { position: relative; z-index: 1; margin-left: -3px; padding: 0 3px; background: #fff; }
 .cal-bar { position: relative; height: var(--barh); border-bottom: 1px solid var(--cal-grid); }
 .cal-day { position: absolute; top: 0; bottom: 0; border-left: 1px dotted var(--cal-grid); }
 .cal-day.wk { border-left: 1px solid var(--cal-grid); }
@@ -106,13 +107,13 @@ En de **afsluiting** vindt plaats met het opleveren van je definitieve project e
         { name: 'Versie 3', from: '2026-12-07', to: '2026-12-11', type: 'mile' }
       ].concat(closing),
       markers: [
-        { name: 'Introductie, di 11:00', at: '2026-10-27', frac: .3, color: PREP, level: 1, align: 'left' },
-        { name: 'Intake, di 10:00', at: '2026-11-03', frac: .2, color: PREP, level: 0 },
-        { name: 'Signoff voorstel, do 11-15', at: '2026-11-12', frac: .3, color: PREP, level: 1 },
-        { name: 'Signoff validatie, do 11-15', at: '2026-11-19', frac: .3, color: PREP, level: 1 },
-        { name: 'Walkthrough, vr 11-15', at: '2026-12-04', frac: .5, color: MILE, level: 0 },
-        { name: 'Groepseval., vr 11-15', at: '2026-12-11', frac: .12, color: MILE, level: 0 },
-        { name: 'Def. versie, do 20:00', at: '2026-12-17', frac: .83, color: END, level: 1 },
+        { name: 'Introductie<br>di 11:00', at: '2026-10-27', frac: .3, color: PREP, level: 1, align: 'left' },
+        { name: 'Intake<br>di 10:00', at: '2026-11-03', frac: .2, color: PREP, level: 0 },
+        { name: 'Signoff voorstel<br>do 11-15', at: '2026-11-12', frac: .3, color: PREP, level: 1 },
+        { name: 'Signoff validatie<br>do 11-15', at: '2026-11-19', frac: .3, color: PREP, level: 1 },
+        { name: 'Walkthrough<br>vr 11-15', at: '2026-12-04', frac: .5, color: MILE, level: 0 },
+        { name: 'Groepseval.<br>vr 11-15', at: '2026-12-11', frac: .12, color: MILE, level: 0 },
+        { name: 'Def. versie<br>do 20:00', at: '2026-12-17', frac: .83, color: END, level: 1 },
         { name: 'Eindpresentaties, vr 10-18', at: '2026-12-18', frac: .9, color: END, level: 0 }
       ]
     },
@@ -128,11 +129,11 @@ En de **afsluiting** vindt plaats met het opleveren van je definitieve project e
         { name: 'Versie 3', from: '2026-12-09', to: '2026-12-11', type: 'mile' }
       ].concat(closing),
       markers: [
-        { name: 'Introductie, ma 10:00', at: '2026-10-26', frac: .3, color: PREP, level: 0, align: 'left' },
-        { name: 'Intake, do 18:00', at: '2026-11-12', frac: .75, color: PREP, level: 0 },
-        { name: 'Walkthrough, ma-di', at: '2026-12-08', frac: .12, color: MILE, level: 1 },
-        { name: 'Groepseval., do 11-15', at: '2026-12-11', frac: .12, color: MILE, level: 0 },
-        { name: 'Def. versie, do 20:00', at: '2026-12-17', frac: .83, color: END, level: 1 },
+        { name: 'Introductie<br>ma 10:00', at: '2026-10-26', frac: .3, color: PREP, level: 0, align: 'left' },
+        { name: 'Intake<br>do 18:00', at: '2026-11-12', frac: .75, color: PREP, level: 0 },
+        { name: 'Walkthrough<br>ma-di', at: '2026-12-08', frac: .12, color: MILE, level: 1 },
+        { name: 'Groepseval.<br>do 11-15', at: '2026-12-11', frac: .12, color: MILE, level: 0 },
+        { name: 'Def. versie<br>do 20:00', at: '2026-12-17', frac: .83, color: END, level: 1 },
         { name: 'Eindpresentaties, vr 10-18', at: '2026-12-18', frac: .9, color: END, level: 0 }
       ]
     }
@@ -159,13 +160,13 @@ En de **afsluiting** vindt plaats met het opleveren van je definitieve project e
     var lo = r * PER_ROW, hi = lo + PER_ROW, h = '';
     var ms = t.markers.map(function (m) { return Object.assign({}, m, { x: workday(m.at) + m.frac }); })
       .filter(function (m) { return m.x >= lo && m.x <= hi; });
-    var mh = ms.length ? 20 + 20 * (1 + Math.max.apply(null, ms.map(function (m) { return m.level; }))) : 8;
+    var mh = ms.length ? 16 + Math.max.apply(null, ms.map(function (m) { return m.level * 18 + m.name.split('<br>').length * 14.4; })) : 8;
     h += '<div class="cal-row" style="--barh:' + BAR_HEIGHT + 'px;--mh:' + mh + 'px"><div class="cal-markers">';
     ms.forEach(function (m) {
       h += '<div class="cal-marker' + (m.align === 'left' ? '' : ' right') + '" style="left:' + (m.x - lo) / PER_ROW * 100 + '%;--c:' + m.color + ';top:' + m.level * 18 + 'px"><span>' + m.name + '</span></div>';
     });
     h += '</div><div class="cal-weeks">';
-    for (var w = 0; w < WEEKS_PER_ROW; w++) h += '<div>wk ' + (r * WEEKS_PER_ROW + w + 1) + '</div>';
+    for (var w = 0; w < WEEKS_PER_ROW; w++) h += '<div><span>wk ' + (r * WEEKS_PER_ROW + w + 1) + '</span></div>';
     h += '</div><div class="cal-bar">';
     for (var i = 0; i < PER_ROW; i++) h += '<div class="cal-day' + (i % 5 ? '' : ' wk') + '" style="left:' + pct(i) + '"></div>';
     t.segs.concat(t.fill ? gaps(t) : []).forEach(function (s) {

@@ -108,10 +108,10 @@ En de **afsluiting** vindt plaats met het opleveren van je definitieve project e
       markers: [
         { name: 'Intake, di 10:00', at: '2026-11-03', frac: .2, color: PREP, level: 0 },
         { name: 'Introductie, 11:00', at: '2026-10-27', frac: .3, color: PREP, level: 1, align: 'left' },
-        { name: 'Walkthrough', at: '2026-12-03', frac: .5, color: MILE, level: 0 },
-        { name: 'Groepsevaluatie, 11-15', at: '2026-12-11', frac: .12, color: MILE, level: 0 },
+        { name: 'Walkthrough, vr 11-15', at: '2026-12-04', frac: .5, color: MILE, level: 0 },
+        { name: 'Groepsevaluatie, vr 11-15', at: '2026-12-11', frac: .12, color: MILE, level: 0 },
         { name: 'Definitieve versie, do 20:00', at: '2026-12-17', frac: .83, color: END, level: 1 },
-        { name: 'Eindpresentaties', at: '2026-12-18', frac: .9, color: END, level: 0 }
+        { name: 'Eindpresentaties, vr 10-18', at: '2026-12-18', frac: .9, color: END, level: 0 }
       ]
     },
     Fulltime: {
@@ -126,12 +126,12 @@ En de **afsluiting** vindt plaats met het opleveren van je definitieve project e
         { name: 'Versie 3', from: '2026-12-09', to: '2026-12-11', type: 'mile' }
       ].concat(closing),
       markers: [
-        { name: 'Introductie, 10:00', at: '2026-10-26', frac: .3, color: PREP, level: 0, align: 'left' },
+        { name: 'Introductie, ma 10:00', at: '2026-10-26', frac: .3, color: PREP, level: 0, align: 'left' },
         { name: 'Intake, do 18:00', at: '2026-11-12', frac: .75, color: PREP, level: 0 },
         { name: 'Walkthrough, ma-di', at: '2026-12-08', frac: .12, color: MILE, level: 1 },
-        { name: 'Groepsevaluatie, 11-15', at: '2026-12-11', frac: .12, color: MILE, level: 0 },
+        { name: 'Groepsevaluatie, do 11-15', at: '2026-12-11', frac: .12, color: MILE, level: 0 },
         { name: 'Definitieve versie, do 20:00', at: '2026-12-17', frac: .83, color: END, level: 1 },
-        { name: 'Eindpresentaties', at: '2026-12-18', frac: .9, color: END, level: 0 }
+        { name: 'Eindpresentaties, vr 10-18', at: '2026-12-18', frac: .9, color: END, level: 0 }
       ]
     }
   };

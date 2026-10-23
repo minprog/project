@@ -63,6 +63,7 @@ En de **afsluiting** vindt plaats met het opleveren van je definitieve project e
 </div>
 
 <style>
+#rooster-tabs .nav-item { margin-bottom: 0; }
 .cal { margin: 0.75rem 0 1.5rem; --cal-grid: rgba(127,127,127,.3); --cal-prep: #5b6b8c; --cal-start: #0f766e; --cal-mile: #1d6fb8; --cal-end: #7a3fb0; }
 .cal-row { position: relative; isolation: isolate; margin-bottom: 1.75rem; }
 .cal-markers { position: relative; height: var(--mh); }

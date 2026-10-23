@@ -106,8 +106,10 @@ En de **afsluiting** vindt plaats met het opleveren van je definitieve project e
         { name: 'Versie 3', from: '2026-12-07', to: '2026-12-11', type: 'mile' }
       ].concat(closing),
       markers: [
+        { name: 'Introductie, di 11:00', at: '2026-10-27', frac: .3, color: PREP, level: 1, align: 'left' },
         { name: 'Intake, di 10:00', at: '2026-11-03', frac: .2, color: PREP, level: 0 },
-        { name: 'Introductie, 11:00', at: '2026-10-27', frac: .3, color: PREP, level: 1, align: 'left' },
+        { name: 'Signoff voorstel, do 11-15', at: '2026-11-12', frac: .3, color: PREP, level: 1, align: 'left' },
+        { name: 'Signoff validatie, do 11-15', at: '2026-11-19', frac: .3, color: PREP, level: 1, align: 'left' },
         { name: 'Walkthrough, vr 11-15', at: '2026-12-04', frac: .5, color: MILE, level: 0 },
         { name: 'Groepseval., vr 11-15', at: '2026-12-11', frac: .12, color: MILE, level: 0 },
         { name: 'Def. versie, do 20:00', at: '2026-12-17', frac: .83, color: END, level: 1 },

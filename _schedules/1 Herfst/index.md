@@ -99,9 +99,8 @@ En de **afsluiting** vindt plaats met het opleveren van je definitieve project e
     Parttime: {
       segs: [
         { name: 'Finance', from: '2026-10-27', to: '2026-10-30', type: 'prep' },
-        { name: 'Books', from: '2026-11-02', to: '2026-11-05', type: 'prep' },
-        { name: 'Voorstel', from: '2026-11-06', to: '2026-11-10', type: 'start' },
-        { name: 'Validatie', from: '2026-11-11', to: '2026-11-20', type: 'mile' },
+        { name: 'Books', from: '2026-11-02', to: '2026-11-06', type: 'prep' },
+        { name: 'Validatie', from: '2026-11-09', to: '2026-11-20', type: 'mile' },
         { name: 'Versie 1', from: '2026-11-23', to: '2026-11-27', type: 'mile' },
         { name: 'Versie 2', from: '2026-11-30', to: '2026-12-04', type: 'mile' },
         { name: 'Versie 3', from: '2026-12-07', to: '2026-12-11', type: 'mile' }
@@ -109,8 +108,9 @@ En de **afsluiting** vindt plaats met het opleveren van je definitieve project e
       markers: [
         { name: 'Introductie<br>di 11-15', at: '2026-10-27', frac: .3, color: PREP, level: 0, align: 'left' },
         { name: 'Intake<br>di 10:00', at: '2026-11-03', frac: .2, color: PREP, level: 0 },
+        { name: 'Inleveren voorstel<br>ma 20:00', at: '2026-11-09', frac: .83, color: PREP, level: 0 },
         { name: 'Signoff voorstel<br>vr 11-15', at: '2026-11-13', frac: .3, color: PREP, level: 0 },
-        { name: 'Signoff validatie<br>vr 11-15', at: '2026-11-20', frac: .3, color: PREP, level: 0 },
+        { name: 'Signoff validatie<br>vr 11-15', at: '2026-11-20', frac: .3, color: MILE, level: 0 },
         { name: 'Walkthrough<br>vr 11-15', at: '2026-12-04', frac: .5, color: MILE, level: 1 },
         { name: 'Groepseval.<br>vr 11-15', at: '2026-12-11', frac: .12, color: MILE, level: 1 },
         { name: 'Def. versie<br>do 20:00', at: '2026-12-17', frac: .83, color: END, level: 1 },

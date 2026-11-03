@@ -64,7 +64,7 @@ Wat je doet hangt een beetje af van het type project:
     - Maak het duidelijk hoe acties en navigatie werken.
     - Voeg concrete voorbeelden van inhoud toe. Dus niet Lorum ipsum overal.
 
-        ![embed](https://www.youtube.com/embed/j0vP77s_bXc)
+        <!-- ![embed](https://www.youtube.com/embed/j0vP77s_bXc) -->
 
     - Zorg ervoor dat je schetsen een compleet overzicht geven van je app.
 

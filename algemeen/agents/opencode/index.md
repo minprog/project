@@ -88,6 +88,48 @@ Welk model je kiest?
 - **Foutmelding over authenticatie of "401":** je API-key is niet goed overgenomen. Kopieer hem opnieuw uit de mail, zonder spaties ervoor of erachter.
 - **Nog steeds vast?** Mail naar <help@mprog.nl> en vertel welk besturingssysteem je gebruikt en wat de foutmelding is.
 
+## AGENTS.md: geef de agent context over je project
+
+Een agent weet niets over jouw project, behalve wat hij zelf in je bestanden vindt. Met een bestand `AGENTS.md` in de hoofdmap van je repository vertel je hem vooraf wat hij moet weten. Opencode leest dit bestand aan het begin van elke sessie, dus je hoeft niet steeds hetzelfde uit te leggen.
+
+### Aanmaken
+
+Je hebt twee opties:
+
+1. **Laat Opencode het maken.** Typ in het invoerveld `/init` en Opencode bekijkt je project en schrijft een eerste versie van `AGENTS.md`.
+2. **Maak het zelf.** Maak in de hoofdmap van je repository (naast je `README.md`) een bestand `AGENTS.md` en schrijf het op.
+
+Lees het bestand daarna altijd door en pas het aan. Het gaat om jouw project, dus jij moet weten wat erin staat en of het klopt.
+
+### Wat zet je erin?
+
+Houd het kort en concreet. Denk aan:
+
+- **Wat het project is:** een of twee zinnen over wat je app doet en welke technieken je gebruikt (bijvoorbeeld Flask, SQLite).
+- **Hoe je het draait:** de commando's om de app te starten en te testen.
+- **Afspraken over code:** bijvoorbeeld "gebruik Python 3, schrijf docstrings, houd functies klein".
+- **Wat de agent niet mag doen:** bijvoorbeeld "pas de database niet aan zonder te vragen" of "installeer geen nieuwe packages zonder te vragen".
+
+Een voorbeeld:
+
+    # Mijn project
+
+    Een webapp in Flask waarmee je boeken bijhoudt. Data staat in SQLite via SQLAlchemy.
+
+    ## Draaien
+
+    - Start de app: `flask run`
+    - Voer de tests uit: `pytest`
+
+    ## Afspraken
+
+    - Schrijf Python 3 met docstrings bij elke functie.
+    - Houd routes in `app.py` kort en zet logica in aparte functies.
+    - Installeer geen nieuwe packages zonder het eerst te vragen.
+    - Pas `books.db` nooit rechtstreeks aan.
+
+> Zet **nooit** je API-key of andere geheimen in `AGENTS.md`. Dit bestand hoort in je repository en wordt dus gedeeld.
+
 ## Optioneel: afbeeldingen maken en spraak omzetten naar tekst
 
 Naast Qwen 3.6 en Mistral Small 3.2 zijn er nog twee gratis modellen: `default-image` (afbeeldingen maken) en `whisper-large-v3` (spraak naar tekst). Deze werken niet als chat-model in Opencode, maar je kunt ze wel gebruiken met een klein Python-script. Opencode kan deze scripts ook voor je uitvoeren, als je in je project zegt wat het script doet.
@@ -127,7 +169,7 @@ Sla dit op als `image.py`:
 
 Gebruik:
 
-    python image.py "een rode vos in het bos"
+    python image.py "een grote beer in de woestijn"
 
 ### Spraak omzetten naar tekst
 
@@ -154,3 +196,5 @@ Gebruik (bijvoorbeeld met een `.wav`- of `.mp3`-bestand):
     python transcribe.py opname.wav
 
 > Je kunt deze scripts in je projectmap zetten. Je API-key staat er niet in, want de scripts lezen hem uit `opencode.json`. Je kunt ze dus veilig committen.
+
+> Je kunt deze scripts ook toevoegen aan `AGENTS.md`, zo kan de agent ze zelf ook uitvoeren.

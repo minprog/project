@@ -54,7 +54,7 @@ De namen van de modellen (`Qwen3.6` en `mistral-small-3.2`) moeten precies zo ge
         touch ~/.config/opencode/opencode.json
         open -e ~/.config/opencode/opencode.json
 
-3. Plak de inhoud van hierboven in het bestand, vul je API-key in en sla op met `cmd + s`.
+3. Plak de inhoud van hierboven in het bestand, vul je API-key in en sla op.
 
 #### Op Windows
 
@@ -64,7 +64,7 @@ De namen van de modellen (`Qwen3.6` en `mistral-small-3.2`) moeten precies zo ge
         mkdir "$env:USERPROFILE\.config\opencode" -Force
         notepad "$env:USERPROFILE\.config\opencode\opencode.json"
 
-3. Plak de inhoud van hierboven in het bestand, vul je API-key in en sla op met `ctrl + s`.
+3. Plak de inhoud van hierboven in het bestand, vul je API-key in en sla op.
 
 > Zorg dat het bestand echt `opencode.json` heet en niet `opencode.json.txt`. Controleer dit in Verkenner via *Beeld* → *Weergeven* → *Bestandsnaamextensies*.
 
@@ -97,7 +97,7 @@ Een agent weet niets over jouw project, behalve wat hij zelf in je bestanden vin
 Je hebt twee opties:
 
 1. **Laat Opencode het maken.** Typ in het invoerveld `/init` en Opencode bekijkt je project en schrijft een eerste versie van `AGENTS.md`.
-2. **Maak het zelf.** Maak in de hoofdmap van je repository (naast je `README.md`) een bestand `AGENTS.md` en schrijf het op.
+2. **Maak het zelf.** Maak in de hoofdmap van je repository (naast je `README.md`) een bestand `AGENTS.md` en schrijf de inhoud zelf.
 
 Lees het bestand daarna altijd door en pas het aan. Het gaat om jouw project, dus jij moet weten wat erin staat en of het klopt.
 
@@ -132,7 +132,7 @@ Een voorbeeld:
 
 ## Optioneel: afbeeldingen maken en spraak omzetten naar tekst
 
-Naast Qwen 3.6 en Mistral Small 3.2 zijn er nog twee gratis modellen: `default-image` (afbeeldingen maken) en `whisper-large-v3` (spraak naar tekst). Deze werken niet als chat-model in Opencode, maar je kunt ze wel gebruiken met een klein Python-script. Opencode kan deze scripts ook voor je uitvoeren, als je in je project zegt wat het script doet.
+Naast Qwen 3.6 en Mistral Small 3.2 zijn er nog twee gratis modellen: `default-image` (afbeeldingen maken) en `whisper-large-v3` (spraak naar tekst). Deze werken niet als chat-model in Opencode, maar je kunt ze wel gebruiken met een klein Python-script. Opencode kan deze scripts ook voor je uitvoeren, als je in `AGENTS.md` zegt wat het script doet.
 
 Installeer eerst het pakket `openai` (dit is alleen de module, je gebruikt gewoon de UvA-proxy):
 
@@ -196,5 +196,3 @@ Gebruik (bijvoorbeeld met een `.wav`- of `.mp3`-bestand):
     python transcribe.py opname.wav
 
 > Je kunt deze scripts in je projectmap zetten. Je API-key staat er niet in, want de scripts lezen hem uit `opencode.json`. Je kunt ze dus veilig committen.
-
-> Je kunt deze scripts ook toevoegen aan `AGENTS.md`, zo kan de agent ze zelf ook uitvoeren.

@@ -4,7 +4,7 @@ In deze instructies zet je [Opencode](https://opencode.ai/) (de desktop-app) op,
 
 ### Wat heb je nodig?
 
-- Een **API-key** van ons. Deze krijg je gedurende het vak via de mail. Heb je hem niet ontvangen? Mail dan naar <help@mprog.nl>.
+- Een **API-key** van ons. Deze krijg je gedurende het vak. Heb je deze niet? Mail even naar <help@mprog.nl>.
 - Een computer met macOS of Windows.
 
 > **Let op:** je API-key is persoonlijk. Deel hem niet met anderen en zet hem **nooit** in een GitHub-repository. Het configuratiebestand hieronder staat gelukkig buiten je projectmap, dus als je het daar laat staat het goed.

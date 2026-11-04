@@ -18,10 +18,10 @@ Wij zijn hoe dan ook super benieuwd naar wat en hoe je leert werken met een agen
 
 Het zal je niet zijn ontgaan: AI is duur. Zeker coding agents vreten tokens en degelijke modellen zijn niet op kleine hardware (laptops) te draaien. Dan kom je al snel aan bij grotere Amerikaanse bedrijven waar je of een abonnement moet afsluiten (met limieten) of anders (flink) betaalt voor gebruik.
 
-Gelukkig kan je als student via de UvA toegang krijgen tot verschillende modellen. Deze worden o.a. gehost bij SURF. Dat betekent dat je data niet overzees gaat en niet wordt gebruikt voor andere doeleinden. Let wel, stuur nog steeds geen gevoelige informatie. Om toegang te krijgen heb je een API-key nodig. Deze krijg je gedurende het vak van ons via de mail.
+Gelukkig kan je als student via de UvA toegang krijgen tot verschillende modellen. Deze worden o.a. gehost bij SURF. Dat betekent dat je data niet overzees gaat en niet wordt gebruikt voor andere doeleinden. Let wel, stuur nog steeds geen gevoelige informatie. Om toegang te krijgen heb je een API-key nodig. Deze krijg je gedurende het vak van ons.
 
-Die API-key heeft een zeer klein budget en dat is niet genoeg om een heel project mee neer te zetten. Maar, één model (Qwen 3.6) is ongelimiteerd en gratis in gebruik. Qwen 3.6 kan je dus gedurende het vak gebruiken. Zo hoef je niks te betalen en ook niet te wachten tot een limiet reset.
+Die API-key heeft een zeer klein budget en dat is niet genoeg om een heel project mee neer te zetten. Maar verschillende modellen zijn ongelimiteerd en gratis in gebruik. Onder andere Qwen 3.6 kan je gedurende het vak gebruiken. Zo hoef je niks te betalen en ook niet te wachten tot een limiet reset.
 
 ### Hoe? (harnas & agent)
 
-Dan is er nog een coding harnas nodig waarin je Qwen3.6 kan gebruiken. Hier zijn er veel van en de ontwikkeling gaat razendsnel. Voor dit vak raden we [Opencode](https://opencode.ai/) aan. Oorspronkelijk is het voor de terminal ontwikkeld, maar er is ook een prima desktopapplicatie. Check [/algemeen/agents/opencode](/algemeen/agents/opencode) voor de instructies.
+Dan is er nog een coding harnas nodig waarin je je model kan gebruiken. Hier zijn er veel van en de ontwikkeling gaat razendsnel. Voor dit vak raden we [Opencode](https://opencode.ai/) aan. Oorspronkelijk is het voor de terminal ontwikkeld, maar er is ook een prima desktopapplicatie. Check [/algemeen/agents/opencode](/algemeen/agents/opencode) voor de instructies.

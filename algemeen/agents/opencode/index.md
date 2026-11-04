@@ -1,6 +1,6 @@
 ## Opencode met je UvA API-key
 
-In deze instructies zet je [Opencode](https://opencode.ai/) (de desktop-app) op, zodat je het model Qwen 3.6 kunt gebruiken via de UvA-proxy. Er is een versie voor Mac en voor Windows. Lees voor meer achtergrond eerst [de pagina over de agentic coding pilot](/algemeen/agents).
+In deze instructies zet je [Opencode](https://opencode.ai/) (de desktop-app) op, zodat je de modellen Qwen 3.6 en Mistral Small 3.2 kunt gebruiken via de UvA-proxy. Er is een versie voor Mac en voor Windows. Lees voor meer achtergrond eerst [de pagina over de agentic coding pilot](/algemeen/agents).
 
 ### Wat heb je nodig?
 
@@ -20,7 +20,7 @@ In deze instructies zet je [Opencode](https://opencode.ai/) (de desktop-app) op,
 
 ### Stap 2: Maak het configuratiebestand
 
-Opencode leest zijn instellingen uit een bestand `opencode.json`. Hierin zetten we de UvA-proxy en het model Qwen 3.6. Dit is de inhoud van het bestand (vervang `JOUW-API-KEY` door je eigen key, behoud de aanhalingstekens):
+Opencode leest zijn instellingen uit een bestand `opencode.json`. Hierin zetten we de UvA-proxy en de modellen Qwen 3.6 en Mistral Small 3.2. Dit is de inhoud van het bestand (vervang `JOUW-API-KEY` door je eigen key, behoud de aanhalingstekens):
 
 
     {
@@ -35,14 +35,15 @@ Opencode leest zijn instellingen uit een bestand `opencode.json`. Hierin zetten 
                     "apiKey": "JOUW-API-KEY"
                 },
                 "models": {
-                    "Qwen3.6": { "name": "Qwen 3.6 (UvA)" }
+                    "Qwen3.6": { "name": "Qwen 3.6 (UvA)" },
+                    "mistral-small-3.2": { "name": "Mistral Small 3.2 (UvA)" }
                 }
             }
         }
     }
 
 
-De naam van het model (`Qwen3.6`) moet precies zo geschreven zijn, met hoofdletter Q en een punt.
+De namen van de modellen (`Qwen3.6` en `mistral-small-3.2`) moeten precies zo geschreven zijn: `Qwen3.6` met hoofdletter Q en een punt, `mistral-small-3.2` helemaal in kleine letters.
 
 #### Op een Mac
 
@@ -71,10 +72,15 @@ De naam van het model (`Qwen3.6`) moet precies zo geschreven zijn, met hoofdlett
 
 1. Start de Opencode-app (opnieuw) op.
 2. Kies als projectmap de map waarin je aan je project werkt (de map met je git-repository).
-3. Controleer onderaan het invoerveld welk model is geselecteerd. Er moet **Qwen 3.6 (UvA)** staan. Staat daar iets anders, klik dan op de modelnaam en kies *Qwen 3.6 (UvA)* uit de lijst.
+3. Controleer onderaan het invoerveld welk model is geselecteerd. Er moet **Qwen 3.6 (UvA)** staan. Staat daar iets anders, klik dan op de modelnaam en kies *Qwen 3.6 (UvA)* uit de lijst. Wil je wisselen naar Mistral, kies dan *Mistral Small 3.2 (UvA)*.
 4. Typ een eenvoudige vraag, bijvoorbeeld: *"Leg in twee zinnen uit wat deze repository doet."* Krijg je een antwoord? Dan werkt alles.
 
-> Kies **alleen** Qwen 3.6. Je API-key heeft maar een heel klein budget voor andere modellen, en die zijn dus snel op. Qwen 3.6 is ongelimiteerd en gratis.
+> Kies **alleen** Qwen 3.6 of Mistral Small 3.2. Je API-key heeft maar een heel klein budget voor andere modellen, en die zijn dus snel op. Deze twee modellen zijn ongelimiteerd en gratis.
+
+Welk model je kiest?
+
+- **Qwen 3.6** is ons advies voor het meeste werk in Opencode: het is gemaakt voor coderen met een agent (bestanden lezen en aanpassen, tests draaien) en het kan veel van je project tegelijk overzien.
+- **Mistral Small 3.2** is een kleiner, algemener model. Handig voor korte vragen, uitleg, documentatie of als tweede mening als Qwen vastloopt.
 
 ### Als het niet werkt
 
@@ -84,7 +90,7 @@ De naam van het model (`Qwen3.6`) moet precies zo geschreven zijn, met hoofdlett
 
 ## Optioneel: afbeeldingen maken en spraak omzetten naar tekst
 
-Naast Qwen 3.6 zijn er nog twee gratis modellen: `default-image` (afbeeldingen maken) en `whisper-large-v3` (spraak naar tekst). Deze werken niet als chat-model in Opencode, maar je kunt ze wel gebruiken met een klein Python-script. Opencode kan deze scripts ook voor je uitvoeren, als je in je project zegt wat het script doet.
+Naast Qwen 3.6 en Mistral Small 3.2 zijn er nog twee gratis modellen: `default-image` (afbeeldingen maken) en `whisper-large-v3` (spraak naar tekst). Deze werken niet als chat-model in Opencode, maar je kunt ze wel gebruiken met een klein Python-script. Opencode kan deze scripts ook voor je uitvoeren, als je in je project zegt wat het script doet.
 
 Installeer eerst het pakket `openai` (dit is alleen de module, je gebruikt gewoon de UvA-proxy):
 

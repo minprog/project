@@ -81,3 +81,70 @@ De naam van het model (`Qwen3.6`) moet precies zo geschreven zijn, met hoofdlett
 - **Het model staat niet in de lijst:** sluit Opencode helemaal af en start hem opnieuw. Controleer daarna of het bestand op de goede plek staat, of het geldige JSON is (let op komma's, accolades en aanhalingstekens) en of er geen `.txt` achter de bestandsnaam staat.
 - **Foutmelding over authenticatie of "401":** je API-key is niet goed overgenomen. Kopieer hem opnieuw uit de mail, zonder spaties ervoor of erachter.
 - **Nog steeds vast?** Mail naar <help@mprog.nl> en vertel welk besturingssysteem je gebruikt en wat de foutmelding is.
+
+## Optioneel: afbeeldingen maken en spraak omzetten naar tekst
+
+Naast Qwen 3.6 zijn er nog twee gratis modellen: `default-image` (afbeeldingen maken) en `whisper-large-v3` (spraak naar tekst). Deze werken niet als chat-model in Opencode, maar je kunt ze wel gebruiken met een klein Python-script. Opencode kan deze scripts ook voor je uitvoeren, als je in je project zegt wat het script doet.
+
+Installeer eerst het pakket `openai` (dit is alleen de module, je gebruikt gewoon de UvA-proxy):
+
+    python -m pip install openai
+
+Gebruik je [uv](https://docs.astral.sh/uv/)? Installeer het pakket met `uv pip install`:
+
+    uv pip install openai
+
+Activeer de omgeving op een Mac met `source .venv/bin/activate` en op Windows met `.venv\Scripts\activate`. Daarna kun je de scripts gewoon met `python` draaien, zoals hieronder.
+
+De scripts lezen je API-key uit het bestand `opencode.json` uit stap 2, dus je hoeft hem nergens anders neer te zetten.
+
+### Afbeelding maken
+
+Sla dit op als `image.py`:
+
+    import base64
+    import json
+    import sys
+    from pathlib import Path
+
+    from openai import OpenAI
+
+    config = json.loads((Path.home() / ".config/opencode/opencode.json").read_text(encoding="utf-8-sig"))
+    client = OpenAI(
+        base_url="https://llmproxy.uva.nl/v1",
+        api_key=config["provider"]["uva"]["options"]["apiKey"],
+    )
+
+    result = client.images.generate(model="default-image", prompt=sys.argv[1])
+    Path("image.png").write_bytes(base64.b64decode(result.data[0].b64_json))
+    print("Opgeslagen als image.png")
+
+Gebruik:
+
+    python image.py "een rode vos in het bos"
+
+### Spraak omzetten naar tekst
+
+Sla dit op als `transcribe.py`:
+
+    import json
+    import sys
+    from pathlib import Path
+
+    from openai import OpenAI
+
+    config = json.loads((Path.home() / ".config/opencode/opencode.json").read_text(encoding="utf-8-sig"))
+    client = OpenAI(
+        base_url="https://llmproxy.uva.nl/v1",
+        api_key=config["provider"]["uva"]["options"]["apiKey"],
+    )
+
+    with open(sys.argv[1], "rb") as audio:
+        result = client.audio.transcriptions.create(model="whisper-large-v3", file=audio)
+    print(result.text)
+
+Gebruik (bijvoorbeeld met een `.wav`- of `.mp3`-bestand):
+
+    python transcribe.py opname.wav
+
+> Je kunt deze scripts in je projectmap zetten. Je API-key staat er niet in, want de scripts lezen hem uit `opencode.json`. Je kunt ze dus veilig committen.

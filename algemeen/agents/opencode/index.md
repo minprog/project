@@ -58,11 +58,12 @@ De namen van de modellen (`Qwen3.6` en `mistral-small-3.2`) moeten precies zo ge
 
 #### Op Windows
 
-1. Open **PowerShell** (zoek in het startmenu).
+1. Open **Git Bash** (zoek in het startmenu).
 2. Maak de map aan en open het bestand in een text editor:
 
-        mkdir "$env:USERPROFILE\.config\opencode" -Force
-        notepad "$env:USERPROFILE\.config\opencode\opencode.json"
+        mkdir -p ~/.config/opencode
+        touch ~/.config/opencode/opencode.json
+        notepad "$(cygpath -w ~/.config/opencode/opencode.json)"
 
 3. Plak de inhoud van hierboven in het bestand, vul je API-key in en sla op.
 
@@ -142,7 +143,7 @@ Gebruik je [uv](https://docs.astral.sh/uv/)? Installeer het pakket met `uv pip i
 
     uv pip install openai
 
-Activeer de omgeving op een Mac met `source .venv/bin/activate` en op Windows met `.venv\Scripts\activate`. Daarna kun je de scripts gewoon met `python` draaien, zoals hieronder.
+Activeer de omgeving op een Mac met `source .venv/bin/activate` en op Windows (Git Bash) met `source .venv/Scripts/activate`. Daarna kun je de scripts gewoon met `python` draaien, zoals hieronder.
 
 De scripts lezen je API-key uit het bestand `opencode.json` uit stap 2, dus je hoeft hem nergens anders neer te zetten.
 
